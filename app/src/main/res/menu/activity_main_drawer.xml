@@ -12,6 +12,10 @@
                 android:icon="@drawable/ic_menu_send"
                 android:title="Bookmarks" />
             <item
+                android:id="@+id/audio"
+                android:icon="@drawable/presence_audio_online"
+                android:title="Audio Bible"  />
+            <item
                 android:id="@+id/praises"
                 android:icon="@drawable/ic_menu_send"
                 android:title="1000 Praises English"  />

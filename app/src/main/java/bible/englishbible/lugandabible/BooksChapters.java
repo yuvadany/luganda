@@ -153,4 +153,76 @@ public class BooksChapters {
 
     }
 
+    public static String getAudioBiblelink(String bookname) {
+        Map<String, String> bookName = new HashMap<>();
+        bookName.put("Olubereberye-Genesis" ,"1");
+        bookName.put("Okuva-Exod-Exodus" ,"2" );
+        bookName.put("Ebyabaleevi-Leviticus" ,"3");
+        bookName.put("Okubala-Numbers" ,"4");
+        bookName.put("Ekyamateeka-Deuteronomy" ,"5" );
+        bookName.put("Yoswa-Joshua" ,"6");
+        bookName.put("Ekyabalamuzi-Judges"  ,"7");
+        bookName.put("Luusi-Ruth" ,"8");
+        bookName.put("1 Samwiri-1 Samuel" ,"9");
+        bookName.put("2 Samwiri-2 Samuel" ,"10");
+        bookName.put("1 Bassekabaka-1 Kings" ,"11");
+        bookName.put("2 Bassekabaka-2 Kings" ,"12");
+        bookName.put("1 Ebyomumirembe-1 Chronicles" ,"13" );
+        bookName.put("2 Ebyomumirembe-2 Chronicles" ,"14");
+        bookName.put("Ezera-Ezra" ,"15");
+        bookName.put("Nekkemiya-Nehemiah" ,"16");
+        bookName.put("Eseza-Esther" ,"17");
+        bookName.put("Yobu-Job" ,"18");
+        bookName.put("Zabbuli-Psalms"  ,"19");
+        bookName.put("Engero-Proverbes" ,"20");
+        bookName.put("Omubuulizi-Ecclesiastes" ,"21");
+        bookName.put("Oluyimba lwa Sulemaani-Song of Songs" ,"22");
+        bookName.put("Isaaya-Isaiah" ,"23");
+        bookName.put("Yeremiya-Jeremiah"  ,"24");
+        bookName.put("Okukungubaga-Lamentations"  ,"25");
+        bookName.put("Ezekyeri-Ezekiel" ,"26");
+        bookName.put("Danyeri-Daniel"  ,"27");
+        bookName.put("Koseya-Hosea"  ,"28");
+        bookName.put("Yoweeri-Joel" ,"29");
+        bookName.put("Amosi-Amos" ,"30");
+        bookName.put("Obadiya-Obadiah" ,"31");
+        bookName.put("Yona-Jonah" ,"32");
+        bookName.put("Mikka-Micah" ,"33" );
+        bookName.put("Nakumu-Nahum" ,"34");
+        bookName.put("Kaabakuuku-Habakkuk" ,"35" );
+        bookName.put("Zeffaniya-Zephaniah"  ,"36");
+        bookName.put("Kaggayi-Haggai" ,"37");
+        bookName.put("Zekkaliya-Zechariah" ,"38");
+        bookName.put("Malaki-Malachi" ,"39");
+        bookName.put("Matayo-Matthew" ,"40");
+        bookName.put("Makko-Mark" ,"41");
+        bookName.put("Lukka-Luke"  ,"42");
+        bookName.put("Yokaana-John" ,"43");
+        bookName.put("Ebikolwa-Acts"  ,"44");
+        bookName.put("Abaruumi-Romans" ,"45");
+        bookName.put("1 Abakkolinso-1 Corinthians" ,"46");
+        bookName.put("2 Abakkolinso-2 Corinthians" ,"47" );
+        bookName.put("Abaggalatiya-Galatians"  ,"48");
+        bookName.put("Abaefeeso-Ephesians" ,"49");
+        bookName.put("Abafiripi-Philippians" ,"50");
+        bookName.put("Abakkolosaayi-Colossians"  ,"51");
+        bookName.put("1 Abasessaloniika-1 Thessalonians" ,"52");
+        bookName.put("2 Abasessaloniika-2 Thessalonians" ,"53");
+        bookName.put("1 Timoseewo-1 Timothy"  ,"54");
+        bookName.put("2 Timoseewo-2 Timothy" ,"55");
+        bookName.put("Tito-Titus"  ,"56");
+        bookName.put("Firemooni-Philemon"  ,"57");
+        bookName.put("Abaebbulaniya-Hebrews" ,"58");
+        bookName.put("Yakobo-James"  ,"59");
+        bookName.put("1 Peetero-1 Peter" ,"60");
+        bookName.put("2 Peetero-2 Peter" ,"61");
+        bookName.put("1 Yokaana-1 John" ,"62");
+        bookName.put("2 Yokaana-2 John" ,"63");
+        bookName.put("3 Yokaana-3 John" ,"64");
+        bookName.put("Yuda-Jude" ,"65");
+        bookName.put("Okubikkulirwa-Revelation" ,"66");
+        return bookName.get(bookname);
+
+    }
+
 }
