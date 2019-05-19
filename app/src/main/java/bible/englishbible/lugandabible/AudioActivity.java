@@ -13,6 +13,8 @@ import android.widget.Button;
 import android.widget.Spinner;
 import android.widget.Toast;
 
+import com.google.android.gms.ads.AdListener;
+import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
 import java.util.ArrayList;
@@ -46,6 +48,8 @@ public class AudioActivity extends AppCompatActivity
 //set the spinners adapter to the previously created one.
         book.setAdapter(adapter);
         //book spinner ends
+        book.setOnItemSelectedListener(this);
+        chapter.setOnItemSelectedListener(this);
         //media = new MediaPlayer();
         try {
             //you can change the path, here path is external directory(e.g. sdcard) /Music/maine.mp3
@@ -72,6 +76,34 @@ public class AudioActivity extends AppCompatActivity
                 }
             }
         });
+        mAdView = (AdView) findViewById(R.id.adView);
+        mAdView.setAdListener(new AdListener() {
+            @Override
+            public void onAdLoaded() {
+            }
+
+            @Override
+            public void onAdClosed() {
+
+            }
+
+            @Override
+            public void onAdFailedToLoad(int errorCode) {
+
+            }
+
+            @Override
+            public void onAdLeftApplication() {
+
+            }
+
+            @Override
+            public void onAdOpened() {
+                super.onAdOpened();
+            }
+        });
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
         // Back button starts
         if (getSupportActionBar() != null) {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
@@ -105,7 +137,8 @@ public class AudioActivity extends AppCompatActivity
         String sp2 = String.valueOf(chapter.getSelectedItem());
         switch (parent.getId()) {
             case R.id.books_spinner: {
-                int chapters = getBooksChapter(sp1);  /*  verses.setText(sp1);*/
+                int chapters = getBooksChapter(sp1); /*  verses.setText(sp1);*/
+                // Toast.makeText(getApplicationContext(), sp1, Toast.LENGTH_SHORT).show();
                 List<String> list = new ArrayList<String>();
                 for (int i = 0; i < chapters; i++) {
                     list.add(Integer.toString(i + 1));
@@ -139,8 +172,7 @@ public class AudioActivity extends AppCompatActivity
                         //  media = new MediaPlayer();
                     }
                     String mp3Url = baseUrl + getAudioBiblelink(sp1) + "/" + sp2 + ".mp3";
-                    Toast.makeText(getApplicationContext(), mp3Url, Toast.LENGTH_LONG).show();
-                 //   Toast.makeText(getApplicationContext(), "Loading " + sp1 + " Chapter " + sp2, Toast.LENGTH_LONG).show();
+                    Toast.makeText(getApplicationContext(), "Loading " + sp1 + " Chapter " + sp2, Toast.LENGTH_LONG).show();
                     media.reset();
                     media.setDataSource(mp3Url);
                     media.prepare();
@@ -166,6 +198,7 @@ public class AudioActivity extends AppCompatActivity
         }
         return books;
     }
+
     public int getBooksChapter(String bookName) {
         BooksChapters booksChapters = new BooksChapters();
         String[] booksArray = new String[66];

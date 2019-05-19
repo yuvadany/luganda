@@ -17,7 +17,6 @@
         android:background="@color/colorAccent"
         android:layout_marginLeft="8dip"
         android:layout_marginRight="8dip"
-        android:layout_below="@+id/searchresult"
         android:entries="@array/books" />
     <Spinner
         android:id="@+id/chapters_spinner"
@@ -26,7 +25,6 @@
         android:background="@color/colorAccent"
         android:layout_marginLeft="180dip"
         android:layout_marginRight="100dip"
-        android:layout_below="@+id/searchresult"
         android:entries="@array/chapters" />
     <LinearLayout
         android:id="@+id/mediaLayout"
