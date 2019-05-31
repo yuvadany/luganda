@@ -63,7 +63,12 @@ public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, View.OnClickListener, AdapterView.OnItemSelectedListener {
     //  DBHelper dbhelper = new DBHelper(this);
     public int book_number = 1;
-    SharedPreferences sharedpreferences, sharedPreferencesReadMode;
+    SharedPreferences sharedpreferences, sharedPreferencesReadMode, englishBiblePrefrences;
+    public static final String SHARED_PREF_ENGLISH_BIBLE = "english_bible";
+    public static final String BIBLE_ENGLISH = "bible";
+    public static final String kjv_textfiles = "kjv_";
+    public static final String niv_textfiles = "niv_";
+    public static String englishBible_file = niv_textfiles;
     final Context context = this;
     ScrollView first, second, third;
     public HashMap chaptersMap = new HashMap<String, Integer>();
@@ -117,18 +122,7 @@ public class MainActivity extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        // AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES);
-        // Popup Verse Starts
         verseToday = "Amen";
-        /*sharedpreferences = getSharedPreferences(SHARED_PREF_FONT_SIZE, Context.MODE_PRIVATE);
-        SharedPreferences.Editor editor = sharedpreferences.edit();
-        editor.putFloat(TEXT_FONT_SIZE_VAR, TEXT_FONT_SIZE);
-        editor.commit();*/
-        /*sharedPreferencesReadMode = getSharedPreferences(SHARED_PREF_NIGHT_DAY_MODE, Context.MODE_PRIVATE);
-        SharedPreferences.Editor editorReadMode = sharedPreferencesReadMode.edit();
-        editorReadMode.putInt(TEXT_COLOUR_VAR, TEXT_COLOUR);
-        editorReadMode.putInt(BACKROUND_COLOUR_VAR, BACKROUND_COLOUR);
-        editorReadMode.commit();*/
         Calendar cal = Calendar.getInstance();
         int doy = cal.get(Calendar.DAY_OF_YEAR);
         LayoutInflater layoutInflater = (LayoutInflater) MainActivity.this.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
@@ -143,7 +137,8 @@ public class MainActivity extends AppCompatActivity
         englishList = ((ListView) findViewById(R.id.english_text));
         book = (Spinner) findViewById(R.id.books_spinner);
         chapter = (Spinner) findViewById(R.id.chapters_spinner);
-
+        englishBiblePrefrences = getSharedPreferences(SHARED_PREF_ENGLISH_BIBLE, Context.MODE_PRIVATE);
+        englishBible_file = englishBiblePrefrences.getString(BIBLE_ENGLISH,niv_textfiles);
         //book spinner starts
         String[] booksArray = new String[66];
         booksArray = loadBooks();
@@ -158,11 +153,7 @@ public class MainActivity extends AppCompatActivity
             @Override
             public void onClick(View view) {
                 try {
-                    Intent localIntent2 = new Intent("android.intent.action.SEND");
-                    localIntent2.setType("text/plain");
-                    localIntent2.putExtra("android.intent.extra.SUBJECT", bibleShare);
-                    localIntent2.putExtra("android.intent.extra.TEXT", extraText);
-                    startActivity(Intent.createChooser(localIntent2, extraSubject));
+                    startActivity(new Intent(view.getContext(), SettingsActivity.class));
                 } catch (Exception e) {
 
                 }
@@ -428,7 +419,7 @@ public class MainActivity extends AppCompatActivity
                 ArrayAdapter praiseArrayAdapter =
                         new ArrayAdapter(this, android.R.layout.simple_list_item_1,
                                 getVerse(sharedpreferences.getString(BOOK_NUMBER, "1"), checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"),
-                                        sharedpreferences.getString(CHAPTER_NUMBER, "1")), "niv_")) {
+                                        sharedpreferences.getString(CHAPTER_NUMBER, "1")), englishBible_file)) {
                             @Override
                             public View getView(int position, View convertView, ViewGroup parent) {
                                 /// Get the Item from ListView
@@ -467,7 +458,7 @@ public class MainActivity extends AppCompatActivity
                     };
                     singleList.setAdapter(praiseArrayAdapter);
                 } else if ("niv".equalsIgnoreCase(language)) {
-                    praiseArrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sharedpreferences.getString(BOOK_NUMBER, "1"), checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "niv_")) {
+                    praiseArrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sharedpreferences.getString(BOOK_NUMBER, "1"), checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), englishBible_file)) {
                         @Override
                         public View getView(int position, View convertView, ViewGroup parent) {
                             /// Get the Item from ListView
@@ -531,7 +522,7 @@ public class MainActivity extends AppCompatActivity
                 //String enlish_verses = dbhelper.getVerses("eng_bible", getBooks(sp1),Integer.parseInt(sp2));
                 // english_verses.setText(enlish_verses);
                 String enlish_verse = "Not Found";
-                ArrayAdapter praiseArrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "niv_")) {
+                ArrayAdapter praiseArrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), englishBible_file)) {
                     @Override
                     public View getView(int position, View convertView, ViewGroup parent) {
                         /// Get the Item from ListView
@@ -548,7 +539,7 @@ public class MainActivity extends AppCompatActivity
                     }
                 };
                 englishList.setAdapter(praiseArrayAdapter);
-                // english_verses.setText(getVerse(sp1, sp2, "niv_"));
+                // english_verses.setText(getVerse(sp1, sp2, englishBible_file));
                 if ("hindi".equalsIgnoreCase(language)) {
                     ArrayAdapter praiseArrayAdapter1 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "lug_")) {
                         @Override
@@ -569,7 +560,7 @@ public class MainActivity extends AppCompatActivity
                     singleList.setAdapter(praiseArrayAdapter1);
                     // single_text.setText(getVerse(sp1, sp2, "lug_"));
                 } else if ("niv".equalsIgnoreCase(language)) {
-                    ArrayAdapter praiseArrayAdapter2 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "niv_")) {
+                    ArrayAdapter praiseArrayAdapter2 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), englishBible_file)) {
                         @Override
                         public View getView(int position, View convertView, ViewGroup parent) {
                             /// Get the Item from ListView
@@ -678,7 +669,7 @@ public class MainActivity extends AppCompatActivity
                 hindiList.setVisibility(View.GONE);
                 englishList.setVisibility(View.GONE);
                 language = "niv";
-                ArrayAdapter praiseArrayAdapter2 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "niv_")) {
+                ArrayAdapter praiseArrayAdapter2 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, englishBible_file)) {
                     @Override
                     public View getView(int position, View convertView, ViewGroup parent) {
                         /// Get the Item from ListView
@@ -702,7 +693,7 @@ public class MainActivity extends AppCompatActivity
                 singleList.setVisibility(View.GONE);
                 hindiList.setVisibility(View.VISIBLE);
                 englishList.setVisibility(View.VISIBLE);
-                ArrayAdapter praiseArrayAdapter2 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, "niv_")) {
+                ArrayAdapter praiseArrayAdapter2 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, sp2, englishBible_file)) {
                     @Override
                     public View getView(int position, View convertView, ViewGroup parent) {
                         /// Get the Item from ListView
@@ -881,7 +872,7 @@ public class MainActivity extends AppCompatActivity
         imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
         String verses = "Not Found";
         StringBuffer sb = new StringBuffer();
-        String file = "niv_1_1";
+        String file = englishBible_file+"1_1";
         String[] words = new String[2];
 
         int id = 1;
@@ -889,7 +880,7 @@ public class MainActivity extends AppCompatActivity
         words[1] = verse.substring(0, 1).toLowerCase() + verse.substring(1).toLowerCase();
         for (int i = 1; i <= 66; i++) {
             for (int j = 1; j <= getChaptersCount(i); j++) {
-                file = "niv_" + i + "_" + j;
+                file = englishBible_file + i + "_" + j;
                 id = this.getResources().getIdentifier(file, "raw", this.getPackageName());
                 //  Toast.makeText(MainActivity.this,  this.getPackageName(), Toast.LENGTH_SHORT).show();
                 InputStream inputStream = getResources().openRawResource(id);

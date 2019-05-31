@@ -29,7 +29,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|left"
         android:layout_margin="@dimen/fab_margin"
-        android:src="@drawable/share" />
+        android:src="@drawable/ic_menu_manage" />
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab4"

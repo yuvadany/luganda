@@ -84,14 +84,12 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:tooltipText="English Bible"
-                android:layout_weight="1"
-                android:weightSum="1">
+                android:layout_weight="1">
 
                 <RadioButton
                     android:id="@+id/niv"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
                     android:checked="true"
                     android:text="NIV"
                     android:textSize="15dp" />
@@ -99,8 +97,7 @@
                 <RadioButton
                     android:id="@+id/kjv"
                     android:layout_width="wrap_content"
-                    android:layout_height="43dp"
-                    android:layout_gravity="center_horizontal"
+                    android:layout_height="wrap_content"
                     android:layout_weight="0.13"
                     android:checked="false"
                     android:text="KJV"
