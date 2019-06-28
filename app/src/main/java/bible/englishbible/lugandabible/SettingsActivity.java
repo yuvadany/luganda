@@ -37,8 +37,6 @@ public class SettingsActivity extends AppCompatActivity {
     public static final String SHARED_PREF_NIGHT_DAY_MODE = "Night_Day_Mode";
     public static final String TEXT_COLOUR_VAR = "Text_Colour_Var";
     public static final String BACKROUND_COLOUR_VAR = "Background_Colour_Var";
-    /*public static final int BLACK_COLOUR = Color.parseColor("#000000"); //f2f2f2
-    public static final int WHITE_COLOUR = Color.parseColor("#FFFFFF");*/
     public static final int BLACK_COLOUR = Color.parseColor("#000000"); //f2f2f2
     public static final int WHITE_COLOUR = Color.parseColor("#f2f2f2");
     public static final boolean NIGHT_MODE = true;

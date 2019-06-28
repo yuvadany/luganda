@@ -1,5 +1,8 @@
 package bible.englishbible.lugandabible;
 
+
+import android.content.ClipData;
+import android.content.ClipboardManager;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -63,6 +66,7 @@ public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, View.OnClickListener, AdapterView.OnItemSelectedListener {
     //  DBHelper dbhelper = new DBHelper(this);
     public int book_number = 1;
+    ClipboardManager myClipboard;
     SharedPreferences sharedpreferences, sharedPreferencesReadMode, englishBiblePrefrences;
     public static final String SHARED_PREF_ENGLISH_BIBLE = "english_bible";
     public static final String BIBLE_ENGLISH = "bible";
@@ -79,7 +83,7 @@ public class MainActivity extends AppCompatActivity
     Bundle bundle = new Bundle();
     ScrollView englishview;
     private Animation fab_open, fab_close, rotate_forward, rotate_backward;
-    private FloatingActionButton fabShare, fab1, fab2, fab3, fab4;
+    private FloatingActionButton fabShare, addNotes, fab1, fab2, fab3, fab4;
     private Boolean isFabOpen = false;
     BooksChapters chapters = new BooksChapters();
     String defaulthint = "Search here";
@@ -105,7 +109,7 @@ public class MainActivity extends AppCompatActivity
     public static final String SHARED_PREF_BOOKMARK = "Book_Mark";
     public static final String SELECTED_VERSE = "Selected_Verse";
     public static final String SHARED_PREF_FONT_SIZE = "font_size";
-    public static final float TEXT_FONT_SIZE = 15;
+    public static final float TEXT_FONT_SIZE = 13;
     public static final String TEXT_FONT_SIZE_VAR = "text_float_size";
     public static final String SHARED_PREF_NIGHT_DAY_MODE = "Night_Day_Mode";
     public static final String TEXT_COLOUR_VAR = "Text_Colour_Var";
@@ -117,12 +121,24 @@ public class MainActivity extends AppCompatActivity
     public static final String extraSubject = "The Holy Bible Luganda & English Bible Parallel";
     public static final String extraText ="\nHi,\n Check on this Holy Bible Luganda & English Parallel App\n\n" + app_url + " \n\n";
     public static final String bibleShare = "Luganda & English Bible Share";
+    public static final String pay_app_url = "https://play.google.com/store/apps/details?id=noads.englishbible.lugandabible";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        // AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES);
+        // Popup Verse Starts
         verseToday = "Amen";
+        /*sharedpreferences = getSharedPreferences(SHARED_PREF_FONT_SIZE, Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedpreferences.edit();
+        editor.putFloat(TEXT_FONT_SIZE_VAR, TEXT_FONT_SIZE);
+        editor.commit();*/
+        /*sharedPreferencesReadMode = getSharedPreferences(SHARED_PREF_NIGHT_DAY_MODE, Context.MODE_PRIVATE);
+        SharedPreferences.Editor editorReadMode = sharedPreferencesReadMode.edit();
+        editorReadMode.putInt(TEXT_COLOUR_VAR, TEXT_COLOUR);
+        editorReadMode.putInt(BACKROUND_COLOUR_VAR, BACKROUND_COLOUR);
+        editorReadMode.commit();*/
         Calendar cal = Calendar.getInstance();
         int doy = cal.get(Calendar.DAY_OF_YEAR);
         LayoutInflater layoutInflater = (LayoutInflater) MainActivity.this.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
@@ -138,7 +154,7 @@ public class MainActivity extends AppCompatActivity
         book = (Spinner) findViewById(R.id.books_spinner);
         chapter = (Spinner) findViewById(R.id.chapters_spinner);
         englishBiblePrefrences = getSharedPreferences(SHARED_PREF_ENGLISH_BIBLE, Context.MODE_PRIVATE);
-        englishBible_file = englishBiblePrefrences.getString(BIBLE_ENGLISH,niv_textfiles);
+        englishBible_file = englishBiblePrefrences.getString(BIBLE_ENGLISH, niv_textfiles);
         //book spinner starts
         String[] booksArray = new String[66];
         booksArray = loadBooks();
@@ -154,6 +170,17 @@ public class MainActivity extends AppCompatActivity
             public void onClick(View view) {
                 try {
                     startActivity(new Intent(view.getContext(), SettingsActivity.class));
+                } catch (Exception e) {
+
+                }
+            }
+        });
+        addNotes = (FloatingActionButton) findViewById(R.id.addNotesActivity);
+        addNotes.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try {
+                    startActivity(new Intent(view.getContext(), AddNotesActivity.class));
                 } catch (Exception e) {
 
                 }
@@ -246,62 +273,6 @@ public class MainActivity extends AppCompatActivity
         registerForContextMenu(englishList);
         registerForContextMenu(hindiList);
 
-       /* singleList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                book_name = String.valueOf(book.getSelectedItem());
-                chapter_number = String.valueOf(chapter.getSelectedItem());
-                verse_selected = book_name + " :" + chapter_number + "\n" + ((TextView) view).getText().toString();
-                header = "Share " + book_name + " " + chapter_number + "'s verse via";
-                try {
-                    Intent localIntent2 = new Intent("android.intent.action.SEND");
-                    localIntent2.setType("text/plain");
-                    localIntent2.putExtra("android.intent.extra.SUBJECT", "Word #");
-                    localIntent2.putExtra("android.intent.extra.TEXT", verse_selected);
-                    startActivity(Intent.createChooser(localIntent2, header));
-                } catch (Exception e) {
-
-                }
-            }
-        });
-
-        englishList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                book_name = String.valueOf(book.getSelectedItem());
-                chapter_number = String.valueOf(chapter.getSelectedItem());
-                verse_selected = book_name + " :" + chapter_number + "\n" + ((TextView) view).getText().toString();
-                header = "Share " + book_name + " " + chapter_number + "'s verse via";
-                try {
-                    Intent localIntent2 = new Intent("android.intent.action.SEND");
-                    localIntent2.setType("text/plain");
-                    localIntent2.putExtra("android.intent.extra.SUBJECT", "Word #");
-                    localIntent2.putExtra("android.intent.extra.TEXT", verse_selected);
-                    startActivity(Intent.createChooser(localIntent2, header));
-                } catch (Exception e) {
-
-                }
-            }
-        });
-
-        hindiList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                book_name = String.valueOf(book.getSelectedItem());
-                chapter_number = String.valueOf(chapter.getSelectedItem());
-                verse_selected = book_name + " :" + chapter_number + "\n" + ((TextView) view).getText().toString();
-                header = "Share " + book_name + " " + chapter_number + "'s verse via";
-                try {
-                    Intent localIntent2 = new Intent("android.intent.action.SEND");
-                    localIntent2.setType("text/plain");
-                    localIntent2.putExtra("android.intent.extra.SUBJECT", "Word  #");
-                    localIntent2.putExtra("android.intent.extra.TEXT", verse_selected);
-                    startActivity(Intent.createChooser(localIntent2, header));
-                } catch (Exception e) {
-
-                }
-            }
-        });*/
         mAdView = (AdView) findViewById(R.id.adView);
         mAdView.setAdListener(new AdListener() {
             @Override
@@ -539,7 +510,6 @@ public class MainActivity extends AppCompatActivity
                     }
                 };
                 englishList.setAdapter(praiseArrayAdapter);
-                // english_verses.setText(getVerse(sp1, sp2, englishBible_file));
                 if ("hindi".equalsIgnoreCase(language)) {
                     ArrayAdapter praiseArrayAdapter1 = new ArrayAdapter(this, android.R.layout.simple_list_item_1, getVerse(sp1, checkChaptersCount(sharedpreferences.getString(BOOK_NUMBER, "1"), sharedpreferences.getString(CHAPTER_NUMBER, "1")), "lug_")) {
                         @Override
@@ -577,7 +547,6 @@ public class MainActivity extends AppCompatActivity
                         }
                     };
                     singleList.setAdapter(praiseArrayAdapter2);
-                    //single_text.setText(getVerse(sp1, sp2, "niv_"));
                 }
                 break;
             }
@@ -608,6 +577,7 @@ public class MainActivity extends AppCompatActivity
 
     @Override
     public boolean onContextItemSelected(MenuItem item) {
+
         sharedpreferences = getSharedPreferences(SHARED_PREF_BOOKMARK, Context.MODE_PRIVATE);
         if (item.getItemId() == R.id.shareVerseMenu) {
             book_name = String.valueOf(book.getSelectedItem());
@@ -624,9 +594,22 @@ public class MainActivity extends AppCompatActivity
             }
         } else if (item.getItemId() == R.id.bookmark) {
             dbhelper.saveBookmark(sharedpreferences.getString(BOOK_NAME, "Genesis") + sharedpreferences.getString(CHAPTER_NUMBER_BOOKMARK, "1") + " : " + sharedpreferences.getString(SELECTED_VERSE, "Holy"));
+            Toast.makeText(MainActivity.this, "Bookmarked", Toast.LENGTH_LONG).show();
+        } else if (item.getItemId() == R.id.notes) {
+            startActivity(new Intent(this, NotesActivity.class));
+        } else if (item.getItemId() == R.id.addNotes) {
+            startActivity(new Intent(this, AddNotesActivity.class));
+        } else if (item.getItemId() == R.id.copy) {
+            myClipboard = (ClipboardManager) getSystemService(CLIPBOARD_SERVICE);
+            ClipData copiedVerseClipData;
+            String verse = verse_selected = book_name + " :" + chapter_number + "\n" + sharedpreferences.getString(SELECTED_VERSE, "Holy");
+            copiedVerseClipData = ClipData.newPlainText("verse", verse);
+            myClipboard.setPrimaryClip(copiedVerseClipData);
+            Toast.makeText(MainActivity.this, "Copied", Toast.LENGTH_SHORT).show();
         }
         return true;
     }
+
 
     @Override
     public void onClick(View v) {
@@ -818,15 +801,21 @@ public class MainActivity extends AppCompatActivity
             startActivity(new Intent(this, BookmarkActivity.class));
         } else if (id == R.id.settings) {
             startActivity(new Intent(this, SettingsActivity.class));
-        }   else if (id == R.id.rate) {
+        } else if (id == R.id.rate) {
             Intent intent = new Intent(Intent.ACTION_VIEW);
             intent.setData(Uri.parse(app_url));
             startActivity(intent);
-        } else if (id == R.id.praises) {
-            startActivity(new Intent(this, PraisesActivity.class));
         } else if (id == R.id.audio) {
             startActivity(new Intent(this, AudioActivity.class));
-        }else if (id == R.id.vod) {
+        } else if (id == R.id.noAds) {
+            Intent intent = new Intent(Intent.ACTION_VIEW);
+            intent.setData(Uri.parse(pay_app_url));
+            startActivity(intent);
+        } else if (id == R.id.praises) {
+            startActivity(new Intent(this, PraisesActivity.class));
+        } else if (id == R.id.notes) {
+            startActivity(new Intent(this, NotesActivity.class));
+        } else if (id == R.id.vod) {
             try {
                 Calendar cal = Calendar.getInstance();
                 int doy = cal.get(Calendar.DAY_OF_YEAR);
@@ -837,7 +826,7 @@ public class MainActivity extends AppCompatActivity
             }
         } else if (id == R.id.songs) {
             startActivity(new Intent(this, SongsActivity.class));
-        }  else if (id == R.id.more) {
+        } else if (id == R.id.more) {
             Intent intent = new Intent(Intent.ACTION_VIEW);
             intent.setData(Uri.parse(developer_id));
             startActivity(intent);
@@ -845,7 +834,7 @@ public class MainActivity extends AppCompatActivity
             try {
                 Intent localIntent2 = new Intent("android.intent.action.SEND");
                 localIntent2.setType("text/plain");
-                localIntent2.putExtra("android.intent.extra.SUBJECT", bibleShare);
+                localIntent2.putExtra("android.intent.extra.SUBJECT", extraSubject);
                 localIntent2.putExtra("android.intent.extra.TEXT", extraText);
                 startActivity(Intent.createChooser(localIntent2, bibleShare));
             } catch (Exception e) {
@@ -872,7 +861,7 @@ public class MainActivity extends AppCompatActivity
         imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
         String verses = "Not Found";
         StringBuffer sb = new StringBuffer();
-        String file = englishBible_file+"1_1";
+        String file = englishBible_file + "1_1";
         String[] words = new String[2];
 
         int id = 1;
@@ -991,28 +980,6 @@ public class MainActivity extends AppCompatActivity
         return 1;
     }
 
-    public void showChangeLangDialog() {
-        AlertDialog.Builder dialogBuilder = new AlertDialog.Builder(this);
-        LayoutInflater inflater = this.getLayoutInflater();
-        final View dialogView = inflater.inflate(R.layout.notes_popup, null);
-        dialogBuilder.setView(dialogView);
-
-        final EditText title = (EditText) dialogView.findViewById(R.id.title_notes);
-
-        dialogBuilder.setTitle("Add Notes");
-        dialogBuilder.setPositiveButton("Add", new DialogInterface.OnClickListener() {
-            public void onClick(DialogInterface dialog, int whichButton) {
-                //do something with edt.getText().toString();
-            }
-        });
-        dialogBuilder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
-            public void onClick(DialogInterface dialog, int whichButton) {
-                //pass
-            }
-        });
-        AlertDialog b = dialogBuilder.create();
-        b.show();
-    }
 
     public String checkChaptersCount(String bookSpinner, String chapterSpinner) {
         String chapterOne = "1";

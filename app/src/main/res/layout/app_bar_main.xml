@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="bible.englishbible.lugandabible.MainActivity">
+    tools:context=".MainActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -27,9 +27,19 @@
         android:id="@+id/share"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom|left"
-        android:layout_margin="@dimen/fab_margin"
+        android:layout_gravity="bottom|right"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
         android:src="@drawable/ic_menu_manage" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/addNotesActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|left"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/pencil" />
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab4"

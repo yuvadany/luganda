@@ -8,6 +8,10 @@
                 android:icon="@drawable/ic_menu_manage"
                 android:title="Settings" />
             <item
+                android:id="@+id/notes"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Notes" />
+            <item
                 android:id="@+id/bookmark"
                 android:icon="@drawable/ic_menu_send"
                 android:title="Bookmarks" />
@@ -23,6 +27,10 @@
                 android:id="@+id/vod"
                 android:icon="@drawable/ic_menu_send"
                 android:title="Today's Verse "  />
+            <item
+                android:id="@+id/noAds"
+                android:icon="@drawable/ic_menu_send"
+                android:title="App Without Ads"  />
             <item
                 android:id="@+id/songs"
                 android:icon="@drawable/ic_menu_send"

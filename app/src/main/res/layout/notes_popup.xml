@@ -1,34 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/layout_root"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    android:gravity="center"
     android:orientation="vertical"
-    android:padding="10dp" >
+    android:padding="10px">
 
     <TextView
-        android:id="@+id/notes_title_textview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Title: "
-        android:textAppearance="?android:attr/textAppearanceLarge" />
+        android:text="Holy God"
+        android:textColor="#fff"
+        android:id="@+id/notes_text_popup"/>
 
-    <EditText
-        android:id="@+id/title_notes"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" >
-    <requestFocus />
-
-        <TextView
-            android:id="@+id/notes_body_textview"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Title: "
-            android:textAppearance="?android:attr/textAppearanceLarge" />
-    <EditText
-        android:id="@+id/body_notes"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-    </EditText>
+    <Button
+        android:id="@+id/closePopupBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close" />
 
 </LinearLayout>
