@@ -10,10 +10,10 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".NotesActivity"></activity>
-        <activity android:name=".NotesViewActivity" />
-        <activity android:name=".EditNotesActivity" />
-        <activity android:name=".AddNotesActivity" />
+        <activity android:name=".NotesActivity"  android:label="All Notes"></activity>
+        <activity android:name=".NotesViewActivity"  android:label="Notes" />
+        <activity android:name=".EditNotesActivity" android:label="Update Notes" />
+        <activity android:name=".AddNotesActivity" android:label="Add Notes"/>
         <activity
             android:name=".AudioActivity"
             android:label="@string/audio_activity" />

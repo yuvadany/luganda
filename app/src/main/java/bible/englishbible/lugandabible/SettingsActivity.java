@@ -39,7 +39,7 @@ public class SettingsActivity extends AppCompatActivity {
     public static final String BACKROUND_COLOUR_VAR = "Background_Colour_Var";
     public static final int BLACK_COLOUR = Color.parseColor("#000000"); //f2f2f2
     public static final int WHITE_COLOUR = Color.parseColor("#f2f2f2");
-    public static final boolean NIGHT_MODE = true;
+    public static final boolean NIGHT_MODE = false;
     private TextView fontsizeprogress;
     Spinner fontSizeSpinner;
     RadioButton niv, kjv;
