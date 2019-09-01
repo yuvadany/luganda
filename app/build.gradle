@@ -7,7 +7,7 @@ android {
         applicationId "bible.englishbible.lugandabible"
         minSdkVersion 15
         targetSdkVersion 27
-        versionCode 10
+        versionCode 11
         versionName "1.0"
     }
     buildTypes {
