@@ -799,8 +799,6 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.bookmark) {
             startActivity(new Intent(this, BookmarkActivity.class));
-        } else if (id == R.id.settings) {
-            startActivity(new Intent(this, SettingsActivity.class));
         } else if (id == R.id.rate) {
             Intent intent = new Intent(Intent.ACTION_VIEW);
             intent.setData(Uri.parse(app_url));

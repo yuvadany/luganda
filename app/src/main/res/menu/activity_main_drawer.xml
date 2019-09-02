@@ -4,10 +4,6 @@
     <item android:title="@string/app_name">
         <menu>
             <item
-                android:id="@+id/settings"
-                android:icon="@drawable/ic_menu_manage"
-                android:title="Settings" />
-            <item
                 android:id="@+id/notes"
                 android:icon="@drawable/ic_menu_send"
                 android:title="Notes" />
@@ -30,7 +26,7 @@
             <item
                 android:id="@+id/noAds"
                 android:icon="@drawable/ic_menu_send"
-                android:title="App Without Ads"  />
+                android:title="NO-ADVERTISEMENT-APP"  />
             <item
                 android:id="@+id/songs"
                 android:icon="@drawable/ic_menu_send"
