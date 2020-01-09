@@ -1,16 +1,23 @@
- 1 Era ekigambo kya Mukama ne kijja gye ndi nga kyogera nti 2 Towasanga mukazi, so tozaalira baana ba bulenzi newakubadde ab'obuwala mu kifo kino.
- 3 Kubanga Mukama bw'ayogera bw'ati eby'abaana ab'obulenzi n'ab'obuwala abazaalirwa mu kifo kino n'ebya bannyaabwe ababazaala n'ebya bakitaabwe ababazaalira mu nsi muno, nti 4 Balifa bubi; tebalikungubagirwa so tebaliziikibwa; baliba ng'obusa ku maaso g'ettaka: era balimalibwawo n'ekitala n'enjala n'emirambo gyabwe giriba mmere ya nnyonyi ez'omu bbanga era ya nsolo ez'omu nsi.
- 5 Kubanga bw'ati bw'ayogera Mukama nti Toyingira mu nnyumba mwe bakungubagira, so togenda kukuba biwoobe, so tobakaabira: kubanga nziye emirembe gyange ku bantu bano, bw'ayogera Mukama, mbaggyeeko ekisa n'okusaasira okulungi.
- 6 Abakulu era n'abato balifiira mu nsi eno: tebaliziikibwa so n'abantu tebalibakungubagira, so tebalyesala so tebalibeemwerera: 7 so abantu tebalibabegera mmere nga babakaabira, okubakubagiza olw'abafu; so abantu tebalibawa kikompe kya kusanyusa okunywa olwa kitaabwe oba olwa nnyaabwe.
- 8 So toliyingira mu nnyumba mwe baliira embaga, okutuula nabo, okulya n'okunywa.
- 9 Kubanga bw'ati bw'ayogera Mukama w'eggye, Katonda wa Isiraeri, nti Laba, ndikomya mu kifo kino mu maaso gammwe nammwe nga mukyali balamu, eddoboozi ery'ebinyumu n'eddoboozi ery'okusanyuka, eddoboozi eryawasa omugole n'eddoboozi ly'omugole.
- 10 Awo olulituuka bw'olitegeeza abantu bano ebigambo bino byonna, bo ne bakugamba nti Kiki ekyogezezza Mukama obubi buno bwonna obunene eri ffe? oba atulanga ki? oba kyonoono ki kye twonoonye Mukama Katonda waffe? 11 kale n'olyoka obagamba nti Kubanga bajjajjammwe banvaako, bw'ayogera Mukama, ne batambula okugoberera bakatonda abalala ne babaweereza ne babasinza ne bava ku nze, so tebaakwata mateeka gange; 12 nammwe mwakola bubi okusinga bajjajjammwe; kubanga, laba, mutambula buli muntu ng'obukakanyavu bw'omutima gwe omubi bwe buli n'okuwulira ne mutampulira 13 kyendiva mbagoba mu nsi eno okugenda mu nsi gye mutamanyanga, mmwe newakubadde bajjajjammwe; era munaaweererezanga eyo bakatonda abalala emisana n'ekiro; kubanga siribalaga kisa n'akatono.
- 14 Kale, laba, ennaku zijja, bw'ayogera Mukama, lwe batakyayogera nti Nga Mukama bw'ali omulamu eyaggya abaana ba Isiraeri mu nsi y'e Misiri; 15 naye nti Nga Mukama bw'ali omulamu eyaggya abaana ba Isiraeri mu nsi ey'obukiika obwa kkono ne mu matwale gonna gye yali abagobedde: era ndibakomyawo mu nsi y'ewaabwe gye nnawa bajjajjaabwe.
- 16 Laba, nditumya abavubi bangi, bw'ayogera Mukama, era balibavuba; oluvannyuma nditumya abayizzi bangi, era balibayigga okubaggya ku buli lusozi ne ku buli kasozi, ne mu bunnya obw'omu mayinja.
- 17 Kubanga amaaso gange gatunuulira amakubo gaabwe gonna: tegakisibwa bwenyi bwange, so n'obutali butuukirivu bwabwe tebukwekebwa maaso gange.
- 18 Era okusooka ndisasula obutali butuukirivu bwabwe n'ekibi kyabwe emirundi ebiri; kubanga bayonoona ensi yange n'emirambo egy'ebintu byabwe eby'ebivve, era bajjuzizza obusika bwange emizizo gyabwe.
- 19 Ai Mukama, amaanyi gange era ekigo kyange, era obuddukiro bwange ku nnaku olw'okulabiramu ennaku, eri gwe amawanga gye galijja nga bava ku nkomerero z'ensi, era balyogera nti Bajjajjaffe baasikira bulimba bwereere, birerya n'ebigambo ebitaliiko kye bigasa.
- 20 Omuntu alyekolera bakatonda, era abatali bakatonda? 21 Kale, laba, ndibamanyisa, omulundi guno gwokka ndibamanyisa omukono gwange n'amaanyi gange; era balimanya ng'erinnya lyange Yakuwa.
-          
+ 1 Era ekigambo kya Mukama ne kijja gye ndi nga kyogera nti 
+2 Towasanga mukazi, so tozaalira baana ba bulenzi newakubadde ab'obuwala mu kifo kino. 
+3 Kubanga Mukama bw'ayogera bw'ati eby'abaana ab'obulenzi n'ab'obuwala abazaalirwa mu kifo kino n'ebya bannyaabwe ababazaala n'ebya bakitaabwe ababazaalira mu nsi muno, nti 
+4 Balifa bubi; tebalikungubagirwa so tebaliziikibwa; baliba ng'obusa ku maaso g'ettaka: era balimalibwawo n'ekitala n'enjala n'emirambo gyabwe giriba mmere ya nnyonyi ez'omu bbanga era ya nsolo ez'omu nsi. 
+5 Kubanga bw'ati bw'ayogera Mukama nti Toyingira mu nnyumba mwe bakungubagira, so togenda kukuba biwoobe, so tobakaabira: kubanga nziye emirembe gyange ku bantu bano, bw'ayogera Mukama, mbaggyeeko ekisa n'okusaasira okulungi. 
+6 Abakulu era n'abato balifiira mu nsi eno: tebaliziikibwa so n'abantu tebalibakungubagira, so tebalyesala so tebalibeemwerera: 
+7 so abantu tebalibabegera mmere nga babakaabira, okubakubagiza olw'abafu; so abantu tebalibawa kikompe kya kusanyusa okunywa olwa kitaabwe oba olwa nnyaabwe. 
+8 So toliyingira mu nnyumba mwe baliira embaga, okutuula nabo, okulya n'okunywa. 
+9 Kubanga bw'ati bw'ayogera Mukama w'eggye, Katonda wa Isiraeri, nti Laba, ndikomya mu kifo kino mu maaso gammwe nammwe nga mukyali balamu, eddoboozi ery'ebinyumu n'eddoboozi ery'okusanyuka, eddoboozi eryawasa omugole n'eddoboozi ly'omugole. 
+10 Awo olulituuka bw'olitegeeza abantu bano ebigambo bino byonna, bo ne bakugamba nti Kiki ekyogezezza Mukama obubi buno bwonna obunene eri ffe? oba atulanga ki? oba kyonoono ki kye twonoonye Mukama Katonda waffe? 
+11 kale n'olyoka obagamba nti Kubanga bajjajjammwe banvaako, bw'ayogera Mukama, ne batambula okugoberera bakatonda abalala ne babaweereza ne babasinza ne bava ku nze, so tebaakwata mateeka gange; 
+12 nammwe mwakola bubi okusinga bajjajjammwe; kubanga, laba, mutambula buli muntu ng'obukakanyavu bw'omutima gwe omubi bwe buli n'okuwulira ne mutampulira 
+13 kyendiva mbagoba mu nsi eno okugenda mu nsi gye mutamanyanga, mmwe newakubadde bajjajjammwe; era munaaweererezanga eyo bakatonda abalala emisana n'ekiro; kubanga siribalaga kisa n'akatono. 
+14 Kale, laba, ennaku zijja, bw'ayogera Mukama, lwe batakyayogera nti Nga Mukama bw'ali omulamu eyaggya abaana ba Isiraeri mu nsi y'e Misiri; 
+15 naye nti Nga Mukama bw'ali omulamu eyaggya abaana ba Isiraeri mu nsi ey'obukiika obwa kkono ne mu matwale gonna gye yali abagobedde: era ndibakomyawo mu nsi y'ewaabwe gye nnawa bajjajjaabwe. 
+16 Laba, nditumya abavubi bangi, bw'ayogera Mukama, era balibavuba; oluvannyuma nditumya abayizzi bangi, era balibayigga okubaggya ku buli lusozi ne ku buli kasozi, ne mu bunnya obw'omu mayinja. 
+17 Kubanga amaaso gange gatunuulira amakubo gaabwe gonna: tegakisibwa bwenyi bwange, so n'obutali butuukirivu bwabwe tebukwekebwa maaso gange. 
+18 Era okusooka ndisasula obutali butuukirivu bwabwe n'ekibi kyabwe emirundi ebiri; kubanga bayonoona ensi yange n'emirambo egy'ebintu byabwe eby'ebivve, era bajjuzizza obusika bwange emizizo gyabwe. 
+19 Ai Mukama, amaanyi gange era ekigo kyange, era obuddukiro bwange ku nnaku olw'okulabiramu ennaku, eri gwe amawanga gye galijja nga bava ku nkomerero z'ensi, era balyogera nti Bajjajjaffe baasikira bulimba bwereere, birerya n'ebigambo ebitaliiko kye bigasa. 
+20 Omuntu alyekolera bakatonda, era abatali bakatonda? 
+21 Kale, laba, ndibamanyisa, omulundi guno gwokka ndibamanyisa omukono gwange n'amaanyi gange; era balimanya ng'erinnya lyange Yakuwa.          
 
 

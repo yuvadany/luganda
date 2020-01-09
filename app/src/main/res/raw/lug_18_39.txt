@@ -1,20 +1,32 @@
- 1 Omanyi ebiro embulabuzi ez'oku njazi mwe zizaalira? Oba oyinza okutegeera empeewo bwe ziba n'amawako? 2 Oyinza okubala emyezi gye zimala? Oba omanyi ebiro mwe zizaalira? 3 Zikutama, zizaala abaana baazo, Zeggyamu obubalagaze bwazo.
- 4 Abaana baazo bagejja, bakulira ebweru ku ttale; Bafuluma ne batadda.
- 5 Ani eyata entulege okuba ey'eddembe? Oba ani eyasumulula enkoba ez'entulege? 6 Nafuula ensiko okuba ennyumba yaayo, N'ensi ey'omunnyo okuba ekifo w'ebeera.
- 7 Enyooma oluyoogaano olw’omu kibuga, So tewulira kulekaana kwa mugobi.
- 8 Ensozi bwe zenkana obugazi lye ddundiro lyayo, Era enoonya buli kintu ekibisi.
- 9 Embogo enekkirizanga okukuweereza? Oba eneebeeranga awali ekisibo kyo? 10 Oyinza okusiba embogo n'olukoba lwayo ku kibibi? Oba eneerimanga ebiwonvu ng'ekuvaako ennyuma? 11 Onoogyesiganga kubanga amaanyi gaayo mangi? Oba onoogirekeranga omulimu gwo? 12 Onoogyesiganga okukomyawo ewuwo ensigo zo, N'okukuŋŋaanyanga eŋŋaano ey'omu gguuliro lyo? 13 Ekiwaawaatiro kya maaya kisanyuka; Naye ebiwaawaatiro bye n'ebyoya birina ekisa? 14 Kubanga aleka amagi ge ku ttaka, N'egabugumya mu musenyu, 15 Ne yeerabira ng'ekigere kiyinza okugabetenta, Oba ensolo ey'omu nsiko eyinza okugalinnyirira.
- 16 Akakanyalira abaana be ng'abatali babe: Newakubadde ng'ateganira bwereere talina kutya; 17 Kubanga Katonda yamuggyako amagezi, So tamuwadde kutegeera.
- 18 Bw'aba nga yeegulumizizza, Anyooma embalaasi n'oyo agyebagala.
- 19 Wawa embalaasi amaanyi gaayo? Wayambaza obulago bwayo n'olugiŋŋirima olukankana? 20 Wagibuusa ng'enzige? Ekitiibwa ky'okufugula kwayo kya ntiisa.
- 21 Etakulira mu kiwonvu, n'esanyukira amaanyi gaayo: Efuluma okusisinkana n'abasajja abakutte ebyokulwanyisa.
- 22 Esekerera okutya so tekeŋŋentererwa; so tedda nnyuma awali ekitala.
- 23 Omufuko guwulungutira ku yo, Effumu erimasamasa n'akasaale.
- 24 Emira ettaka n'obusungu n'ekiruyi; So tekkiriza nga lye ddoboozi ery'ekkondeere.
- 25 Ekkondeere buli lwe livuga, n'eyogera nti Bw'otyo N'ekonga olutalo nga lukyali wala, Okubwatuka kw'abaami n'okuleekaana.
- 26 Magga atumbiira na magezi go, N'abamba abiwaawaatiro bye eri obukiika obwa ddyo? 27 Empungu erinnya na kiragiro kyo, N'ekola ekisu kyayo waggulu? 28 Ebeera ku jjinja, n'ennyumba yaayo eri okwo, Ku linnyo ly'ejjinja n'ekifo eky'amaanyi.
- 29 Erengera omuyiggo ng'eyima okwo; Amaaso gaayo gagulaba nga guli wala.
- 30 Era n'abaana baayo banuuna omusaayi: Era awaba emirambo, gy'ebeera eyo.
-          
+ 1 Omanyi ebiro embulabuzi ez'oku njazi mwe zizaalira? Oba oyinza okutegeera empeewo bwe ziba n'amawako? 
+2 Oyinza okubala emyezi gye zimala? Oba omanyi ebiro mwe zizaalira? 
+3 Zikutama, zizaala abaana baazo, Zeggyamu obubalagaze bwazo. 
+4 Abaana baazo bagejja, bakulira ebweru ku ttale; Bafuluma ne batadda. 
+5 Ani eyata entulege okuba ey'eddembe? Oba ani eyasumulula enkoba ez'entulege? 
+6 Nafuula ensiko okuba ennyumba yaayo, N'ensi ey'omunnyo okuba ekifo w'ebeera. 
+7 Enyooma oluyoogaano olw’omu kibuga, So tewulira kulekaana kwa mugobi. 
+8 Ensozi bwe zenkana obugazi lye ddundiro lyayo, Era enoonya buli kintu ekibisi. 
+9 Embogo enekkirizanga okukuweereza? Oba eneebeeranga awali ekisibo kyo? 
+10 Oyinza okusiba embogo n'olukoba lwayo ku kibibi? Oba eneerimanga ebiwonvu ng'ekuvaako ennyuma? 
+11 Onoogyesiganga kubanga amaanyi gaayo mangi? Oba onoogirekeranga omulimu gwo? 
+12 Onoogyesiganga okukomyawo ewuwo ensigo zo, N'okukuŋŋaanyanga eŋŋaano ey'omu gguuliro lyo? 
+13 Ekiwaawaatiro kya maaya kisanyuka; Naye ebiwaawaatiro bye n'ebyoya birina ekisa? 
+14 Kubanga aleka amagi ge ku ttaka, N'egabugumya mu musenyu, 
+15 Ne yeerabira ng'ekigere kiyinza okugabetenta, Oba ensolo ey'omu nsiko eyinza okugalinnyirira. 
+16 Akakanyalira abaana be ng'abatali babe: Newakubadde ng'ateganira bwereere talina kutya; 
+17 Kubanga Katonda yamuggyako amagezi, So tamuwadde kutegeera. 
+18 Bw'aba nga yeegulumizizza, Anyooma embalaasi n'oyo agyebagala. 
+19 Wawa embalaasi amaanyi gaayo? Wayambaza obulago bwayo n'olugiŋŋirima olukankana? 
+20 Wagibuusa ng'enzige? Ekitiibwa ky'okufugula kwayo kya ntiisa. 
+21 Etakulira mu kiwonvu, n'esanyukira amaanyi gaayo: Efuluma okusisinkana n'abasajja abakutte ebyokulwanyisa. 
+22 Esekerera okutya so tekeŋŋentererwa; so tedda nnyuma awali ekitala. 
+23 Omufuko guwulungutira ku yo, Effumu erimasamasa n'akasaale. 
+24 Emira ettaka n'obusungu n'ekiruyi; So tekkiriza nga lye ddoboozi ery'ekkondeere. 
+25 Ekkondeere buli lwe livuga, n'eyogera nti Bw'otyo N'ekonga olutalo nga lukyali wala, Okubwatuka kw'abaami n'okuleekaana. 
+26 Magga atumbiira na magezi go, N'abamba abiwaawaatiro bye eri obukiika obwa ddyo? 
+27 Empungu erinnya na kiragiro kyo, N'ekola ekisu kyayo waggulu? 
+28 Ebeera ku jjinja, n'ennyumba yaayo eri okwo, Ku linnyo ly'ejjinja n'ekifo eky'amaanyi. 
+29 Erengera omuyiggo ng'eyima okwo; Amaaso gaayo gagulaba nga guli wala. 
+30 Era n'abaana baayo banuuna omusaayi: Era awaba emirambo, gy'ebeera eyo.          
 
 

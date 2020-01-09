@@ -1,34 +1,35 @@
- 1 Awo Mukama n'agamba Musa nti 2 Tuma abantu bakette ensi ya Kanani, gye mpa abaana ba Isiraeri: munaggya omuntu ku buli kika kya bakitaabwe ne mumutuma, buli muntu omukulu mu bo.
- 3 Awo Musa n'abatuma ng'ayima mu ddungu lya Palani ng'ekiragiro kya Mukama bwe kyali: bonna abasajja abaali emitwe gy'abaana ba Isiraeri.
- 4 N'amannya gaabwe ge gano: ku kika kya Lewubeeni, Semuwa mutabani wa Zakula.
- 5 Ku kika kya Simyoni, Safati mutabani wa Koli.
- 6 Ku kika kya Yuda, Kalebu mutabani wa Yefune.
- 7 Ku kika kya Isakaali, Igali mutabani wa Yusufu.
- 8 Ku kika kya Efulayimu, Koseya mutabani wa Nuuni.
- 9 Ku kika kya Benyamini, Paluti mutabani wa Lafu.
- 10 Ku kika kya Zebbulooni, Gadyeri mutabani wa Sodi.
- 11 Ku kika kya Yusufu, kye kika kya Manase, Gaadi mutabani wa Susi.
- 12 Ku kika kya Ddaani, Ammiyeri mutabani wa Gemali.
- 13 Ku kika kya Aseri, Sesula mutabani wa Mikaeri.
- 14 Ku kika kya Nafutaali, Nakabi mutabani wa Vofesi.
- 15 Ku kika kya Gaadi, Geweri mutabani wa Maki.
- 16 Ago ge mannya g'abantu Musa be yatuma okuketta ensi.
- Musa n'atuuma Koseya mutabani wa Nuuni Yoswa.
- 17 Musa n'abatuma okuketta ensi ya Kanani, n'abagamba nti Mwambukire mu kkubo lino ery'obukiika obwa ddyo, mulinnye ku nsozi 18 mulengere ensi bw'eri; n'abantu abagituulamu oba nga ba maanyi oba nga banafu, oba nga batono oba nga bangi; 19 era ensi bw'eri gye batuulamu, oba nga nnungi oba nga mbi; n'ebibuga bwe biri bye batuulamu, oba nga nsiisira, oba nga mu bigo; 20 era ensi bw'eri, oba nga ngimu oba nga nkalu, oba nga mulimu emiti oba nga temuli.
- Era mugume omwoyo, muleete ku bibala byamu.
- Era ebiro byali biro bya zabbibu ezisooka okweagera.
- 21 Awo ne bambuka, ne baketta ensi okuva ku ddungu lya Zini okutuuka e Lekobu, okutuusa w'oyingirira e Kamasi 22 Ne bambukira obukiika obwa ddyo, ne batuuka e Kebbulooni; era Akimaani, Sesayi, ne Talumaayi, abaana ba Anaki, baali bali eyo.
- (Era Kebbulooni kyali kyakamaze emyaka musaavu okuzimbibwa, ne balyoka bazimba Zowani ekiri mu Misiri 23 Ne batuuka mu kiwonvu e Esukoli, ne batemayo ettabi eryaliko ekirimba kimu ekya zabbibu, ne bakisitulira ku musituliro abantu babiri; era baaleeta ne ku makomamawanga, ne ku ttiini.
- 24 Ekifo ekyo ne kiyitibwa ekiwonvu Esukoli, olw'ekirimba abaana ba Isiraeri kye baatemayo.
- 25 Awo ne bakomawo nga bamaze okuketta ensi ennaku ana nga ziyiseewo.
- 26 Ne batuuka ne bajja eri Musa n'eri Alooni n'eri ekibiina kyonna eky'abaana ba Isiraeri, mu ddungu lya Palani, e Kadesi; ne babaddiza ebigambo bo n'ekibiina kyonna, ne babalaga ebibala by'ensi.
- 27 Ne bamubuulira ne bagamba nti Twatuuka mu nsi gye watutuma, era mazima ekulukuta n'amata n'omubisi gw'enjuki; era bino bye bibala byayo.
- 28 Naye abantu abatuula mu nsi ba maanyi, n'ebibuga biriko enkomera, binene nnyo: era nate twalabayo abaana ba Anaki.
- 29 Amaleki atuula mu nsi ey'obukiika obwa ddyo: n'Omukiiti, n'Omuyebusi, n'Omwamoli, batuula ku nsozi: n'Omukanani atuula kumpi n'ennyanja, era ku lubalama lwa Yoludaani.
- 30 Kalebu n'asirisa abantu mu maaso ga Musa, n'agamba nti Twambuke mangu ago, tugirye; kubanga tuyinziza ddala okugiwangula.
- 31 Naye abantu abaayambukira awamu naye ne bagamba nti Tetuyinza kwambuka ku bantu abo; kubanga batukiza amaanyi.
- 32 Ne baleeta ebigambo ebibi eby'ensi gye baali bakesse eri abaana ba Isiraeri nga boogera nti Ensi gye twayitamu okugiketta, nsi eriira ddala abagituulamu; n'abantu bonna be twalaba omwo basajja bawanvu nnyo.
- 33 Era twalabayo Banefiri, abaana ba Anaki, abaava ku Banefiri: naffe ne tuba mu maaso gaffe ng'obwacaaka, era bwe twali mu maaso gaabwe.
-          
+ 1 Awo Mukama n'agamba Musa nti 
+2 Tuma abantu bakette ensi ya Kanani, gye mpa abaana ba Isiraeri: munaggya omuntu ku buli kika kya bakitaabwe ne mumutuma, buli muntu omukulu mu bo. 
+3 Awo Musa n'abatuma ng'ayima mu ddungu lya Palani ng'ekiragiro kya Mukama bwe kyali: bonna abasajja abaali emitwe gy'abaana ba Isiraeri. 
+4 N'amannya gaabwe ge gano: ku kika kya Lewubeeni, Semuwa mutabani wa Zakula. 
+5 Ku kika kya Simyoni, Safati mutabani wa Koli. 
+6 Ku kika kya Yuda, Kalebu mutabani wa Yefune. 
+7 Ku kika kya Isakaali, Igali mutabani wa Yusufu. 
+8 Ku kika kya Efulayimu, Koseya mutabani wa Nuuni. 
+9 Ku kika kya Benyamini, Paluti mutabani wa Lafu. 
+10 Ku kika kya Zebbulooni, Gadyeri mutabani wa Sodi. 
+11 Ku kika kya Yusufu, kye kika kya Manase, Gaadi mutabani wa Susi. 
+12 Ku kika kya Ddaani, Ammiyeri mutabani wa Gemali. 
+13 Ku kika kya Aseri, Sesula mutabani wa Mikaeri. 
+14 Ku kika kya Nafutaali, Nakabi mutabani wa Vofesi. 
+15 Ku kika kya Gaadi, Geweri mutabani wa Maki. 
+16 Ago ge mannya g'abantu Musa be yatuma okuketta ensi. Musa n'atuuma Koseya mutabani wa Nuuni Yoswa. 
+17 Musa n'abatuma okuketta ensi ya Kanani, n'abagamba nti Mwambukire mu kkubo lino ery'obukiika obwa ddyo, mulinnye ku nsozi 
+18 mulengere ensi bw'eri; n'abantu abagituulamu oba nga ba maanyi oba nga banafu, oba nga batono oba nga bangi; 
+19 era ensi bw'eri gye batuulamu, oba nga nnungi oba nga mbi; n'ebibuga bwe biri bye batuulamu, oba nga nsiisira, oba nga mu bigo; 
+20 era ensi bw'eri, oba nga ngimu oba nga nkalu, oba nga mulimu emiti oba nga temuli. Era mugume omwoyo, muleete ku bibala byamu. Era ebiro byali biro bya zabbibu ezisooka okweagera. 
+21 Awo ne bambuka, ne baketta ensi okuva ku ddungu lya Zini okutuuka e Lekobu, okutuusa w'oyingirira e Kamasi 
+22 Ne bambukira obukiika obwa ddyo, ne batuuka e Kebbulooni; era Akimaani, Sesayi, ne Talumaayi, abaana ba Anaki, baali bali eyo. (Era Kebbulooni kyali kyakamaze emyaka musaavu okuzimbibwa, ne balyoka bazimba Zowani ekiri mu Misiri 
+23 Ne batuuka mu kiwonvu e Esukoli, ne batemayo ettabi eryaliko ekirimba kimu ekya zabbibu, ne bakisitulira ku musituliro abantu babiri; era baaleeta ne ku makomamawanga, ne ku ttiini. 
+24 Ekifo ekyo ne kiyitibwa ekiwonvu Esukoli, olw'ekirimba abaana ba Isiraeri kye baatemayo. 
+25 Awo ne bakomawo nga bamaze okuketta ensi ennaku ana nga ziyiseewo. 
+26 Ne batuuka ne bajja eri Musa n'eri Alooni n'eri ekibiina kyonna eky'abaana ba Isiraeri, mu ddungu lya Palani, e Kadesi; ne babaddiza ebigambo bo n'ekibiina kyonna, ne babalaga ebibala by'ensi. 
+27 Ne bamubuulira ne bagamba nti Twatuuka mu nsi gye watutuma, era mazima ekulukuta n'amata n'omubisi gw'enjuki; era bino bye bibala byayo. 
+28 Naye abantu abatuula mu nsi ba maanyi, n'ebibuga biriko enkomera, binene nnyo: era nate twalabayo abaana ba Anaki. 
+29 Amaleki atuula mu nsi ey'obukiika obwa ddyo: n'Omukiiti, n'Omuyebusi, n'Omwamoli, batuula ku nsozi: n'Omukanani atuula kumpi n'ennyanja, era ku lubalama lwa Yoludaani. 
+30 Kalebu n'asirisa abantu mu maaso ga Musa, n'agamba nti Twambuke mangu ago, tugirye; kubanga tuyinziza ddala okugiwangula. 
+31 Naye abantu abaayambukira awamu naye ne bagamba nti Tetuyinza kwambuka ku bantu abo; kubanga batukiza amaanyi. 
+32 Ne baleeta ebigambo ebibi eby'ensi gye baali bakesse eri abaana ba Isiraeri nga boogera nti Ensi gye twayitamu okugiketta, nsi eriira ddala abagituulamu; n'abantu bonna be twalaba omwo basajja bawanvu nnyo. 
+33 Era twalabayo Banefiri, abaana ba Anaki, abaava ku Banefiri: naffe ne tuba mu maaso gaffe ng'obwacaaka, era bwe twali mu maaso gaabwe.          
 
 

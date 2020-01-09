@@ -26,7 +26,7 @@ import java.util.ArrayList;
 public class SongsActivity extends  AppCompatActivity {
     ArrayList<String> listitems;
     Bundle bundle = new Bundle();
-    DBHelper dbhelper = new DBHelper(this);
+    DBHelperNoBookmark dbhelper = new DBHelperNoBookmark(this);
     String[] arrayOfString= { "Jesus, name above all names" };
     ArrayAdapter localArrayAdapter;
     private AdView mAdView;

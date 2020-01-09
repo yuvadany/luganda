@@ -1,27 +1,30 @@
- 1 Naye kaakano bw'atyo bw'ayogera Mukama eyakutonda, ggwe Yakobo, era eyakubumba, ggwe Isiraeri, nti Totya, kubanga nakununula; nakuyita erinnya lyo, oli wange.
- 2 Bw'onooyitanga mu mazzi, naabeeranga naawe; ne mu migga, tegirikusaanyaawo: bw'onootambulanga okuyita mu muliro, toosiriirenga; so n'omuliro tegulyakira ku ggwe.
- 3 Kubanga nze ndi Mukama Katonda wo, Omutukuvu wa Isiraeri, omulokozi wo; nawaayo Misiri okuba ekinunulo kyo, Kuusi ne Seba ku lulwo.
- 4 Kubanga wali wa muwendo mungi mu maaso gange, era wa kitiibwa, nange nakwagala; kyendiva mpaayo abasajja ku lulwo n'amawanga ku lw'obulamu bwo.
- 5 Totya; kubanga nze ndi wamu naawe: ndireeta ezzadde lyo okuliggya ebuvanjuba ne nkukuŋŋaanya okuva ebugwanjuba; 6 ndigamba obukiika obwa kkono nti Waayo; n'obukiika obwa ddyo nti Togaana nabo; leeta batabani bange okubaggya ewala ne bawala bange okuva ku nkomerero y'ensi; 7 buli muntu eyatuumibwa erinnya lyange era gwe nnatondera ekitiibwa kyange; nze namubumba; weewaawo, namukola.
- 8 Fulumya abazibe b'amaaso abalina amaaso n'abaggavu b'amatu abalina amatu.
- 9 Amawanga gonna gakuŋŋaanyizibwe wamu n'abantu beetabe: ani ku bo ayinza okubuulira ekyo n'atulaga ebyasooka okubaawo? baleete abajulirwa baabwe baweebwe obutuukirivu: oba bawulire boogere nti Bya mazima.
- 10 Mmwe muli bajulirwa bange, bw'ayogera Mukama n'omuweereza wange gwe nnalonda mulyoke mumanye munzikirize mutegeere nga nze nzuuyo; tewali Katonda eyabumbibwa okusooka nze, so tewaliba alinziririra.
- 11 Nze, nze mwene, nze Mukama so tewali mulokozi wabula nze.
- 12 Nze nabuulira era nalokola era nalaga, so tewabanga mu mmwe katonda mulala: kye mubeeredde abajulirwa bange, bw'ayogera Mukama, nange ndi Katonda.
- 13 Weewaawo, omusana kasookedde gubaawo era nze nzuuyo; so tewali ayinza okuwonya mu mukono gwange: ndikola omulimu, era ani ali guziyiza? 14 Bw'atyo bw'ayogera Mukama omununuzi wammwe, Omutukuvu wa Isiraeri, nti Ku lwammwe natuma e Babulooni, era ndibaserengesa bonma ng'abadduse, be Bakaludaaya, mu byombo eby'okusanyuka kwabwe.
- 15 Nze ndi Mukama Omutukuvu wammwe, Omutonzi wa Isiraeri, Kabaka wammwe.
- 16 Bw'atyo bw'ayogera Mukama akuba oluguudo mu nnyanja n'ekkubo mu mazzi ag'amaanyi.
- 17 afulumya eggaali n'embalaasi eggye n'obuyinza; bagalamira wamu, tebaligolokoka; bazikiridde, bazikidde ng'enfuuzi: nti 18 Temujjukira ebyasooka okubaawo, so temulowooza bigambo bya dda.
- 19 Laba, ndikola ekigambo ekiggya kaakano kirirabika; temulikimanya ndikuba oluguudo ne mu lukoola, ne ndeeta emigga mu ddungu.
- 20 Ensolo ez'omu nsiko zirinzisaamu ekitiibwa, ebibe ne bamaaya kubanga ngaba amazzi mu lukoola n'emigga mu ddungu, okunywesa abantu bange, abalonde bange: 21 abantu be nneebumbira nzekka boolesenga ettendo lyange.
- 22 Naye tonkaabiranga, ggwe Yakobo; naye wantamwa, ggwe Isiraeri.
- 23 Tondeeteranga nsolo ntono ey'ebibyo ebiweebwayo ebyokebwa; so tonzisaamu kitiibwa na ssaddaaka zo.
- Sikuweerezesanga n'ebiweebwayo so sikukooyesanga na mugavu.
- 24 Tonguliranga mmuli mpoomerevu na ffeeza, so tonzikusanga na masavu ga ssaddaaka zo naye ggwe wampeerezesa n'ebibi byo, wankooyesa n'obutali butuukirivu bwo.
- 25 Nze, nze mwene, nze nzuuyo sangula ebyonoono byo ku lwange nze; so sirijjukira bibi byo.
- 26 Njijukiza; tuwoze fembi: leeta ensonga yo olyoke oweebwe obutuukirivu.
- 27 Kitaawo eyasooka yayonoona n'abategeeza bo bansobya.
- 28 Kyendiva nvumisa abakulu ab'omu watukuvu, era ndifuula Yakobo ekikolimo ne Isiraeri ekivume.
-          
+ 1 Naye kaakano bw'atyo bw'ayogera Mukama eyakutonda, ggwe Yakobo, era eyakubumba, ggwe Isiraeri, nti Totya, kubanga nakununula; nakuyita erinnya lyo, oli wange. 
+2 Bw'onooyitanga mu mazzi, naabeeranga naawe; ne mu migga, tegirikusaanyaawo: bw'onootambulanga okuyita mu muliro, toosiriirenga; so n'omuliro tegulyakira ku ggwe. 
+3 Kubanga nze ndi Mukama Katonda wo, Omutukuvu wa Isiraeri, omulokozi wo; nawaayo Misiri okuba ekinunulo kyo, Kuusi ne Seba ku lulwo. 
+4 Kubanga wali wa muwendo mungi mu maaso gange, era wa kitiibwa, nange nakwagala; kyendiva mpaayo abasajja ku lulwo n'amawanga ku lw'obulamu bwo. 
+5 Totya; kubanga nze ndi wamu naawe: ndireeta ezzadde lyo okuliggya ebuvanjuba ne nkukuŋŋaanya okuva ebugwanjuba; 
+6 ndigamba obukiika obwa kkono nti Waayo; n'obukiika obwa ddyo nti Togaana nabo; leeta batabani bange okubaggya ewala ne bawala bange okuva ku nkomerero y'ensi; 
+7 buli muntu eyatuumibwa erinnya lyange era gwe nnatondera ekitiibwa kyange; nze namubumba; weewaawo, namukola. 
+8 Fulumya abazibe b'amaaso abalina amaaso n'abaggavu b'amatu abalina amatu. 
+9 Amawanga gonna gakuŋŋaanyizibwe wamu n'abantu beetabe: ani ku bo ayinza okubuulira ekyo n'atulaga ebyasooka okubaawo? baleete abajulirwa baabwe baweebwe obutuukirivu: oba bawulire boogere nti Bya mazima. 
+10 Mmwe muli bajulirwa bange, bw'ayogera Mukama n'omuweereza wange gwe nnalonda mulyoke mumanye munzikirize mutegeere nga nze nzuuyo; tewali Katonda eyabumbibwa okusooka nze, so tewaliba alinziririra. 
+11 Nze, nze mwene, nze Mukama so tewali mulokozi wabula nze. 
+12 Nze nabuulira era nalokola era nalaga, so tewabanga mu mmwe katonda mulala: kye mubeeredde abajulirwa bange, bw'ayogera Mukama, nange ndi Katonda. 
+13 Weewaawo, omusana kasookedde gubaawo era nze nzuuyo; so tewali ayinza okuwonya mu mukono gwange: ndikola omulimu, era ani ali guziyiza? 
+14 Bw'atyo bw'ayogera Mukama omununuzi wammwe, Omutukuvu wa Isiraeri, nti Ku lwammwe natuma e Babulooni, era ndibaserengesa bonma ng'abadduse, be Bakaludaaya, mu byombo eby'okusanyuka kwabwe. 
+15 Nze ndi Mukama Omutukuvu wammwe, Omutonzi wa Isiraeri, Kabaka wammwe. 
+16 Bw'atyo bw'ayogera Mukama akuba oluguudo mu nnyanja n'ekkubo mu mazzi ag'amaanyi. 
+17 afulumya eggaali n'embalaasi eggye n'obuyinza; bagalamira wamu, tebaligolokoka; bazikiridde, bazikidde ng'enfuuzi: nti 
+18 Temujjukira ebyasooka okubaawo, so temulowooza bigambo bya dda. 
+19 Laba, ndikola ekigambo ekiggya kaakano kirirabika; temulikimanya ndikuba oluguudo ne mu lukoola, ne ndeeta emigga mu ddungu. 
+20 Ensolo ez'omu nsiko zirinzisaamu ekitiibwa, ebibe ne bamaaya kubanga ngaba amazzi mu lukoola n'emigga mu ddungu, okunywesa abantu bange, abalonde bange: 
+21 abantu be nneebumbira nzekka boolesenga ettendo lyange. 
+22 Naye tonkaabiranga, ggwe Yakobo; naye wantamwa, ggwe Isiraeri. 
+23 Tondeeteranga nsolo ntono ey'ebibyo ebiweebwayo ebyokebwa; so tonzisaamu kitiibwa na ssaddaaka zo. Sikuweerezesanga n'ebiweebwayo so sikukooyesanga na mugavu. 
+24 Tonguliranga mmuli mpoomerevu na ffeeza, so tonzikusanga na masavu ga ssaddaaka zo naye ggwe wampeerezesa n'ebibi byo, wankooyesa n'obutali butuukirivu bwo. 
+25 Nze, nze mwene, nze nzuuyo sangula ebyonoono byo ku lwange nze; so sirijjukira bibi byo. 
+26 Njijukiza; tuwoze fembi: leeta ensonga yo olyoke oweebwe obutuukirivu. 
+27 Kitaawo eyasooka yayonoona n'abategeeza bo bansobya. 
+28 Kyendiva nvumisa abakulu ab'omu watukuvu, era ndifuula Yakobo ekikolimo ne Isiraeri ekivume.          
 
 

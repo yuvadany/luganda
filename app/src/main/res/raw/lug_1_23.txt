@@ -1,17 +1,22 @@
- 1 Saala n'awangaala emyaka kikumi mu abiri mu musanvu: egyo gye myaka Saala gye yawangaala.
- 2 Saala n'afiira mu Kiriasualaba (ye Kebbulooni), mu nsi ya Kanani: Ibulayimu n'ajja okukungubagira Saala, n'okumukaabira, amaziga.
- 3 Ibulayimu n'agolokokai n'ava eri omulambo gwe, n'agamba abaana ba Keesi nti 4 Nze ndi mugenyi era mutambuze gye muli: mumpe ekifo eky'okuziikangamu okuba obutaka mu nsi yammwe, nziike omulambo gwange obutagulabangako.
- 5 N'abaana ba Keesi ne baddamu Ibulayimu, nga bamu gamba nti 6 Otuwulire, mukama wange: ggwe oli mukungu mukulu mu ffe: ziika omulambo gwo mu ntaana yaffe gy'oneeroboza mu zonna; tewali mu ffe agenda okukumma entaana ye, obutaaiika omulambo gwo.
- 7 Ibulayimu n'agolokoka, n'awunamira abantu ab'omu nsi, be baana ba Keesi.
- 8 N'ayogera nabo, ng'agamba nti Bwe mwagala nze okuziika omulambo gwange obutagulabangako, mumpulire, munneegayiririre Efulooni omwana wa Zokali, 9 ampe empuku eya Mnkupeera, gy'alina, ekomerera mu lusuku lwe; aginguze omuwendo gwayo omulamba wakati mu mmwe okuba obutaka okuba entaana.
- 10 Efulooni yali atudde wakati mu baana ba Keesi; Efulooni Omukiiti n'addamu Ibulayimu abaana ba Keesi nga bamuwulira, be bonna abaayingira mu mulyango gw'ekibuga, ng'ayogera nti 11 Nedda, mukama wange, ompulire: olusuku ndukuwadde, n'empuku erulimu ngikuwadde; mu maaso g`abaana b'abantu bange ngikuwadde: ziika omulambo gwo.
- 12 Ibulayimu n'avuunama mu maaso g'abantu ab'omu nsi.
- 13 N'agamba Efulooni abantu ab'oImu nsi nga bamuwulira, ng'ayogera Inti Naye bw'onooyagala, nkwegayiIrira, ompulire: nnaasasula omuwendo gw'olusuku; gukkirize nkuwe, nange naaziika omwo omulambo gwange.
- 14 Efulooni n'addamu Ibulayimu, ng'amugamba nti 15 Mukama wange, ompulire: akasuku omuwendo gwako essekeri eza ffeeza ebina kintu ki eri nze naawe? kale ziika omulambo gwo.
- 16 Ibulayimu n'awulira Efulooni; Ibulayimu n'agerera Efulooni effeeza gye yali agambye abaana ba Keesi nga bamuwulira, essekeri eza ffeeza bina, nga effeeza eya bulijjo ey'omuguzi bwe yali.
- 17 Awo olusuku lwa Efulooni, olwali mu Makupeera, etunuulira Mamule, olusuku n'empuku eyalimu, n'emiti gyonna egyali mu lusuku, egyali mu nsalo yaalwo yonna okwetooloola, 18 byanywezebwa eri Ibulayimu okuba obutaka bwe mu maaso g'abaana ba Keesi, mu maaso ga bonna abaayingira mu mulyango gw'ekibuga kye.
- 19 Oluvannyuma lw'ebyo Ibulayimu n'aziika Saala mukazi we mu mpuku ey'omu lusuku olwa Makupeera etunuulira Mamule (ye Kebbulooni), mu nsi y'e Kanani.
- 20 N'olusuku n'empuku erulimu ne binywezebwa abaana ba Keesi eri Ibulayimu okuba obutaka bwe okuba ekifo eky'okuziikangamu.
-          
+ 1 Saala n'awangaala emyaka kikumi mu abiri mu musanvu: egyo gye myaka Saala gye yawangaala. 
+2 Saala n'afiira mu Kiriasualaba (ye Kebbulooni), mu nsi ya Kanani: Ibulayimu n'ajja okukungubagira Saala, n'okumukaabira, amaziga. 
+3 Ibulayimu n'agolokokai n'ava eri omulambo gwe, n'agamba abaana ba Keesi nti 
+4 Nze ndi mugenyi era mutambuze gye muli: mumpe ekifo eky'okuziikangamu okuba obutaka mu nsi yammwe, nziike omulambo gwange obutagulabangako. 
+5 N'abaana ba Keesi ne baddamu Ibulayimu, nga bamu gamba nti 
+6 Otuwulire, mukama wange: ggwe oli mukungu mukulu mu ffe: ziika omulambo gwo mu ntaana yaffe gy'oneeroboza mu zonna; tewali mu ffe agenda okukumma entaana ye, obutaaiika omulambo gwo. 
+7 Ibulayimu n'agolokoka, n'awunamira abantu ab'omu nsi, be baana ba Keesi. 
+8 N'ayogera nabo, ng'agamba nti Bwe mwagala nze okuziika omulambo gwange obutagulabangako, mumpulire, munneegayiririre Efulooni omwana wa Zokali, 
+9 ampe empuku eya Mnkupeera, gy'alina, ekomerera mu lusuku lwe; aginguze omuwendo gwayo omulamba wakati mu mmwe okuba obutaka okuba entaana. 
+10 Efulooni yali atudde wakati mu baana ba Keesi; Efulooni Omukiiti n'addamu Ibulayimu abaana ba Keesi nga bamuwulira, be bonna abaayingira mu mulyango gw'ekibuga, ng'ayogera nti 
+11 Nedda, mukama wange, ompulire: olusuku ndukuwadde, n'empuku erulimu ngikuwadde; mu maaso g`abaana b'abantu bange ngikuwadde: ziika omulambo gwo. 
+12 Ibulayimu n'avuunama mu maaso g'abantu ab'omu nsi. 
+13 N'agamba Efulooni abantu ab'oImu nsi nga bamuwulira, ng'ayogera Inti Naye bw'onooyagala, nkwegayiIrira, ompulire: nnaasasula omuwendo gw'olusuku; gukkirize nkuwe, nange naaziika omwo omulambo gwange. 
+14 Efulooni n'addamu Ibulayimu, ng'amugamba nti 
+15 Mukama wange, ompulire: akasuku omuwendo gwako essekeri eza ffeeza ebina kintu ki eri nze naawe? kale ziika omulambo gwo. 
+16 Ibulayimu n'awulira Efulooni; Ibulayimu n'agerera Efulooni effeeza gye yali agambye abaana ba Keesi nga bamuwulira, essekeri eza ffeeza bina, nga effeeza eya bulijjo ey'omuguzi bwe yali. 
+17 Awo olusuku lwa Efulooni, olwali mu Makupeera, etunuulira Mamule, olusuku n'empuku eyalimu, n'emiti gyonna egyali mu lusuku, egyali mu nsalo yaalwo yonna okwetooloola, 
+18 byanywezebwa eri Ibulayimu okuba obutaka bwe mu maaso g'abaana ba Keesi, mu maaso ga bonna abaayingira mu mulyango gw'ekibuga kye. 
+19 Oluvannyuma lw'ebyo Ibulayimu n'aziika Saala mukazi we mu mpuku ey'omu lusuku olwa Makupeera etunuulira Mamule (ye Kebbulooni), mu nsi y'e Kanani. 
+20 N'olusuku n'empuku erulimu ne binywezebwa abaana ba Keesi eri Ibulayimu okuba obutaka bwe okuba ekifo eky'okuziikangamu.          
 
 

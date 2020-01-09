@@ -1,28 +1,27 @@
-1 Mukama n'agamba nti Laba, nkufudde Katonda eri Falaawo: era Alooni mugandawo alibeera nabbi wo.
- 2 Olyogera kye nkulagira: ne Alooni mugandawo aligamba Falaawo, aleke abaana ba Isiraeri bave mu nsi ye.
- 3 Nange ndikakanyaza omutima gwa Falaawo, ne nnyongeza obubonero bwange n'amagero mu nsi y'e Misiri.
- 4 Naye Falaawo talibawulira, nange nditeekako omukono gwange ku Misiri ne nfulumya eggye lyange, abantu bange abaana ba Isiraeri, mu nsi y'e Misiri, n'emisango eminene.
- 5 N’abo Abamisiri balimanya nga nze Mukama, bwe ndigolola omukono gwange ku Misiri, ne mbaggyayo abaana ba Isiraeri mu bo.
- 6 Musa ne Alooni ne bakola bwe batyo; Mukama nga bwe yabalagira: bwe batyo bwe baakola.
- 7 Ne Musa yali nga yaakamala emyaka kinaana: ne Alooni nga yaakamala kinaana mu esatu, bwe baayogera ne Falaawo.
- 8 Mukama n'agamba Musa ne Alooni ng'ayogera nti 9 Falaawo bw'alibagamba ng'ayogera nti Mukoleewo eky'amagero: n'olyoka ogamba Aloni nti Twala omuggo gwo ogusuule wansi mu maaso ga Falaawo, gube omusota.
- 10 Musa ne Alooni ne bayingira ewa Falaawo, ne bakola bwe batyo nga Mukama bwe yalagira: Aloni n’asuula omuggo gwe wansi mu maaso ga Falaawo ne mu maaso g’abaddube, ne guba omusota.
- 11 Falaawo naye nalyoka ayita abagezi n’abalogo: era nabo abasawo Abamisiri ne bakola bwe batyo n’amagezi gaabwe ag’ekyama.
- 12 Kubanga baasuula buli muntu omuggo gwe ne giba emisota naye omuggo gwa Alooni ne gumira emiggo gyabwe.
- 13 Falaawo omutima gwe ne gukakanyala, n'atabawulira; nga Mukama bwe yayogera.
- 14 Mukama n'agamba Musa nti Falaawo omutima gwe guzitowa, agaana okubaleka abantu.
- 15 Ogenda eri Falaawo enkya; laba, afuluma okugenda ku mugga; naawe oliyimirira ku mabbali g’omugga okumusisinkana; n’omuggo ogwafuuka omusota oligutwala mu mukono gwo.
- 16 N'omugamba nti Mukama, Katonda wa Baebulaniya, antumye gy’oli ng’ayogera nti Leka abantu bange, bampeerereze mu ddungu: era, laba, okutuusa kaakano towulira.
- 17 Bw’atyo Mukama bw'ayogera nti Ku kino kw’olimanyira nga nze Mukama: laba, ndikuba n’omuggo oguli mu mukono gwange ku mazzi agali mu mugga, galifuuka omusaayi.
- 18 N’eby’omu nnyanja birifa, omugga guliwunya: Abamisiri amazzi ag’omu mugga galibatama okunywako.
- 19 Mukama n’agamba Musa nti Gamba Alooni nti Twala omuggo gwo ogolole omukono gwo ku mazzi g’e Misiri, ku migga gyabwe, ku nsalosalo zaabwe, ne ku bidiba byabwe, ne ku nnyanja zaabwe zonna ez’amazzi, gafuuke omusaayi; era mulibeera omusaayi mu nsi yonna ey’e Misiri, mu ntiba ez’omuti ne mu nsuwa ez’amayinja.
- 20 Musa ne Alooni ne bakola bwe batyo nga Mukama bwe yalagira; n’ayimusa omuggo, n’akuba amazzi agali mu migga, mu maaso ga Falaawo ne mu maaso g’abaddu be; amazzi gonna agaali mu mugga ne gafuuka omusaayi.
- 21 N’eby’omu muagga ne bifa; omugga ne guwunya.
- Abamisiri ne batayinza kunywa amazzi mu mugga; omusaayi ne gubeera mu nsi yonna ey’e Misiri.
- 22 Ne bakola bwe batyo abasawo Abamisiri mu magezi gaabwe ag’ekyama; Falaawo omutima gwe ne gukakanyala, n'atabawulira; nga Mukama bwe yayogera.
- 23 Falaawo n’akyuka n’agenda mu nnyumba ye.
- 24 Abamisiri bonna ne basima kumpi n’omugga bafune amazzi ag’okunywa; kubanga amazzi ag’omu mugga tebaayinza kunywako.
- 25 Ennaku musanvu ne zituukirira, Mukama ng’amaze okukuba omugga.
-          
+1 Mukama n'agamba nti Laba, nkufudde Katonda eri Falaawo: era Alooni mugandawo alibeera nabbi wo. 
+2 Olyogera kye nkulagira: ne Alooni mugandawo aligamba Falaawo, aleke abaana ba Isiraeri bave mu nsi ye. 
+3 Nange ndikakanyaza omutima gwa Falaawo, ne nnyongeza obubonero bwange n'amagero mu nsi y'e Misiri. 
+4 Naye Falaawo talibawulira, nange nditeekako omukono gwange ku Misiri ne nfulumya eggye lyange, abantu bange abaana ba Isiraeri, mu nsi y'e Misiri, n'emisango eminene. 
+5 N’abo Abamisiri balimanya nga nze Mukama, bwe ndigolola omukono gwange ku Misiri, ne mbaggyayo abaana ba Isiraeri mu bo. 
+6 Musa ne Alooni ne bakola bwe batyo; Mukama nga bwe yabalagira: bwe batyo bwe baakola. 
+7 Ne Musa yali nga yaakamala emyaka kinaana: ne Alooni nga yaakamala kinaana mu esatu, bwe baayogera ne Falaawo. 
+8 Mukama n'agamba Musa ne Alooni ng'ayogera nti 
+9 Falaawo bw'alibagamba ng'ayogera nti Mukoleewo eky'amagero: n'olyoka ogamba Aloni nti Twala omuggo gwo ogusuule wansi mu maaso ga Falaawo, gube omusota. 
+10 Musa ne Alooni ne bayingira ewa Falaawo, ne bakola bwe batyo nga Mukama bwe yalagira: Aloni n’asuula omuggo gwe wansi mu maaso ga Falaawo ne mu maaso g’abaddube, ne guba omusota. 
+11 Falaawo naye nalyoka ayita abagezi n’abalogo: era nabo abasawo Abamisiri ne bakola bwe batyo n’amagezi gaabwe ag’ekyama. 
+12 Kubanga baasuula buli muntu omuggo gwe ne giba emisota naye omuggo gwa Alooni ne gumira emiggo gyabwe. 
+13 Falaawo omutima gwe ne gukakanyala, n'atabawulira; nga Mukama bwe yayogera. 
+14 Mukama n'agamba Musa nti Falaawo omutima gwe guzitowa, agaana okubaleka abantu. 
+15 Ogenda eri Falaawo enkya; laba, afuluma okugenda ku mugga; naawe oliyimirira ku mabbali g’omugga okumusisinkana; n’omuggo ogwafuuka omusota oligutwala mu mukono gwo. 
+16 N'omugamba nti Mukama, Katonda wa Baebulaniya, antumye gy’oli ng’ayogera nti Leka abantu bange, bampeerereze mu ddungu: era, laba, okutuusa kaakano towulira. 
+17 Bw’atyo Mukama bw'ayogera nti Ku kino kw’olimanyira nga nze Mukama: laba, ndikuba n’omuggo oguli mu mukono gwange ku mazzi agali mu mugga, galifuuka omusaayi. 
+18 N’eby’omu nnyanja birifa, omugga guliwunya: Abamisiri amazzi ag’omu mugga galibatama okunywako. 
+19 Mukama n’agamba Musa nti Gamba Alooni nti Twala omuggo gwo ogolole omukono gwo ku mazzi g’e Misiri, ku migga gyabwe, ku nsalosalo zaabwe, ne ku bidiba byabwe, ne ku nnyanja zaabwe zonna ez’amazzi, gafuuke omusaayi; era mulibeera omusaayi mu nsi yonna ey’e Misiri, mu ntiba ez’omuti ne mu nsuwa ez’amayinja. 
+20 Musa ne Alooni ne bakola bwe batyo nga Mukama bwe yalagira; n’ayimusa omuggo, n’akuba amazzi agali mu migga, mu maaso ga Falaawo ne mu maaso g’abaddu be; amazzi gonna agaali mu mugga ne gafuuka omusaayi. 
+21 N’eby’omu muagga ne bifa; omugga ne guwunya. Abamisiri ne batayinza kunywa amazzi mu mugga; omusaayi ne gubeera mu nsi yonna ey’e Misiri. 
+22 Ne bakola bwe batyo abasawo Abamisiri mu magezi gaabwe ag’ekyama; Falaawo omutima gwe ne gukakanyala, n'atabawulira; nga Mukama bwe yayogera. 
+23 Falaawo n’akyuka n’agenda mu nnyumba ye. 
+24 Abamisiri bonna ne basima kumpi n’omugga bafune amazzi ag’okunywa; kubanga amazzi ag’omu mugga tebaayinza kunywako. 
+25 Ennaku musanvu ne zituukirira, Mukama ng’amaze okukuba omugga.          
 
 

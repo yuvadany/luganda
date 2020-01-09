@@ -1,25 +1,33 @@
- 1 Kale nno, ab'oluganda, eby'ebirabo eby'omwoyo ssaagala mmwe obutabitegeera.
- 2 Mumanyi bwe mwali ab'amawanga nga mwakyamizibwanga eri ebifaananyi ebitoogera, nga mukyamizibwa mu ngeri yonna.
- 3 Kyenva mbategeeza nga siwali muntu bw'ayogera mu Mwoyo gwa Katonda agamba nti Yesu akolimiddwa; so siwali muntu ayinza okwogera nti Yesu ye Mukama waffe, wabula mu Mwoyo Omutukuvu.
- 4 Naye waliwo enjawulo z'ebirabo, naye Omwoyo ali omu.
- 5 Era waliwo enjawulo z'okuweereza, era Mukama waffe ali omu.
- 6 Era waliwo enjawulo z'okukola, naye Katonda ali omu, akola byonna mu bonna.
- 7 Naye buli muntu aweebwa okulagibwa kw'Omwoyo olw'okugasa.
- 8 Kubanga omulala Omwoyo amuweesa ekigambo eky'amagezi; n'omulala aweebwa ekigambo eky'okutegeeranga, ku bw'Omwoyo oyo: 9 omulala okukkiriza, ku bw'Omwoyo oyo; n'omulala ebirabo eby'okuwonyanga, ku bw'Omwoyo omu; 10 n’omulala okukolanga eby'amagero; n'omulala okubuuliranga; n'omulala okwawulanga emyoyo: omulala engeri z'ennimi; n'omulala okuvvuunuzanga ennimi: 11 naye ebyo byonna Omwoyo oyo omu ye abikola, ng'agabira buli muntu kinnoomu nga ye bw'ayagala.
- 12 Kuba omubiri nga bwe guli ogumu ne guba n'ebitundu ebingi n'ebitundu byonna eby'omubiri, newakubadde nga bingi, gwe mubiri gumu; era ne Kristo bw'atyo.
- 13 Kubanga mu Mwoyo omu fenna twabatizibwa okuyingira mu mubiri gumu, oba Bayudaaya oba Bayonaani, oba baddu oba ba ddembe; fenna ne tunywesebwa mu Mwoyo omu.
- 14 Kubanga n'omubiri si kitundu kimu, naye bingi.
- 15 Ekigere bwe kyogera nti Kubanga siri mukono, siri wa ku mubiri; olwekyo tekibeera ekitali kya ku mubiri.
- 16 Era okutu bwe kwogera nti Kubanga siri liiso, siri wa ku mubiri; olwekyo tekubeera okutali kwa ku mubiri.
- 17 Omubiri gwonna singa liiso, okuwulira kwandibadde wa? Gwonna singa kuwulira, okuwunyiriza kwandibadde wa? 18 Naye kaakano Katonda yassaawo ebitundu buli kinnakimu mu mubiri, nga bwe yayagala.
- 19 Era byonna singa kyali kitundu kimu, omubiri gwandibadde wa? 20 Naye kaakano ebitundu biri bingi, naye omubiri gumu.
- 21 N'eriiso teriyinza kugamba mukono nti Ggwe sikwetaaga: oba nate omutwe okugamba ebigere nti Mmwe sibeetaaga.
- 22 Naye, ekisinga ennyo, ebitundu bino eby'omubiri ebirowoozebwa okubeera ebinafu byetaagibwa: 23 n'ebyo eby'oku mubiri bye tulowooza obutaba na kitiibwa nnyo, bye twambaza ekitiibwa ekisinga obungi: n'ebitundu byaffe ebitali birungi bye bisinga okubeera n'obulungi; 24 naye ebirungi byaffe tebyetaaga: naye Katonda yagattira ddala wamu omubiri, ekitundu ekyabulako ng'akiwa ekitiibwa ekisinga obungi; 25 walemenga okubeera okwawula mu mubiri; naye ebitundu biyambaganenga bumu byokka na byokka.
- 26 Era ekitundu ekimu bwe kibonaabona, ebitundu byonna bibonerabanera wamu nakyo; oba ekitundu ekimu bwe kigulumizibwa, ebitundu byonna bisanyukira wamu nakyo.
- 27 Naye mmwe muli mubiri gwa Kristo, n'ebitundu byagwo, buli muntu.
- 28 Era Katonda yassaawo mu kkanisa abalala, okusooka batume, ab'okubiri bannabbi, ab'okusatu bayigiriza, nate eby'amagero, nate ebirabo eby'okuwonyanga, abayambi, abafuga, aboogezi b'ennimi.
- 29 Bonna batume? bonna bannabbi? bonna bayigiriza? bonna bakola eby'amagero? 30 bonna balina ebirabo eby'okuwonyanga? bonna boogera ennimi? bonna baavvuunula? 31 Naye mwegombenga ebirabo ebisinga obukulu.
- Era mbalaga ekkubo erisinga ennyo obulungi.
-          
+ 1 Kale nno, ab'oluganda, eby'ebirabo eby'omwoyo ssaagala mmwe obutabitegeera. 
+2 Mumanyi bwe mwali ab'amawanga nga mwakyamizibwanga eri ebifaananyi ebitoogera, nga mukyamizibwa mu ngeri yonna. 
+3 Kyenva mbategeeza nga siwali muntu bw'ayogera mu Mwoyo gwa Katonda agamba nti Yesu akolimiddwa; so siwali muntu ayinza okwogera nti Yesu ye Mukama waffe, wabula mu Mwoyo Omutukuvu. 
+4 Naye waliwo enjawulo z'ebirabo, naye Omwoyo ali omu. 
+5 Era waliwo enjawulo z'okuweereza, era Mukama waffe ali omu. 
+6 Era waliwo enjawulo z'okukola, naye Katonda ali omu, akola byonna mu bonna. 
+7 Naye buli muntu aweebwa okulagibwa kw'Omwoyo olw'okugasa. 
+8 Kubanga omulala Omwoyo amuweesa ekigambo eky'amagezi; n'omulala aweebwa ekigambo eky'okutegeeranga, ku bw'Omwoyo oyo: 
+9 omulala okukkiriza, ku bw'Omwoyo oyo; n'omulala ebirabo eby'okuwonyanga, ku bw'Omwoyo omu; 
+10 n’omulala okukolanga eby'amagero; n'omulala okubuuliranga; n'omulala okwawulanga emyoyo: omulala engeri z'ennimi; n'omulala okuvvuunuzanga ennimi: 
+11 naye ebyo byonna Omwoyo oyo omu ye abikola, ng'agabira buli muntu kinnoomu nga ye bw'ayagala. 
+12 Kuba omubiri nga bwe guli ogumu ne guba n'ebitundu ebingi n'ebitundu byonna eby'omubiri, newakubadde nga bingi, gwe mubiri gumu; era ne Kristo bw'atyo. 
+13 Kubanga mu Mwoyo omu fenna twabatizibwa okuyingira mu mubiri gumu, oba Bayudaaya oba Bayonaani, oba baddu oba ba ddembe; fenna ne tunywesebwa mu Mwoyo omu. 
+14 Kubanga n'omubiri si kitundu kimu, naye bingi. 
+15 Ekigere bwe kyogera nti Kubanga siri mukono, siri wa ku mubiri; olwekyo tekibeera ekitali kya ku mubiri. 
+16 Era okutu bwe kwogera nti Kubanga siri liiso, siri wa ku mubiri; olwekyo tekubeera okutali kwa ku mubiri. 
+17 Omubiri gwonna singa liiso, okuwulira kwandibadde wa? Gwonna singa kuwulira, okuwunyiriza kwandibadde wa? 
+18 Naye kaakano Katonda yassaawo ebitundu buli kinnakimu mu mubiri, nga bwe yayagala. 
+19 Era byonna singa kyali kitundu kimu, omubiri gwandibadde wa? 
+20 Naye kaakano ebitundu biri bingi, naye omubiri gumu. 
+21 N'eriiso teriyinza kugamba mukono nti Ggwe sikwetaaga: oba nate omutwe okugamba ebigere nti Mmwe sibeetaaga. 
+22 Naye, ekisinga ennyo, ebitundu bino eby'omubiri ebirowoozebwa okubeera ebinafu byetaagibwa: 
+23 n'ebyo eby'oku mubiri bye tulowooza obutaba na kitiibwa nnyo, bye twambaza ekitiibwa ekisinga obungi: n'ebitundu byaffe ebitali birungi bye bisinga okubeera n'obulungi; 
+24 naye ebirungi byaffe tebyetaaga: naye Katonda yagattira ddala wamu omubiri, ekitundu ekyabulako ng'akiwa ekitiibwa ekisinga obungi; 
+25 walemenga okubeera okwawula mu mubiri; naye ebitundu biyambaganenga bumu byokka na byokka. 
+26 Era ekitundu ekimu bwe kibonaabona, ebitundu byonna bibonerabanera wamu nakyo; oba ekitundu ekimu bwe kigulumizibwa, ebitundu byonna bisanyukira wamu nakyo. 
+27 Naye mmwe muli mubiri gwa Kristo, n'ebitundu byagwo, buli muntu. 
+28 Era Katonda yassaawo mu kkanisa abalala, okusooka batume, ab'okubiri bannabbi, ab'okusatu bayigiriza, nate eby'amagero, nate ebirabo eby'okuwonyanga, abayambi, abafuga, aboogezi b'ennimi. 
+29 Bonna batume? bonna bannabbi? bonna bayigiriza? bonna bakola eby'amagero? 
+30 bonna balina ebirabo eby'okuwonyanga? bonna boogera ennimi? bonna baavvuunula? 
+31 Naye mwegombenga ebirabo ebisinga obukulu. Era mbalaga ekkubo erisinga ennyo obulungi.          
 
 

@@ -1,29 +1,37 @@
-1 Awo Yobu n'addamu n'ayogera nti 2 Mazima mmanyi nga bwe kiri bwe kityo: Naye omuntu ayinza atya okuba n'obutuukirivu eri Katonda? 3 Bw'aba nga ayagadde okuwakana naye Tayinza kumuddamu kigambo na kimu mu lukumi.
- 4 Omutima gwe gwa magezi, era amaanyi ge mangi:.
- Ani eyali yeekakanyazizza eri ye n'alaba omukisa? 5 Ajjulula ensozi ne zitamanya, Bw'azivuunisa obusungu bwe.
- 6 Anyeenya ensi okuva mu kifo kyayo, Empagi zaayo ne zikankana.
- 7 Alagira enjuba n'etevaayo; Era ateekako akabonero ku mmunyeenye.
- 8 Abamba eggulu yekka, Era alinnyirira amayengo ag'ennyanja.
- 9 Akola Nabaliyo, Entungalugoye, ne Kakaaga, N'ebisenge eby'obukiika obwa ddyo.
- 10 Akola ebikulu ebitanoonyezeka; Weewaawo, eby'ekitalo ebitabalika.
- 11 Laba, ampitako, ne ssimulaba: Era yeeyongerayo mu maaso, naye ne ssimutegeera.
- 12 Laba, akwata omuyiggo, ani ayinza okumuziyiza? Ani anaamugamba nti Okola ki? 13 Katonda taggyengawo busungu bwe; Ababeezi ba Lakabu bakutama wansi we.
- 14 Nze sirisinga nnyo obutamuddamu, Ne nneerobaza ebigambo byange mpakane naye? 15 Gwe sandizeemu newakubadde nga ndi mutuukirivu; Nandyegayidde omulabe wange.
- 16 Singa nkoowodde naye ng'ajitabye; Era naye sandikkirizza ng'awulidde eddoboozi lyange.
- 17 Kubanga ammenya ne kibuyaga, Era ayongera ebiwundu byange okunnanga obwereere.
- 18 Taŋŋanyenga kussa mukka, Naye anjijuza obubalagaze.
- 19 Bwe twogera ku maanyi ag'omuyinza, laba, nga waali!
- Bwe twogera ku kusala omusango, ani ananteekerawo ekiseera? 20 Newakubadde nga ndi mutuukirivu, akamwa kange nze ke kanansalira omusango okunsinga: Newakubadde nga natuukirira, kanantegeeza okuba omukyamu.
- 21 Nze ndi muntu eyatuukirira; seerowooza nzekka; Nnyooma obulamu bwange.
- 22 Bwonna bwe bumu; kyenva njogera nti Azikiriza oyo eyatuukirira n'omubi.
- 23 Ekibonyoobonyo bwe kitta amangu ago, Alikudaalira okusalirwa omusango okw'abataliiko kabi.
- 24 Ensi eweereddwayo mu mukono gw'omubi : Abikka ku maaso g'abalamuzi baayo; Oba nga si ye, kale ye ani? 25 Ennaku zange nno ziwulukuka mangu okusinga omubaka: Zidduka, teziriiko bulungi bwe ziraba.
- 26 Ziyise ng'amaato agatambula embiro Ng'empungu ekka ku muyiggo.
- 27 Bwe njogera nti Nneerabira okwemulugunya kwange, Naasanyusa amaaso gange aganakuwadde ne ŋŋumya omwoyo: 28 Awo nga ntidde obuyinike bwange bwonna, Mmanyi nga tolimpita ataliiko musango.
- 29 Omusango gulinsinga; Kale kiki ekinteganyisa obwereere? 30 Bwe nnaaba amazzi ag'omuzira, Engalo zange newakubadde nga nzitukuza ntya; 31 Era naye olinsuula mu lusalosalo, N'engoye zange nze zirintamwa.
- 32 Kubanga ye si muntu nga nze bwe ndi, nze okumuddamu, Ffe okulabagana okuwoza omusango.
- 33 Tewali mulamuzi ali wakati waffe, Eyandiyinzizza okuteeka omukono gwe ku ffe fembi.
- 34 Anziyeeko omuggo gwe, So entiisa ye ereme okunkanga: 35 Kale bwe nnandyogedde ne simutya: Kubanga si bwe ntyo bwe ndi nze nzekka.
-          
+1 Awo Yobu n'addamu n'ayogera nti 
+2 Mazima mmanyi nga bwe kiri bwe kityo: Naye omuntu ayinza atya okuba n'obutuukirivu eri Katonda? 
+3 Bw'aba nga ayagadde okuwakana naye Tayinza kumuddamu kigambo na kimu mu lukumi. 
+4 Omutima gwe gwa magezi, era amaanyi ge mangi:. Ani eyali yeekakanyazizza eri ye n'alaba omukisa? 
+5 Ajjulula ensozi ne zitamanya, Bw'azivuunisa obusungu bwe. 
+6 Anyeenya ensi okuva mu kifo kyayo, Empagi zaayo ne zikankana. 
+7 Alagira enjuba n'etevaayo; Era ateekako akabonero ku mmunyeenye. 
+8 Abamba eggulu yekka, Era alinnyirira amayengo ag'ennyanja. 
+9 Akola Nabaliyo, Entungalugoye, ne Kakaaga, N'ebisenge eby'obukiika obwa ddyo. 
+10 Akola ebikulu ebitanoonyezeka; Weewaawo, eby'ekitalo ebitabalika. 
+11 Laba, ampitako, ne ssimulaba: Era yeeyongerayo mu maaso, naye ne ssimutegeera. 
+12 Laba, akwata omuyiggo, ani ayinza okumuziyiza? Ani anaamugamba nti Okola ki? 
+13 Katonda taggyengawo busungu bwe; Ababeezi ba Lakabu bakutama wansi we. 
+14 Nze sirisinga nnyo obutamuddamu, Ne nneerobaza ebigambo byange mpakane naye? 
+15 Gwe sandizeemu newakubadde nga ndi mutuukirivu; Nandyegayidde omulabe wange. 
+16 Singa nkoowodde naye ng'ajitabye; Era naye sandikkirizza ng'awulidde eddoboozi lyange. 
+17 Kubanga ammenya ne kibuyaga, Era ayongera ebiwundu byange okunnanga obwereere. 
+18 Taŋŋanyenga kussa mukka, Naye anjijuza obubalagaze. 
+19 Bwe twogera ku maanyi ag'omuyinza, laba, nga waali! Bwe twogera ku kusala omusango, ani ananteekerawo ekiseera? 
+20 Newakubadde nga ndi mutuukirivu, akamwa kange nze ke kanansalira omusango okunsinga: Newakubadde nga natuukirira, kanantegeeza okuba omukyamu. 
+21 Nze ndi muntu eyatuukirira; seerowooza nzekka; Nnyooma obulamu bwange. 
+22 Bwonna bwe bumu; kyenva njogera nti Azikiriza oyo eyatuukirira n'omubi. 
+23 Ekibonyoobonyo bwe kitta amangu ago, Alikudaalira okusalirwa omusango okw'abataliiko kabi. 
+24 Ensi eweereddwayo mu mukono gw'omubi : Abikka ku maaso g'abalamuzi baayo; Oba nga si ye, kale ye ani? 
+25 Ennaku zange nno ziwulukuka mangu okusinga omubaka: Zidduka, teziriiko bulungi bwe ziraba. 
+26 Ziyise ng'amaato agatambula embiro Ng'empungu ekka ku muyiggo. 
+27 Bwe njogera nti Nneerabira okwemulugunya kwange, Naasanyusa amaaso gange aganakuwadde ne ŋŋumya omwoyo: 
+28 Awo nga ntidde obuyinike bwange bwonna, Mmanyi nga tolimpita ataliiko musango. 
+29 Omusango gulinsinga; Kale kiki ekinteganyisa obwereere? 
+30 Bwe nnaaba amazzi ag'omuzira, Engalo zange newakubadde nga nzitukuza ntya; 
+31 Era naye olinsuula mu lusalosalo, N'engoye zange nze zirintamwa. 
+32 Kubanga ye si muntu nga nze bwe ndi, nze okumuddamu, Ffe okulabagana okuwoza omusango. 
+33 Tewali mulamuzi ali wakati waffe, Eyandiyinzizza okuteeka omukono gwe ku ffe fembi. 
+34 Anziyeeko omuggo gwe, So entiisa ye ereme okunkanga: 
+35 Kale bwe nnandyogedde ne simutya: Kubanga si bwe ntyo bwe ndi nze nzekka.          
 
 

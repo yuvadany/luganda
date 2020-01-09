@@ -1,30 +1,38 @@
-1 Amagezi tegoogerera waggulu N'okutegeera tekuleeta ddoboozi lyakwo? 2 Enguudo we zisibuka mu kkubo Mu masaŋŋanzira we gayimirira; 3 Ku mabbali g'emiryango awayingirirwa mu kibuga, Abantu we bayingirira awali enzigi googerera waggulu: 4 Mmwe abasajja, mbakoowoola; N'eddoboozi lyange liri eri abaana b'abantu.
- 5 Mmwe abatalina magezi, mutegeerenga obukabakaba; Nammwe, abasirusiru, mubeerenga n'omutima ogutegeera.
- 6 Muwulire, kubanga naayogera ebigambo ebirungi ennyo; N'okwasama emimwa gyange kunaavaamu eby'ensonga.
- 7 Kubanga akamwa kange kanaayogera eby'amazima; N'obubi bwa muzizo eri emimwa gyange.
- 8 Ebigambo byonna eby'omu kamwa kange biri mu butuukirivu; Mu byo temuli kintu ekikyamakyama newakubadde ekyenyodde.
- 9 Byonna byangu eri oyo ategeera, Era bya nsonga eri abo abalaba okumanya.
- 10 Mukkirize okuyigiriza kwange so si ffeeza; N'okumanya okukira zaabu ennonde.
- 11 Kubanga amagezi gasinga amayinja amatwakaavu; N'ebintu byonna ebiyinzika okwegombebwa tebyenkanyankanyizibwa nago.
- 12 Nze amagezi nfudde obukabakaba okuba ennyumba yange Era nnoonya okumanya n'okuteesa.
- 13 Okutya Mukama kwe kukyawa obubi; Amalala n'essukuti n'ekkubo ebbi N'akamwa akabambaavu bye nkyawa.
- 14 Okuteesa kwange n'okumanya okutuufu: Nze ndi kutegeera; nnina amaanyi.
- 15 Ku bwange bakabaka bafuga, Abalangira ne bateeka eby'obutuukiruvu.
- 16 Ku bwange abalangira bafuga, N'abakungu, abalamuzi bonna ab'oku nsi: 17 Njagala abo abanjagala; N’abo abanyiikira okunnoonya balindaba.
- 18 Obugagga n’ekitiibwa biri nange; Wewaawo, obugagga obw’enkalakkalira n’obutuukirivu.
- 19 Ebibala byange bisinga zaabu obulungi, weewaawo, zaabu ennungi; N'amagoba gange gakira ffeeza ennonde.
- 20 Ntambulira mu kkubo ery'obutuukirivu, Wakati mu mpenda ez'okusala emisango: 21 Ndyoke mpe abo abanjagala okusikira ebintu, Era njijuze amawanika gaabwe.
- 22 Mukama yali nange ekkubo lye we lyasookera, Okusooka emirimu gye egy'edda.
- 23 Nateekebwawo okuva emirembe n'emirembe, okuva ku lubereberye, Ensi nga tennabaawo.
- 24 Nga tewannabaawo buziba, nazaalibwa; Ensulo ezijjudde amazzi nga tezinnabaawo.
- 25 Ensozi nga tezinnaba kussibwawo, Nasooka obusozi okuzaalibwa: 26 Ye nga tannatonda nsi newakubadde ennimiro, Newakubadde enfuufu ey'ensi eyasooka.
- 27 Bwe yanyweza eggulu, nze naliyo: Bwe yakulunga amaaso g'obuziba: 28 Bwe yanyweza eggulu waggulu: Ensulo ez'ennyanja bwe zaafuuka ez'amaanyi: omubi yeetonnyezaako ebbala.
- 29 Bwe yawa ennyanja ensalo yaayo, Amazzi galemenga okusobya ekiragiro kye: Bwe yalamba emisingi gy'ensi: 30 Kale nze nga ndi awo gy'ali ng'omukoza: Era bulijjo yansanyukiranga, Nga njaguliza bulijjo mu maaso ge; 31 Nga nsanyukira ensi ye ebeerekamu; N'essanyu lyange lyali n'abaana b'abantu.
- 32 Kale nno, baana bange, mumpulirenga: Kubanga balina omukisa abakwata amakubo gange.
- 33 Muwulirenga okuyigirizibwa mubenga n’amagezi, So temugagaananga.
- 34 Alina omukisa omuntu ampulira, Ng'atunuulira bulijjo ku nzigi zange, Ng'alinda awali emifuubeeto gy'enzigi zange.
- 35 Kubanga buli alaba nze alaba bulamu, Era alifuna okuganja eri Mukama.
- 36 Naye oyo annyonoona asobya obulamu bwe ye: Bonna abakyawa nze baagala okufa.
-          
+1 Amagezi tegoogerera waggulu N'okutegeera tekuleeta ddoboozi lyakwo? 
+2 Enguudo we zisibuka mu kkubo Mu masaŋŋanzira we gayimirira; 
+3 Ku mabbali g'emiryango awayingirirwa mu kibuga, Abantu we bayingirira awali enzigi googerera waggulu: 
+4 Mmwe abasajja, mbakoowoola; N'eddoboozi lyange liri eri abaana b'abantu. 
+5 Mmwe abatalina magezi, mutegeerenga obukabakaba; Nammwe, abasirusiru, mubeerenga n'omutima ogutegeera. 
+6 Muwulire, kubanga naayogera ebigambo ebirungi ennyo; N'okwasama emimwa gyange kunaavaamu eby'ensonga. 
+7 Kubanga akamwa kange kanaayogera eby'amazima; N'obubi bwa muzizo eri emimwa gyange. 
+8 Ebigambo byonna eby'omu kamwa kange biri mu butuukirivu; Mu byo temuli kintu ekikyamakyama newakubadde ekyenyodde. 
+9 Byonna byangu eri oyo ategeera, Era bya nsonga eri abo abalaba okumanya. 
+10 Mukkirize okuyigiriza kwange so si ffeeza; N'okumanya okukira zaabu ennonde. 
+11 Kubanga amagezi gasinga amayinja amatwakaavu; N'ebintu byonna ebiyinzika okwegombebwa tebyenkanyankanyizibwa nago. 
+12 Nze amagezi nfudde obukabakaba okuba ennyumba yange Era nnoonya okumanya n'okuteesa. 
+13 Okutya Mukama kwe kukyawa obubi; Amalala n'essukuti n'ekkubo ebbi N'akamwa akabambaavu bye nkyawa. 
+14 Okuteesa kwange n'okumanya okutuufu: Nze ndi kutegeera; nnina amaanyi. 
+15 Ku bwange bakabaka bafuga, Abalangira ne bateeka eby'obutuukiruvu. 
+16 Ku bwange abalangira bafuga, N'abakungu, abalamuzi bonna ab'oku nsi: 
+17 Njagala abo abanjagala; N’abo abanyiikira okunnoonya balindaba. 
+18 Obugagga n’ekitiibwa biri nange; Wewaawo, obugagga obw’enkalakkalira n’obutuukirivu. 
+19 Ebibala byange bisinga zaabu obulungi, weewaawo, zaabu ennungi; N'amagoba gange gakira ffeeza ennonde. 
+20 Ntambulira mu kkubo ery'obutuukirivu, Wakati mu mpenda ez'okusala emisango: 
+21 Ndyoke mpe abo abanjagala okusikira ebintu, Era njijuze amawanika gaabwe. 
+22 Mukama yali nange ekkubo lye we lyasookera, Okusooka emirimu gye egy'edda. 
+23 Nateekebwawo okuva emirembe n'emirembe, okuva ku lubereberye, Ensi nga tennabaawo. 
+24 Nga tewannabaawo buziba, nazaalibwa; Ensulo ezijjudde amazzi nga tezinnabaawo. 
+25 Ensozi nga tezinnaba kussibwawo, Nasooka obusozi okuzaalibwa: 
+26 Ye nga tannatonda nsi newakubadde ennimiro, Newakubadde enfuufu ey'ensi eyasooka. 
+27 Bwe yanyweza eggulu, nze naliyo: Bwe yakulunga amaaso g'obuziba: 
+28 Bwe yanyweza eggulu waggulu: Ensulo ez'ennyanja bwe zaafuuka ez'amaanyi: omubi yeetonnyezaako ebbala. 
+29 Bwe yawa ennyanja ensalo yaayo, Amazzi galemenga okusobya ekiragiro kye: Bwe yalamba emisingi gy'ensi: 
+30 Kale nze nga ndi awo gy'ali ng'omukoza: Era bulijjo yansanyukiranga, Nga njaguliza bulijjo mu maaso ge; 
+31 Nga nsanyukira ensi ye ebeerekamu; N'essanyu lyange lyali n'abaana b'abantu. 
+32 Kale nno, baana bange, mumpulirenga: Kubanga balina omukisa abakwata amakubo gange. 
+33 Muwulirenga okuyigirizibwa mubenga n’amagezi, So temugagaananga. 
+34 Alina omukisa omuntu ampulira, Ng'atunuulira bulijjo ku nzigi zange, Ng'alinda awali emifuubeeto gy'enzigi zange. 
+35 Kubanga buli alaba nze alaba bulamu, Era alifuna okuganja eri Mukama. 
+36 Naye oyo annyonoona asobya obulamu bwe ye: Bonna abakyawa nze baagala okufa.          
 
 

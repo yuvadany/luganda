@@ -1,27 +1,34 @@
- 1 Ne kuno kwe kuzaala kw'abaana ba Nuuwa, Seemu, Kaamu ne Yafeesi: abaana ne babazaalirwa amataba nga gamaze okubaawo.
- 2 Abaana ba Yafeesi: Gomeri, ne Magogi, ne Madayi, ne Yivani, ne Tubali, ne Meseki, ne Tirasi.
- 3 N'abaana ba Gomeri: Asukenaazi, ne Lifasi, ne Togaluma.
- 4 N'abaana ba Yavani: Erisa, ne Talusiisi, Kitimu, ne Dodanimu.
- 5 Abo be baagabirwa ebizinga eby'amawanga mu nsi zaabwe, buli muntu ng'olulimi lwe bwe lwali; ng'ebika byabwe bwe byali, mu mawanga gaabwe.
- 6 N'abaana ba Kaamu: Kuusi, ne Mizulayimu, ne Puuti, ne Kanani.
- 7 N'abaana ba Kuusi: Seeba, ne Kavira, ne Sabuta, ne Laama, ne Sabuteka: n'abaana ba Laama: Seeba, ne Dedaai.
- 8 Kuusi n'azaala Nimuloodi; n'atanula okuba ow'amaanyi mu nsi.
- 9 Yali muyizzi wa maanyi mu maaso ga Mukama: kyekiva kyogerwa nti Nga Nimuloodi omuyizzi ow'amaanyi mu maaso ga Mukama.
- 10 N'okusooka kw'obwakabaka bwe kwali Baberi, ne Ereki, ne Akudi, ne Kalune, mu nsi Sinali.
- 11 N'ava mu nsi omwo n'agenda mu Bwasuli, n’azimba Nineeve, ne Lekobosiyira, ne Kala, 12 ne Leseni ekiri wakati wa Nineeve ne Kala (ekyo kye kibuga ekinene).
- 13 Mizulayimu n'azaala Ludimu, ne Anamimu, ne Lekabimu, ne Nafutukimu, 14 ne Pasulusimu, ne Kasulukimu (omwava Abafirisuuti), ne Kafutolimu.
- 15 Kanani n'azaala Zidoni omubereberye we, ne Keesi, 16 n'Omuyebusi, n'Omwamoli, n'Omugirugaasi; 17 n'Omukiivi, n'Omwaluki, n'Omusiini; 18 n'Omwaluvada, n'Omuzemali, n'Omukamasi; n'ebika eby'Omukanani ne biddirira abo okubuna.
- 19 N'ensalo ey'Omukanani yava mu Zidoni, ng'ogenda e Gerali, n'etuuka ku Gaza; era yatuuka ku Lasa, ng'ogenda e Sodoma ne Ggomola ne Aduma ne Zeboyimu.
- 20 Abo be baana ba Kaamu, ebika byabwe nga bwe byali, n'ennimi zaabwe, mu nsi zaabwe, mu mawanga gaabwe.
- 21 Era ne Seemu, jjajja w'abaana bonna aba Eberi, muganda wa Yafeesi omukulu, naye n'azaalirwa abaana.
- 22 Abaana ba Seemu: Eramu, ne Asuli, ne Alupakusaadi ne Ludi, ne Alamu.
- 23 N'abaana ba Alamu: Uzi, ne Kuuli, ne Ggeseri, ne Masi.
- 24 Ne Alupakusaadi n'azaala Seera; Seera n'azaala Eberi.
- 25 Eberi n'azaalirwa abaana babiri: erinnya ly'omu Peregi; kubanga mu nnaku ze ensi zonna mwe zaagabirwa; n'erinnya lya muganda we Yokutaani.
- 26 Yokutaani n'azaala Alumodaadi, ne Serefu, ne Kazalumaveesi, ne Yera; 27 ne Kadolaamu, ne Uzali, ne Dikula; 28 Ane Obali, ne Abimayeeri, ne Seeba; 29 ne Ofiri, ne Kavira, ne Yobabu: abo bonna baana ba Yokutaani.
- 30 N'ensi gye baatuulamu yava ku Mesa, ng'ogenda e Serali, olusozi olw'ebuvanjuba.
- 31 Abo be baana ba Seemu, ebika byabwe nga bwe byali, n'ennimi zaabwe, mu nsi zaabwe, amawanga gaabwe nga bwe gaali.
- 32 Ebyo bye bika eby'abaana ba Nuuwa, ng'okuzaalibwa kwabwe bwe kwali, mu mawanga gaabwe: era mu abo mwe gaava amawanga okwawulirwa mu nsi amataba nga gamaze okubaawo.
-          
+ 1 Ne kuno kwe kuzaala kw'abaana ba Nuuwa, Seemu, Kaamu ne Yafeesi: abaana ne babazaalirwa amataba nga gamaze okubaawo. 
+2 Abaana ba Yafeesi: Gomeri, ne Magogi, ne Madayi, ne Yivani, ne Tubali, ne Meseki, ne Tirasi. 
+3 N'abaana ba Gomeri: Asukenaazi, ne Lifasi, ne Togaluma. 
+4 N'abaana ba Yavani: Erisa, ne Talusiisi, Kitimu, ne Dodanimu. 
+5 Abo be baagabirwa ebizinga eby'amawanga mu nsi zaabwe, buli muntu ng'olulimi lwe bwe lwali; ng'ebika byabwe bwe byali, mu mawanga gaabwe. 
+6 N'abaana ba Kaamu: Kuusi, ne Mizulayimu, ne Puuti, ne Kanani. 
+7 N'abaana ba Kuusi: Seeba, ne Kavira, ne Sabuta, ne Laama, ne Sabuteka: n'abaana ba Laama: Seeba, ne Dedaai. 
+8 Kuusi n'azaala Nimuloodi; n'atanula okuba ow'amaanyi mu nsi. 
+9 Yali muyizzi wa maanyi mu maaso ga Mukama: kyekiva kyogerwa nti Nga Nimuloodi omuyizzi ow'amaanyi mu maaso ga Mukama. 
+10 N'okusooka kw'obwakabaka bwe kwali Baberi, ne Ereki, ne Akudi, ne Kalune, mu nsi Sinali. 
+11 N'ava mu nsi omwo n'agenda mu Bwasuli, n’azimba Nineeve, ne Lekobosiyira, ne Kala, 
+12 ne Leseni ekiri wakati wa Nineeve ne Kala (ekyo kye kibuga ekinene). 
+13 Mizulayimu n'azaala Ludimu, ne Anamimu, ne Lekabimu, ne Nafutukimu, 
+14 ne Pasulusimu, ne Kasulukimu (omwava Abafirisuuti), ne Kafutolimu. 
+15 Kanani n'azaala Zidoni omubereberye we, ne Keesi, 
+16 n'Omuyebusi, n'Omwamoli, n'Omugirugaasi; 
+17 n'Omukiivi, n'Omwaluki, n'Omusiini; 
+18 n'Omwaluvada, n'Omuzemali, n'Omukamasi; n'ebika eby'Omukanani ne biddirira abo okubuna. 
+19 N'ensalo ey'Omukanani yava mu Zidoni, ng'ogenda e Gerali, n'etuuka ku Gaza; era yatuuka ku Lasa, ng'ogenda e Sodoma ne Ggomola ne Aduma ne Zeboyimu. 
+20 Abo be baana ba Kaamu, ebika byabwe nga bwe byali, n'ennimi zaabwe, mu nsi zaabwe, mu mawanga gaabwe. 
+21 Era ne Seemu, jjajja w'abaana bonna aba Eberi, muganda wa Yafeesi omukulu, naye n'azaalirwa abaana. 
+22 Abaana ba Seemu: Eramu, ne Asuli, ne Alupakusaadi ne Ludi, ne Alamu. 
+23 N'abaana ba Alamu: Uzi, ne Kuuli, ne Ggeseri, ne Masi. 
+24 Ne Alupakusaadi n'azaala Seera; Seera n'azaala Eberi. 
+25 Eberi n'azaalirwa abaana babiri: erinnya ly'omu Peregi; kubanga mu nnaku ze ensi zonna mwe zaagabirwa; n'erinnya lya muganda we Yokutaani. 
+26 Yokutaani n'azaala Alumodaadi, ne Serefu, ne Kazalumaveesi, ne Yera; 
+27 ne Kadolaamu, ne Uzali, ne Dikula; 
+28 Ane Obali, ne Abimayeeri, ne Seeba; 
+29 ne Ofiri, ne Kavira, ne Yobabu: abo bonna baana ba Yokutaani. 
+30 N'ensi gye baatuulamu yava ku Mesa, ng'ogenda e Serali, olusozi olw'ebuvanjuba. 
+31 Abo be baana ba Seemu, ebika byabwe nga bwe byali, n'ennimi zaabwe, mu nsi zaabwe, amawanga gaabwe nga bwe gaali. 
+32 Ebyo bye bika eby'abaana ba Nuuwa, ng'okuzaalibwa kwabwe bwe kwali, mu mawanga gaabwe: era mu abo mwe gaava amawanga okwawulirwa mu nsi amataba nga gamaze okubaawo.          
 
 

@@ -1,17 +1,19 @@
-1 Naawe, omwana w'omuntu, ddira ekitala eky'obwogi, okyeddirire ng'akamwano ak'omumwi, okiyise ku mutwe gwo ne ku kirevu kyo: kale otwale eminzaani okupima, oyawule mu nviiri.
- 2 Ekitundu eky'okusatu okyokeranga mu muliro wakati mu kibuga, ennaku ez'okuzingiza nga zituukiridde; n'ekitundu eky'okusatu okiddiranga, n'otema n'ekitala okukyetooloola; n'ekitundu eky'okusatu okisaasaanyizanga eri empewo, nange ndisowola ekitala ekiribagoberera.
- 3 Era otwalangako omuwendo gwazo si nnyingi n'ozisiba mu kirenge kyo.
- 4 Era ne ku ezo otwalangako, ozisuule mu muliro wakati, ozookere mu muliro; mu zo omuliro mwe guliva ogulibuna ennyumba yonna eya Isiraeri.
- 5 Bw'ati bw'ayogera Mukama Katonda nti Kino ye Yerusaalemi: nkitadde wakati mu mawanga, n'ensi zikyetoolodde.
- 6 Era kyajeemera emisango gyange nga kikola obubi okusinga amawanga, era kijeemedde amateeka gange okusinga ensi ezikyetoolodde: kubanga bagaanyi emisango gyange, n'amateeka gange tebagatambuliddemu.
- 7 Mukama Katonda kyava ayogera bw'ati nti Kubanga muli ba mawaggali okukira amawanga agabeetoolodde, so temutambulidde mu mateeka gange, so temukutte misango gyange, so temukoze ng'ebiragiro bwe biri eby'amawanga agabeetoolodde; 8 Mukama Katonda kyava ayogera bw'ati nti Laba, nze, nze mwene, ndi mulabe wo; era ndituukiriza emisango wakati mu ggwe amawanga nga galaba.
- 9 Era ndikolera mu ggwe ekyo kye ssikolanga, era kye ssigenda kukola nate ekiri bwe kityo, olw'emizizo gyo gyonna.
- 10 Bakitaabwe kyebaliva baliira abaana wakati mu ggwe, n'abaana balirya bakitaabwe: era ndituukiririza emisango mu ggwe, n'ekitundu kyo kyonna ekifisseewo ndikisaasaanyiza eri empewo zonna.
- 11 Kale, nga bwe ndi omulamu, bw'ayogera Mukama Katonda, kubanga wayonoona awatukuvu wange n'ebibyo byonna eby'ebivve n'ebibyo byonna eby'emizizo, nange kyendiva nkukendeeza; so n'amaaso gange tegalisonyiwa so nange sirikwatibwa kisa.
- 12 Ekitundu kyo eky'okusatu kirifa kawumpuli, era balimalibwawo n'enjala wakati mu ggwe; n'ekitundu eky'okusatu kirigwa n'ekitala okukwetooloola; n'ekitundu eky'okusatu ndikisaasaanyiza eri empewo zonna, n'ensowola ekitala ekiribagoberera.
- 13 Obusungu bwange bwe bulituukirira bwe butyo, era ndikkusa ekiruyi kyange ku bo, kale ndisanyusibwa: kale balimanya nga nze Mukama njogedde olw'obunyiikivu bwange, bwe ndimala okutuukiririza ku bo ekiruyi kyange.
- 14 Era nate ndikufuula amatongo n'ekivume mu mawanga gonna agakwetoolodde, abo bonna abayitawo nga balaba.
- 15 Awo kiriba kivume n'ekikiino ekiyigirwako era ekisamaalirirwa eri amawanga agakwetoolodde, bwe ndituukiririza emisango mu ggwe nga ndiko obusungu n'ekiruyi, era nga nnenya n'ekiruyi: nze Mukama nkyogedde 16 bwe ndibaweerezaako obusaale obubi obw'enjala obw'okuzikiriza bwe ndiweereza okubazikiriza: era ndyongera ku mmwe enjala, era ndimenya omuggo gwammwe ogw'omugaati; 17 era ndibaweerezaako enjala n'ensolo embi, era zirikufiiriza; era kawumpuli n'omusaayi biriyita mu ggwe; era ndikuleetako ekitala: nze Mukama nkyogedde.
-          
+1 Naawe, omwana w'omuntu, ddira ekitala eky'obwogi, okyeddirire ng'akamwano ak'omumwi, okiyise ku mutwe gwo ne ku kirevu kyo: kale otwale eminzaani okupima, oyawule mu nviiri. 
+2 Ekitundu eky'okusatu okyokeranga mu muliro wakati mu kibuga, ennaku ez'okuzingiza nga zituukiridde; n'ekitundu eky'okusatu okiddiranga, n'otema n'ekitala okukyetooloola; n'ekitundu eky'okusatu okisaasaanyizanga eri empewo, nange ndisowola ekitala ekiribagoberera. 
+3 Era otwalangako omuwendo gwazo si nnyingi n'ozisiba mu kirenge kyo. 
+4 Era ne ku ezo otwalangako, ozisuule mu muliro wakati, ozookere mu muliro; mu zo omuliro mwe guliva ogulibuna ennyumba yonna eya Isiraeri. 
+5 Bw'ati bw'ayogera Mukama Katonda nti Kino ye Yerusaalemi: nkitadde wakati mu mawanga, n'ensi zikyetoolodde. 
+6 Era kyajeemera emisango gyange nga kikola obubi okusinga amawanga, era kijeemedde amateeka gange okusinga ensi ezikyetoolodde: kubanga bagaanyi emisango gyange, n'amateeka gange tebagatambuliddemu. 
+7 Mukama Katonda kyava ayogera bw'ati nti Kubanga muli ba mawaggali okukira amawanga agabeetoolodde, so temutambulidde mu mateeka gange, so temukutte misango gyange, so temukoze ng'ebiragiro bwe biri eby'amawanga agabeetoolodde; 
+8 Mukama Katonda kyava ayogera bw'ati nti Laba, nze, nze mwene, ndi mulabe wo; era ndituukiriza emisango wakati mu ggwe amawanga nga galaba. 
+9 Era ndikolera mu ggwe ekyo kye ssikolanga, era kye ssigenda kukola nate ekiri bwe kityo, olw'emizizo gyo gyonna. 
+10 Bakitaabwe kyebaliva baliira abaana wakati mu ggwe, n'abaana balirya bakitaabwe: era ndituukiririza emisango mu ggwe, n'ekitundu kyo kyonna ekifisseewo ndikisaasaanyiza eri empewo zonna. 
+11 Kale, nga bwe ndi omulamu, bw'ayogera Mukama Katonda, kubanga wayonoona awatukuvu wange n'ebibyo byonna eby'ebivve n'ebibyo byonna eby'emizizo, nange kyendiva nkukendeeza; so n'amaaso gange tegalisonyiwa so nange sirikwatibwa kisa. 
+12 Ekitundu kyo eky'okusatu kirifa kawumpuli, era balimalibwawo n'enjala wakati mu ggwe; n'ekitundu eky'okusatu kirigwa n'ekitala okukwetooloola; n'ekitundu eky'okusatu ndikisaasaanyiza eri empewo zonna, n'ensowola ekitala ekiribagoberera. 
+13 Obusungu bwange bwe bulituukirira bwe butyo, era ndikkusa ekiruyi kyange ku bo, kale ndisanyusibwa: kale balimanya nga nze Mukama njogedde olw'obunyiikivu bwange, bwe ndimala okutuukiririza ku bo ekiruyi kyange. 
+14 Era nate ndikufuula amatongo n'ekivume mu mawanga gonna agakwetoolodde, abo bonna abayitawo nga balaba. 
+15 Awo kiriba kivume n'ekikiino ekiyigirwako era ekisamaalirirwa eri amawanga agakwetoolodde, bwe ndituukiririza emisango mu ggwe nga ndiko obusungu n'ekiruyi, era nga nnenya n'ekiruyi: nze Mukama nkyogedde 
+16 bwe ndibaweerezaako obusaale obubi obw'enjala obw'okuzikiriza bwe ndiweereza okubazikiriza: era ndyongera ku mmwe enjala, era ndimenya omuggo gwammwe ogw'omugaati; 
+17 era ndibaweerezaako enjala n'ensolo embi, era zirikufiiriza; era kawumpuli n'omusaayi biriyita mu ggwe; era ndikuleetako ekitala: nze Mukama nkyogedde.          
 
 

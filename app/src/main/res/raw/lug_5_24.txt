@@ -1,20 +1,24 @@
- 1 Omusajja bw'atwalanga omukazi n'amuwasa, kale olunaatuukanga, bw'ataaganjenga n'akatono mu maaso ge, kubanga alabye ku ye ekitali kirungi, anaamuwandiikiranga ebbaluwa ey'okumugoba, n'agimuwa mu ngalo ze; n'amugoba mu nnyumba ye: 2 Awo bw'abanga avudde mu nnyumba ye, ayinza okugenda okuba omukazi w'omusajja omulala.
- 3 Era bba ow'okubiri bw'amukyawanga, n'amuwandiikira ebbaluwa ey'okumugoba, n'agimuwa mu ngalo ze, n'amugoba mu nnyumba ye; oba bba ow'okubiri bw'afanga, eyamuwasa; 4 bba ow'olubereberye, eyamugoba, tamutwalanga nate okumuwasa, bwe yamala okwonoonebwa; kubanga ekyo kya muzizo mu maaso ga Mukama: so tokozanga nsi bibi, Mukama Katonda wo gy'akuwa okuba obusika.
- 5 Omusaja bw'awasanga omukazi omuggya, tatabaalanga na ggye, so tasalirwanga mirimu gyonna: anaamalanga omwaka gumu eka nga yessa, anaasanyusanga omukazi gw'awasizza.
- 6 Omuntu yenna tasingirwanga lubengo newakubadde enso: kubanga asingirwa obulamu bw'omuntu.
- 7 Bwe basanganga omuntu ng'abba omuntu yenna ku baganda be abaana ba Isiraeri, n'amukola ng'omuddu, oba n'amutunda; kale omubbi oyo anattibwanga: bw'otyo bw'onoggyanga obubi wakati mu ggwe.
- 8 Weekuumenga mu kibonobono eky'ebigenge, okwatirenga ddala okolenga byonna bakabona Abaleevi bye banaabayigirizanga: nga bwe nnabalagira bo, bwe mutyo bwe munaakwatanga okukola.
- 9 Jjukira Mukama Katonda wo bwe yakola Miryamu, mu kkubo bwe mwali muva mu Misiri.
- 10 Bw'oyazikanga munno ekintu kyonna ekyazikibwa, toyingiranga mu nnyumba ye okukima omusingo gwe.
- 11 Onooyimiriranga ebweru, n'omuntu gw'oyazika anaafulumyanga omusingo ebweru gy'oli.
- 12 Era bw'abanga omwavu, tosulanga ng'olina omusingo gwe: 13 tolemanga kumuddiza musingo obudde bwe bunaawungeeranga, alyoke asule mu kyambalo kye, era akusabire omukisa: era kinaabanga butuukirivu eri ggwe mu maaso ga Mukama Katonda wo.
- 14 Tojooganga musenze akolera empeera omwavu eyeetaaga, bw'aba ku muwendo gwa baganda bo oba ku muwendo gwa bannaggwanga bo abali mu nsi yammwe munda w'enzigi zo: 15 ku lunaku lwe onoomuwanga empeera ye, so n’enjuba tegwanga ng'ekyaliyo; kubanga mwavu era agiteckako omwoyo gwe: alemenga okukaabiriranga Mukama okukuwawaabira, ne kiba kibi gy'oli.
- 16 Bakitaabwe tebattibwanga okubalanga abaana baabwe, so n'abaana tebattibwanga okubalanga bakitaabwe: buli muntu bamulangenga ekibi kye ye okumutta.
- 17 Tokyamyanga musango gwa munnaggwanga, newakubadde ogw'atalina kitaawe; so tosingirwanga kyambalo kya nnamwandu: 18 naye onojjukiranga nga wali muddu mu Misiri, Mukama Katonda wo n'akununula n'akuggyayo: kyenva nkulagira okukolanga ekigambo ekyo.
- 19 Bw'okungulanga ebikungulwa byo mu nnimiro yo ne weerabira ekinywa mu nnimiro, toddangayo nate okukikima; kinaabanga kya muanaggwanga, ky'atalina kitaawe, era kya nnamwandu: Mukama Katonda wo alyoke akuwenga omukisa mu mulimu gwonna ogw'engalo zo.
- 20 Bw'okubanga omuzeyituuni gwo, toddanga mu matabi lwa kubiri: gunaabanga gwa munnaggwanga, gw'atalina kitaawe, era gwa nnamwandu.
- 21 Bw'okungulanga ezabbibu ez'omu lusuku lwo, toddangamu ng'omaze omulundi gumu: lunaabanga lwa munnaggwanga, lw'atalina kitaawe, era lwa nnamwandu.
- 22 Era onojjukiranga nga wali muddu mu nsi y'e Misiri: kyenva nkulagira okukolanga ekigambo ekyo.
-          
+ 1 Omusajja bw'atwalanga omukazi n'amuwasa, kale olunaatuukanga, bw'ataaganjenga n'akatono mu maaso ge, kubanga alabye ku ye ekitali kirungi, anaamuwandiikiranga ebbaluwa ey'okumugoba, n'agimuwa mu ngalo ze; n'amugoba mu nnyumba ye: 
+2 Awo bw'abanga avudde mu nnyumba ye, ayinza okugenda okuba omukazi w'omusajja omulala. 
+3 Era bba ow'okubiri bw'amukyawanga, n'amuwandiikira ebbaluwa ey'okumugoba, n'agimuwa mu ngalo ze, n'amugoba mu nnyumba ye; oba bba ow'okubiri bw'afanga, eyamuwasa; 
+4 bba ow'olubereberye, eyamugoba, tamutwalanga nate okumuwasa, bwe yamala okwonoonebwa; kubanga ekyo kya muzizo mu maaso ga Mukama: so tokozanga nsi bibi, Mukama Katonda wo gy'akuwa okuba obusika. 
+5 Omusaja bw'awasanga omukazi omuggya, tatabaalanga na ggye, so tasalirwanga mirimu gyonna: anaamalanga omwaka gumu eka nga yessa, anaasanyusanga omukazi gw'awasizza. 
+6 Omuntu yenna tasingirwanga lubengo newakubadde enso: kubanga asingirwa obulamu bw'omuntu. 
+7 Bwe basanganga omuntu ng'abba omuntu yenna ku baganda be abaana ba Isiraeri, n'amukola ng'omuddu, oba n'amutunda; kale omubbi oyo anattibwanga: bw'otyo bw'onoggyanga obubi wakati mu ggwe. 
+8 Weekuumenga mu kibonobono eky'ebigenge, okwatirenga ddala okolenga byonna bakabona Abaleevi bye banaabayigirizanga: nga bwe nnabalagira bo, bwe mutyo bwe munaakwatanga okukola. 
+9 Jjukira Mukama Katonda wo bwe yakola Miryamu, mu kkubo bwe mwali muva mu Misiri. 
+10 Bw'oyazikanga munno ekintu kyonna ekyazikibwa, toyingiranga mu nnyumba ye okukima omusingo gwe. 
+11 Onooyimiriranga ebweru, n'omuntu gw'oyazika anaafulumyanga omusingo ebweru gy'oli. 
+12 Era bw'abanga omwavu, tosulanga ng'olina omusingo gwe: 
+13 tolemanga kumuddiza musingo obudde bwe bunaawungeeranga, alyoke asule mu kyambalo kye, era akusabire omukisa: era kinaabanga butuukirivu eri ggwe mu maaso ga Mukama Katonda wo. 
+14 Tojooganga musenze akolera empeera omwavu eyeetaaga, bw'aba ku muwendo gwa baganda bo oba ku muwendo gwa bannaggwanga bo abali mu nsi yammwe munda w'enzigi zo: 
+15 ku lunaku lwe onoomuwanga empeera ye, so n’enjuba tegwanga ng'ekyaliyo; kubanga mwavu era agiteckako omwoyo gwe: alemenga okukaabiriranga Mukama okukuwawaabira, ne kiba kibi gy'oli. 
+16 Bakitaabwe tebattibwanga okubalanga abaana baabwe, so n'abaana tebattibwanga okubalanga bakitaabwe: buli muntu bamulangenga ekibi kye ye okumutta. 
+17 Tokyamyanga musango gwa munnaggwanga, newakubadde ogw'atalina kitaawe; so tosingirwanga kyambalo kya nnamwandu: 
+18 naye onojjukiranga nga wali muddu mu Misiri, Mukama Katonda wo n'akununula n'akuggyayo: kyenva nkulagira okukolanga ekigambo ekyo. 
+19 Bw'okungulanga ebikungulwa byo mu nnimiro yo ne weerabira ekinywa mu nnimiro, toddangayo nate okukikima; kinaabanga kya muanaggwanga, ky'atalina kitaawe, era kya nnamwandu: Mukama Katonda wo alyoke akuwenga omukisa mu mulimu gwonna ogw'engalo zo. 
+20 Bw'okubanga omuzeyituuni gwo, toddanga mu matabi lwa kubiri: gunaabanga gwa munnaggwanga, gw'atalina kitaawe, era gwa nnamwandu. 
+21 Bw'okungulanga ezabbibu ez'omu lusuku lwo, toddangamu ng'omaze omulundi gumu: lunaabanga lwa munnaggwanga, lw'atalina kitaawe, era lwa nnamwandu. 
+22 Era onojjukiranga nga wali muddu mu nsi y'e Misiri: kyenva nkulagira okukolanga ekigambo ekyo.          
 
 

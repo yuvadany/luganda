@@ -1,29 +1,32 @@
- 1 Balamu n'agamba Balaki nti Nzimbira wano ebyoto musanvu, ontegekere wano ente musanvu n'endiga ennume musanvu.
- 2 Balaki n'akola nga Balamu bwe yayogera; Balaki ne Balamu ne baweerayo ku buli kyoto ente n'endiga ennume.
- 3 Balamu n'agamba Balaki nti Yimirira awali ekyokebwa kw'owaayo nange naagenda; mpozzi Mukama anajja okusisinkana nange: era buli ky'anandaga naakikubuulira.
- N'agenda ku lusozi aweeru.
- 4 Katonda n'asisinkana ne Balamu: n’amugamba nti Ntegese ebyoto omusanvu, era mpeereddeyo ente n'endiga ennume ku buli kyoto.
- 5 Mukama n'ateeka ekigambo mu kamwa ka Balamu, n'agamba nti Ddayo eri Balaki, era bw'otyo bw'onooyogera.
- 6 N'addayo eri ye, era yali ayimiridde awali ekyokebwa kye yawaayo, ye n'abakulu bonna aba Mowaabu.
- 7 N'agera olugero lwe, n'ayogera nti Balaki yanziya mu Alamu, Kabaka wa Mowaabu yanziya mu nsozi ez'Ebuvanjuba: Jjangu okolimirire Yakobo, Era jjangu osoomoze Isiraeri.
- 8 Naakolimira ntya oyo Katonda gw'atakolimiranga? Naasoomoza ntya oyo Katonda gw'atasoomozanga? 9 Kubanga nnyima ku ntikko y'amayinja okumulaba, Ne ku nsozi okumulengera: Laba, be bantu ababeera bokka, So tebalibalibwa mu mawanga.
- 10 Ani ayinza okubala enfuufu ya Yakobo, Oba okubala ekitundu eky'okuna ekya Isiraeri? Nfe ng'omutuukirivu bw'afa, N’enkomerero yange ey'oluvannyuma ebe ng'eyiye!
- 11 Balaki n'agamba Balamu nti Onkoze ki? Nkututte okukolimira abalabe bange, era, laba, obasabiridde ddala omukisa.
- 12 N'addamu n'agamba nti Tekiŋŋwanira kwekuuma kwogera ekyo Mukama kyateeka kamwa kange? 13 Balaki n'amugamba nti Jjangu nange, nkwegayiridde, mu kifo ekirala, w’oyinza okuyima okubalengera; onoolaba ekitundu kyabwe eky’enkomerero kyokka, n'otolaba bonna: n’oyima awo okubakolimira.
- 14 N'amutwala mu ttale lya Zofimu, ku ntikko ya Pisuga, n'azimba ebyoto musanvu, n’aweerayo ente n'endiga ennune ku buli Kyoto.
- 15 N'agamba Balaki nti Yimirira wano awali ekyokebwa ky'owaayo, nze nga bwe nnaasisinkana ne Mukama eyo.
- 16 Mukama n'asisinkana ne Balamu, n'ateeka ekigambo mu kamwa ke, n'agamba nti Ddayo eri Balaki, era bw'onooyogera bw'otyo.
- 17 N'ajja gy'ali, era, laba, yali ayimiridde awali ekyokebwa kye yawaayo, n'abakulu ba Mowaabu wamu naye.
- Balaki n'amugamba nti Mukama ayogedde ki? 18 N'agera olugero lwe n'ayogera nti Golokoka, Balaki, owulire; Ntegera okutu, ggwe mutabani wa Zipoli: 19 Katonda si muntu, okulimba; So si mwana wa muntu, okwejjusa: Ayogedde, n'okukola talikikola? Oba agambye, n'okutuusa talikituusa? 20 Laba, ndagiddwa okuwa omukisa: Naye awadde omukisa, nange siyinza kugujjulula.
- 21 Talabye butali butuukirivu ku Yakobo, So talabye bubambaavu ku Isiraeri: Mukama Katonda we ali naye, N'okwogerera waggulu okwa kabaka kuli mu bo.
- 22 Katonda abaggya mu Misiri; Alina amaanyi ng'ag'embogo.
- 23 Mazima tewali ddogo awali Yakobo, So tewali bulaguzi awali Isiraeri: Kaakano kinaayogerwanga ku Yakobo ne ku Isiraeri, Nti Katonda ng'akoze!
- 24 Laba, abantu bagolokoka ng'empologoma enkazi, Era beeyimusa ng'empologoma ennume: Taagalamire okutuusa lw'anaalya ku muyiggo, N'anywa omusaayi gw'abo abattiddwa.
- 25 Awo Balaki n'agamba Balamu nti Tobakolimiranga n'akatono, so n'omukisa tobasabiranga mukisa n'akatono.
- 26 Naye Balamu n'addamu n'agamba Balaki nti Saakubuulira nti Byonna Mukama by'ayogera, ebyo kiŋŋwanira okubikola? 27 Balaki n'agamba Balamu nti Jjangu nno, naakutwala awalala; mpozzi Katonda anaasiima ggwe okuyima eyo okubankolimirira.
- 28 Awo Balaki n'alinnyisa Balamu ku ntikko ya Peoli, kw'oyima okulengera eddungu.
- 29 Balamu n'agamba Balaki nti Nzimbira wano ebyoto musanvu, ontegekere wano ente musanvu n'endiga ennume musanvu.
- 30 Balaki n'akola nga Balamu bwe yayogera, n’aweerayo ku buli kyoto ente n'endiga ennume.
-          
+ 1 Balamu n'agamba Balaki nti Nzimbira wano ebyoto musanvu, ontegekere wano ente musanvu n'endiga ennume musanvu. 
+2 Balaki n'akola nga Balamu bwe yayogera; Balaki ne Balamu ne baweerayo ku buli kyoto ente n'endiga ennume. 
+3 Balamu n'agamba Balaki nti Yimirira awali ekyokebwa kw'owaayo nange naagenda; mpozzi Mukama anajja okusisinkana nange: era buli ky'anandaga naakikubuulira. N'agenda ku lusozi aweeru. 
+4 Katonda n'asisinkana ne Balamu: n’amugamba nti Ntegese ebyoto omusanvu, era mpeereddeyo ente n'endiga ennume ku buli kyoto. 
+5 Mukama n'ateeka ekigambo mu kamwa ka Balamu, n'agamba nti Ddayo eri Balaki, era bw'otyo bw'onooyogera. 
+6 N'addayo eri ye, era yali ayimiridde awali ekyokebwa kye yawaayo, ye n'abakulu bonna aba Mowaabu. 
+7 N'agera olugero lwe, n'ayogera nti Balaki yanziya mu Alamu, Kabaka wa Mowaabu yanziya mu nsozi ez'Ebuvanjuba: Jjangu okolimirire Yakobo, Era jjangu osoomoze Isiraeri. 
+8 Naakolimira ntya oyo Katonda gw'atakolimiranga? Naasoomoza ntya oyo Katonda gw'atasoomozanga? 
+9 Kubanga nnyima ku ntikko y'amayinja okumulaba, Ne ku nsozi okumulengera: Laba, be bantu ababeera bokka, So tebalibalibwa mu mawanga. 
+10 Ani ayinza Okubala enfuufu ya Yakobo, Oba Okubala ekitundu eky'okuna ekya Isiraeri? Nfe ng'omutuukirivu bw'afa, N’enkomerero yange ey'oluvannyuma ebe ng'eyiye! 
+11 Balaki n'agamba Balamu nti Onkoze ki? Nkututte okukolimira abalabe bange, era, laba, obasabiridde ddala omukisa. 
+12 N'addamu n'agamba nti Tekiŋŋwanira kwekuuma kwogera ekyo Mukama kyateeka kamwa kange? 
+13 Balaki n'amugamba nti Jjangu nange, nkwegayiridde, mu kifo ekirala, w’oyinza okuyima okubalengera; onoolaba ekitundu kyabwe eky’enkomerero kyokka, n'otolaba bonna: n’oyima awo okubakolimira. 
+14 N'amutwala mu ttale lya Zofimu, ku ntikko ya Pisuga, n'azimba ebyoto musanvu, n’aweerayo ente n'endiga ennune ku buli Kyoto. 
+15 N'agamba Balaki nti Yimirira wano awali ekyokebwa ky'owaayo, nze nga bwe nnaasisinkana ne Mukama eyo. 
+16 Mukama n'asisinkana ne Balamu, n'ateeka ekigambo mu kamwa ke, n'agamba nti Ddayo eri Balaki, era bw'onooyogera bw'otyo. 
+17 N'ajja gy'ali, era, laba, yali ayimiridde awali ekyokebwa kye yawaayo, n'abakulu ba Mowaabu wamu naye. Balaki n'amugamba nti Mukama ayogedde ki? 
+18 N'agera olugero lwe n'ayogera nti Golokoka, Balaki, owulire; Ntegera okutu, ggwe mutabani wa Zipoli: 
+19 Katonda si muntu, okulimba; So si mwana wa muntu, okwejjusa: Ayogedde, n'okukola talikikola? Oba agambye, n'okutuusa talikituusa? 
+20 Laba, ndagiddwa okuwa omukisa: Naye awadde omukisa, nange siyinza kugujjulula. 
+21 Talabye butali butuukirivu ku Yakobo, So talabye bubambaavu ku Isiraeri: Mukama Katonda we ali naye, N'okwogerera waggulu okwa kabaka kuli mu bo. 
+22 Katonda abaggya mu Misiri; Alina amaanyi ng'ag'embogo. 
+23 Mazima tewali ddogo awali Yakobo, So tewali bulaguzi awali Isiraeri: Kaakano kinaayogerwanga ku Yakobo ne ku Isiraeri, Nti Katonda ng'akoze! 
+24 Laba, abantu bagolokoka ng'empologoma enkazi, Era beeyimusa ng'empologoma ennume: Taagalamire okutuusa lw'anaalya ku muyiggo, N'anywa omusaayi gw'abo abattiddwa. 
+25 Awo Balaki n'agamba Balamu nti Tobakolimiranga n'akatono, so n'omukisa tobasabiranga mukisa n'akatono. 
+26 Naye Balamu n'addamu n'agamba Balaki nti Saakubuulira nti Byonna Mukama by'ayogera, ebyo kiŋŋwanira okubikola? 
+27 Balaki n'agamba Balamu nti Jjangu nno, naakutwala awalala; mpozzi Katonda anaasiima ggwe okuyima eyo okubankolimirira. 
+28 Awo Balaki n'alinnyisa Balamu ku ntikko ya Peoli, kw'oyima okulengera eddungu. 
+29 Balamu n'agamba Balaki nti Nzimbira wano ebyoto musanvu, ontegekere wano ente musanvu n'endiga ennume musanvu. 
+30 Balaki n'akola nga Balamu bwe yayogera, n’aweerayo ku buli kyoto ente n'endiga ennume.          
 
 

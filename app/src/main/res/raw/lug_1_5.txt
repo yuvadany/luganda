@@ -1,18 +1,34 @@
-1 Kino kye kitabo eky'okuzaalibwa kwa Adamu.
- Olunaku Katonda lwe yatonderamu omuntu, mu kifaananyi kya Katonda mwe yamukolera; 2 omusajja n'omukazi bwe yabatonda; n'abawa omukisa, n'abatuuma erinnya lyabwe Adamu ku lunaku lwe baatonderwamu.
- 3 Adamu n'amala emyaka kikumi mu asatu, n'azaala omwana ow'obulenzi mu kifaananyi kye, mu ngeri ye; n'amutuuma erinnya lye Seezi: 4 eanaku za Adamu bwe yamala okuzaala Seezi emyaka lunaana, n'azaala abaana ab'obulenzi n'ab'obuwala.
- 5 Ennaku zonna eza Adamu ze yamala ne ziba emyaka lwenda mu asatu; n'afa.
- 6 Seezi n'amala emyaka kikumi mu ataano, n'azaala Enosi.
- 7 Seezi n'awangaala bwe yamala okuzaala Enosi emyaka lunaana mu musanvu n'azaala abaana ab'obulenzi n'ab'obuwala; 8 ennaku zonna eza Seezi ne ziba emyaka lwenda mu kkumi n'ebiri; n'afa.
- 9 Enosi n'amala emyaka kyenda, n'azaala Kenani: 10 Enosi n'awangaala bwe yamala okuzaala Kenani emyaka lunaana mu kkumi n'etaano, n'azaala abaana ab'obulenzi n'ab'obuwala: 11 ennaku zonna eza Enosi ne ziba emyaka lwenda mu etaano; n'afa.
- 12 Kenani n'amala emyaka nsanvu, n'azaala Makalaleri: 13 Kenani n'awangaala bwe yamala okuzaala Makalaleri emyaka lunaana mu ana, n’azaala abaana ab'obulenzi n'ab'obuwala: 14 ennaku zonna eza Kenani ne ziba emyaka lwenda mu kkumi; n'afa.
- 15 Makalaleri n'amala emyaka nkaaga mu etaano, n'azaala Yakedi: 16 Makalaleri n'awangaala bwe yamala okuzaala Yaledi emyaka lunaana mu asatu, n'azaala abaana ab'obulenzi n'ab'obuwala: 17 ennaku zonna eza Makalaleri ne ziba emyaka lunaana mu kyenda mu etaano; n'afa.
- 18 Yaledi n'amala emyaka kikumi mu nkaaga mu ebiri, n'azaala Enoka; 19 Yaledi n'awangaala bwe yamala okuzaala Enoka emyaka lunaana, n'azaala abaana ab'obulenzi n'ab'obuwala: 20 ennaku zonna eza Yaledi ne ziba emyaka lwenda mu nkaaga mu ebiri; n'afa.
- 21 Enoka n'amala emyaka nkaaga mu etaano, n'azaala Mesuseera: 22 Enoka n'atambulira wamu ne Katonda bwe yamala okuzaala Mesuseera emyaka bisatu, n'azaala abaana ab'obulenzi n'ab'obuwala: 23 ennaku zonna eza Enoka ne ziba emyaka bisatu mu nkaaga mu etaano: 24 Enoka n'atambulira wamu ne Katonda: so n'atabeerawo; kubanga Katonda yamutwala.
- 25 Mesuseera n'amala emyaka kikumi mu kinaana mu musanvu, n’azaala Lameka: 26 Mesuseera n'awangaala bwe yamala okuzaala Lameka emyaka lusanvu mu kinaana mu ebiri, n'azaala abaana ab'obulelizi n'ab'obuwala: 27 ennaku zonna eza Mesuseera ne ziba emyaka lwenda mu nkaaga mu mwenda; n'afa.
- 28 Lameka n'amala emyaka kikumi mu kinaana mu ebiri, n'azaala omwana ow'obulenzi: 29 n'amutuuma erinnya lye Nuuwa, ng'ayogera nti Ono ye alitusanyusa mu mulimu gwaffe ne mu kutegana okw’emikono gyaffe olw’ensi Mukama gye yakolimira.
- 30 Lameka n'awangaala bwe yamala okuzaala Nuuwa emyaka bitaano mu kyenda mu etaano, n'azaala abaana ab'obulenzi n'ab'obuwala: 31 ennaku zonna eza Lameka ne ziba emyaka lusanvu mu nsanvu mu musanvu; n'afa.
- 32 Nuuwa yali nga yaakamala emyaka bitaano: Nuuwa n'azaala Seemu, Kaamu, ne Yafeesi.
-          
+1 Kino kye kitabo eky'okuzaalibwa kwa Adamu. Olunaku Katonda lwe yatonderamu omuntu, mu kifaananyi kya Katonda mwe yamukolera; 
+2 omusajja n'omukazi bwe yabatonda; n'abawa omukisa, n'abatuuma erinnya lyabwe Adamu ku lunaku lwe baatonderwamu. 
+3 Adamu n'amala emyaka kikumi mu asatu, n'azaala omwana ow'obulenzi mu kifaananyi kye, mu ngeri ye; n'amutuuma erinnya lye Seezi: 
+4 eanaku za Adamu bwe yamala okuzaala Seezi emyaka lunaana, n'azaala abaana ab'obulenzi n'ab'obuwala. 
+5 Ennaku zonna eza Adamu ze yamala ne ziba emyaka lwenda mu asatu; n'afa. 
+6 Seezi n'amala emyaka kikumi mu ataano, n'azaala Enosi. 
+7 Seezi n'awangaala bwe yamala okuzaala Enosi emyaka lunaana mu musanvu n'azaala abaana ab'obulenzi n'ab'obuwala; 
+8 ennaku zonna eza Seezi ne ziba emyaka lwenda mu kkumi n'ebiri; n'afa. 
+9 Enosi n'amala emyaka kyenda, n'azaala Kenani: 
+10 Enosi n'awangaala bwe yamala okuzaala Kenani emyaka lunaana mu kkumi n'etaano, n'azaala abaana ab'obulenzi n'ab'obuwala: 
+11 ennaku zonna eza Enosi ne ziba emyaka lwenda mu etaano; n'afa. 
+12 Kenani n'amala emyaka nsanvu, n'azaala Makalaleri: 
+13 Kenani n'awangaala bwe yamala okuzaala Makalaleri emyaka lunaana mu ana, n’azaala abaana ab'obulenzi n'ab'obuwala: 
+14 ennaku zonna eza Kenani ne ziba emyaka lwenda mu kkumi; n'afa. 
+15 Makalaleri n'amala emyaka nkaaga mu etaano, n'azaala Yakedi: 
+16 Makalaleri n'awangaala bwe yamala okuzaala Yaledi emyaka lunaana mu asatu, n'azaala abaana ab'obulenzi n'ab'obuwala: 
+17 ennaku zonna eza Makalaleri ne ziba emyaka lunaana mu kyenda mu etaano; n'afa. 
+18 Yaledi n'amala emyaka kikumi mu nkaaga mu ebiri, n'azaala Enoka; 
+19 Yaledi n'awangaala bwe yamala okuzaala Enoka emyaka lunaana, n'azaala abaana ab'obulenzi n'ab'obuwala: 
+20 ennaku zonna eza Yaledi ne ziba emyaka lwenda mu nkaaga mu ebiri; n'afa. 
+21 Enoka n'amala emyaka nkaaga mu etaano, n'azaala Mesuseera: 
+22 Enoka n'atambulira wamu ne Katonda bwe yamala okuzaala Mesuseera emyaka bisatu, n'azaala abaana ab'obulenzi n'ab'obuwala: 
+23 ennaku zonna eza Enoka ne ziba emyaka bisatu mu nkaaga mu etaano: 
+24 Enoka n'atambulira wamu ne Katonda: so n'atabeerawo; kubanga Katonda yamutwala. 
+25 Mesuseera n'amala emyaka kikumi mu kinaana mu musanvu, n’azaala Lameka: 
+26 Mesuseera n'awangaala bwe yamala okuzaala Lameka emyaka lusanvu mu kinaana mu ebiri, n'azaala abaana ab'obulelizi n'ab'obuwala: 
+27 ennaku zonna eza Mesuseera ne ziba emyaka lwenda mu nkaaga mu mwenda; n'afa. 
+28 Lameka n'amala emyaka kikumi mu kinaana mu ebiri, n'azaala omwana ow'obulenzi: 
+29 n'amutuuma erinnya lye Nuuwa, ng'ayogera nti Ono ye alitusanyusa mu mulimu gwaffe ne mu kutegana okw’emikono gyaffe olw’ensi Mukama gye yakolimira. 
+30 Lameka n'awangaala bwe yamala okuzaala Nuuwa emyaka bitaano mu kyenda mu etaano, n'azaala abaana ab'obulenzi n'ab'obuwala: 
+31 ennaku zonna eza Lameka ne ziba emyaka lusanvu mu nsanvu mu musanvu; n'afa. 
+32 Nuuwa yali nga yaakamala emyaka bitaano: Nuuwa n'azaala Seemu, Kaamu, ne Yafeesi.          
 
 

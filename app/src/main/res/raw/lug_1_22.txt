@@ -1,22 +1,26 @@
- 1 Awo oluvannyuma lw'ebyo, Katonda n'akema Ibulayimu, n'amugainba nti Ibulayimu; n'ayogera nti Nze nzuuno.
- 2 N'ayogera nti Twala kaakano omwana wo, omwana wo omu, gw'oyagala, ye Isaaka, ogende mu nsi Moliya; omuweere eyo okuba ekiweebwayo ekyokebwa ku lumu ku nsozi lwe ndikugambako.
- 3 Ibulayimu n'agolokoka enkya mu makya, n'assa amatandiiko ku ndogoyi ye, n'atwala babiri ku bavubuka be, ne Isaaka omwana we; n'ayasa enku ez'ekiweebwayo ekyokebwa, n'agolokoka, n'agenda mu kifo Katonda kye yamugambako.
- 4 Ku lunaku olw'okusatu Ibulayimu n'ayimusa amaaso ge, n'alengera ekifo.
- 5 Ibulayimu n'agamba abawbuka be nti Mubeere mmwe wano n'endogoyi; nange n'omulenzi tunaagenda wali; ne tusinza, ne tudda gye muli.
- 6 Ibulayimu n'atwala enku ez'ekiweebwayo ekyokebwa, n'azitikka Isaaka omwana we; n'atwala omuliro n'akambe mu ngalo ze; ne bagenda bombi wamu.
- 7 Isaaka n'agamba Ibulayimu kitaawe nti Kitange: n'ayogera nti Nze nzuuno; mwana wange.
- N'ayogera nti Laba, omuliro n'enku (biibino): naye guluwa omwana gw'endiga ogw'ekiweebwayo ekyokebwa? 8 Ibulayimu n'ayogera nti Katonda aneefunira omwana gw'endiga ogw'ekiweebwayo ekyokebwa, mwana wange: kale ne bagenda bombi.
- 9 Ne batuuka mu kifo Katonda we yamugamba; Ibulayimu n'azimbira eyo ekyoto, n'atindikira enku, n'asiba Isaaka omwana we, n'amugalamiza ku Kyoto, ku nku.
- 10 Ibulayimu n'agolola omukono gwe, n'addira akambe okutta omwana we.
- 11 Ne malayika wa Mukama n'amukoowoola ng'ayima mu ggulu, n'ayogera nti Ibulayimu, Ibulayimu: n'ayogera nti Nze nzuuno.
- 12 N'ayogera nti Tossa mukono gwo ku mulenzi, so tomukolako kantu: kubanga kaakano ntegedde ng'otya Katonda, kubanga tonnyimye mwana wo, omwana wo omu.
- 13 Ibulayimu n'ayimusa amaaso ge, n'atunula, era, laba, ennyuma we endiga ensajja, ng'ekwatiddwa mu kisaka n'amayembe gaayo: Ibulayimu n'agenda n'atwala endiga, n'agiwaayo okuba ekiweebwayo ekyokebwa mu kifo ky'omwana we.
- 14 Ibulayimu n'atuuma ekifo kiri erinnya lyakyo Yakuwayire: nga bwe kyogerwa ne leero nti ku lusozi lwa Mukama kirirabwa.
- 15 Ne malayika wa Mukama n'ayita Ibulayimu omulundi ogw'okubiri ng'ayima mu ggulu, 16 n'ayogera nti Nneerayidde nzekka, bw'ayogera Mukama, kubanga okoze bw'otyo, n'otonnyima mwana wo, omwana wo omu: 17 okukuwa omukisa naakuwanga omukisa, n'okwongera naakwongerangako ezzadde lyo ng'emmunyeenye ez'omu ggulu, ng'omusenyu oguli ku ttale ly'ennyanja; era ezzadde lyo balirya omulyango ogw'abalabe baabwe; 18 era mu zzadde lyo amawanga gonna ag'omu nsi mwe galiweerwa omukisa; kubanga owulidde eddoboozi lyange.
- 19 Awo Ibulayimu n'addayo eri abavubuka be, ne bagolokoka ne bagenda bonna wamu e Beeruseba; Ibulayimu n'atuulanga mu Beeruseba.
- 20 Awo olwatuuka oluvannyuma lw'ebyo ne babuulira Ibulayimu nga boogera nti Laba, era Mirika naye yazaalira abaana muganda wo Nakoli; 21 Uzi, omubereberye we, ne Buzi, muganda we, ne Kemweri, kitaawe wa Alamu; 22 ne Kesedi, ne Kaazo, ne Pirudaasi, ne Yidulaafu, ne Bessweri.
- 23 Bessweri n'azaala Lebbeeka: abo omunaana Mirika yabazaalira Nakoli, muganda wa Ibulayimu.
- 24 N'omuzaana we, erinnya lye Lewuma, era naye n'azaala Teba, ne Gakamu, ne Takasi, ne Maaka.
-          
+ 1 Awo oluvannyuma lw'ebyo, Katonda n'akema Ibulayimu, n'amugainba nti Ibulayimu; n'ayogera nti Nze nzuuno. 
+2 N'ayogera nti Twala kaakano omwana wo, omwana wo omu, gw'oyagala, ye Isaaka, ogende mu nsi Moliya; omuweere eyo okuba ekiweebwayo ekyokebwa ku lumu ku nsozi lwe ndikugambako. 
+3 Ibulayimu n'agolokoka enkya mu makya, n'assa amatandiiko ku ndogoyi ye, n'atwala babiri ku bavubuka be, ne Isaaka omwana we; n'ayasa enku ez'ekiweebwayo ekyokebwa, n'agolokoka, n'agenda mu kifo Katonda kye yamugambako. 
+4 Ku lunaku olw'okusatu Ibulayimu n'ayimusa amaaso ge, n'alengera ekifo. 
+5 Ibulayimu n'agamba abawbuka be nti Mubeere mmwe wano n'endogoyi; nange n'omulenzi tunaagenda wali; ne tusinza, ne tudda gye muli. 
+6 Ibulayimu n'atwala enku ez'ekiweebwayo ekyokebwa, n'azitikka Isaaka omwana we; n'atwala omuliro n'akambe mu ngalo ze; ne bagenda bombi wamu. 
+7 Isaaka n'agamba Ibulayimu kitaawe nti Kitange: n'ayogera nti Nze nzuuno; mwana wange. N'ayogera nti Laba, omuliro n'enku (biibino): naye guluwa omwana gw'endiga ogw'ekiweebwayo ekyokebwa? 
+8 Ibulayimu n'ayogera nti Katonda aneefunira omwana gw'endiga ogw'ekiweebwayo ekyokebwa, mwana wange: kale ne bagenda bombi. 
+9 Ne batuuka mu kifo Katonda we yamugamba; Ibulayimu n'azimbira eyo ekyoto, n'atindikira enku, n'asiba Isaaka omwana we, n'amugalamiza ku Kyoto, ku nku. 
+10 Ibulayimu n'agolola omukono gwe, n'addira akambe okutta omwana we. 
+11 Ne malayika wa Mukama n'amukoowoola ng'ayima mu ggulu, n'ayogera nti Ibulayimu, Ibulayimu: n'ayogera nti Nze nzuuno. 
+12 N'ayogera nti Tossa mukono gwo ku mulenzi, so tomukolako kantu: kubanga kaakano ntegedde ng'otya Katonda, kubanga tonnyimye mwana wo, omwana wo omu. 
+13 Ibulayimu n'ayimusa amaaso ge, n'atunula, era, laba, ennyuma we endiga ensajja, ng'ekwatiddwa mu kisaka n'amayembe gaayo: Ibulayimu n'agenda n'atwala endiga, n'agiwaayo okuba ekiweebwayo ekyokebwa mu kifo ky'omwana we. 
+14 Ibulayimu n'atuuma ekifo kiri erinnya lyakyo Yakuwayire: nga bwe kyogerwa ne leero nti ku lusozi lwa Mukama kirirabwa. 
+15 Ne malayika wa Mukama n'ayita Ibulayimu omulundi ogw'okubiri ng'ayima mu ggulu, 
+16 n'ayogera nti Nneerayidde nzekka, bw'ayogera Mukama, kubanga okoze bw'otyo, n'otonnyima mwana wo, omwana wo omu: 
+17 okukuwa omukisa naakuwanga omukisa, n'okwongera naakwongerangako ezzadde lyo ng'emmunyeenye ez'omu ggulu, ng'omusenyu oguli ku ttale ly'ennyanja; era ezzadde lyo balirya omulyango ogw'abalabe baabwe; 
+18 era mu zzadde lyo amawanga gonna ag'omu nsi mwe galiweerwa omukisa; kubanga owulidde eddoboozi lyange. 
+19 Awo Ibulayimu n'addayo eri abavubuka be, ne bagolokoka ne bagenda bonna wamu e Beeruseba; Ibulayimu n'atuulanga mu Beeruseba. 
+20 Awo olwatuuka oluvannyuma lw'ebyo ne babuulira Ibulayimu nga boogera nti Laba, era Mirika naye yazaalira abaana muganda wo Nakoli; 
+21 Uzi, omubereberye we, ne Buzi, muganda we, ne Kemweri, kitaawe wa Alamu; 
+22 ne Kesedi, ne Kaazo, ne Pirudaasi, ne Yidulaafu, ne Bessweri. 
+23 Bessweri n'azaala Lebbeeka: abo omunaana Mirika yabazaalira Nakoli, muganda wa Ibulayimu. 
+24 N'omuzaana we, erinnya lye Lewuma, era naye n'azaala Teba, ne Gakamu, ne Takasi, ne Maaka.          
 
 

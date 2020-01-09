@@ -1,23 +1,28 @@
- 1 Mumwebaze Mukama; kubanga mulungi: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 2 Mumwebaze Katonda wa bakatonda: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 3 Mumwebaze Mukama w'abaami: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 4 Oyo akola eby'amagero ebikulu yekka: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 5 Oyo eyakola eggulu n'amagezi: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 6 Oyo eyayaliira ensi waggulu ku mazzi: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 7 Oyo eyakola ebyaka ebikulu: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 8 Enjuba okufuga emisana: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 9 Omwezi n'emmunyeenye okufuga ekiro: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 10 Oyo eyakubira e Misiri ababereberye baabwe: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 11 N'aggyamu Isiraeri wakati mu bo: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 12 N'engalo ez'amaanyi, n'omukono omugolole: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 13 Oyo eyayawulamu wakati Ennyanja Emmyufu: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 14 N'ayisa Isiraeri wakati mu yo: Kubanga okusaasira kwe kubeerera emirembe gyonna: 15 Naye n'asuulira Falaawo n'eggye lye mu Nnyanja Emmyufu.
- Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 16 Oyo eyaluŋŋamiza abantu be mu ddungu: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 17 Oyo eyakuba bakabaka abakulu: Kubanga okusaasira kwe kubeerera emirembe gyonna: 18 N'atta bakabaka abaatiikirivu: Kubanga okusaasira kwe kubeerera emirembe gyonna: 19 Sikoni kabaka w'Abamoli: Kubanga okusaasira kwe kubeerera emirembe gyonna: 20 Ne Ogi kabaka w'e Basani: Kubanga okusaasira kwe kubeerera emirembe gyonna: 21 N'agaba ensi yaabwe okuba obusika: Kubanga okusaasira kwe kubeerera emirembe gyonna: 22 Okuba obusika eri Isiraeri omuddu we: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 23 Eyatujjukira bwe twajeera: Kubanga okusaasira kwe kubeerera emirembe gyonna: 24 N'atuwonya eri abalabe baffe: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 25 Awa ebyokulya ebirina emibiri byonna: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 26 Mumwebaze Katonda ow'omu ggulu: Kubanga okusaasira kwe kubeerera emirembe gyonna.
-          
+ 1 Mumwebaze Mukama; kubanga mulungi: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+2 Mumwebaze Katonda wa bakatonda: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+3 Mumwebaze Mukama w'abaami: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+4 Oyo akola eby'amagero ebikulu yekka: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+5 Oyo eyakola eggulu n'amagezi: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+6 Oyo eyayaliira ensi waggulu ku mazzi: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+7 Oyo eyakola ebyaka ebikulu: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+8 Enjuba okufuga emisana: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+9 Omwezi n'emmunyeenye okufuga ekiro: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+10 Oyo eyakubira e Misiri ababereberye baabwe: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+11 N'aggyamu Isiraeri wakati mu bo: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+12 N'engalo ez'amaanyi, n'omukono omugolole: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+13 Oyo eyayawulamu wakati Ennyanja Emmyufu: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+14 N'ayisa Isiraeri wakati mu yo: Kubanga okusaasira kwe kubeerera emirembe gyonna: 
+15 Naye n'asuulira Falaawo n'eggye lye mu Nnyanja Emmyufu. Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+16 Oyo eyaluŋŋamiza abantu be mu ddungu: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+17 Oyo eyakuba bakabaka abakulu: Kubanga okusaasira kwe kubeerera emirembe gyonna: 
+18 N'atta bakabaka abaatiikirivu: Kubanga okusaasira kwe kubeerera emirembe gyonna: 
+19 Sikoni kabaka w'Abamoli: Kubanga okusaasira kwe kubeerera emirembe gyonna: 
+20 Ne Ogi kabaka w'e Basani: Kubanga okusaasira kwe kubeerera emirembe gyonna: 
+21 N'agaba ensi yaabwe okuba obusika: Kubanga okusaasira kwe kubeerera emirembe gyonna: 
+22 Okuba obusika eri Isiraeri omuddu we: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+23 Eyatujjukira bwe twajeera: Kubanga okusaasira kwe kubeerera emirembe gyonna: 
+24 N'atuwonya eri abalabe baffe: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+25 Awa ebyokulya ebirina emibiri byonna: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+26 Mumwebaze Katonda ow'omu ggulu: Kubanga okusaasira kwe kubeerera emirembe gyonna.          
 
 

@@ -1,26 +1,28 @@
- 1 Ekigambo kya Mukama ne kinjijira nate nga kyogera nti 2 Omwana w'omuntu, lagula oyogere nti Bw'ati bw'ayogera Mukama Katonda nti Muwowoggane nti Zisanze olunaku!
- 3 Kubanga olunaku luli kumpi, olunaku lwa Mukama lwe luli okumpi, olunaku olw'ebire; kiriba kiseera kya bannaggwanga.
- 4 Era ekitala kiririnnya ku Misiri, n'obubalagaze buliba Buwesiyopya, abo abattiddwa bwe baligwa mu Misiri; era baliggyawo olufulube lw'abantu baamu, n'emisingi gyayo girimenyekera ddala.
- 5 Obuwesiyopya, ne Puti, ne Ludi, n'abantu bonna abaatabulwa, ne Kubu, n'abaana bonna ab'ensi eragaanye, baligwa wamu nabo n'ekitala.
- 6 Bw'ati bw'ayogera Mukama nti Era n'abo abakwatirira Misiri baligwa, n'amalala ag'obuyinza bwayo galikankana: okuva ku kigo eky'e Sevene baligwa omwo n'ekitala, bw'ayogera Mukama.
- 7 Era baliba nga balekeddwawo wakati mu nsi ezaalekebwawo, n'ebibuga byayo biriba wakati mu bibuga ebyazisibwa.
- 8 Kale balimanya nga nze Mukama, bwe ndimala okukuma omuliro mu Misiri, n'ababeezi baayo bonna nga bazikiridde: 9 Ku lunaku olwo ababaka balitambula nga bava mu maaso gange nga bagenderera mu byombo okutiisa Abesiyopya abeegolola; kale obubalagaze buliba ku bo, nga ku lunaku lwa Misiri; kubanga, laba, lujja.
- 10 Bw'ati bw'ayogera Mukama Katonda nti Era ndikomya olufulube lw'abantu ba Misiri n'omukono gwa Nebukadduleeza kabaka w'e Babulooni.
- 11 Ye n'abantu be awamu naye, ab'entiisa ab'omu mawanga, baliyingizibwa okuzikiriza ensi; era balisowola ebitala byabwe okulwanyisa Misiri, ne bajjuza ensi abo abattiddwa.
- 12 Era ndikaza emigga, ne ntunda ensi mu mukono gw'abantu ababi; era ndirekesaawo nsi ne byonna ebirimu n'omukono gwa banaaggwanga: nze Mukama nkyogedde.
- 13 Bw'ati bw'ayogera Mukama Katonda nti Era ndizikiriza n'ebifaananyi, era ndimalamu esanamu nu Noofu; so tewaliba nate mulangira ava mu nsi y'e Misiri: era nditeeka entiisa mu nsi y'e Misiri.
- 14 Era ndirekesaawo Pasulo, ne nkuma omuliro mu Zowani, ne ntuukiriza emisango mu No.
- 15 Era ndifuka ekiruyi kyange ku Sini, ekigo kya Misiri; era ndimalwo olufulube olw'abantu ba No.
- 16 Era ndikuma omuliro mu Misiri; Sini kiriba n'obubalagaze bungi, ne No kirimenyeka: ne Noofu kiriba n’abalabe emisana.
- 17 Abalenzi ba Aveni n'aba Pibesesi baligwa n'ekiala: n'ebibuga bino birigenda mu busibe.
- 18 Era e Tekafunekeesi n’omusaaa gulyeggyawo, bwe ndimenyera eyo ebikoligo bya Misiri, n'amalala ag'obuyinza bwayo galigwaawo omwo: nakyo ekire kirikibikkako, ne bawala baakyo baligenda mu busibe.
- 19 Bwe ntyo bwe ndituukiriza emisango mu Misiri: kale balimanya nga nze Mukama.
- 20 Awo olwatuuka mu mwaka ogw'ekkumi n'ogumu mu mwezi gw'olubereberye ku lunaku olw'omwezi olw'omusanvu ekigambo kya Mukama ne kinjijira nga kyogera nti 21 Omwana w'omuntu, mmenye omukono gwa Falaawo kabaka w'e Miisiri; era, laba, tegusibiddwa okusiigako eddagala, okussaako ekiwero okugusiba, gubeere n'amaanyi okukwata ekitala.
- 22 Mukama Katonda kyava ayogera bw'ati nti laba, ndi mulabe wa Falaawo kabaka w'e Misiri, era ndimenya emikono gye, ogw'amaanyi n'ogwo ogwamenyeka; era ndigwisa ekitala okuva mu mukono gwe.
- 23 Era ndisaasaanyiza Abamisiri mu mawanga, era ndibataataaganyiza mu nsi nnyingi.
- 24 Era ndinyweza emikono gya kabaka w'e Babulooni, ne nteeka ekitala kyange mu mukono gwe: naye ndimenya emikono gya Falaawo, kale alisindira mu maaso ge ng'omuntu afumitiddwa okufa bw'asinda.
- 25 Era ndisitula emikono gya kabaka w'e Babulooni, n'emikono gya Falaawo girikka; kale balimanya nga nze Mukama, bwe nditeeka ekitala kyange mu mukono gwa kabaka w’e Babulooni, naye alikigololera ku nsi y'e Misiri.
- 26 Era ndisaasaanyiza Abamisiri mu mawanga ne mbataataaganyiza mu nsi nnyingi; kale balimanya nga nze Mukama.
-          
+ 1 Ekigambo kya Mukama ne kinjijira nate nga kyogera nti 
+2 Omwana w'omuntu, lagula oyogere nti Bw'ati bw'ayogera Mukama Katonda nti Muwowoggane nti Zisanze olunaku! 
+3 Kubanga olunaku luli kumpi, olunaku lwa Mukama lwe luli okumpi, olunaku olw'ebire; kiriba kiseera kya bannaggwanga. 
+4 Era ekitala kiririnnya ku Misiri, n'obubalagaze buliba Buwesiyopya, abo abattiddwa bwe baligwa mu Misiri; era baliggyawo olufulube lw'abantu baamu, n'emisingi gyayo girimenyekera ddala. 
+5 Obuwesiyopya, ne Puti, ne Ludi, n'abantu bonna abaatabulwa, ne Kubu, n'abaana bonna ab'ensi eragaanye, baligwa wamu nabo n'ekitala. 
+6 Bw'ati bw'ayogera Mukama nti Era n'abo abakwatirira Misiri baligwa, n'amalala ag'obuyinza bwayo galikankana: okuva ku kigo eky'e Sevene baligwa omwo n'ekitala, bw'ayogera Mukama. 
+7 Era baliba nga balekeddwawo wakati mu nsi ezaalekebwawo, n'ebibuga byayo biriba wakati mu bibuga ebyazisibwa. 
+8 Kale balimanya nga nze Mukama, bwe ndimala okukuma omuliro mu Misiri, n'ababeezi baayo bonna nga bazikiridde: 
+9 Ku lunaku olwo ababaka balitambula nga bava mu maaso gange nga bagenderera mu byombo okutiisa Abesiyopya abeegolola; kale obubalagaze buliba ku bo, nga ku lunaku lwa Misiri; kubanga, laba, lujja. 
+10 Bw'ati bw'ayogera Mukama Katonda nti Era ndikomya olufulube lw'abantu ba Misiri n'omukono gwa Nebukadduleeza kabaka w'e Babulooni. 
+11 Ye n'abantu be awamu naye, ab'entiisa ab'omu mawanga, baliyingizibwa okuzikiriza ensi; era balisowola ebitala byabwe okulwanyisa Misiri, ne bajjuza ensi abo abattiddwa. 
+12 Era ndikaza emigga, ne ntunda ensi mu mukono gw'abantu ababi; era ndirekesaawo nsi ne byonna ebirimu n'omukono gwa banaaggwanga: nze Mukama nkyogedde. 
+13 Bw'ati bw'ayogera Mukama Katonda nti Era ndizikiriza n'ebifaananyi, era ndimalamu esanamu nu Noofu; so tewaliba nate mulangira ava mu nsi y'e Misiri: era nditeeka entiisa mu nsi y'e Misiri. 
+14 Era ndirekesaawo Pasulo, ne nkuma omuliro mu Zowani, ne ntuukiriza emisango mu No. 
+15 Era ndifuka ekiruyi kyange ku Sini, ekigo kya Misiri; era ndimalwo olufulube olw'abantu ba No. 
+16 Era ndikuma omuliro mu Misiri; Sini kiriba n'obubalagaze bungi, ne No kirimenyeka: ne Noofu kiriba n’abalabe emisana. 
+17 Abalenzi ba Aveni n'aba Pibesesi baligwa n'ekiala: n'ebibuga bino birigenda mu busibe. 
+18 Era e Tekafunekeesi n’omusaaa gulyeggyawo, bwe ndimenyera eyo ebikoligo bya Misiri, n'amalala ag'obuyinza bwayo galigwaawo omwo: nakyo ekire kirikibikkako, ne bawala baakyo baligenda mu busibe. 
+19 Bwe ntyo bwe ndituukiriza emisango mu Misiri: kale balimanya nga nze Mukama. 
+20 Awo olwatuuka mu mwaka ogw'ekkumi n'ogumu mu mwezi gw'olubereberye ku lunaku olw'omwezi olw'omusanvu ekigambo kya Mukama ne kinjijira nga kyogera nti 
+21 Omwana w'omuntu, mmenye omukono gwa Falaawo kabaka w'e Miisiri; era, laba, tegusibiddwa okusiigako eddagala, okussaako ekiwero okugusiba, gubeere n'amaanyi okukwata ekitala. 
+22 Mukama Katonda kyava ayogera bw'ati nti laba, ndi mulabe wa Falaawo kabaka w'e Misiri, era ndimenya emikono gye, ogw'amaanyi n'ogwo ogwamenyeka; era ndigwisa ekitala okuva mu mukono gwe. 
+23 Era ndisaasaanyiza Abamisiri mu mawanga, era ndibataataaganyiza mu nsi nnyingi. 
+24 Era ndinyweza emikono gya kabaka w'e Babulooni, ne nteeka ekitala kyange mu mukono gwe: naye ndimenya emikono gya Falaawo, kale alisindira mu maaso ge ng'omuntu afumitiddwa okufa bw'asinda. 
+25 Era ndisitula emikono gya kabaka w'e Babulooni, n'emikono gya Falaawo girikka; kale balimanya nga nze Mukama, bwe nditeeka ekitala kyange mu mukono gwa kabaka w’e Babulooni, naye alikigololera ku nsi y'e Misiri. 
+26 Era ndisaasaanyiza Abamisiri mu mawanga ne mbataataaganyiza mu nsi nnyingi; kale balimanya nga nze Mukama.          
 
 

@@ -1,36 +1,34 @@
- 1 Engero za Sulemaani.
- Omwana ow'amagezi asanyusa kitaawe: Naye omwana omusirusiru anakuwaza nnyina.
- 2 Obugagga obw'obubi tebuliiko kye bugasa: Naye obutuukirivu buwonya mu kufa.
- 3 Mukama taalekenga mmeeme ya mutuukirivu okufa enjala: Naye okwegomba kw'ababi akusindika eri.
- 4 Ayavuwala oyo akola n'omukono oguddiridde: Naye omukono gw'abanyiikivu guleeta obugagga.
- 5 Akungulira mu kyeya mwana wa magezi: Naye oyo eyeebakira mu biro eby'okukunguliramu ye mwana akwasa ensonyi.
- 6 Emikisa giba ku mutwe gw'omutuukirivu: Naye ekyejo kibikka ku kamwa k'ababi.
- 7 Ekijjukizo ky'omutuukirivu kirina omukisa: Naye erinnya ly'ababi lirivunda.
- 8 Alina omutima ogw'amagezi anakkirizanga ebiragiro: Naye omubuyabuya aligwa.
- 9 Atambulira mu bugolokofu ye atambula emirembe: Naye akyamya amakubo ge alimanyibwa.
- 10 Atemya eriiso eleeta ennaku: Naye omusirusiru omubuyabuya aligwa.
- 11 Akamwa k'omutuukirivu nsulo ya bulamu: Naye ekyejo kibikka ku kamwa k'ababi.
- 12 Okukyawa kuleeta ennyombo: Naye okwagala kubikka ku byonoono byonna.
- 13 Mu mimwa gy'oyo alina okwawula mulabikamu amagezi: Naye omuggo gwa mabega g'oyo abulwa okutegeera.
- 14 Ab'amagezi batereka okumanya: Naye akamwa k'omusirusiru kwe kuzikirira okutavaawo.
- 15 Ebintu eby'omugagga kye kibuga kye eky'amaanyi: Abaavu okuzikirira kwabwe bwavu bwabwe.
- 16 Omulimu ogw'omutuukirivu guleeta bulamu; Ekyengera eky'omubi kireeta kwonoona.
- 17 Oyo ali mu kkubo ery'obulamu assaayo omwoyo eri okubuulirirwa: Naye oyo aleka okunenyezebwa akyama.
- 18 Oyo akisa okukyawa wa mimwa gya bulimba; N'oyo awaayiriza musirusiru.
- 19 Mu lufulube lw'ebigambo temubula kusobya: Naye oyo aziyiza emimwa gye akola eby'amagezi.
- 20 Olulimi lw'omutuukirivu ffeeza nnonde: Omutima gw'ababi tegugasa nnyo.
- 21 Emimwa gy'omutuukirivu giriisa bangi: Naye abasirusiru bafa olw'okubulwa okutegeera.
- 22 Omukisa gwa Mukama gwe gugaggawaza, So tagatta buyinike bwonna wamu nagwo.
- 23 Okukola obubi muzannyo gwa musirusiru: Era bwe gatyo amagezi bwe gabeera eri omuntu alina okutegeera.
- 24 Omubi ky'atya kirimujjira: N'ekyo abatuukirivu kye beegomba balikiweebwa.
- 25 Empewo ez'akazimu bwe ziyita, kale omubi nga takyaliwo: Naye omutuukirivu musingi gwa lubeerera.
- 26 Ng'omwenge omukaatuufu bwe gugira amannyo, era ng'omukka bwe gugira amaaso, N'omugayaavu bw'agira bw'atyo abo abamutuma.
- 27 Okutya Mukama kuwangaaza: Naye emyaka gy'ababi girisalibwako.
- 28 Essuubi ery'abatuukirivu liriba ssanyu: Naye okusuubira kw'ababi kulizikirira.
- 29 Ekkubo lya Mukama kigo eri omugolokofu; Naye kuzikirira eri abo abakola ebitali bya butuukirivu.
- 30 Omutuukirivu tajjululwenga ennaku zonna: Naye ababi tebalibeera mu nsi.
- 31 Akamwa k'omutuukirivu kazaala amagazi: Naye olulimi olubambaavu lulimalibwawo.
- 32 Emimwa gy'omutuukirivu gigaanyi ebikkirizibwa: Naye omumwa gw'ababi gwogera bubambaavu.
-          
+ 1 Engero za Sulemaani. Omwana ow'amagezi asanyusa kitaawe: Naye omwana omusirusiru anakuwaza nnyina. 
+2 Obugagga obw'obubi tebuliiko kye bugasa: Naye obutuukirivu buwonya mu kufa. 
+3 Mukama taalekenga mmeeme ya mutuukirivu okufa enjala: Naye okwegomba kw'ababi akusindika eri. 
+4 Ayavuwala oyo akola n'omukono oguddiridde: Naye omukono gw'abanyiikivu guleeta obugagga. 
+5 Akungulira mu kyeya mwana wa magezi: Naye oyo eyeebakira mu biro eby'okukunguliramu ye mwana akwasa ensonyi. 
+6 Emikisa giba ku mutwe gw'omutuukirivu: Naye ekyejo kibikka ku kamwa k'ababi. 
+7 Ekijjukizo ky'omutuukirivu kirina omukisa: Naye erinnya ly'ababi lirivunda. 
+8 Alina omutima ogw'amagezi anakkirizanga ebiragiro: Naye omubuyabuya aligwa. 
+9 Atambulira mu bugolokofu ye atambula emirembe: Naye akyamya amakubo ge alimanyibwa. 
+10 Atemya eriiso eleeta ennaku: Naye omusirusiru omubuyabuya aligwa. 
+11 Akamwa k'omutuukirivu nsulo ya bulamu: Naye ekyejo kibikka ku kamwa k'ababi. 
+12 Okukyawa kuleeta ennyombo: Naye okwagala kubikka ku byonoono byonna. 
+13 Mu mimwa gy'oyo alina okwawula mulabikamu amagezi: Naye omuggo gwa mabega g'oyo abulwa okutegeera. 
+14 Ab'amagezi batereka okumanya: Naye akamwa k'omusirusiru kwe kuzikirira okutavaawo. 
+15 Ebintu eby'omugagga kye kibuga kye eky'amaanyi: Abaavu okuzikirira kwabwe bwavu bwabwe. 
+16 Omulimu ogw'omutuukirivu guleeta bulamu; Ekyengera eky'omubi kireeta kwonoona. 
+17 Oyo ali mu kkubo ery'obulamu assaayo omwoyo eri okubuulirirwa: Naye oyo aleka okunenyezebwa akyama. 
+18 Oyo akisa okukyawa wa mimwa gya bulimba; N'oyo awaayiriza musirusiru. 
+19 Mu lufulube lw'ebigambo temubula kusobya: Naye oyo aziyiza emimwa gye akola eby'amagezi. 
+20 Olulimi lw'omutuukirivu ffeeza nnonde: Omutima gw'ababi tegugasa nnyo. 
+21 Emimwa gy'omutuukirivu giriisa bangi: Naye abasirusiru bafa olw'okubulwa okutegeera. 
+22 Omukisa gwa Mukama gwe gugaggawaza, So tagatta buyinike bwonna wamu nagwo. 
+23 Okukola obubi muzannyo gwa musirusiru: Era bwe gatyo amagezi bwe gabeera eri omuntu alina okutegeera. 
+24 Omubi ky'atya kirimujjira: N'ekyo abatuukirivu kye beegomba balikiweebwa. 
+25 Empewo ez'akazimu bwe ziyita, kale omubi nga takyaliwo: Naye omutuukirivu musingi gwa lubeerera. 
+26 Ng'omwenge omukaatuufu bwe gugira amannyo, era ng'omukka bwe gugira amaaso, N'omugayaavu bw'agira bw'atyo abo abamutuma. 
+27 Okutya Mukama kuwangaaza: Naye emyaka gy'ababi girisalibwako. 
+28 Essuubi ery'abatuukirivu liriba ssanyu: Naye okusuubira kw'ababi kulizikirira. 
+29 Ekkubo lya Mukama kigo eri omugolokofu; Naye kuzikirira eri abo abakola ebitali bya butuukirivu. 
+30 Omutuukirivu tajjululwenga ennaku zonna: Naye ababi tebalibeera mu nsi. 
+31 Akamwa k'omutuukirivu kazaala amagazi: Naye olulimi olubambaavu lulimalibwawo. 
+32 Emimwa gy'omutuukirivu gigaanyi ebikkirizibwa: Naye omumwa gw'ababi gwogera bubambaavu.          
 
 

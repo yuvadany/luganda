@@ -1,21 +1,26 @@
-1 Awo olwatuuka ku lunaku olw'omunaana Musa n'ayita Alooni n'abaana be n'abakadde ba Isiraeri; 2 n'agamba Alooni nti Weetwalire ennyana ennume okuba ekiweebwayo olw'ekibi, n'endiga ennume okuba ekiweebwayo ekyokebwa, ezitaliiko bulema, oziweereyo mu maaso ga Mukama.
- 3 Era abaana ba Isiraeri onoobagamba nti mwetwalire embuzi ennume okuba ekiweebwayo olw'ekibi; n'ennyana n'omwana gw'endiga, ezaakamaze omwaka ogumu zombi, ezitaliiko bulema, okuba ekiweebwayo ekyokebwa; 4 n'ente n'endiga ennume okuba ebiweebwayo olw'emirembe, okuziwaayo mu maaso ga Mukama; n'ekiweebwayo eky'obutta ekitabuddwamu amafuta: kubanga leero Mukama anaabalabikira.
- 5 Ne baleeta ebyo Musa by'alagidde mu maaso g'eweema ey'okusisinkanirangamu: ekibiina kyonna ne kisembera ne kiyimirira mu maaso ga Mukama.
- 6 Musa n'ayogera nti Kino kye kigambo Mukama kye yalagira mukikole: n'ekitiibwa kya Mukama kinaabalabikira.
- 7 Musa n'agamba Alooni nti Semberera ekyoto, oweeyo ekyo ky'owaayo olw'ekibi n'ekyo ky'owaayo ekyokebwa, weetangirire wekka n'abantu: oweeyo ekitone eky'abantu obatangirire; nga Mukama bwe yalagira.
- 8 Awo Alooni n'asemberera ekyoto, n'atta ennyana ey'ekiweebwayo olw'ekibi, ekikye ku bubwe.
- 9 Abaana ba Alooni ne bamuleetera omusaayi: n'annyika engalo ye mu musaayi, n'agusiiga ku mayembe g'ekyoto, n'ayiwa omusaayi ku ntobo y'ekyoto, 10 naye amasavu n'ensigo n'ekisenge eky'oku kibumba eky'ekiweebwayo olw'ekibi, n'abyokera kn kyoto; nga Mukama bwe yalagira Musa.
- 11 N'ennyama n'eddiba n'ayokera n'omuliro ebweru w'olusiisira.
- 12 N'atta ekiweebwayo ekyokebwa; abaana ba Alooni ne bamuleetera omusaayi, n'agumansira ku kyoto enjuyi zonna.
- 13 Ne bamuleetera ekiweebwayo ekyokebwa, ebitundu ebitundu kinnakimu, n'omutwe: n'abyokera ku kyoto.
- 14 N'anaaza ebyenda n'amagulu, n'abyokera ku kiweebwayo ekyokebwa ku kyoto.
- 15 N'aleeta ekitone eky'abantu, n'addira embuzi ey'ekiweebwayo olw'ekibi ekyali ku bw'abantu, n'agitta, n'agiwaayo olw'ekibi, nga n'eyolubereberye.
- 16 N'aleeta ekiweebwayo ekyokebwa, n'akiwaayo ng'ekiragiro bwe kyali.
- 17 N'aleeta ekiweebwayo eky'obutta, n'akitoolako okujjuza olubatu lwe, n'agyokera ku kyoto, era n'ekiweebwayo ekyokebwa eky'enkya.
- 18 Era n'atta ente n'endiga ennume, ssaddaaka ey'ebiweebwayo olw'emirembe, eyali ku bw'abantu: abaana ba Alooni ne bamuleetera omusaayi, n'agumansira ku kyoto enjuyi zonna, 19 n'amasavu g'ente: ne ku ndiga omukira ogwa ssava, n'agabikka ku byenda, n'ensigo n'ekisenge eky'oku kibumba: 20 amasavu ne bagateeka ku bifuba n'ayokera amasavu ku kyoto: 21 n'ebifuba n'ekisambi ekya ddyo Alooni n'abiwuubawuuba okuba ekiweebwayo ekiwuubibwa mu maaso ga Mukama; nga Musa bw'alagidde.
- 22 Awo Alooni n'ayimusa emikono gye eri abantu, n'abasabira omukisa; n'aserengeta ng'amaze okuwaayo ekiI weebwayo olw'ekibi n'ekiweebwayo ekyokebwa n'ebiweebwayo olw'emirembe.
- 23 Awo Musa ne Alooni ne bayingira mu weema ey'okusisinkanirangamu, ne bafuluma, ne basabira abantu omukisa: awo ekitiibwa kya Mukama ne kirabikira abantu bonna.
- 24 Omuliro ne guva eri Mukama mu maaso ge, ne gwokera ku kyoto ekiweebwayo ekyokebwa n'amasavu: awo abantu bonna bwe baagulaba ne boogerera waggulu ne bavuunama amaaso gaabwe.
-          
+1 Awo olwatuuka ku lunaku olw'omunaana Musa n'ayita Alooni n'abaana be n'abakadde ba Isiraeri; 
+2 n'agamba Alooni nti Weetwalire ennyana ennume okuba ekiweebwayo olw'ekibi, n'endiga ennume okuba ekiweebwayo ekyokebwa, ezitaliiko bulema, oziweereyo mu maaso ga Mukama. 
+3 Era abaana ba Isiraeri onoobagamba nti mwetwalire embuzi ennume okuba ekiweebwayo olw'ekibi; n'ennyana n'omwana gw'endiga, ezaakamaze omwaka ogumu zombi, ezitaliiko bulema, okuba ekiweebwayo ekyokebwa; 
+4 n'ente n'endiga ennume okuba ebiweebwayo olw'emirembe, okuziwaayo mu maaso ga Mukama; n'ekiweebwayo eky'obutta ekitabuddwamu amafuta: kubanga leero Mukama anaabalabikira. 
+5 Ne baleeta ebyo Musa by'alagidde mu maaso g'eweema ey'okusisinkanirangamu: ekibiina kyonna ne kisembera ne kiyimirira mu maaso ga Mukama. 
+6 Musa n'ayogera nti Kino kye kigambo Mukama kye yalagira mukikole: n'ekitiibwa kya Mukama kinaabalabikira. 
+7 Musa n'agamba Alooni nti Semberera ekyoto, oweeyo ekyo ky'owaayo olw'ekibi n'ekyo ky'owaayo ekyokebwa, weetangirire wekka n'abantu: oweeyo ekitone eky'abantu obatangirire; nga Mukama bwe yalagira. 
+8 Awo Alooni n'asemberera ekyoto, n'atta ennyana ey'ekiweebwayo olw'ekibi, ekikye ku bubwe. 
+9 Abaana ba Alooni ne bamuleetera omusaayi: n'annyika engalo ye mu musaayi, n'agusiiga ku mayembe g'ekyoto, n'ayiwa omusaayi ku ntobo y'ekyoto, 
+10 naye amasavu n'ensigo n'ekisenge eky'oku kibumba eky'ekiweebwayo olw'ekibi, n'abyokera kn kyoto; nga Mukama bwe yalagira Musa. 
+11 N'ennyama n'eddiba n'ayokera n'omuliro ebweru w'olusiisira. 
+12 N'atta ekiweebwayo ekyokebwa; abaana ba Alooni ne bamuleetera omusaayi, n'agumansira ku kyoto enjuyi zonna. 
+13 Ne bamuleetera ekiweebwayo ekyokebwa, ebitundu ebitundu kinnakimu, n'omutwe: n'abyokera ku kyoto. 
+14 N'anaaza ebyenda n'amagulu, n'abyokera ku kiweebwayo ekyokebwa ku kyoto. 
+15 N'aleeta ekitone eky'abantu, n'addira embuzi ey'ekiweebwayo olw'ekibi ekyali ku bw'abantu, n'agitta, n'agiwaayo olw'ekibi, nga n'eyolubereberye. 
+16 N'aleeta ekiweebwayo ekyokebwa, n'akiwaayo ng'ekiragiro bwe kyali. 
+17 N'aleeta ekiweebwayo eky'obutta, n'akitoolako okujjuza olubatu lwe, n'agyokera ku kyoto, era n'ekiweebwayo ekyokebwa eky'enkya. 
+18 Era n'atta ente n'endiga ennume, ssaddaaka ey'ebiweebwayo olw'emirembe, eyali ku bw'abantu: abaana ba Alooni ne bamuleetera omusaayi, n'agumansira ku kyoto enjuyi zonna, 
+19 n'amasavu g'ente: ne ku ndiga omukira ogwa ssava, n'agabikka ku byenda, n'ensigo n'ekisenge eky'oku kibumba: 
+20 amasavu ne bagateeka ku bifuba n'ayokera amasavu ku kyoto: 
+21 n'ebifuba n'ekisambi ekya ddyo Alooni n'abiwuubawuuba okuba ekiweebwayo ekiwuubibwa mu maaso ga Mukama; nga Musa bw'alagidde. 
+22 Awo Alooni n'ayimusa emikono gye eri abantu, n'abasabira omukisa; n'aserengeta ng'amaze okuwaayo ekiI weebwayo olw'ekibi n'ekiweebwayo ekyokebwa n'ebiweebwayo olw'emirembe. 
+23 Awo Musa ne Alooni ne bayingira mu weema ey'okusisinkanirangamu, ne bafuluma, ne basabira abantu omukisa: awo ekitiibwa kya Mukama ne kirabikira abantu bonna. 
+24 Omuliro ne guva eri Mukama mu maaso ge, ne gwokera ku kyoto ekiweebwayo ekyokebwa n'amasavu: awo abantu bonna bwe baagulaba ne boogerera waggulu ne bavuunama amaaso gaabwe.          
 
 

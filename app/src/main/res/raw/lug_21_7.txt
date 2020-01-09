@@ -1,25 +1,31 @@
-1 Erinnya eddungi lisinga amafuta ag'omugavu ag'omuwendo omungi; n'olunaku olw'okufiiramu lusinga olunaku olw'okuzaalirwamu.
- 2 Okugenda mu nnyumba ey'okuwuubaaliramu, kusinga okugenda mu nnyumba ey'okuliiramu embaga: kubanga eyo ye nkomerero y'abantu bonna; n'omulamu alikiteeka ku mutima gwe.
- 3 Ennaku zisinga enseko: kubanga obuyinike bw'amaaso bwe busannyusa omutima.
- 4 Omutima gw'abagezigezi guba mu nnyumba ey'okuwuubaaliramu; naye omutima gw'abasirusiru guba mu nnyumba ey'ebinyumu.
- 5 Okuwulira okunenya kw'omugezigezi kusinga okuwulira oluyimba olw'abasirusiru.
- 6 Kubanga amaggwa nga bwe gatulikira wansi w'entamu, enseko z'omusirusiru bwe ziba bwe zityo: era n'ezo butaliimu 7 Mazima obukamuzi bufuula omugezigezi okuba omusirusiru; era enguzi emalamu okutegeera.
- 8 Enkomerero y'ekigambo esinga obulungi okusooka kwakyo: alina omwoyo ogugumiikiriza asinga alina omwoyo ogw'amalala.
- 9 Toyangayirizanga mu mwoyo gwo okusunguwala: kubanga obusungu bubeera mu kifuba ky'abasirusiru.
- 10 Toyogeranga nti Nsonga ki ennaku ez'edda kyezaavanga zisinga zinno? kubanga tobuuza kino lwa magezi.
- 11 Amagezi genkana obulungi obusika: weewaawo, gasinga okuwooma eri abo abalaba enjuba.
- 12 Kubanga amagezi kigo, nga ffeeza bw'eri ekigo: naye okumanya kyekuva kusinga obulungi, kubanga annagezi gakuuma obulamu bwa nnyini go.
- 13 Lowooza omulimu gwa Katonda: kubanga ani ayinza okuluŋŋamya ekyo ye kye yanyoola? 14 Osanyukiranga ku lunaku olw'okulabiramu omukisa, era olowoolezanga ku lunaku olw'okulabiramu ennaku: Katonda yaliraanya olwo ku mabbali g'olwo, omuntu alemenga okulaba ekintu kyonna e.
-kiriba oluvannyuma lwe.
- 15 Ebyo byonna nabirabira mu nnaku ez'obutaliimu bwange: waliwo omuntu omutuukirivu azikirira mu butuukirivu bwe, era waliwo omuntu omubi awangaalira mu kukola obubi bwe.
- 16 Tosukkiriranga kuba mutuukirivu; so teweefuulanga asukkiriza amagezi: lwaki ggwe okwezikiriza? 17 Tosukkiriranga kuba mubi, so tobanga musirusiru: lwaki ggwe okufa ekiseera kyo nga tekinnatuuka? 18 Kirungi okwatenga ekyo; weewaawo, na kiri tokiggyaako mukono gwo: kubanga atya Katonda anaavanga mu byonna.
- 19 Amagezi maanyi eri omugezigezi okusinga abafuga kkumi abali mu kibuga.
- 20 Mazima tewali muntu mutuukirivu ku nsi akola ebirungi n'atayonoona.
- 21 Era tossaayo mwoyo eri ebigambo byonna ebyogerwa; olemenga okuwulira omuddu wo ng'akukolimira: 22 kubanga emirundi mingi omutima gwo ggwe nagwo gumanyi nga naawe bw'otyo wakolimira abalala.
- 23 Ebyo byonna nabikema lwa magezi: nayogera nti Ndiba mugezigezi; naye ne gambeera wala.
- 24 Ekiriwo kiri wala era kigenda wansi nnyo; ani ayinza okukikebeera? 25 Nakyuka, omutima gwange ne ngukakasa okumanyanga n'okukenneenyanga, n'okunoonyanga amagezi n'ensonga z'ebigambo n'okumanyanga ng'obubi busirusiru, era ng'obusirusiru ddalu: 26 era ndaba ekigambo ekisinga okufa okubalagala, ye mukazi, omutima gwe byambika n'ebitimba; n'emikono gye giri ng'enjegere: buli asanyusa Katonda alimuwona; naye alina ebibi alikwatibwa ye.
- 27 Laba, kino kye nnalaba, bw'ayogera Omubuulizi, nga nteeka ekigambo ekirala ku kirala okunoonya ensonga: 28 emmeeme yange ky'ekyanoonya, naye sinnakiraba: omusajja omu mu lukumi gwe nnalaba; naye omukazi mu abo bonna gwe ssirabanga.
- 29 Laba, kino kyokka kye nnalaba nga Katonda yakola abantu nga bagolokofu; naye bo ne banoonya bingi bye baagunja.
-          
+1 Erinnya eddungi lisinga amafuta ag'omugavu ag'omuwendo omungi; n'olunaku olw'okufiiramu lusinga olunaku olw'okuzaalirwamu. 
+2 Okugenda mu nnyumba ey'okuwuubaaliramu, kusinga okugenda mu nnyumba ey'okuliiramu embaga: kubanga eyo ye nkomerero y'abantu bonna; n'omulamu alikiteeka ku mutima gwe. 
+3 Ennaku zisinga enseko: kubanga obuyinike bw'amaaso bwe busannyusa omutima. 
+4 Omutima gw'abagezigezi guba mu nnyumba ey'okuwuubaaliramu; naye omutima gw'abasirusiru guba mu nnyumba ey'ebinyumu. 
+5 Okuwulira okunenya kw'omugezigezi kusinga okuwulira oluyimba olw'abasirusiru. 
+6 Kubanga amaggwa nga bwe gatulikira wansi w'entamu, enseko z'omusirusiru bwe ziba bwe zityo: era n'ezo butaliimu 
+7 Mazima obukamuzi bufuula omugezigezi okuba omusirusiru; era enguzi emalamu okutegeera. 
+8 Enkomerero y'ekigambo esinga obulungi okusooka kwakyo: alina omwoyo ogugumiikiriza asinga alina omwoyo ogw'amalala. 
+9 Toyangayirizanga mu mwoyo gwo okusunguwala: kubanga obusungu bubeera mu kifuba ky'abasirusiru. 
+10 Toyogeranga nti Nsonga ki ennaku ez'edda kyezaavanga zisinga zinno? kubanga tobuuza kino lwa magezi. 
+11 Amagezi genkana obulungi obusika: weewaawo, gasinga okuwooma eri abo abalaba enjuba. 
+12 Kubanga amagezi kigo, nga ffeeza bw'eri ekigo: naye okumanya kyekuva kusinga obulungi, kubanga annagezi gakuuma obulamu bwa nnyini go. 
+13 Lowooza omulimu gwa Katonda: kubanga ani ayinza okuluŋŋamya ekyo ye kye yanyoola? 
+14 Osanyukiranga ku lunaku olw'okulabiramu omukisa, era olowoolezanga ku lunaku olw'okulabiramu ennaku: Katonda yaliraanya olwo ku mabbali g'olwo, omuntu alemenga okulaba ekintu kyonna e.kiriba oluvannyuma lwe. 
+15 Ebyo byonna nabirabira mu nnaku ez'obutaliimu bwange: waliwo omuntu omutuukirivu azikirira mu butuukirivu bwe, era waliwo omuntu omubi awangaalira mu kukola obubi bwe. 
+16 Tosukkiriranga kuba mutuukirivu; so teweefuulanga asukkiriza amagezi: lwaki ggwe okwezikiriza? 
+17 Tosukkiriranga kuba mubi, so tobanga musirusiru: lwaki ggwe okufa ekiseera kyo nga tekinnatuuka? 
+18 Kirungi okwatenga ekyo; weewaawo, na kiri tokiggyaako mukono gwo: kubanga atya Katonda anaavanga mu byonna. 
+19 Amagezi maanyi eri omugezigezi okusinga abafuga kkumi abali mu kibuga. 
+20 Mazima tewali muntu mutuukirivu ku nsi akola ebirungi n'atayonoona. 
+21 Era tossaayo mwoyo eri ebigambo byonna ebyogerwa; olemenga okuwulira omuddu wo ng'akukolimira: 
+22 kubanga emirundi mingi omutima gwo ggwe nagwo gumanyi nga naawe bw'otyo wakolimira abalala. 
+23 Ebyo byonna nabikema lwa magezi: nayogera nti Ndiba mugezigezi; naye ne gambeera wala. 
+24 Ekiriwo kiri wala era kigenda wansi nnyo; ani ayinza okukikebeera? 
+25 Nakyuka, omutima gwange ne ngukakasa okumanyanga n'okukenneenyanga, n'okunoonyanga amagezi n'ensonga z'ebigambo n'okumanyanga ng'obubi busirusiru, era ng'obusirusiru ddalu: 
+26 era ndaba ekigambo ekisinga okufa okubalagala, ye mukazi, omutima gwe byambika n'ebitimba; n'emikono gye giri ng'enjegere: buli asanyusa Katonda alimuwona; naye alina ebibi alikwatibwa ye. 
+27 Laba, kino kye nnalaba, bw'ayogera Omubuulizi, nga nteeka ekigambo ekirala ku kirala okunoonya ensonga: 
+28 emmeeme yange ky'ekyanoonya, naye sinnakiraba: omusajja omu mu lukumi gwe nnalaba; naye omukazi mu abo bonna gwe ssirabanga. 
+29 Laba, kino kyokka kye nnalaba nga Katonda yakola abantu nga bagolokofu; naye bo ne banoonya bingi bye baagunja.          
 
 

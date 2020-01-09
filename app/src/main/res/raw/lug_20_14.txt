@@ -1,36 +1,37 @@
- 1 Buli mukazi ow'amagezi azimba ennyumba ye.
- Naye omusirusiru agyabya n'emikono gye ye.
- 2 Atambulira mu bugolokofu bwe atya Mukama: Naye akyamakyama mu makubo ge amunyooma.
- 3 Mu kamwa k'omusirusiru mulimu omuggo ogw'amalala: Naye emimwa gy'ab'amagezi ginaabakuumanga.
- 4 Eteri nte ekisibo kiba kirongoofu: Naye amaanyi g'ente galeeta okwala kungi.
- 5 Omujulirwa omwesigwa talimba: Naye omujulirwa ow'obulimba ayogera eby'okuwaayiriza.
- 6 Anyooma anoonya amagezi n'atagalaba: Naye okumanya kwangu eri oyo alina okutegeera.
- 7 Yingira mu masso g'omusirusiru, Toolabe ku ye mimwa gya kumanya.
- 8 Okutegeera ekkubo lye ge magezi g'omutegeevu: Naye abasirusiru obusirusiru bwabwe kulimba.
- 9 Abasirusiru bakudaalira omusango: Naye mu bagolokofu mulimu ekisa.
- 10 Omutima gumanya okulumwa kwagwo; So n'omugenyi teyeetabula mu ssanyu lyagwo.
- 11 Ennyumba ey'ababi erisuulibwa: Naye eweema ey'abagolokofu eneebanga n'omukisa.
- 12 Waliwo ekkubo omuntu ly'ayita eddungi, Naye enkomerero yaalyo ge makubo ag'okufa.
- 13 Ne bwe guseka omutima gunakuwala; N'enkomerero y'okuseka buyinike.
- 14 Adda ennyuma mu mutima gwe alikkuta amakubo ge ye: N'omuntu omulungi alikkuta ye yennyini.
- 15 Atalina magezi akkiriza buli kigambo kyonna: Naye omuntu omutegeevu akebera nnyo amagenda ge.
- 16 Omuntu ow'amagezi atya n'ava mu bubi: Naye omusirusiru aba n'ettitimbuli, era yeeyinula.
- 17 Ayanguwa okusunguwala alikola eby'obusirusiru: N'omuntu asala enkwe embi akyayibwa.
- 18 Abatalina magezi basikira obusirusiru: Naye abategeevu bassibwako engule kwe kumanya.
- 19 Ababi bakutamira abalungi; N'ab'ekyejo awali emiryango egy'abatuukirivu.
- 20 Omwavu ne munne amukyawa: Naye omugagga alina emikwano mingi: 21 Anyooma munne ayonoona: Naye asaasira abaavu alina omukisa.
- 22 Abagunja obubi tebawaba? Naye okusaasirwa n'amazima binaabanga byabwe abagunja obulungi.
- 23 Omulimu gwonna guliko kye gugasa: Naye okubuyabuya kw'emimwa kwavuwaza bwavuwaza.
- 24 Obugagga bwabwe ye ngule ey'ab'amagezi: Naye obusirusiru bw'abasirusiru busirusiru bwereere.
- 25 Omujulirwa ow'amazima awonya emmeeme z'abantu: Naye aleeta eby'obulimba akyamya.
- 26 Mu kutya Mukama mulimu okuguma ennyo omwoyo: N'abaana be baliba n'obuddukiro.
- 27 Okutya Mukama nsulo ya bulamu, Okuva mu byambika eby'okufa.
- 28 Mu lufulube lw'abantu mwe muli ekitiibwa kya kabaka: Naye okubulwa abantu kwe kuzikirira kw'omulangira: 29 Alwawo okusunguwala alina okutegeera kungi: Naye alina omwoyo ogwanguyiriza agulumiza obusirusiru.
- 30 Omutima omutuufu bwe bulamu obw'omubiri: Naye obuggya kwe kuvunda kw'amagumba.
- 31 Ajooga omwavu avuma Omutonzi we: Naye asaasira oyo eyeetaaga amussaamu ekitiibwa.
- 32 Omubi asindikibwa wansi mu kwonoona kwe: Naye omutuukirivu alina essuubi mu kufa kwe: 33 Amagezi gabeera mu mutima gw'oyo alina okutegeera: Naye ekiri ku kitundu eky'abasirusiru eky'omunda kimanyisibwa.
- 34 Obutuukirivu bugulumiza eggwanga; Naye ekibi kivumisa eggwanga lyonna.
- 35 Omuddu akola eby'amagezi ye aganja eri kabaka: Naye obusungu bwe bunaabanga eri oyo akwasa ensonyi.
-          
+ 1 Buli mukazi ow'amagezi azimba ennyumba ye. Naye omusirusiru agyabya n'emikono gye ye. 
+2 Atambulira mu bugolokofu bwe atya Mukama: Naye akyamakyama mu makubo ge amunyooma. 
+3 Mu kamwa k'omusirusiru mulimu omuggo ogw'amalala: Naye emimwa gy'ab'amagezi ginaabakuumanga. 
+4 Eteri nte ekisibo kiba kirongoofu: Naye amaanyi g'ente galeeta okwala kungi. 
+5 Omujulirwa omwesigwa talimba: Naye omujulirwa ow'obulimba ayogera eby'okuwaayiriza. 
+6 Anyooma anoonya amagezi n'atagalaba: Naye okumanya kwangu eri oyo alina okutegeera. 
+7 Yingira mu masso g'omusirusiru, Toolabe ku ye mimwa gya kumanya. 
+8 Okutegeera ekkubo lye ge magezi g'omutegeevu: Naye abasirusiru obusirusiru bwabwe kulimba. 
+9 Abasirusiru bakudaalira omusango: Naye mu bagolokofu mulimu ekisa. 
+10 Omutima gumanya okulumwa kwagwo; So n'omugenyi teyeetabula mu ssanyu lyagwo. 
+11 Ennyumba ey'ababi erisuulibwa: Naye eweema ey'abagolokofu eneebanga n'omukisa. 
+12 Waliwo ekkubo omuntu ly'ayita eddungi, Naye enkomerero yaalyo ge makubo ag'okufa. 
+13 Ne bwe guseka omutima gunakuwala; N'enkomerero y'okuseka buyinike. 
+14 Adda ennyuma mu mutima gwe alikkuta amakubo ge ye: N'omuntu omulungi alikkuta ye yennyini. 
+15 Atalina magezi akkiriza buli kigambo kyonna: Naye omuntu omutegeevu akebera nnyo amagenda ge. 
+16 Omuntu ow'amagezi atya n'ava mu bubi: Naye omusirusiru aba n'ettitimbuli, era yeeyinula. 
+17 Ayanguwa okusunguwala alikola eby'obusirusiru: N'omuntu asala enkwe embi akyayibwa. 
+18 Abatalina magezi basikira obusirusiru: Naye abategeevu bassibwako engule kwe kumanya. 
+19 Ababi bakutamira abalungi; N'ab'ekyejo awali emiryango egy'abatuukirivu. 
+20 Omwavu ne munne amukyawa: Naye omugagga alina emikwano mingi: 
+21 Anyooma munne ayonoona: Naye asaasira abaavu alina omukisa. 
+22 Abagunja obubi tebawaba? Naye okusaasirwa n'amazima binaabanga byabwe abagunja obulungi. 
+23 Omulimu gwonna guliko kye gugasa: Naye okubuyabuya kw'emimwa kwavuwaza bwavuwaza. 
+24 Obugagga bwabwe ye ngule ey'ab'amagezi: Naye obusirusiru bw'abasirusiru busirusiru bwereere. 
+25 Omujulirwa ow'amazima awonya emmeeme z'abantu: Naye aleeta eby'obulimba akyamya. 
+26 Mu kutya Mukama mulimu okuguma ennyo omwoyo: N'abaana be baliba n'obuddukiro. 
+27 Okutya Mukama nsulo ya bulamu, Okuva mu byambika eby'okufa. 
+28 Mu lufulube lw'abantu mwe muli ekitiibwa kya kabaka: Naye okubulwa abantu kwe kuzikirira kw'omulangira: 
+29 Alwawo okusunguwala alina okutegeera kungi: Naye alina omwoyo ogwanguyiriza agulumiza obusirusiru. 
+30 Omutima omutuufu bwe bulamu obw'omubiri: Naye obuggya kwe kuvunda kw'amagumba. 
+31 Ajooga omwavu avuma Omutonzi we: Naye asaasira oyo eyeetaaga amussaamu ekitiibwa. 
+32 Omubi asindikibwa wansi mu kwonoona kwe: Naye omutuukirivu alina essuubi mu kufa kwe: 
+33 Amagezi gabeera mu mutima gw'oyo alina okutegeera: Naye ekiri ku kitundu eky'abasirusiru eky'omunda kimanyisibwa. 
+34 Obutuukirivu bugulumiza eggwanga; Naye ekibi kivumisa eggwanga lyonna. 
+35 Omuddu akola eby'amagezi ye aganja eri kabaka: Naye obusungu bwe bunaabanga eri oyo akwasa ensonyi.          
 
 

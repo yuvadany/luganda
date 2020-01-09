@@ -1,26 +1,21 @@
-1 Awo ne wabaawo olukaayano olunene olw'abantu ne bakazi baabwe eri baganda baabwe Abayudaaya.
- 2 Kubanga waaliwo abaayogera nti Ffe, batabani baffe ne bawala baffe, tuli bangi: tufune eŋŋaano tulyenga tube abalamu.
- 3 Era ne wabaawo abaayogera nti Tusingawo ennimiro zaffe n'ensuku zaffe ez'emizabbibu n'ennyumba zaffe: tufunenga eŋŋaano olw'enjala.
- 4 Era ne wabaawo abaayogera nti Twewola effeeza ey'emusolo gwa kabaka nga tusinzeewo ennimiro zaffe n'ensuku ez'emizabbibu.
- 5 Naye kaakano omubiri gwaffe guli ng'omubiri gwa baganda baffe, abaana baffe bali ng'abaana baabwe: era, laba, batabani baffe ne bawala baffe tubaleeta mu buddu okuba abaddu, era abamu ku bawala baffe bamaze okuleetebwa mu buddu: so tetuliiko kye tunaakola; kubanga ennimiro zaffe n'ensuku zaffe ez'emizabbibu zirina balala.
- 6 Awo ne nsunguwala nnyo bwe nnawulira olukaayano lwabwe n'ebigambo bino.
- 7 Awo ne ndyoka nteesa nzekka ne nnyomba n'abakungu n'abakulu ne mbagamba nti Muweesa amagoba, buli muntu muganda we.
- Ne mbakuŋŋaanya okukuŋŋaana okunene.
- 8 Ne mbagamba nti ffe nga bwe twayinza twanunula baganda baffe Abayudaaya abaatundibwa mu bannaggwanga; nammwe mwagala n'okutunda baganda bammwe, naffe twandiba guze? Awo ne basirika ne batalaba kigambo.
- 9 Era ne njogera nti Ekigambo kye mukola si kirungi: temwanditambulidde mu kutya Katonda waffe, olw'okuvuma kwa bannaggwanga abalabe baffe? 10 Era nange bwe ntyo baganda n'abaddu bange mbawola effeeza n'eŋŋaano olw'amagoba.
- Mbeegayiridde, tuleke amagoba ago.
- 11 Mbeegayiridde, mubaddize leero ennimiro zaabwe n'ensuku zaabwe ez'emizabbibu n'ez'emizeyituuni n'ennyumba zaabwe, era n'ekitundu eky'ekikumi ekya ffeeza n'eky'eŋŋaano n'omwenge n'amafuta bye mubaweesa.
- 12 Awo ne boogera nti Tunaabizza, so tetulibasalira kintu; bwe tutyo bwe tunaakola nga bw'oyogera.
- Awo ne mpita bakabona ne mbalayiza nga banaakola nga bwe basuubizza.
- 13 Era ne nkunkumula olugoye olw'omu kifuba kyange ne njogera nti Katonda akunkumulire bw'atyo mu nnyumba ye ne mu mulimu gwe buli muntu atatuukiriza kusuubiza kuno; bw'atyo bw'aba akunkumulwa amalibwemu.
- Ekibiina kyonna ne boogera nti Amiina, ne batendereza Mukama.
- Abantu ne bakola ng'okusuubiza kuno bwe kwali.
- 14 Era okuva mu biro lwe nnateekebwawo okuba omukulu waabwe mu nsi ya Yuda, okuva ku mwaka ogw'amakumi abiri okutuuka ku mwaka ogw'amakumi asatu mu ebiri ogwa Alutagizerugizi kabaka, gye myaka ekkumi n'ebiri, nze ne baganda bange tetulyanga ku mmere ey'omukulu.
- 15 Naye abakulu ab'edda abansooka baasoloozanga abantu bye baalyanga ne babasaliranga emmere n'omwenge obutassaako sekeri eza ffeeza amakumi ana; weewaawo, n'abaddu baabwe baafuganga abantu: naye nze si bwe nnakolanga olw'okutya Katonda.
- 16 Weewaawo, era nanyiikiranga okukola omulimu ogwa bbugwe ono, so tetwagula nsi yonna: n'abaddu bange bonna ne bakuŋŋaanira eyo eri omulimu.
- 17 Era ku Bayudaaya n'abakulu, abasajja kikumi mu ataano baabanga ku mmeeza yange obutassaako abo abajja gye tuli nga bava mu bannaggwanga abatwetoolodde.
- 18 Era ebyafumbibwanga eby'olunaku olumu ente emu n'endiga ennonde mukaaga; era enkoko zanfumbirwanga, n'omulundi gumu buli nnaku kkumi omwenge ogw'engeri zonna: era naye newakubadde nga byali bwe bityo saabasalira mmere ya mukulu, kubanga obuddu bwabazitoowerera abantu bano.
- 19 Ai Katonda wange, jjukira gye ndi olw'obulungi byonna bye nkoledde abantu bano.
-          
+1 Awo ne wabaawo olukaayano olunene olw'abantu ne bakazi baabwe eri baganda baabwe Abayudaaya. 
+2 Kubanga waaliwo abaayogera nti Ffe, batabani baffe ne bawala baffe, tuli bangi: tufune eŋŋaano tulyenga tube abalamu. 
+3 Era ne wabaawo abaayogera nti Tusingawo ennimiro zaffe n'ensuku zaffe ez'emizabbibu n'ennyumba zaffe: tufunenga eŋŋaano olw'enjala. 
+4 Era ne wabaawo abaayogera nti Twewola effeeza ey'emusolo gwa kabaka nga tusinzeewo ennimiro zaffe n'ensuku ez'emizabbibu. 
+5 Naye kaakano omubiri gwaffe guli ng'omubiri gwa baganda baffe, abaana baffe bali ng'abaana baabwe: era, laba, batabani baffe ne bawala baffe tubaleeta mu buddu okuba abaddu, era abamu ku bawala baffe bamaze okuleetebwa mu buddu: so tetuliiko kye tunaakola; kubanga ennimiro zaffe n'ensuku zaffe ez'emizabbibu zirina balala. 
+6 Awo ne nsunguwala nnyo bwe nnawulira olukaayano lwabwe n'ebigambo bino. 
+7 Awo ne ndyoka nteesa nzekka ne nnyomba n'abakungu n'abakulu ne mbagamba nti Muweesa amagoba, buli muntu muganda we. Ne mbakuŋŋaanya okukuŋŋaana okunene. 
+8 Ne mbagamba nti ffe nga bwe twayinza twanunula baganda baffe Abayudaaya abaatundibwa mu bannaggwanga; nammwe mwagala n'okutunda baganda bammwe, naffe twandiba guze? Awo ne basirika ne batalaba kigambo. 
+9 Era ne njogera nti Ekigambo kye mukola si kirungi: temwanditambulidde mu kutya Katonda waffe, olw'okuvuma kwa bannaggwanga abalabe baffe? 
+10 Era nange bwe ntyo baganda n'abaddu bange mbawola effeeza n'eŋŋaano olw'amagoba. Mbeegayiridde, tuleke amagoba ago. 
+11 Mbeegayiridde, mubaddize leero ennimiro zaabwe n'ensuku zaabwe ez'emizabbibu n'ez'emizeyituuni n'ennyumba zaabwe, era n'ekitundu eky'ekikumi ekya ffeeza n'eky'eŋŋaano n'omwenge n'amafuta bye mubaweesa. 
+12 Awo ne boogera nti Tunaabizza, so tetulibasalira kintu; bwe tutyo bwe tunaakola nga bw'oyogera. Awo ne mpita bakabona ne mbalayiza nga banaakola nga bwe basuubizza. 
+13 Era ne nkunkumula olugoye olw'omu kifuba kyange ne njogera nti Katonda akunkumulire bw'atyo mu nnyumba ye ne mu mulimu gwe buli muntu atatuukiriza kusuubiza kuno; bw'atyo bw'aba akunkumulwa amalibwemu. Ekibiina kyonna ne boogera nti Amiina, ne batendereza Mukama. Abantu ne bakola ng'okusuubiza kuno bwe kwali. 
+14 Era okuva mu biro lwe nnateekebwawo okuba omukulu waabwe mu nsi ya Yuda, okuva ku mwaka ogw'amakumi abiri okutuuka ku mwaka ogw'amakumi asatu mu ebiri ogwa Alutagizerugizi kabaka, gye myaka ekkumi n'ebiri, nze ne baganda bange tetulyanga ku mmere ey'omukulu. 
+15 Naye abakulu ab'edda abansooka baasoloozanga abantu bye baalyanga ne babasaliranga emmere n'omwenge obutassaako sekeri eza ffeeza amakumi ana; weewaawo, n'abaddu baabwe baafuganga abantu: naye nze si bwe nnakolanga olw'okutya Katonda. 
+16 Weewaawo, era nanyiikiranga okukola omulimu ogwa bbugwe ono, so tetwagula nsi yonna: n'abaddu bange bonna ne bakuŋŋaanira eyo eri omulimu. 
+17 Era ku Bayudaaya n'abakulu, abasajja kikumi mu ataano baabanga ku mmeeza yange obutassaako abo abajja gye tuli nga bava mu bannaggwanga abatwetoolodde. 
+18 Era ebyafumbibwanga eby'olunaku olumu ente emu n'endiga ennonde mukaaga; era enkoko zanfumbirwanga, n'omulundi gumu buli nnaku kkumi omwenge ogw'engeri zonna: era naye newakubadde nga byali bwe bityo saabasalira mmere ya mukulu, kubanga obuddu bwabazitoowerera abantu bano. 
+19 Ai Katonda wange, jjukira gye ndi olw'obulungi byonna bye nkoledde abantu bano.          
 
 

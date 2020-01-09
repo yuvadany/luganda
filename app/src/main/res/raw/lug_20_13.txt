@@ -1,28 +1,27 @@
- 1 Omwana ow'amagezi awulira okuyigiriza kwa kitaawe: Naye omunyoomi tawulira kunenyezebwa.
- 2 Omuntu anaalyanga ebirungi olw'ebibala eby'akamwa ke: Naye emmeeme ey'abasala enkwe eneeryanga kugirirwa kyejo.
- 3 Akuuma akamwa ke anyweza obulamu bwe: Naye ayasama ennyo akamwa ke aliba n'okuzikirira.
- 4 Emmeeme ey'omugayaavu yeegomba n'eteba na kintu: Naye emmeeme ey'abanyiikivu eneegejjanga.
- 5 Omuntu omutuukirivu akyawa obulimba: Naye omuntu omubi mugwagwa, era akwatibwa ensonyi.
- 6 Obutuukirivu bukuuma oyo akwata ekkubo eggolokofu: Naye ekyejo kisuula oyo alina ebibi.
- 7 Wabaawo eyeegaggawaza, naye nga talina kintu: Wabaawo eyeeyavuwaza, naye ng'alina obugagga bungi.
- 8 Obugagga bwe bwe bununula obulamu bw'omuntu: Naye omwavu, tawulira kukanga kwonna.
- 9 Omusana ogw'abatuukirivu gusanyuka: Naye ettabaaza ey'ababi erizikizibwa.
- 10 Amalala galeeta okuwakana okwereere: Naye amagezi gaba n'abo abateesa obulungi.
- 11 Obugagga obufunibwa olw'ebigambo ebitaliimu bulikendeezebwa: Naye oyo akuaanya ng'akola emirimu aliba n'okwala.
- 12 Essuubi erirwawo lisinduukiriza emmeeme: Naye ekyegombebwa bwe kijja kiba muti gwa bulamu.
- 13 Buli anyooma ekigambo yeereetako okuzikirira: Naye oyo atya ekiragiro aliweebwa empeera.
- 14 Etteeka ery'omugezigezi nsulo ya bulamu, Okuva mu byambika eby'okufa.
- 15 Okutegeera okulungi kuleeta okuganja: Naye ekkubo ery'abasala enkwe bbi.
- 16 Buli muntu omutegeevu akola emirimu n'okumanya: Naye omusirusiru ayaliira obusirusiru.
- 17 Omubaka ow'ekyejo agwa mu bubi: Naye omutume omwesigwa kwe kulaama.
- 18 Obwavu n'ensonyi biriba by'oyo agaana okubuulirirwa: Naye assaayo omwoyo eri okuneenyezebwa alissibwamu ekitiibwa.
- 19 Ekyegombebwa bwe kituukirira kiwoomera emmeeme: Naye okuva mu bubi kwa muzizo eri abasirusiru.
- 20 Otambulanga n'abantu ab'amagezi, naawe oliba n'amagezi: Naye munnaabwe w'abasirusiru alibalagalwa.
- 21 Obubi bugoberera abalina ebibi: Naye abatuukirivu balisasulibwa ebirungi.
- 22 Omuntu omulungi alekera obusika abaana b'abaana be: N'obugagga bw'oyo alina ebibi buterekerwa omutuukirivu.
- 23 Mu nnimiro ez'abaavu mulimu emmere nnyingi: Naye wabaawo azikirizibwa olw'obutagoberera nsonga.
- 24 Atakwata muggo gwe akyawa omwana we: Naye oyo amwagala amukangavvula ebiro nga bikyali.
- 25 Omutuukirivu alya, emmeeme ye n’ekkuta: Naye olubuto lw'ababi lulirumwa enjala.
-          
+ 1 Omwana ow'amagezi awulira okuyigiriza kwa kitaawe: Naye omunyoomi tawulira kunenyezebwa. 
+2 Omuntu anaalyanga ebirungi olw'ebibala eby'akamwa ke: Naye emmeeme ey'abasala enkwe eneeryanga kugirirwa kyejo. 
+3 Akuuma akamwa ke anyweza obulamu bwe: Naye ayasama ennyo akamwa ke aliba n'okuzikirira. 
+4 Emmeeme ey'omugayaavu yeegomba n'eteba na kintu: Naye emmeeme ey'abanyiikivu eneegejjanga. 
+5 Omuntu omutuukirivu akyawa obulimba: Naye omuntu omubi mugwagwa, era akwatibwa ensonyi. 
+6 Obutuukirivu bukuuma oyo akwata ekkubo eggolokofu: Naye ekyejo kisuula oyo alina ebibi. 
+7 Wabaawo eyeegaggawaza, naye nga talina kintu: Wabaawo eyeeyavuwaza, naye ng'alina obugagga bungi. 
+8 Obugagga bwe bwe bununula obulamu bw'omuntu: Naye omwavu, tawulira kukanga kwonna. 
+9 Omusana ogw'abatuukirivu gusanyuka: Naye ettabaaza ey'ababi erizikizibwa. 
+10 Amalala galeeta okuwakana okwereere: Naye amagezi gaba n'abo abateesa obulungi. 
+11 Obugagga obufunibwa olw'ebigambo ebitaliimu bulikendeezebwa: Naye oyo akuaanya ng'akola emirimu aliba n'okwala. 
+12 Essuubi erirwawo lisinduukiriza emmeeme: Naye ekyegombebwa bwe kijja kiba muti gwa bulamu. 
+13 Buli anyooma ekigambo yeereetako okuzikirira: Naye oyo atya ekiragiro aliweebwa empeera. 
+14 Etteeka ery'omugezigezi nsulo ya bulamu, Okuva mu byambika eby'okufa. 
+15 Okutegeera okulungi kuleeta okuganja: Naye ekkubo ery'abasala enkwe bbi. 
+16 Buli muntu omutegeevu akola emirimu n'okumanya: Naye omusirusiru ayaliira obusirusiru. 
+17 Omubaka ow'ekyejo agwa mu bubi: Naye omutume omwesigwa kwe kulaama. 
+18 Obwavu n'ensonyi biriba by'oyo agaana okubuulirirwa: Naye assaayo omwoyo eri okuneenyezebwa alissibwamu ekitiibwa. 
+19 Ekyegombebwa bwe kituukirira kiwoomera emmeeme: Naye okuva mu bubi kwa muzizo eri abasirusiru. 
+20 Otambulanga n'abantu ab'amagezi, naawe oliba n'amagezi: Naye munnaabwe w'abasirusiru alibalagalwa. 
+21 Obubi bugoberera abalina ebibi: Naye abatuukirivu balisasulibwa ebirungi. 
+22 Omuntu omulungi alekera obusika abaana b'abaana be: N'obugagga bw'oyo alina ebibi buterekerwa omutuukirivu. 
+23 Mu nnimiro ez'abaavu mulimu emmere nnyingi: Naye wabaawo azikirizibwa olw'obutagoberera nsonga. 
+24 Atakwata muggo gwe akyawa omwana we: Naye oyo amwagala amukangavvula ebiro nga bikyali. 
+25 Omutuukirivu alya, emmeeme ye n’ekkuta: Naye olubuto lw'ababi lulirumwa enjala.          
 
 

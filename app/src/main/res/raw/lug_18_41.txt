@@ -1,27 +1,36 @@
- 1 Oyinza okuggyangamu egoonya n'eddobo? Oba okunyigirizanga olulimi lwayo n'omugwa? 2 Oyinza okuyingizanga omugwa mu nnyindo zaayo? Oba okuwummulanga oluba lwayo n'eddobo? 3 Eneekwegayiriranga ebigambo bingi? Oba eneekugambanga ebigambo ebigonvu? 4 Eneeragaananga endagaano naawe, Ogitwalenga okuba omuddu emirembe gyonna? 5 Onoozannyanga nayo nga bw'ozannya n'ennyonyi? Oba onoogisibiranga abawala bo? 6 Ebibiina eby'abavubi binaagifuulanga obuguzi? Banaagigabaniranga mu basuubuzi? 7 Oyinza okujjuzanga eddiba lyayo ebyuma ebiriko amalobo, Oba omutwe gwayo emiwunda egiswaga ebyennyanja? 8 Giteekeko omukono gwo; Jjukira olutalo olemenga okweyongera okukola bw'otyo.
- 9 Laba, essuubi lyayo lya bwereere: Omuntu taakeŋŋentererwenga bw'agiraba obulabi? 10 Tewali mukambwe bw'atyo n'okwaŋŋanga n'ayaŋŋanga okugisaggula: Kale aluwa oyo ayinza okuyimirira mu maaso gange? 11 Ani eyasooka okumpa, nze mmusasule? Byonna ebiri wansi w'eggulu lyonna byange.
- 12 Siisirike olw'amagulu gaayo, Newakubadde amaanyi gaayo amangi, newakubadde okugattibwa kwayo okulungi.
- 13 Ani ayinza okugyambula ekyambalo kyayo eky'okungulu? Ani anaatuuka munda w'enkoba zaayo ebbiri? 14 Ani ayinza okuggulawo enzigi ez'amaaso gaayo? Entiisa yeetoolodde amannyo gaayo.
- 15 Amagamba gaayo ag'amaanyi ge malala gaayo, Nga gasibaganye ng'akabonero bwe kanyweza.
- 16 Erimu lyegatta n'ery'okubiri bwe lityo N'okuyinza empewo ne zitayinza kuyita wakati waago.
- 17 Geegasse gokka na gokka; Gakwatagana ne gatayinzika kwawulibwa.
- 18 Okwasimula kwayo kumyansaamu omusana, N'amaaso gaayo gafaanana ebikowe eby'enkya.
- 19 Mu kamwa kaayo muva emimuli egyaka, N'ensasi ez'omuliro zibuuka okuvaamu.
- 20 Mu nnyindo zaayo muva omukka, Ng'ogw'entamu etokota n'ogw'ebitoogo ebiggya.
- 21 Omukka gwayo gwasa amanda, Era omuliro guva mu kamwa kaayo.
- 22 Mu nsingo yaayo mubeera amaanyi, N'entiisa ezinira mu maaso gaayo.
- 23 Emiwula gy'ennyama yaayo gyegasse: Ginywerera ku yo: tegiyinza kusagaasagana.
- 24 Omutima gwayo guguma ng'ejjinja; Weewaawo, guguma ng'olubengo.
- 25 Bw'eyimuka ab'amaanyi batya: Olw'okwekanga nga baliko eddalu.
- 26 Bwe bagisimbako ekitala, tekiriiko kye kiyinza kukola; Newakubadde effumu newakubadde omuwunda newakubadde akasaale akasongovu.
- 27 Ebyuma ebiyita bisasiro, N'ebikomo miti mivundu.
- 28 Akasaale tekayinza kugiddusa: Amayinja agavuumuulibwa gafuuka ebiti eri yo.
- 29 Endoddo ziyitibwa ng'ebiti: Esekerera okuwulukuka kw'akasaale.
- 30 Ebitundu byayo ebya wansi biriŋŋanga engyo eziriko obwogi: Eteeka ng'eggaali ewuula ku bitosi.
- 31 Etokosa ennyanja ng'entamu: Efaananya ennyanja amafuta.
- 32 Emasamasisa ekkubo ennyuma waayo; Obuziba wandibulowoozezza okuba n'envi.
- 33 Tewali ekigyenkana ku nsi, Ekolebwa obutabaamu kutya.
- 34 Etunuulira buli kintu ekigulumivu: Ye kabaka w'abaana bonna ab'amalala.
-          
+ 1 Oyinza okuggyangamu egoonya n'eddobo? Oba okunyigirizanga olulimi lwayo n'omugwa? 
+2 Oyinza okuyingizanga omugwa mu nnyindo zaayo? Oba okuwummulanga oluba lwayo n'eddobo? 
+3 Eneekwegayiriranga ebigambo bingi? Oba eneekugambanga ebigambo ebigonvu? 
+4 Eneeragaananga endagaano naawe, Ogitwalenga okuba omuddu emirembe gyonna? 
+5 Onoozannyanga nayo nga bw'ozannya n'ennyonyi? Oba onoogisibiranga abawala bo? 
+6 Ebibiina eby'abavubi binaagifuulanga obuguzi? Banaagigabaniranga mu basuubuzi? 
+7 Oyinza okujjuzanga eddiba lyayo ebyuma ebiriko amalobo, Oba omutwe gwayo emiwunda egiswaga ebyennyanja? 
+8 Giteekeko omukono gwo; Jjukira olutalo olemenga okweyongera okukola bw'otyo. 
+9 Laba, essuubi lyayo lya bwereere: Omuntu taakeŋŋentererwenga bw'agiraba obulabi? 
+10 Tewali mukambwe bw'atyo n'okwaŋŋanga n'ayaŋŋanga okugisaggula: Kale aluwa oyo ayinza okuyimirira mu maaso gange? 
+11 Ani eyasooka okumpa, nze mmusasule? Byonna ebiri wansi w'eggulu lyonna byange. 
+12 Siisirike olw'amagulu gaayo, Newakubadde amaanyi gaayo amangi, newakubadde okugattibwa kwayo okulungi. 
+13 Ani ayinza okugyambula ekyambalo kyayo eky'okungulu? Ani anaatuuka munda w'enkoba zaayo ebbiri? 
+14 Ani ayinza okuggulawo enzigi ez'amaaso gaayo? Entiisa yeetoolodde amannyo gaayo. 
+15 Amagamba gaayo ag'amaanyi ge malala gaayo, Nga gasibaganye ng'akabonero bwe kanyweza. 
+16 Erimu lyegatta n'ery'okubiri bwe lityo N'okuyinza empewo ne zitayinza kuyita wakati waago. 
+17 Geegasse gokka na gokka; Gakwatagana ne gatayinzika kwawulibwa. 
+18 Okwasimula kwayo kumyansaamu omusana, N'amaaso gaayo gafaanana ebikowe eby'enkya. 
+19 Mu kamwa kaayo muva emimuli egyaka, N'ensasi ez'omuliro zibuuka okuvaamu. 
+20 Mu nnyindo zaayo muva omukka, Ng'ogw'entamu etokota n'ogw'ebitoogo ebiggya. 
+21 Omukka gwayo gwasa amanda, Era omuliro guva mu kamwa kaayo. 
+22 Mu nsingo yaayo mubeera amaanyi, N'entiisa ezinira mu maaso gaayo. 
+23 Emiwula gy'ennyama yaayo gyegasse: Ginywerera ku yo: tegiyinza kusagaasagana. 
+24 Omutima gwayo guguma ng'ejjinja; Weewaawo, guguma ng'olubengo. 
+25 Bw'eyimuka ab'amaanyi batya: Olw'okwekanga nga baliko eddalu. 
+26 Bwe bagisimbako ekitala, tekiriiko kye kiyinza kukola; Newakubadde effumu newakubadde omuwunda newakubadde akasaale akasongovu. 
+27 Ebyuma ebiyita bisasiro, N'ebikomo miti mivundu. 
+28 Akasaale tekayinza kugiddusa: Amayinja agavuumuulibwa gafuuka ebiti eri yo. 
+29 Endoddo ziyitibwa ng'ebiti: Esekerera okuwulukuka kw'akasaale. 
+30 Ebitundu byayo ebya wansi biriŋŋanga engyo eziriko obwogi: Eteeka ng'eggaali ewuula ku bitosi. 
+31 Etokosa ennyanja ng'entamu: Efaananya ennyanja amafuta. 
+32 Emasamasisa ekkubo ennyuma waayo; Obuziba wandibulowoozezza okuba n'envi. 
+33 Tewali ekigyenkana ku nsi, Ekolebwa obutabaamu kutya. 
+34 Etunuulira buli kintu ekigulumivu: Ye kabaka w'abaana bonna ab'amalala.          
 
 

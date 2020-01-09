@@ -1,16 +1,24 @@
- 1 Awo abaami bonna ab'ebitongole ne Yokanani mutabani wa Kaleya ne Yezaniya mutabani wa Kosaaya n'abantu bonna okuva ku muto okutuuka ku mukulu, 2 ne basembera ne bagamba Yeremiya nnabbi nti Tukwegayiridde, okusaba kwaffe kukkirizibwe gy'oli, otusabire eri Mukama Katonda wo, ng'osabira ekitundu kino kyonna ekifisseewo; kubanga tusigaddewo batono fekka abaabanga abangi ng'amaaso go bwe gatulaba: 3 Mukama Katonda wo atulage ekkubo eritugwanira okutambuliramu n'ekigambo ekitugwanira okukola.
- 4 Awo Yeremiya nnabbi n'abagamba nti Mbawulidde; laba, naasaba Mukama Katonda wammwe ng'ebigambo byammwe bwe biri; kale olulituuka kyonna Mukama ky'alibaddamu ndikibabuulira; siribakisa kigambo kyonna.
- 5 Awo ne bagamba Yeremiya nti Mukama abe omujulirwa ow'amazima omwesigwa mu ffe, bwe tutalikola ng'ekigambo kyonna bwe kiriba Mukama Katonda wo ky'alikutuma gye tuli.
- 6 Oba nga kirungi oba nga kibi, tuligondera eddoboozi lya Mukama Katonda waffe gye tukutuma; tulyoke tubenga bulungi bwe tugondera eddoboozi lya Mukama Katonda waffe.
- 7 Awo olwatuuka ennaku kkumi bwe zaayitawo, ekigambo kya Mukama ne kijjira Yeremiya.
- 8 Awo n'ayita Yokanani mutabani wa Kaleya n'abaami bonna ab'ebitongole abaali naye, n'abantu bonna okuva ku muto okutuuka ku mukulu, 9 n'abagamba nti Bw'ati bw'ayogera Mukama Katonda wa Isiraeri gwe mwantuma okwanjula okusaba kwammwe mu maaso ge, nti 10 Bwe mulikkiriza okubeera mu nsi eno, kale ndibazimba, so siribaabya, era ndibasimba, so siribasimbula: kubanga nejjusizza obubi bwe nnabakola.
- 11 Temutya kabaka w'e Babulooni gwe mutya; temumutya, bw'ayogera Mukama: kubanga nze ndi wamu nammwe okubalokola n'okubawonya mu mukono gwe.
- 12 Era ndibawa okusaasirwa abasaasire, era abazzeeyo mu nsi yammwe.
- 13 Naye bwe munaagamba nti Tetugenda kutuula mu nsi eno; ne mutagondera ddoboozi lya Mukama Katonda wammwe; 14 nga mwogera nti Nedda; naye tuligenda mu nsi y'e Misiri gye tutalirabira ntalo, so tetuliwulira ddoboozi lya kkondeere, so tetulirumwa njala olw'emmere; n'eyo gye tulituula: 15 kale nno muwulire ekigambo kya Mukama, mmwe abafisseewo ku Yuda: bw'ati bw'ayogera Mukama w'eggye, Katonda wa Isiraeri nti Bwe mulikakasa amaaso gammwe ddala okuyingira mu Misiri, ne mugenda okubeera omwo; 16 kale olulituuka ekitala kye mutya kiribakwatira eyo mu nsi y'e Misiri, n'enjala gye mutidde eribacoccera eyo mu Misiri; era eyo gye mulifiira.
- 17 Bwe kityo bwe kiriba eri abasajja bonna abakakasa amaaso gaabwe okugenda e Misiri okubeera eyo; balifa n'ekitala n'enjala ne kawumpuli: so tewaliba ku bo abalifikkawo newakubadde okuwona obubi bwe ndibaleetako.
- 18 Kubanga bw'ati bw'ayogera Mukama w'eggye, Katonda wa Isiraeri, nti Obusungu bwange n'ekiruyi kyange nga bwe byafukibwa ku abo abaali mu Yerusaalemi, ekiruyi kyange bwe kirifukibwa ku mmwe bwe kityo bwe muliyingira mu Misiri: era muliba kikolimo n'ekyewuunyo n'okukolima n'ekivume; so temuliraba nate kifo kino.
- 19 Mukama ayogedde ku mmwe, ai ekitundu ekifisseewo ku Yuda, nti Temugenda mu Misiri: mutegeerere ddala nga leero nze mbadde mujulirwa gye muli.
- 20 Kubanga mukoze emmeeme zammwe mmwe eby'obukuusa; kubanga mwantuma eri Mukama Katonda wammwe nga mwogera nti Tusabire eri Mukama Katonda waffe; era nga byonna bwe biriba; Mukama Katonda waffe by'alyogera, tubuulire bw'otyo, naffe tulibikola: 21 era leero mbibabuulidde; naye temugondedde ddoboozi lya Mukama Katonda wammwe mu kyonna ky'antumye gye muli 22 Kale nno mutegeerere ddala nga mulifa n'ekitala n'enjala ne kawumpuli, mu kifo gye mwagala okugenda okubeera.
-          
+ 1 Awo abaami bonna ab'ebitongole ne Yokanani mutabani wa Kaleya ne Yezaniya mutabani wa Kosaaya n'abantu bonna okuva ku muto okutuuka ku mukulu, 
+2 ne basembera ne bagamba Yeremiya nnabbi nti Tukwegayiridde, okusaba kwaffe kukkirizibwe gy'oli, otusabire eri Mukama Katonda wo, ng'osabira ekitundu kino kyonna ekifisseewo; kubanga tusigaddewo batono fekka abaabanga abangi ng'amaaso go bwe gatulaba: 
+3 Mukama Katonda wo atulage ekkubo eritugwanira okutambuliramu n'ekigambo ekitugwanira okukola. 
+4 Awo Yeremiya nnabbi n'abagamba nti Mbawulidde; laba, naasaba Mukama Katonda wammwe ng'ebigambo byammwe bwe biri; kale olulituuka kyonna Mukama ky'alibaddamu ndikibabuulira; siribakisa kigambo kyonna. 
+5 Awo ne bagamba Yeremiya nti Mukama abe omujulirwa ow'amazima omwesigwa mu ffe, bwe tutalikola ng'ekigambo kyonna bwe kiriba Mukama Katonda wo ky'alikutuma gye tuli. 
+6 Oba nga kirungi oba nga kibi, tuligondera eddoboozi lya Mukama Katonda waffe gye tukutuma; tulyoke tubenga bulungi bwe tugondera eddoboozi lya Mukama Katonda waffe. 
+7 Awo olwatuuka ennaku kkumi bwe zaayitawo, ekigambo kya Mukama ne kijjira Yeremiya. 
+8 Awo n'ayita Yokanani mutabani wa Kaleya n'abaami bonna ab'ebitongole abaali naye, n'abantu bonna okuva ku muto okutuuka ku mukulu, 
+9 n'abagamba nti Bw'ati bw'ayogera Mukama Katonda wa Isiraeri gwe mwantuma okwanjula okusaba kwammwe mu maaso ge, nti 
+10 Bwe mulikkiriza okubeera mu nsi eno, kale ndibazimba, so siribaabya, era ndibasimba, so siribasimbula: kubanga nejjusizza obubi bwe nnabakola. 
+11 Temutya kabaka w'e Babulooni gwe mutya; temumutya, bw'ayogera Mukama: kubanga nze ndi wamu nammwe okubalokola n'okubawonya mu mukono gwe. 
+12 Era ndibawa okusaasirwa abasaasire, era abazzeeyo mu nsi yammwe. 
+13 Naye bwe munaagamba nti Tetugenda kutuula mu nsi eno; ne mutagondera ddoboozi lya Mukama Katonda wammwe; 
+14 nga mwogera nti Nedda; naye tuligenda mu nsi y'e Misiri gye tutalirabira ntalo, so tetuliwulira ddoboozi lya kkondeere, so tetulirumwa njala olw'emmere; n'eyo gye tulituula: 
+15 kale nno muwulire ekigambo kya Mukama, mmwe abafisseewo ku Yuda: bw'ati bw'ayogera Mukama w'eggye, Katonda wa Isiraeri nti Bwe mulikakasa amaaso gammwe ddala okuyingira mu Misiri, ne mugenda okubeera omwo; 
+16 kale olulituuka ekitala kye mutya kiribakwatira eyo mu nsi y'e Misiri, n'enjala gye mutidde eribacoccera eyo mu Misiri; era eyo gye mulifiira. 
+17 Bwe kityo bwe kiriba eri abasajja bonna abakakasa amaaso gaabwe okugenda e Misiri okubeera eyo; balifa n'ekitala n'enjala ne kawumpuli: so tewaliba ku bo abalifikkawo newakubadde okuwona obubi bwe ndibaleetako. 
+18 Kubanga bw'ati bw'ayogera Mukama w'eggye, Katonda wa Isiraeri, nti Obusungu bwange n'ekiruyi kyange nga bwe byafukibwa ku abo abaali mu Yerusaalemi, ekiruyi kyange bwe kirifukibwa ku mmwe bwe kityo bwe muliyingira mu Misiri: era muliba kikolimo n'ekyewuunyo n'okukolima n'ekivume; so temuliraba nate kifo kino. 
+19 Mukama ayogedde ku mmwe, ai ekitundu ekifisseewo ku Yuda, nti Temugenda mu Misiri: mutegeerere ddala nga leero nze mbadde mujulirwa gye muli. 
+20 Kubanga mukoze emmeeme zammwe mmwe eby'obukuusa; kubanga mwantuma eri Mukama Katonda wammwe nga mwogera nti Tusabire eri Mukama Katonda waffe; era nga byonna bwe biriba; Mukama Katonda waffe by'alyogera, tubuulire bw'otyo, naffe tulibikola: 
+21 era leero mbibabuulidde; naye temugondedde ddoboozi lya Mukama Katonda wammwe mu kyonna ky'antumye gye muli 
+22 Kale nno mutegeerere ddala nga mulifa n'ekitala n'enjala ne kawumpuli, mu kifo gye mwagala okugenda okubeera.          
 
 

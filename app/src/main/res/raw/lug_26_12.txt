@@ -1,23 +1,30 @@
- 1 Era ekigambo kya Mukama kyanjijira nga kyogera nti 2 Omwana w'omuntu, obeera wakati mu nnyumba eyo enjeemu abalina amaaso ag'okulaba so tebalaba, abalina amatu ag'okuwulira so tebawulira; kubanga nnyumba njeemu.
- 3 Kale, ggwe omwana w'omuntu, weetegekere ebintu eby'obuwaŋŋanguse, ositule okusenguka misana bo nga balaba; era olisenguka mu kifo kyo n'odda mu kifo ekirala bo nga balaba: mpozzi balirowooza, newakubadde nga nnyumba njeemu.
- 4 Era oliggyamu ebintu misana bo nga balaba, ng'ebintu eby'obuwaŋŋanguse: era olivaamu wekka akawungeezi bo nga balaba, ng'abantu bwe bavaamu abagobebwa ewaabwe.
- 5 Sima ekisenge bo nga balaba, oyiseemu ebintu.
- 6 Bisitulire ku kibegabega kyo bo nga balaba, obifulumye ekizikiza nga kikutte; olibikka ku maaso go oleme okulaba ettaka: kubanga nkutaddewo okuba akabonero eri ennyumba ya Isiraeri.
- 7 Awo ne nkola bwe ntyo nga bwe nnalagirwa: naggyamu ebintu byange emisana ng'ebintu eby'obuwaŋŋanguse, akawungeezi ne nsima ekisenge n'omukono gwange; ne mbiggyamu ekizikiza nga kikutte, ne mbisitulira ku kibegabega kyange bo nga balaba.
- 8 Awo enkya ekigambo kya Mukama ne kinjijira nga kyogera nti 9 Omwana w'omuntu, ennyumba ya Isiraeri, ennyumba enjeemu, tebakugambye nti Okola ki? 10 Bagambe nti Bw'ati bw'ayogera Mukama Katonda nti Omugugu guno gwa mulangira wa mu Yerusaalemi n'ennyumba yonna eya Isiraeri be balimu.
- 11 Yogera nti Nze ndi kabonero kammwe: nga bwe nkoze, bwe batyo bwe balikolwa: baligobebwa ewaabwe okugenda mu busibe.
- 12 N'omulangira ali mu bo alisitulira ku kibegabega kye ekizikiza nga kikutte n'afuluma; balisima mu kisenge okuyisaamu ebintu okubifulumya: alibikka ku maaso ge, kubanga taliraba ttaka n'amaaso ge.
- 13 Era ndimusuulako ekitimba kyange, era aliteegebwa mu kyambika kyange: era ndimutwala e Babulooni mu nsi ey'Abakaludaaya: era naye talikiraba, newakubadde ng'alifiira eyo.
- 14 Era ndisaasaanyiza eri empewo zonna abo bonna abamwetoolodde okumuyamba n'ebibiina bye byonna; era ndisowola ekitala ekiribagoberera.
- 15 Kale balimanya nga nze Mukama, bwe ndibasaasaanyiza mu mawanga ne mbataataaganyiza mu nsi nnyingi.
- 16 Naye ndirekawo ku bo abasajja batono abaliwona ekitala n'enjala ne kawumpuli; balyoke babuulirenga emizizo gyabwe gyonna mu mawanga gye balituuka; kale balimanya nga nze Mukama.
- 17 Era nate ekigambo kya Mukama ne kinjijira nga kyogera nti 18 Omwana w'omuntu, lya emmere yo ng'okankana, onywe amazzi ng'ojugumira era nga weeraliikirira; ogambe abantu ab'omu nsi, nti 19 Bw'ati bw'ayogera Mukama Katonda ku abo abali mu Yerusaalemi n'ensi ya Isiraeri nti Balirya emmere yaabwe nga beeraliikirira, era balinywa amazzi gaabwe nga basamaalirira, ensi yaakyo erekebwewo byonna ebirimu olw'ekyejo ky'abo bonna abatuulamu.
- 20 N'ebibuga ebibeerwamu birizisibwa, n'ensi eriba matongo; kale mulimanya nga nze Mukama.
- 21 Awo ekigambo kya Mukama ne kinjijira nga kyogera nti 22 Omwana w'omuntu, lugero ki luno lwe mulina mu nsi ya Isiraeri, nga mwogera nti Ennaku ziyitirira, era buli kwolesebwa kubula? 23 Kale bagambe nti Bw'ati bw'ayogera Mukama Katonda nti Ndikomya olugero olwo, so tebalirugera nate mu Isiraeri okuba olugero; naye bagambe nti Ennaku zinaatera okutuuka, n'okutuukiriza buli kwolesebwa.
- 24 Kubanga tewalibaawo nate kwolesebwa okw'obwereere newakubadde obulaguzi obunyumiriza mu nnyumba ya Isiraeri.
- 25 Kubanga nze Mukama; ndyogera n'ekigambo kye ndyogera kirituukirizibwa; tekirirwisibwa nate; kubanga mu nnaku zammwe, ai ennyumba enjeemu, mwe ndyogerera ekigambo, era ndikituukiriza, bw'ayogera Mukama Katonda.
- 26 Nate ekigambo kya Mukama ne kinjijira nga kyogera nti 27 Omwana w'omuntu, laba, ab'omu nnyumba ya Isiraeri boogera nti Okwolesebwa kwalaba kwa mu nnaku nnyingi ezitannajja, era alagula eby'ebiro ebikyali ewala.
- 28 Kale bagambe nti Bw'ati bw'ayogera Mukama Katonda nti Tewaliba ku bigambo byange ebirirwisibwa nate, naye ekigambo kye ndyogera kirituukirizibwa, bw'ayogera Mukama Katonda.
-          
+ 1 Era ekigambo kya Mukama kyanjijira nga kyogera nti 
+2 Omwana w'omuntu, obeera wakati mu nnyumba eyo enjeemu abalina amaaso ag'okulaba so tebalaba, abalina amatu ag'okuwulira so tebawulira; kubanga nnyumba njeemu. 
+3 Kale, ggwe omwana w'omuntu, weetegekere ebintu eby'obuwaŋŋanguse, ositule okusenguka misana bo nga balaba; era olisenguka mu kifo kyo n'odda mu kifo ekirala bo nga balaba: mpozzi balirowooza, newakubadde nga nnyumba njeemu. 
+4 Era oliggyamu ebintu misana bo nga balaba, ng'ebintu eby'obuwaŋŋanguse: era olivaamu wekka akawungeezi bo nga balaba, ng'abantu bwe bavaamu abagobebwa ewaabwe. 
+5 Sima ekisenge bo nga balaba, oyiseemu ebintu. 
+6 Bisitulire ku kibegabega kyo bo nga balaba, obifulumye ekizikiza nga kikutte; olibikka ku maaso go oleme okulaba ettaka: kubanga nkutaddewo okuba akabonero eri ennyumba ya Isiraeri. 
+7 Awo ne nkola bwe ntyo nga bwe nnalagirwa: naggyamu ebintu byange emisana ng'ebintu eby'obuwaŋŋanguse, akawungeezi ne nsima ekisenge n'omukono gwange; ne mbiggyamu ekizikiza nga kikutte, ne mbisitulira ku kibegabega kyange bo nga balaba. 
+8 Awo enkya ekigambo kya Mukama ne kinjijira nga kyogera nti 
+9 Omwana w'omuntu, ennyumba ya Isiraeri, ennyumba enjeemu, tebakugambye nti Okola ki? 
+10 Bagambe nti Bw'ati bw'ayogera Mukama Katonda nti Omugugu guno gwa mulangira wa mu Yerusaalemi n'ennyumba yonna eya Isiraeri be balimu. 
+11 Yogera nti Nze ndi kabonero kammwe: nga bwe nkoze, bwe batyo bwe balikolwa: baligobebwa ewaabwe okugenda mu busibe. 
+12 N'omulangira ali mu bo alisitulira ku kibegabega kye ekizikiza nga kikutte n'afuluma; balisima mu kisenge okuyisaamu ebintu okubifulumya: alibikka ku maaso ge, kubanga taliraba ttaka n'amaaso ge. 
+13 Era ndimusuulako ekitimba kyange, era aliteegebwa mu kyambika kyange: era ndimutwala e Babulooni mu nsi ey'Abakaludaaya: era naye talikiraba, newakubadde ng'alifiira eyo. 
+14 Era ndisaasaanyiza eri empewo zonna abo bonna abamwetoolodde okumuyamba n'ebibiina bye byonna; era ndisowola ekitala ekiribagoberera. 
+15 Kale balimanya nga nze Mukama, bwe ndibasaasaanyiza mu mawanga ne mbataataaganyiza mu nsi nnyingi. 
+16 Naye ndirekawo ku bo abasajja batono abaliwona ekitala n'enjala ne kawumpuli; balyoke babuulirenga emizizo gyabwe gyonna mu mawanga gye balituuka; kale balimanya nga nze Mukama. 
+17 Era nate ekigambo kya Mukama ne kinjijira nga kyogera nti 
+18 Omwana w'omuntu, lya emmere yo ng'okankana, onywe amazzi ng'ojugumira era nga weeraliikirira; ogambe abantu ab'omu nsi, nti 
+19 Bw'ati bw'ayogera Mukama Katonda ku abo abali mu Yerusaalemi n'ensi ya Isiraeri nti Balirya emmere yaabwe nga beeraliikirira, era balinywa amazzi gaabwe nga basamaalirira, ensi yaakyo erekebwewo byonna ebirimu olw'ekyejo ky'abo bonna abatuulamu. 
+20 N'ebibuga ebibeerwamu birizisibwa, n'ensi eriba matongo; kale mulimanya nga nze Mukama. 
+21 Awo ekigambo kya Mukama ne kinjijira nga kyogera nti 
+22 Omwana w'omuntu, lugero ki luno lwe mulina mu nsi ya Isiraeri, nga mwogera nti Ennaku ziyitirira, era buli kwolesebwa kubula? 
+23 Kale bagambe nti Bw'ati bw'ayogera Mukama Katonda nti Ndikomya olugero olwo, so tebalirugera nate mu Isiraeri okuba olugero; naye bagambe nti Ennaku zinaatera okutuuka, n'okutuukiriza buli kwolesebwa. 
+24 Kubanga tewalibaawo nate kwolesebwa okw'obwereere newakubadde obulaguzi obunyumiriza mu nnyumba ya Isiraeri. 
+25 Kubanga nze Mukama; ndyogera n'ekigambo kye ndyogera kirituukirizibwa; tekirirwisibwa nate; kubanga mu nnaku zammwe, ai ennyumba enjeemu, mwe ndyogerera ekigambo, era ndikituukiriza, bw'ayogera Mukama Katonda. 
+26 Nate ekigambo kya Mukama ne kinjijira nga kyogera nti 
+27 Omwana w'omuntu, laba, ab'omu nnyumba ya Isiraeri boogera nti Okwolesebwa kwalaba kwa mu nnaku nnyingi ezitannajja, era alagula eby'ebiro ebikyali ewala. 
+28 Kale bagambe nti Bw'ati bw'ayogera Mukama Katonda nti Tewaliba ku bigambo byange ebirirwisibwa nate, naye ekigambo kye ndyogera kirituukirizibwa, bw'ayogera Mukama Katonda.          
 
 

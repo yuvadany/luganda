@@ -1,30 +1,29 @@
- 1 Omuntu akakanyaza ensingo ye bw'anenyezebwa emirundi emingi Alimenyeka nga tamanyiridde awatali kuwonyezebwa.
- 2 Abatuukirivu bwe beeyongera, abantu basanyuka: Naye omuntu omubi bw'afuga, abantu basinda.
- 3 Buli ayagala amagezi asanyusa kitaawe: Naye oyo abeera n'abakazi abenzi amalawo ebintu bye.
- 4 Kabaka anyweza ensi lwa kusala misango: Naye asolooza enguzi agisuula.
- 5 Omuntu anyumiriza munne Ategera ebigere bye ekitimba.
- 6 Mu kusobya kw'omuntu omubi mulimu ekyambika: Naye omutuukirivu ayimba n'asanyuka.
- 7 Omutuukirivu yeetegereza ensonga ey'abaavu: Naye omubi talina kutegeera okugimanya.
- 8 Abantu abanyooma basasamaza ekibuga: Naye abantu ab'amagezi bakyusa obusungu ne buvaawo.
- 9 Omuntu ow'amagezi bw'aba n'empaka n'omuntu omusirusiru, Oba nga asunguwala oba nga aseka, tewaliba kuwummula.
- 10 Abayagala omusaayi bakyawa oyo eyatuukirira: N'omugolokofu banoonya obulamu bwe.
- 11 Omusirusiru ayatula obusungu bwe bwonna: Naye omuntu ow'amagezi abuziyiza n'abukkakkanya.
- 12 Omukulu bw'awulira eby'obulimba, Abaddu be bonna baba babi.
- 13 Omwavu n'omujoozi balabagana: Mukama ayakira amaaso gaabwe bombi.
- 14 Kabaka asalira abaavu emisango n'obwesigwa, Entebe ye eneenywezebwanga emirembe gyonna.
- 15 Omuggo n'okunenya bireeta amagezi: Naye omwana gwe balekera awo akwasa nnyina ensonyi.
- 16 Ababi bwe beeyongera, okusobya kweyongera: Naye abatuukirivu balitunuulira okugwa kwabwe.
- 17 Buuliriranga omwana wo, anaakuwanga okuwummula; Weewaawo, anaasanyusanga emmeeme yo.
- 18 Awatali kwolesebwa, abantu basuula okuziyizibwa: Naye akwata amateeka alina omukisa.
- 19 Omuddu taganya kubuulirirwa lwa bigambo: Kubanga ne bw'ategeera talissaayo mwoyo.
- 20 Olaba omuntu ayanguyiriza ebigambo bye? Omusirusiru asuubirwa okukira ye.
- 21 Alera omuddu we nga yeekanasa okuva mu buto bwe Alimufuukira omwana ku nkomerero.
- 22 Omuntu ow'obusungu aleeta ennyombo, N'ow'ekiruyi okusobya kwe kuba kungi nnyo nnyini.
- 23 Amalala ag'omuntu galimutoowaza: Naye alina omwoyo ogwetoowaza alifuna ekitiibwa.
- 24 Buli assa ekimu n'omubi akyawa obulamu bwe ye: Awulira okulayizibwa n'atabaako ky'ayogera.
- 25 Okutya abantu kuleeta ekyambika: Naye buli eyeesiga Mukama anaabanga mirembe.
- 26 Bangi abaagala okuganja eri omukulu: Naye omusango gw'omuntu guva eri Mukama.
- 27 Omuntu atali wa nsonga wa muzizo eri abatuukirivu: N'oyo akwata ekkubo eggolokofu wa muzizo eri ababi.
-          
+ 1 Omuntu akakanyaza ensingo ye bw'anenyezebwa emirundi emingi Alimenyeka nga tamanyiridde awatali kuwonyezebwa. 
+2 Abatuukirivu bwe beeyongera, abantu basanyuka: Naye omuntu omubi bw'afuga, abantu basinda. 
+3 Buli ayagala amagezi asanyusa kitaawe: Naye oyo abeera n'abakazi abenzi amalawo ebintu bye. 
+4 Kabaka anyweza ensi lwa kusala misango: Naye asolooza enguzi agisuula. 
+5 Omuntu anyumiriza munne Ategera ebigere bye ekitimba. 
+6 Mu kusobya kw'omuntu omubi mulimu ekyambika: Naye omutuukirivu ayimba n'asanyuka. 
+7 Omutuukirivu yeetegereza ensonga ey'abaavu: Naye omubi talina kutegeera okugimanya. 
+8 Abantu abanyooma basasamaza ekibuga: Naye abantu ab'amagezi bakyusa obusungu ne buvaawo. 
+9 Omuntu ow'amagezi bw'aba n'empaka n'omuntu omusirusiru, Oba nga asunguwala oba nga aseka, tewaliba kuwummula. 
+10 Abayagala omusaayi bakyawa oyo eyatuukirira: N'omugolokofu banoonya obulamu bwe. 
+11 Omusirusiru ayatula obusungu bwe bwonna: Naye omuntu ow'amagezi abuziyiza n'abukkakkanya. 
+12 Omukulu bw'awulira eby'obulimba, Abaddu be bonna baba babi. 
+13 Omwavu n'omujoozi balabagana: Mukama ayakira amaaso gaabwe bombi. 
+14 Kabaka asalira abaavu emisango n'obwesigwa, Entebe ye eneenywezebwanga emirembe gyonna. 
+15 Omuggo n'okunenya bireeta amagezi: Naye omwana gwe balekera awo akwasa nnyina ensonyi. 
+16 Ababi bwe beeyongera, okusobya kweyongera: Naye abatuukirivu balitunuulira okugwa kwabwe. 
+17 Buuliriranga omwana wo, anaakuwanga okuwummula; Weewaawo, anaasanyusanga emmeeme yo. 
+18 Awatali kwolesebwa, abantu basuula okuziyizibwa: Naye akwata amateeka alina omukisa. 
+19 Omuddu taganya kubuulirirwa lwa bigambo: Kubanga ne bw'ategeera talissaayo mwoyo. 
+20 Olaba omuntu ayanguyiriza ebigambo bye? Omusirusiru asuubirwa okukira ye. 
+21 Alera omuddu we nga yeekanasa okuva mu buto bwe Alimufuukira omwana ku nkomerero. 
+22 Omuntu ow'obusungu aleeta ennyombo, N'ow'ekiruyi okusobya kwe kuba kungi nnyo nnyini. 
+23 Amalala ag'omuntu galimutoowaza: Naye alina omwoyo ogwetoowaza alifuna ekitiibwa. 
+24 Buli assa ekimu n'omubi akyawa obulamu bwe ye: Awulira okulayizibwa n'atabaako ky'ayogera. 
+25 Okutya abantu kuleeta ekyambika: Naye buli eyeesiga Mukama anaabanga mirembe. 
+26 Bangi abaagala okuganja eri omukulu: Naye omusango gw'omuntu guva eri Mukama. 
+27 Omuntu atali wa nsonga wa muzizo eri abatuukirivu: N'oyo akwata ekkubo eggolokofu wa muzizo eri ababi.          
 
 

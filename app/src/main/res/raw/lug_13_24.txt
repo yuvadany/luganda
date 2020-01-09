@@ -1,25 +1,33 @@
- 1 N'empalo za batabani ba Alooni zaali zino.
- Batabani ba Alooni; Nadabu ne Abiku, Eriyazaali ne Isamaali.
- 2 Naye Nadabu ne Abiku ne basooka kitaabwe okufa nga tebalina baana: Eriyazaali ne Isamaali kyebaava bakola omulimu ogw'obwakabona.
- 3 Dawudi wamu ne Zadoki ow'oku batabani ba Eriyazaali ne Akimereki ow'oku batabani ba Isamaali ne babasalamu ng'ebisanja byabwe bwe byali mu kuweereza kwabwe.
- 4 Awo ne walabika abasajja abakulu ku batabani ba Eriyazaali bangi okusinga ab'oku batabani ba Isamaali; era bwe bati bwe baasalibwamu: ku batabani ba Eriyazaali kwaliko kkumi na mukaaga, emitwe gy'ennyumba za bakitaabwe; ne ku batabani ba Isamaali, ng'ennyumba za bakitaabwe bwe zaali, munaana.
- 5 Bwe bati bwe baasalibwamu na bululu, emitindo gyonna wamu; kubanga waaliwo abakulu ab'omu kifo ekitukuvu n'abakulu ba Katonda, ku batabani ba Eriyazaali era ne ku batabani ba Isamaali.
- 6 Awo Semaaya mutabani wa Nesaneri omuwandiisi ow'oku Baleevi, n'abawandiikira mu maaso ga kabaka b'abakulu ne Zadoki kabona ne Akimereki mutabani wa Abiyasaali n'emitwe gy'ennyumba za bakitaabwe eza bakabona n'Abaleevi; ennyumba emu eya bakitaabwe ng'eronderwa Eriyazaali, n'endala ng'eronderwa Isamaali.
- 7 Awo akaluIu ak'olubereberye ne kamugwako Yekoyalibu, ak'okubiri Yedaya; 8 ak'okusatu Kalimu, ak'okuna Seyolimu; 9 ak'okutaano Malukiya; ak'omukaaga Miyamini; 10 ak'omusanvu Kakkozi, ak'omunaana Abiya; 11 ak'omwenda Yesuwa; ak'ekkumi Sekaniya; 12 ak'ekkumi n'akamu Eriyasibu, n'ak'ekkumi n'obubiri Yakimu; 13 ak'ekkumi n'obusatu Kuppa, ak'ekkumi n'obuna Yesebeyabu; 14 ak'ekkumi n'obutaano Biruga, ak'ekkumi n'omukaaga Immeri; 15 ak'ekkumi n'omusanvu Keziri, ak'ekkumi n'omunaana Kapizzezi; 16 ak'ekkumi n'omwenda Pesakiya, ak'amakumi abiri Yekezukeri; 17 ak'abiri mu kamu Yakini, ak'abiri mu bubiri Gamuli; 18 ak'abiri mu busatu Deraya, ak'abiri mu buna Maaziya.
- 19 Bino bye byali ebisanja byabwe mu kuweereza kwabwe, okuyingiranga mu nnyumba ya Mukama ng'ekiragiro bwe kyali kye baaweebwa mu mukono gwa Alooni jjajjaabwe, nga Mukama Katonda wa Isiraeri bwe yali amulagidde.
- 20 Ne ku batabani ba Leevi abalala: ku batabani ba Amulaamu Subayeri; ku batabani ba Subayeri, Yedeya.
- 21 Ku Lekabiya: ku batabani ba Lekabiya; Issiya omukulu.
- 22 Ku Bayizukali, Seromosi; ku batabani ba Seromosi, Yakasi.
- 23 Ne batabani ba Kebulooni; Yeriya omukulu, Amaliya ow'okubiri, Yakaziyeri ow'okusatu, Yekameyamu ow'okuna.
- 24 Batabani ba Winziyeeri, Mikka; ku batabani ba Mikka, Samiri.
- 25 Muganda wa Mikka, Issiya: ku batabani ba Issiya, Zekkaliya.
- 26 Batabani ba Merali; Makuli ne Musi: batabani ba Yaaziya; Beno.
- 27 Batabani ba Merali; ku Yaaziya, Beno ne Sokamu, ne Zakkuli, ne Ibuli.
- 28 Ku Makuli; Eriyazaali, ataazaala baana ba bulenzi.
- 29 Ku kiisi; batabani ba Kiisi, Yerameeri.
- 30 Ne batabani ba Musi; Makuli ne Ederi, ne Yerimosi.
- Abo be baali batabani b'Abaleevi ng'ennyumba za bakitaabwe bwe zaali.
- 31 Era ne bano bwe batyo ne bakuba obululu nga baganda baabwe batabani ba Alooni mu maaso ga Dawudi kabaka, ne Zadoki ne Akimereki n'emitwe gy'ennyumba za bakitaabwe eza bakabona n'Abaleevi; (ennyumba) za bakitaabwe ez'omukulu okufaanana eza muganda we omuto.
-          
+ 1 N'empalo za batabani ba Alooni zaali zino. Batabani ba Alooni; Nadabu ne Abiku, Eriyazaali ne Isamaali. 
+2 Naye Nadabu ne Abiku ne basooka kitaabwe okufa nga tebalina baana: Eriyazaali ne Isamaali kyebaava bakola omulimu ogw'obwakabona. 
+3 Dawudi wamu ne Zadoki ow'oku batabani ba Eriyazaali ne Akimereki ow'oku batabani ba Isamaali ne babasalamu ng'ebisanja byabwe bwe byali mu kuweereza kwabwe. 
+4 Awo ne walabika abasajja abakulu ku batabani ba Eriyazaali bangi okusinga ab'oku batabani ba Isamaali; era bwe bati bwe baasalibwamu: ku batabani ba Eriyazaali kwaliko kkumi na mukaaga, emitwe gy'ennyumba za bakitaabwe; ne ku batabani ba Isamaali, ng'ennyumba za bakitaabwe bwe zaali, munaana. 
+5 Bwe bati bwe baasalibwamu na bululu, emitindo gyonna wamu; kubanga waaliwo abakulu ab'omu kifo ekitukuvu n'abakulu ba Katonda, ku batabani ba Eriyazaali era ne ku batabani ba Isamaali. 
+6 Awo Semaaya mutabani wa Nesaneri omuwandiisi ow'oku Baleevi, n'abawandiikira mu maaso ga kabaka b'abakulu ne Zadoki kabona ne Akimereki mutabani wa Abiyasaali n'emitwe gy'ennyumba za bakitaabwe eza bakabona n'Abaleevi; ennyumba emu eya bakitaabwe ng'eronderwa Eriyazaali, n'endala ng'eronderwa Isamaali. 
+7 Awo akaluIu ak'olubereberye ne kamugwako Yekoyalibu, ak'okubiri Yedaya; 
+8 ak'okusatu Kalimu, ak'okuna Seyolimu; 
+9 ak'okutaano Malukiya; ak'omukaaga Miyamini; 
+10 ak'omusanvu Kakkozi, ak'omunaana Abiya; 
+11 ak'omwenda Yesuwa; ak'ekkumi Sekaniya; 
+12 ak'ekkumi n'akamu Eriyasibu, n'ak'ekkumi n'obubiri Yakimu; 
+13 ak'ekkumi n'obusatu Kuppa, ak'ekkumi n'obuna Yesebeyabu; 
+14 ak'ekkumi n'obutaano Biruga, ak'ekkumi n'omukaaga Immeri; 
+15 ak'ekkumi n'omusanvu Keziri, ak'ekkumi n'omunaana Kapizzezi; 
+16 ak'ekkumi n'omwenda Pesakiya, ak'amakumi abiri Yekezukeri; 
+17 ak'abiri mu kamu Yakini, ak'abiri mu bubiri Gamuli; 
+18 ak'abiri mu busatu Deraya, ak'abiri mu buna Maaziya. 
+19 Bino bye byali ebisanja byabwe mu kuweereza kwabwe, okuyingiranga mu nnyumba ya Mukama ng'ekiragiro bwe kyali kye baaweebwa mu mukono gwa Alooni jjajjaabwe, nga Mukama Katonda wa Isiraeri bwe yali amulagidde. 
+20 Ne ku batabani ba Leevi abalala: ku batabani ba Amulaamu Subayeri; ku batabani ba Subayeri, Yedeya. 
+21 Ku Lekabiya: ku batabani ba Lekabiya; Issiya omukulu. 
+22 Ku Bayizukali, Seromosi; ku batabani ba Seromosi, Yakasi. 
+23 Ne batabani ba Kebulooni; Yeriya omukulu, Amaliya ow'okubiri, Yakaziyeri ow'okusatu, Yekameyamu ow'okuna. 
+24 Batabani ba Winziyeeri, Mikka; ku batabani ba Mikka, Samiri. 
+25 Muganda wa Mikka, Issiya: ku batabani ba Issiya, Zekkaliya. 
+26 Batabani ba Merali; Makuli ne Musi: batabani ba Yaaziya; Beno. 
+27 Batabani ba Merali; ku Yaaziya, Beno ne Sokamu, ne Zakkuli, ne Ibuli. 
+28 Ku Makuli; Eriyazaali, ataazaala baana ba bulenzi. 
+29 Ku kiisi; batabani ba Kiisi, Yerameeri. 
+30 Ne batabani ba Musi; Makuli ne Ederi, ne Yerimosi. Abo be baali batabani b'Abaleevi ng'ennyumba za bakitaabwe bwe zaali. 
+31 Era ne bano bwe batyo ne bakuba obululu nga baganda baabwe batabani ba Alooni mu maaso ga Dawudi kabaka, ne Zadoki ne Akimereki n'emitwe gy'ennyumba za bakitaabwe eza bakabona n'Abaleevi; (ennyumba) za bakitaabwe ez'omukulu okufaanana eza muganda we omuto.          
 
 

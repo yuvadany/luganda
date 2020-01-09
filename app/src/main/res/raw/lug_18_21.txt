@@ -1,24 +1,36 @@
- 1 Awo Yobu n'addamu n'ayogera nti 2 Muwulire nnyo okwogera kwange; Era bino bibeere bya kubasanyusa.
- 3 Munzikirize, nange naayogera; Kale nga mmaze okwogera, mweyongere okuduula.
- 4 Nze neemulugunya eri abantu? Era ekyandindobedde okwesunaasuna kiki? 5 Munziseeko omwoyo, mwewuunye, Era muteeke omukono gwammwe ku kamwa kammwe.
- 6 Bwe njijukira obujjukizi neeraliikirira, Okwesisiwala ne kukwata omubiri gwange.
- 7 Ababi babeerera ki abalamu, Ne bakaddiwa ne baba ba maanyi mu buyinza? 8 Ezzadde lyabwe linywera gye bali bo nga balaba, N'enda yaabwe mu maaso gaabwe.
- 9 Ennyumba zaabwe ziba mirembe awatali kutya, So n'omuggo gwa Katonda tegubabaako, 10 Ente yaabwe ennume ezaala n'eteddirira; Ente yaabwe enkazi ezaala n'etesowola mwana gwayo.
- 11 Basindika abaana baabwe abato ng'ekisibo, N'abaana baabwe bazina.
- 12 Bayimbira ku bitaasa n'ennanga, Ne basanyukira eddoboozi ly'omulere.
- 13 Bamala ennaku zaabwe nga balabye omukisa, Mu kaseera ne bakka mu magombe.
- 14 Era naye ne bagamba Katonda nti Tuveeko; Kubanga tetwegomba kumanya makubo go.
- 15 Omuyinza w'ebintu byonna kye ki, ffe tumuweereze? Era bwe tunaamusabanga kinaatugasanga kitya? 16 Laba, omukisa gwabwe teguli mu mukono gwabwe: Okuteesa kw'ababi kundi wala.
- 17 Ettabaaza y'ababi ezikizibwa emirundi emeka? N'obuyinike bwabwe bubatuukako emirundi emeka? Katonda agaba ennaku mu busungu bwe emirundi emeka? 18 Baba ng'ebisasiro ebitwalibwa n'empewo, Era ng'ebisusunku embuyaga bye zitwala emirundi emeka? 19 Mwogera nti Katonda aterekera abaana be obutali butuukirivu bwe.
- Abasasule ye yennyini abumanye.
- 20 Amaaso ge galabe okuzikirira kwe ye, Era anywe ku busungu bw'Omuyinza w'ebintu byonna.
- 21 Kubanga asanyukira atya ennyumba ye emuddirira, Omuwendo gw'emyezi gye nga gukutuse wakati? 22 Waliwo anaayigirizanga Katonda okumanya? Kubanga asalira abo omusango abagulumizibwa.
- 23 Wabaawo omu afa ng'alina amaanyi ge gonna, Ng'aweereddeweeredde ddala ng'ateredde: 24 Amabeere ge gajjudde amata, N'obusomyo obw'amagumba ge nga bubisi.
- 25 N'omulala afa omwoyo gwe nga gumubalagala, So taleganga ku birungi.
- 26 Bombi bagalamira mu nfuufu, Envunyu n'ebabikkako.
- 27 Laba, mmanyi ebirowoozo byammwe, N'enkwe ze munsalira obubi.
- 28 Kubanga mwogera nti Ennyumba y'omukungu eri ludda wa? Era nti Eweema ababi mwe babeera eri ludda wa? 29 Temwababuuza abatambulira mu kkubo? Era temumanyi bubonero bwabwe? 30 Ng'omuntu omubi aterekerwa olunaku olw'okulabirako ennaku? Nga batwalibwa eri olunaku olw'obusungu? 31 Ani anaabuuliranga ekkubo lye mu maaso ge? Era ani anaamusasulanga bye yakola? 32 Naye anaatwalibwanga mu ntaana, Era anaakuumanga amalaalo.
- 33 Amafunfugu ag'omu kiwonvu ganaamuwoomeranga, N'abantu bonna banaawalulwanga ennyuma we, Nga bwe baamukulembera abatabalika.
- 34 Kale nno munsanyusiza mutya obwereere, Kubanga mu kuddamu kwammwe musigaddemu obulimba busa?          
+ 1 Awo Yobu n'addamu n'ayogera nti 
+2 Muwulire nnyo okwogera kwange; Era bino bibeere bya kubasanyusa. 
+3 Munzikirize, nange naayogera; Kale nga mmaze okwogera, mweyongere okuduula. 
+4 Nze neemulugunya eri abantu? Era ekyandindobedde okwesunaasuna kiki? 
+5 Munziseeko omwoyo, mwewuunye, Era muteeke omukono gwammwe ku kamwa kammwe. 
+6 Bwe njijukira obujjukizi neeraliikirira, Okwesisiwala ne kukwata omubiri gwange. 
+7 Ababi babeerera ki abalamu, Ne bakaddiwa ne baba ba maanyi mu buyinza? 
+8 Ezzadde lyabwe linywera gye bali bo nga balaba, N'enda yaabwe mu maaso gaabwe. 
+9 Ennyumba zaabwe ziba mirembe awatali kutya, So n'omuggo gwa Katonda tegubabaako, 
+10 Ente yaabwe ennume ezaala n'eteddirira; Ente yaabwe enkazi ezaala n'etesowola mwana gwayo. 
+11 Basindika abaana baabwe abato ng'ekisibo, N'abaana baabwe bazina. 
+12 Bayimbira ku bitaasa n'ennanga, Ne basanyukira eddoboozi ly'omulere. 
+13 Bamala ennaku zaabwe nga balabye omukisa, Mu kaseera ne bakka mu magombe. 
+14 Era naye ne bagamba Katonda nti Tuveeko; Kubanga tetwegomba kumanya makubo go. 
+15 Omuyinza w'ebintu byonna kye ki, ffe tumuweereze? Era bwe tunaamusabanga kinaatugasanga kitya? 
+16 Laba, omukisa gwabwe teguli mu mukono gwabwe: Okuteesa kw'ababi kundi wala. 
+17 Ettabaaza y'ababi ezikizibwa emirundi emeka? N'obuyinike bwabwe bubatuukako emirundi emeka? Katonda agaba ennaku mu busungu bwe emirundi emeka? 
+18 Baba ng'ebisasiro ebitwalibwa n'empewo, Era ng'ebisusunku embuyaga bye zitwala emirundi emeka? 
+19 Mwogera nti Katonda aterekera abaana be obutali butuukirivu bwe. Abasasule ye yennyini abumanye. 
+20 Amaaso ge galabe okuzikirira kwe ye, Era anywe ku busungu bw'Omuyinza w'ebintu byonna. 
+21 Kubanga asanyukira atya ennyumba ye emuddirira, Omuwendo gw'emyezi gye nga gukutuse wakati? 
+22 Waliwo anaayigirizanga Katonda okumanya? Kubanga asalira abo omusango abagulumizibwa. 
+23 Wabaawo omu afa ng'alina amaanyi ge gonna, Ng'aweereddeweeredde ddala ng'ateredde: 
+24 Amabeere ge gajjudde amata, N'obusomyo obw'amagumba ge nga bubisi. 
+25 N'omulala afa omwoyo gwe nga gumubalagala, So taleganga ku birungi. 
+26 Bombi bagalamira mu nfuufu, Envunyu n'ebabikkako. 
+27 Laba, mmanyi ebirowoozo byammwe, N'enkwe ze munsalira obubi. 
+28 Kubanga mwogera nti Ennyumba y'omukungu eri ludda wa? Era nti Eweema ababi mwe babeera eri ludda wa? 
+29 Temwababuuza abatambulira mu kkubo? Era temumanyi bubonero bwabwe? 
+30 Ng'omuntu omubi aterekerwa olunaku olw'okulabirako ennaku? Nga batwalibwa eri olunaku olw'obusungu? 
+31 Ani anaabuuliranga ekkubo lye mu maaso ge? Era ani anaamusasulanga bye yakola? 
+32 Naye anaatwalibwanga mu ntaana, Era anaakuumanga amalaalo. 
+33 Amafunfugu ag'omu kiwonvu ganaamuwoomeranga, N'abantu bonna banaawalulwanga ennyuma we, Nga bwe baamukulembera abatabalika. 
+34 Kale nno munsanyusiza mutya obwereere, Kubanga mu kuddamu kwammwe musigaddemu obulimba busa?          
 
 

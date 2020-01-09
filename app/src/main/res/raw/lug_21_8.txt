@@ -1,13 +1,19 @@
-1 Ani ali ng'omugezigezi? era ani amanyi ekigambo bwe kitegeezebwa? Amagezi g'omuntu ganyiriza amaaso ge, n'obukakanyavu bw'amaaso ge ne buwaanyisibwa.
- 2 Nkuweerera ebigambo, nti Okwatanga ekiragiro kya kabaka, era kyova okola bw'otyo olw'ekirayiro kya Katonda: 3 Toyanguyirizanga kuva w'ali; tolemeranga mu kigambo ekibi: kubanga akola buli ky'ayagala.
- 4 Kubanga ekigambo kya kabaka kirina obuyinza; era ani ayinza okumugamba nti Okola ki? 5 Buli akwata ekiragiro talibaako kigambo kibi ky'alimanya; n'omutima gw'Omuntu omugezigezi gwawula ekiseera n'okuteesa: 6 kubanga buli kigambo ky'oyagala okukola kibaako ekiseera kyakyo n'okuteesa kwakyo; kubanga obuyinike bw'omuntu bumuzitoowerera nnyo: 7 kubanga tamanyi ekiribaawo: kubanga ani ayinza okumubuulira bwe kiriba? 8 Tewali muntu alina obuyinza ku mwoyo okuziyiza omwoyo; so talina buyinza ku lunaku olw'okufiiramu; so mu ntalo ezo temuli kusindikibwa: so n'obubi tebulimuwonya oyo abugoberera.
- 9 Ebyo byonna nabiraba, ne nzisaayo omutima gwange eri buli mulimu ogukolebwa wansi w'enjuba: wabaawo ekiseera omuntu omu bw'abeera n'obuyinza ku mulala olw'okumukola obubi.
- 10 Era nate nalaba ababi nga babaziika, ne bajja eri entaana; n'abo abaakolanga eby'ensonga ne bagenda nga bava mu kifo ekitukuvu, ne beerabirwa mu kibuga: era n'ekyo butaliimu.
- 11 Kubanga omusango ogusalirwa ekikolwa ekibi tebagutuukiriza mangu, omutima gw'abaana b'abantu kyeguva gukakasibwa ddala mu bo okukola obubi.
- 12 Alina ebibi newakubadde ng'akola obubi emirundi kkumi n'awangaala nnyo, era naye mazima mmanyi ng'abo abatya Katonda banaabanga bulungi, abatya mu masso ge: 13 naye omubi taabenga bulungi, so taliwangaala nnaku nnyingi eziri ng'ekisiikirize; kubanga tatya mu maaso ga Katonda.
- 14 Waliwo obutaliimu obukolebwa ku nsi; nga waliwo abantu abatuukirivu abagwibwako ebiriŋŋanga omulimu ogw'ababi; naye waliwo abantu ababi abagwibwako ebiriŋŋanga omulimu ogw'abatuukirivu: ne njogera nga n'ekyo butaliimu.
- 15 Awo ne nsiima ebinyumu, kubanga omuntu talina kintu kyonna ekisinga obulungi wansi w'enjuba wabula okulyanga n'okunywanga n'okusanyukanga: kubanga ebyo binaabeeranga naye mu kutegana kwe ennaku zonna ez'obulamu bwe Katonda bw'amuwadde wansi w'enjuba.
- 16 Bwe nnassaayo omutima gwange okumanya amagezi, n'okulaba emirimu egikolebwa ku nsi: (kubanga waliwo era atafuna tulo mu maaso ge emisana n'ekiro:) 17 awo ne ndaba omulimu gwonna ogwa Katonda; omuntu nga tayinza kukebera mulimu ogukolebwa wansi w'enjuba: kubanga omuntu ne bw'ategana atya okugukebera, naye taligulaba; weewaawo, nate omugezigezi ne bw'alowooza okugumanya, nate taliyinza kugulaba.
-          
+1 Ani ali ng'omugezigezi? era ani amanyi ekigambo bwe kitegeezebwa? Amagezi g'omuntu ganyiriza amaaso ge, n'obukakanyavu bw'amaaso ge ne buwaanyisibwa. 
+2 Nkuweerera ebigambo, nti Okwatanga ekiragiro kya kabaka, era kyova okola bw'otyo olw'ekirayiro kya Katonda: 
+3 Toyanguyirizanga kuva w'ali; tolemeranga mu kigambo ekibi: kubanga akola buli ky'ayagala. 
+4 Kubanga ekigambo kya kabaka kirina obuyinza; era ani ayinza okumugamba nti Okola ki? 
+5 Buli akwata ekiragiro talibaako kigambo kibi ky'alimanya; n'omutima gw'Omuntu omugezigezi gwawula ekiseera n'okuteesa: 
+6 kubanga buli kigambo ky'oyagala okukola kibaako ekiseera kyakyo n'okuteesa kwakyo; kubanga obuyinike bw'omuntu bumuzitoowerera nnyo: 
+7 kubanga tamanyi ekiribaawo: kubanga ani ayinza okumubuulira bwe kiriba? 
+8 Tewali muntu alina obuyinza ku mwoyo okuziyiza omwoyo; so talina buyinza ku lunaku olw'okufiiramu; so mu ntalo ezo temuli kusindikibwa: so n'obubi tebulimuwonya oyo abugoberera. 
+9 Ebyo byonna nabiraba, ne nzisaayo omutima gwange eri buli mulimu ogukolebwa wansi w'enjuba: wabaawo ekiseera omuntu omu bw'abeera n'obuyinza ku mulala olw'okumukola obubi. 
+10 Era nate nalaba ababi nga babaziika, ne bajja eri entaana; n'abo abaakolanga eby'ensonga ne bagenda nga bava mu kifo ekitukuvu, ne beerabirwa mu kibuga: era n'ekyo butaliimu. 
+11 Kubanga omusango ogusalirwa ekikolwa ekibi tebagutuukiriza mangu, omutima gw'abaana b'abantu kyeguva gukakasibwa ddala mu bo okukola obubi. 
+12 Alina ebibi newakubadde ng'akola obubi emirundi kkumi n'awangaala nnyo, era naye mazima mmanyi ng'abo abatya Katonda banaabanga bulungi, abatya mu masso ge: 
+13 naye omubi taabenga bulungi, so taliwangaala nnaku nnyingi eziri ng'ekisiikirize; kubanga tatya mu maaso ga Katonda. 
+14 Waliwo obutaliimu obukolebwa ku nsi; nga waliwo abantu abatuukirivu abagwibwako ebiriŋŋanga omulimu ogw'ababi; naye waliwo abantu ababi abagwibwako ebiriŋŋanga omulimu ogw'abatuukirivu: ne njogera nga n'ekyo butaliimu. 
+15 Awo ne nsiima ebinyumu, kubanga omuntu talina kintu kyonna ekisinga obulungi wansi w'enjuba wabula okulyanga n'okunywanga n'okusanyukanga: kubanga ebyo binaabeeranga naye mu kutegana kwe ennaku zonna ez'obulamu bwe Katonda bw'amuwadde wansi w'enjuba. 
+16 Bwe nnassaayo omutima gwange okumanya amagezi, n'okulaba emirimu egikolebwa ku nsi: (kubanga waliwo era atafuna tulo mu maaso ge emisana n'ekiro:) 
+17 awo ne ndaba omulimu gwonna ogwa Katonda; omuntu nga tayinza kukebera mulimu ogukolebwa wansi w'enjuba: kubanga omuntu ne bw'ategana atya okugukebera, naye taligulaba; weewaawo, nate omugezigezi ne bw'alowooza okugumanya, nate taliyinza kugulaba.          
 
 

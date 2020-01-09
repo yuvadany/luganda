@@ -1,22 +1,24 @@
- 1 Mu biro ebyo Mukama n'aŋŋamba nti Weetemere ebipande bibiri eby'amayinja ebifaanana ng'eby'olubereberye, olinnye gye ndi ku lusozi, weekolere essanduuko ey'omuti.
- 2 Era nnaawandiika ku bipande ebigambo ebyali ku bipande eby'olubereberye bye wamenya, era onoobiteeka mu ssanduuko.
- 3 Awo ne nkola essanduuko ey'omuti gwa sita, ne ntema ebipande bibiri eby'amayinja ebifaanana ng'eby'olubereberye, ne nninnya ku lusozi, nga nkutte ebipande ebibiri mu ngalo zange.
- 4 N'awandiika ku bipande, ng'okuwandiika okw'olubereberye bwe kwali, amateeka ekkumi, Mukama ge yababuulira ku lusozi ng'ayima wakati mu muliro ku lunaku olw'okukuŋŋaanirako Mukama n'abimpa.
- 5 Ne nkyuka ne nva ku lusozi, ne nteeka ebipande mu ssanduuko, gye nnali nkoze; era biri omwo, nga Mukama bwe yandagira.
- 6 (Abaana ba Isiraeri ne batambula okuva e Beerosubeneyaakani okutuuka e Mosera: Alooni n'afiira eyo, era eye gye yaziikibwa; Eriyazaali mutabani we n'aweerezanga mu bwakabona mu kifo kye.
- 7 Ne bavaayo ne batambula okutuuka e Gudugoda; ne bava e Gudugoda ne batambula okutuuka e Yotubasa, ensi ey'emigga egy'amazzi.
- 8 Mu biro ebyo Mukama n'ayawula ekika kya Leevi, okusitulanga essanduuko ey'endagaano ya Mukama, okuyimirira mu maaso ga Mukama, okumuweerezanga, n'okwebazanga erinnya lye, ne leero.
- 9 Leevi kyava alema okuba n'omugabo newakubadde obusika awamu ne baganda be; Mukama bwe busika bwe, nga Mukama Katonda we bwe yamugamba.
-) 10 Ne mmala ennaku amakumi ana emisana n’ekiro ku lusozi, ng'omulundi ogw'olubereberye: Mukama n'ampulira n'omulundi ogwo; Mukama nga tagenda kukuzikiriza.
- 11 Mukama n'aŋŋamba nti Golokoka, otambule ku lugendo lwo ng'okulembera abantu; era baliyingira balirya ensi gye nnalayirira bajjajja baabwe okubawa: 12 Ne kaakano, Isiraeri, Mukama Katonda wo akwagaza ki wabula okutyanga Mukama Katonda wo, okutambuliranga mu makubo ge gonna, n'okumwagala, n’okuweereza Mukama Katonda wo n'omutima gwo gwonna, n'emmeeme yo yonna, 13 okwekuumanga ebiragiro bya Mukama n'amateeka ge, bwe nkulagira leero olw'obulungi bwo? 14 Laba, Mukama Katonda wo ye nnannyini ggulu, n'eggulu erya waggulu, ensi era n'ebigirimu byonna.
- 15 Mukama yasanyukira busanyukizi bajjajja be okubaagala, n'alonda ezzadde lyabwe eryaddawo, ye mmwe okusinga amawanga gonna, nga leero.
- 16 Kale mukomole ekikuta ky'omutima gwammwe, so temubanga nate ba nsingo nkakanyavu.
- 17 Kubanga Mukama Katonda wammwe ye Katonda wa bakatonda era Mukama w'abaami, Katonda omukulu, ow'amaanyi era ow'entiisa, atatya maaso ga bantu, so talya nguzi.
- 18 Asalira omusango mulekwa ne nnamwandu, era ayagala munnaggwanga, ng'amuwa eby'okulya n'eby'okwambala.
- 19 Kale mwagalenga munnaggwanga: kubanga mwali bannaggwanga mu nsi y'e Misiri.
- 20 Onootyanga Mukama Katonda wo; eyo gw'onooweerezanga; era eyo gw'oneegattanga naye, n'erinnya lye ly'onoolayiranga.
- 21 Oyo lye ttendo lyo, era ye Katonda wo, eyakukolera ebyo ebikulu era eby'entiisa, amaaso go bye gaalaba.
- 22 Bajjajja bo baaserengeta mu Misiri nga bali abantu nsanvu; ne kaakano Mukama Katonda wo akufudde ng'emmuyeenye ez'omu ggulu olw'obungi.
-          
+ 1 Mu biro ebyo Mukama n'aŋŋamba nti Weetemere ebipande bibiri eby'amayinja ebifaanana ng'eby'olubereberye, olinnye gye ndi ku lusozi, weekolere essanduuko ey'omuti. 
+2 Era nnaawandiika ku bipande ebigambo ebyali ku bipande eby'olubereberye bye wamenya, era onoobiteeka mu ssanduuko. 
+3 Awo ne nkola essanduuko ey'omuti gwa sita, ne ntema ebipande bibiri eby'amayinja ebifaanana ng'eby'olubereberye, ne nninnya ku lusozi, nga nkutte ebipande ebibiri mu ngalo zange. 
+4 N'awandiika ku bipande, ng'okuwandiika okw'olubereberye bwe kwali, amateeka ekkumi, Mukama ge yababuulira ku lusozi ng'ayima wakati mu muliro ku lunaku olw'okukuŋŋaanirako Mukama n'abimpa. 
+5 Ne nkyuka ne nva ku lusozi, ne nteeka ebipande mu ssanduuko, gye nnali nkoze; era biri omwo, nga Mukama bwe yandagira. 
+6 (Abaana ba Isiraeri ne batambula okuva e Beerosubeneyaakani okutuuka e Mosera: Alooni n'afiira eyo, era eye gye yaziikibwa; Eriyazaali mutabani we n'aweerezanga mu bwakabona mu kifo kye. 
+7 Ne bavaayo ne batambula okutuuka e Gudugoda; ne bava e Gudugoda ne batambula okutuuka e Yotubasa, ensi ey'emigga egy'amazzi. 
+8 Mu biro ebyo Mukama n'ayawula ekika kya Leevi, okusitulanga essanduuko ey'endagaano ya Mukama, okuyimirira mu maaso ga Mukama, okumuweerezanga, n'okwebazanga erinnya lye, ne leero. 
+9 Leevi kyava alema okuba n'omugabo newakubadde obusika awamu ne baganda be; Mukama bwe busika bwe, nga Mukama Katonda we bwe yamugamba.) 
+10 Ne mmala ennaku amakumi ana emisana n’ekiro ku lusozi, ng'omulundi ogw'olubereberye: Mukama n'ampulira n'omulundi ogwo; Mukama nga tagenda kukuzikiriza. 
+11 Mukama n'aŋŋamba nti Golokoka, otambule ku lugendo lwo ng'okulembera abantu; era baliyingira balirya ensi gye nnalayirira bajjajja baabwe okubawa: 
+12 Ne kaakano, Isiraeri, Mukama Katonda wo akwagaza ki wabula okutyanga Mukama Katonda wo, okutambuliranga mu makubo ge gonna, n'okumwagala, n’okuweereza Mukama Katonda wo n'omutima gwo gwonna, n'emmeeme yo yonna, 
+13 okwekuumanga ebiragiro bya Mukama n'amateeka ge, bwe nkulagira leero olw'obulungi bwo? 
+14 Laba, Mukama Katonda wo ye nnannyini ggulu, n'eggulu erya waggulu, ensi era n'ebigirimu byonna. 
+15 Mukama yasanyukira busanyukizi bajjajja be okubaagala, n'alonda ezzadde lyabwe eryaddawo, ye mmwe okusinga amawanga gonna, nga leero. 
+16 Kale mukomole ekikuta ky'omutima gwammwe, so temubanga nate ba nsingo nkakanyavu. 
+17 Kubanga Mukama Katonda wammwe ye Katonda wa bakatonda era Mukama w'abaami, Katonda omukulu, ow'amaanyi era ow'entiisa, atatya maaso ga bantu, so talya nguzi. 
+18 Asalira omusango mulekwa ne nnamwandu, era ayagala munnaggwanga, ng'amuwa eby'okulya n'eby'okwambala. 
+19 Kale mwagalenga munnaggwanga: kubanga mwali bannaggwanga mu nsi y'e Misiri. 
+20 Onootyanga Mukama Katonda wo; eyo gw'onooweerezanga; era eyo gw'oneegattanga naye, n'erinnya lye ly'onoolayiranga. 
+21 Oyo lye ttendo lyo, era ye Katonda wo, eyakukolera ebyo ebikulu era eby'entiisa, amaaso go bye gaalaba. 
+22 Bajjajja bo baaserengeta mu Misiri nga bali abantu nsanvu; ne kaakano Mukama Katonda wo akufudde ng'emmuyeenye ez'omu ggulu olw'obungi.          
 
 

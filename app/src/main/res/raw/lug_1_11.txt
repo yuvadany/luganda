@@ -1,30 +1,34 @@
- 1 N'ensi zonna zaalina olulimi lumu n'enjogera emu.
- 2 Awo, bwe baali batambula ebuvanjuba, ne balaba olusenyi mu nsi Sinali; ne batuula omwo.
- 3 Ne bagambagana nti Kale nno, tukole amatoffaali, tugookere ddala.
- Awo ne baba n'amatoffaali mu kifo ky'amayinja, n'ebitosi mu kifo ky'ennoni.
- 4 Ne boogera nti Kale nno, twezimbire ekibuga, n'ekigo, (ekirituusa) entikko yaakyo mu ggulu, era twefunire erinnya; tuleme okusaasaanira ddala ewala mu nsi zonna.
- 5 Mukama n'akka okulaba ebibuga n'ekigo, abaana b'abantu bye bazimba.
- 6 Mukama n'ayogera nti Laba, abo lye ggwanga limu, era bonna baalina olulimi lumu; era kino kye batanula okukola: ne kaakano tewali ekigenda okubalema, kye baagala okukola.
- 7 Kale nno, tukke, tutabuliretabulire eyo olulimi lwabwe, baleme okutegeera enjogera yaabwe bokka na bokka.
- 8 Bw'atyo Mukama n'abasaasaanyiza ddala okuva eyo okubuna ensi zonna: ne baleka okuzimba ekibuga.
- 9 Erinnya lyakyo kye lyava lituumibwa Baberi; kubanga eyo Mukama gye yatabuliratabulira olulimi lw'ensi zonna: n'okuva eyo Mukama n'abasaasaanyiza ddala okubuna ensi zonna.
- 10 Kuno kwe kuzaala kwa Seemu.
- Seemu yali yaakamaze emyaka kikumi, n'azaala Alupakusaadi amataba nga gaakamaze emyaka ebiri okubaawo: 11 Seemu n'awangaala bwe yamala okuzaala Alupakusaadi emyaka bitaano, n'azaala abaana ab'obulenzi n'ab'obuwala.
- 12 Alupakusaadi n'amala emyaka asatu mu etaano, n'azaala Seera: 13 Alupakusaadi n'awangaala bwe yamala okuzaala Seera emyaka bina mu esatu, n’azaala abaana ab'obulenzi n'ab'obuwala.
- 14 Seera n'amala emyaka asatu, n'azaala Eberi: 15 Seera n'awangaala bwe yamala okuzaala Eberi emyaka bina mu esatu, n'azaala abaana ab'obulenzi n'ab'obuwala.
- 16 Eberi n'amala emyaka asatu mu ena, n'azaala Peregi: 17 Ebezi n'awangaala bwe yamala okuzaala Peregi emyaka bina mu asatu, n'azaala abaana ab'obulenzi n'ab'obuwala.
- 18 Peregi n'amala emyaka asatu, n'azaala Leewo: 19 Peregi n'awangala bwe yamala okuzaala Leewo emyaka bibiri mu mwenda, n'azaala abaana ab'obulenzi n'ab'obuwala.
- 20 Leewo n'amala emyaka asatu mu ebiri, n'azaala Serugi; 21 Leewo n'awangaala bwe yamala okuzaala Serugi emyaka bibiri mu musanvu, n'azaala abaana ab'obulenzi n'ab'obuwala.
- 22 Serugi n'amala emyaka asatu, n'azaala Nakoli: 23 Serugi n'awangaala bwe yamala okuzaala Nakoli, emyaka bibiri, n'azaala abaana ab'obulenzi n'ab'obuwala.
- 24 Nakoli n'amala emyaka abiri mu mwenda, n'azaala Teera: 25 Nakoli n'awangaala bwe yamala okuzaala Teera emyaka kikumi mu kkumi mu mwenda, n'azaala abaana ab'obulenzi n'ab'obuwala.
- 26 Teera n'amala emyaka nsanvu, n'azaala Ibulaamu, Nakoli ne Kalani.
- 27 Era kuno kwe kuzaala kwa Teera.
- Teera yazaala Ibulaamu, Nakoli, ne Kalani; Kalani n'azaala Lutti.
- 28 Kalani n'afiira awali kitaawe mu nsi mwe yazaalirwa, mu Uli, y'ensi ey'Abakaludaaya.
- 29 Ne Ibulaamu ne Nakoli ne beewasiza abakazi: omukazi wa Ibulaamu erinnya lye Salaayi; n'omukazi wa Nakoli erinnya lye Mirika, omwana wa Kalani, ye kitaawe wa Mirika, era kitaawe wa lsika.
- 30 Era Salaayi yali mugumba; teyalina mwana.
- 31 Teera n'atwala Ibulaamu omwana we, ne Lutti, omwana wa Kalani, omuzzukulu we, ne Salaayi muka mwana we, omukazi w'omwana we Ibulaamu; ne bavaayo nabo mu Uli, ye ensi ey'Abakaludaaya, okuyingira mu nsi ya Kanani; ne batuuka e Kalani, ne batuula eyo.
- 32 N'ennaku za Teera zaali emyaka bibiri mu etaano: Tera n'afiira mu Kalani.
-          
+ 1 N'ensi zonna zaalina olulimi lumu n'enjogera emu. 
+2 Awo, bwe baali batambula ebuvanjuba, ne balaba olusenyi mu nsi Sinali; ne batuula omwo. 
+3 Ne bagambagana nti Kale nno, tukole amatoffaali, tugookere ddala. Awo ne baba n'amatoffaali mu kifo ky'amayinja, n'ebitosi mu kifo ky'ennoni. 
+4 Ne boogera nti Kale nno, twezimbire ekibuga, n'ekigo, (ekirituusa) entikko yaakyo mu ggulu, era twefunire erinnya; tuleme okusaasaanira ddala ewala mu nsi zonna. 
+5 Mukama n'akka okulaba ebibuga n'ekigo, abaana b'abantu bye bazimba. 
+6 Mukama n'ayogera nti Laba, abo lye ggwanga limu, era bonna baalina olulimi lumu; era kino kye batanula okukola: ne kaakano tewali ekigenda okubalema, kye baagala okukola. 
+7 Kale nno, tukke, tutabuliretabulire eyo olulimi lwabwe, baleme okutegeera enjogera yaabwe bokka na bokka. 
+8 Bw'atyo Mukama n'abasaasaanyiza ddala okuva eyo okubuna ensi zonna: ne baleka okuzimba ekibuga. 
+9 Erinnya lyakyo kye lyava lituumibwa Baberi; kubanga eyo Mukama gye yatabuliratabulira olulimi lw'ensi zonna: n'okuva eyo Mukama n'abasaasaanyiza ddala okubuna ensi zonna. 
+10 Kuno kwe kuzaala kwa Seemu. Seemu yali yaakamaze emyaka kikumi, n'azaala Alupakusaadi amataba nga gaakamaze emyaka ebiri okubaawo: 
+11 Seemu n'awangaala bwe yamala okuzaala Alupakusaadi emyaka bitaano, n'azaala abaana ab'obulenzi n'ab'obuwala. 
+12 Alupakusaadi n'amala emyaka asatu mu etaano, n'azaala Seera: 
+13 Alupakusaadi n'awangaala bwe yamala okuzaala Seera emyaka bina mu esatu, n’azaala abaana ab'obulenzi n'ab'obuwala. 
+14 Seera n'amala emyaka asatu, n'azaala Eberi: 
+15 Seera n'awangaala bwe yamala okuzaala Eberi emyaka bina mu esatu, n'azaala abaana ab'obulenzi n'ab'obuwala. 
+16 Eberi n'amala emyaka asatu mu ena, n'azaala Peregi: 
+17 Ebezi n'awangaala bwe yamala okuzaala Peregi emyaka bina mu asatu, n'azaala abaana ab'obulenzi n'ab'obuwala. 
+18 Peregi n'amala emyaka asatu, n'azaala Leewo: 
+19 Peregi n'awangala bwe yamala okuzaala Leewo emyaka bibiri mu mwenda, n'azaala abaana ab'obulenzi n'ab'obuwala. 
+20 Leewo n'amala emyaka asatu mu ebiri, n'azaala Serugi; 
+21 Leewo n'awangaala bwe yamala okuzaala Serugi emyaka bibiri mu musanvu, n'azaala abaana ab'obulenzi n'ab'obuwala. 
+22 Serugi n'amala emyaka asatu, n'azaala Nakoli: 
+23 Serugi n'awangaala bwe yamala okuzaala Nakoli, emyaka bibiri, n'azaala abaana ab'obulenzi n'ab'obuwala. 
+24 Nakoli n'amala emyaka abiri mu mwenda, n'azaala Teera: 
+25 Nakoli n'awangaala bwe yamala okuzaala Teera emyaka kikumi mu kkumi mu mwenda, n'azaala abaana ab'obulenzi n'ab'obuwala. 
+26 Teera n'amala emyaka nsanvu, n'azaala Ibulaamu, Nakoli ne Kalani. 
+27 Era kuno kwe kuzaala kwa Teera. Teera yazaala Ibulaamu, Nakoli, ne Kalani; Kalani n'azaala Lutti. 
+28 Kalani n'afiira awali kitaawe mu nsi mwe yazaalirwa, mu Uli, y'ensi ey'Abakaludaaya. 
+29 Ne Ibulaamu ne Nakoli ne beewasiza abakazi: omukazi wa Ibulaamu erinnya lye Salaayi; n'omukazi wa Nakoli erinnya lye Mirika, omwana wa Kalani, ye kitaawe wa Mirika, era kitaawe wa lsika. 
+30 Era Salaayi yali mugumba; teyalina mwana. 
+31 Teera n'atwala Ibulaamu omwana we, ne Lutti, omwana wa Kalani, omuzzukulu we, ne Salaayi muka mwana we, omukazi w'omwana we Ibulaamu; ne bavaayo nabo mu Uli, ye ensi ey'Abakaludaaya, okuyingira mu nsi ya Kanani; ne batuuka e Kalani, ne batuula eyo. 
+32 N'ennaku za Teera zaali emyaka bibiri mu etaano: Tera n'afiira mu Kalani.          
 
 

@@ -1,31 +1,36 @@
- 1 Kubanga obwakabaka obw'omu ggulu bufaanana omuntu alina ennyumba ye, eyakeera enkya okupakasa abalimi balime mu lusuku lwe olw'emizabbibu.
- 2 Bwe yamala okulagaana n'abalimi eddinaali ey'olunaku olumu, n'abasindika mu lusuku lwe olw'emizabbibu.
- 3 N'afuluma essaawa nga ziri ssatu, n'alaba abalala nga bayimiridde mu katale nga tebaliiko kye bakola; 4 nabo n'abagamba nti Nammwe mugende mu lusuku olw'emizabbibu, nange nnaabaweera ekinaatuuka.
- Ne bagenda.
- 5 N'afuluma nate essaawa nga ziri mukaaga, era n'omwenda, n'akola bw'atyo.
- 6 N'afuluma essaawa nga ziri kkumi n'emu, n'asanga abalala nga bayimiridde; n'abagamba nti Kiki ekibayimiriza wano obudde okuziba nga temuliiko kye mukola? 7 Ne bamugamba nti Kubanga tewali muntu eyatupakasizza.
- N'abagamba nti Nammwe mugende mu lusuku olw'emizabbibu.
- 8 Obudde bwe bwawungeera, omwami w'olusuku olw'emizabbibu n'agamba omukoza we nti Bayite abalimi, obawe empeera, osookere ku b'oluvannyuma, okutuusa ku b'olubereberye.
- 9 N'ab'omu ssaawa ekkumi n'emu bwe bajja, ne baweebwa buli muntu eddinaali emu.
- 10 N'abo abaasooka bwe bajja, ne balowooza nti banaaweebwa okukirawo; naye nabo ne baweebwa buli muntu eddinaali emu.
- 11 Bwe baagiweebwa, ne beemulugunyiza omwami.
- 12 nga bagamba nti Bano ab'oluvannyuma bakoledde essaawa emu, n'obenkanya naffe, abaateganye enkya n'essana nga litwokya.
- 13 Naye n'addamu n'agamba omu ku abo nti Munnange, sikukoze bubi: tewalagaanye nange eddinaali emu? 14 Twala eyiyo, ogende; njagala okuwa ono ow'oluvannyuma nga ggwe.
- 15 Siyinza kukola byange nga bwe njagala? oba eriiso lyo bbi kubanga nze ndi mulungi? 16 Bwe batyo ab'oluvannyuma baliba ab'olubereberye, n'ab'olubereberye baliba ab'oluvannyuma.
- 17 Yesu bwe yali ng'ayambuka okugenda e Yerusaalemi, n'atwala abayigirizwa ekkumi n'ababiri kyama, n'abagambira mu kkubo nti 18 Laba, twambuka tugenda e Yerusaalemi; n'Omwana w'omuntu aliweebwayo mu bakabona abakulu n'abawandiisi; nabo balimusalira omusango okumutta, 19 era balimuwaayo mu b'amawanga okumuduulira, n'okumukuba, n'okumukomerera: n'alyoka azuukizibwa ku lunaku olw'okusatu.
- 20 Awo nnyina w'abaana ba Zebbedaayo n'ajja gy'ali, n'abaana be, n'amusinza, n'amusaba ekigambo.
- 21 N'amugamba nti Oyagala ki? N'amugamba nti Lagira abaana bange bano bombi batuule, omu ku mukono gwo ogwa ddyo, n'omulala ku mukono gwo ogwa kkono, mu bwakabaka bwo.
- 22 Naye Yesu n'addamu n'agamba nti Temumanyi kye musaba.
- Muyinza okunywa ku kikompe nze kye ŋŋenda okunywako? Ne bamugamba nti Tuyinza.
- 23 N'abagamba nti Ku kikompe kyange mulinywerako ddala: naye okutuula ku mukono gwange ogwa ddyo, ne ku mukono ogwa kkono, si nze nkugaba, wabula eri abo Kitange be yakuterekera.
- 24 Na bali ekkumi bwe baawulira, ne banyiigira ab'oluganda ababiri.
- 25 Naye Yesu n'abayita gy'ali, n'agamba nti Mumanyi ng'abaami b'amawanga babafuga, n'abakulu baabwe babatwala n'amaanyi.
- 26 Tekiibenga bwe kityo mu mmwe: naye buli ayagala okuba omukulu mu mmwe anaabanga muweereza wammwe: 27 na buli ayagala okuba ow'olubereberye mu mmwe anaabanga muddu wammwe: 28 nga Omwana w'omuntu bw'atajja kuweerezebwa, wabula okuweereza, n'okuwaayo obulamu bwe ekinunulo eky'abangi.
- 29 Bwe baali nga bafuluma mu Yeriko, ekibiina ekinene ne kimugoberera.
- 30 Laba, abazibe b'amaaso babiri abaali batudde ku mabbali g'ekkubo, bwe baawulira nti Yesu ayitawo, ne boogerera waggulu; nga bagamba nti Mukama waffe, tusaasire, omwana wa Dawudi.
- 31 Ekibiina ne kibaboggolera, okusirika: naye bo ne beeyongera okwogerera waggulu, nga bagamba nti Mukama waffe, tusaasire, omwana wa Dawudi.
- 32 Yesu n'ayimirira, n'abayita, n'agamba nti Mwagala mbakole ki? 33 Ne bamugamba nti Mukama waffe, amaaso gaffe gazibuke.
- 34 Yesu n'akwatibwa ekisa, n'akoma ku maaso gaabwe: amangu ago ne balaba, ne bamugoberera.
-          
+ 1 Kubanga obwakabaka obw'omu ggulu bufaanana omuntu alina ennyumba ye, eyakeera enkya okupakasa abalimi balime mu lusuku lwe olw'emizabbibu. 
+2 Bwe yamala okulagaana n'abalimi eddinaali ey'olunaku olumu, n'abasindika mu lusuku lwe olw'emizabbibu. 
+3 N'afuluma essaawa nga ziri ssatu, n'alaba abalala nga bayimiridde mu katale nga tebaliiko kye bakola; 
+4 nabo n'abagamba nti Nammwe mugende mu lusuku olw'emizabbibu, nange nnaabaweera ekinaatuuka. Ne bagenda. 
+5 N'afuluma nate essaawa nga ziri mukaaga, era n'omwenda, n'akola bw'atyo. 
+6 N'afuluma essaawa nga ziri kkumi n'emu, n'asanga abalala nga bayimiridde; n'abagamba nti Kiki ekibayimiriza wano obudde okuziba nga temuliiko kye mukola? 
+7 Ne bamugamba nti Kubanga tewali muntu eyatupakasizza. N'abagamba nti Nammwe mugende mu lusuku olw'emizabbibu. 
+8 Obudde bwe bwawungeera, omwami w'olusuku olw'emizabbibu n'agamba omukoza we nti Bayite abalimi, obawe empeera, osookere ku b'oluvannyuma, okutuusa ku b'olubereberye. 
+9 N'ab'omu ssaawa ekkumi n'emu bwe bajja, ne baweebwa buli muntu eddinaali emu. 
+10 N'abo abaasooka bwe bajja, ne balowooza nti banaaweebwa okukirawo; naye nabo ne baweebwa buli muntu eddinaali emu. 
+11 Bwe baagiweebwa, ne beemulugunyiza omwami. 
+12 nga bagamba nti Bano ab'oluvannyuma bakoledde essaawa emu, n'obenkanya naffe, abaateganye enkya n'essana nga litwokya. 
+13 Naye n'addamu n'agamba omu ku abo nti Munnange, sikukoze bubi: tewalagaanye nange eddinaali emu? 
+14 Twala eyiyo, ogende; njagala okuwa ono ow'oluvannyuma nga ggwe. 
+15 Siyinza kukola byange nga bwe njagala? oba eriiso lyo bbi kubanga nze ndi mulungi? 
+16 Bwe batyo ab'oluvannyuma baliba ab'olubereberye, n'ab'olubereberye baliba ab'oluvannyuma. 
+17 Yesu bwe yali ng'ayambuka okugenda e Yerusaalemi, n'atwala abayigirizwa ekkumi n'ababiri kyama, n'abagambira mu kkubo nti 
+18 Laba, twambuka tugenda e Yerusaalemi; n'Omwana w'omuntu aliweebwayo mu bakabona abakulu n'abawandiisi; nabo balimusalira omusango okumutta, 
+19 era balimuwaayo mu b'amawanga okumuduulira, n'okumukuba, n'okumukomerera: n'alyoka azuukizibwa ku lunaku olw'okusatu. 
+20 Awo nnyina w'abaana ba Zebbedaayo n'ajja gy'ali, n'abaana be, n'amusinza, n'amusaba ekigambo. 
+21 N'amugamba nti Oyagala ki? N'amugamba nti Lagira abaana bange bano bombi batuule, omu ku mukono gwo ogwa ddyo, n'omulala ku mukono gwo ogwa kkono, mu bwakabaka bwo. 
+22 Naye Yesu n'addamu n'agamba nti Temumanyi kye musaba. Muyinza okunywa ku kikompe nze kye ŋŋenda okunywako? Ne bamugamba nti Tuyinza. 
+23 N'abagamba nti Ku kikompe kyange mulinywerako ddala: naye okutuula ku mukono gwange ogwa ddyo, ne ku mukono ogwa kkono, si nze nkugaba, wabula eri abo Kitange be yakuterekera. 
+24 Na bali ekkumi bwe baawulira, ne banyiigira ab'oluganda ababiri. 
+25 Naye Yesu n'abayita gy'ali, n'agamba nti Mumanyi ng'abaami b'amawanga babafuga, n'abakulu baabwe babatwala n'amaanyi. 
+26 Tekiibenga bwe kityo mu mmwe: naye buli ayagala okuba omukulu mu mmwe anaabanga muweereza wammwe: 
+27 na buli ayagala okuba ow'olubereberye mu mmwe anaabanga muddu wammwe: 
+28 nga Omwana w'omuntu bw'atajja kuweerezebwa, wabula okuweereza, n'okuwaayo obulamu bwe ekinunulo eky'abangi. 
+29 Bwe baali nga bafuluma mu Yeriko, ekibiina ekinene ne kimugoberera. 
+30 Laba, abazibe b'amaaso babiri abaali batudde ku mabbali g'ekkubo, bwe baawulira nti Yesu ayitawo, ne boogerera waggulu; nga bagamba nti Mukama waffe, tusaasire, omwana wa Dawudi. 
+31 Ekibiina ne kibaboggolera, okusirika: naye bo ne beeyongera okwogerera waggulu, nga bagamba nti Mukama waffe, tusaasire, omwana wa Dawudi. 
+32 Yesu n'ayimirira, n'abayita, n'agamba nti Mwagala mbakole ki? 
+33 Ne bamugamba nti Mukama waffe, amaaso gaffe gazibuke. 
+34 Yesu n'akwatibwa ekisa, n'akoma ku maaso gaabwe: amangu ago ne balaba, ne bamugoberera.          
 
 

@@ -1,20 +1,31 @@
- 1 Mukama n'agamba Musa nti 2 Lagira abaana ba Isiraeri obagambe nti Bwe muliyingira mu nsi ya Kanani, (eyo ye nsi eribagwira okuba obusika, ensi ya Kanani ng'ensalo zaayo bwe ziri,) 3 kale oluuyi lwammwe olw'obukiika obwa ddyo luliva ku ddungu Zini ne luyita ku mabbali ga Edomu, n'ensalo yammwe ey'obukiika obwa ddyo eriva ku nkomerero y'Ennyanja Ey'omunnyo ebuvanjuba: 4 n'ensalo yammwe erikyukira ku luuyi olw'obukiika obwa ddyo olw'ekkubo eririnnya ku Akulabbimu, n'eyita n'etuuka Ezini: n'enkomerero yaayo eriba ku luuyi olw'obukiika olwa ddyo olw'e Kadesubanea; era erifuluma okutuuka e Kazaladali, n'eyita n'etuuka e Yazimoni: 5 era ensalo erikyukira okuva e Yazimoni okutuuka ku mugga ogw'e Misiri, n'enkomerero yaayo eriba ku nnyanja.
- 6 N'okuba ensalo ey'ebugwanjuba, muliba n'ennyanja ennene n'ensalo yaayo: eyo y'eriba ensalo yammwe ey'ebugwanjuba.
- 7 N'eno y'eriba ensalo yammwe ey'obukiika obwa kkono: okuva ku nnyanja ennene mulyerambira olusozi Koola: 8 okuva ku lusozi Koola muliramba okutuuka w'oyingirira e Kamasi; n'enkomerero y'ensalo eriba ku Zedada: 9 era ensalo erifuluma okutuuka e Zifuloni, n'enkomerero yaayo eriba ku Kazalenaani: eyo y'eriba ensalo yammwe ey'obukiika obwa kkono.
- 10 Era muliramba ensalo yammwe ey'ebuvanjuba okuva e Kazalenaani okutuuka e Sefamu: 11 era ensalo eriva e Sefamu n'ekka e Libula ku luuyi olw'ebuvanjuba olw'e Yaini; era ensalo erikka, n'etuuka ku lubalama lw'ennyanja ey'e Kianeresi ebuvanjuba: 12 era ensalo erikka n'etuuka ku Yoludaani, n'enkomerero yaayo eriba ku Nnyanja Ey'omunnyo: eyo y'eriba ensi yammwe ng'ensalo zaayo bwe ziriba enjuyi zonna.
- 13 Musa n'alagira abaana ba Isiraeri ng'ayogera nti Eyo ye nsi gye mulisikira n'obululu, Mukama gy'alagidde okuwa ebika omwenda n'ekika eky'ekitundu: 14 kubanga ekika ky'abaana ba Lewubeeni ng'ennyumba za bakitaabwe bwe ziri, n'ekika ky'abaana ba Gaadi ng'ennyumba za bakitaabwe bwe ziri, baamala okuweebwa obusika bwabwe n'ekika eky'ekitundu ekya Manase baamala okubuweebwa: 15 ebika ebibiri n'ekika eky'ekitundu baamala okuweebwa obusika bwabwe emitala wa Yoludaani e Yeriko ebuvanjuba enjuba gy'eva.
- 16 Mukama n'agamba Musa nti 17 Gano ge mannya g'abasajja abalibagabira ensi okuba obusika: Eriyazaali kabona ne Yoswa mutabani wa Nuni.
- 18 Era mulitwala omukulu omu ku buli kika, okugaba ensi okuba obusika.
- 19 Era gano ge manaya g'abasajja: ku kika kya Yuda Kalebu mutabani wa Yefune.
- 20 Ne ku kika ky'abaaaa ba Simyoni Semweri mutabani wa Ammikudi.
- 21 Ku kika kya Benyamini, Eridaadi mutabani wa Kisuloni.
- 22 Ne ku kika ky'abaana ba Ddaani, omukulu omu Buki mutabani wa Yoguli.
- 23 Ku baana ba Yusufu: ku kika ky'abaana ba Manase, omukulu omu Kanieri mutabani wa Efodi; 24 ne ku kika ky'abaana ba Efulayimu omukulu omu Kamueri mutabani wa Sifutani.
- 25 Ne ku kika ky'abaana ba Zebbulooni, omukulu omu Erizafani mutabani wa Palunaki.
- 26 Ne ku kika ky'abaana ba Isakaali, omukulu omu Palutieri mutabani wa Azani.
- 27 Ne ku kika ky'abaana ba Aseri, omukulu omu Akikuda mutabaai wa Seromi.
- 28 Ne ku kika ky'abaana ba Nafutaali, omukulu omu Pedakeri mutabani wa Ammikudi.
- 29 Abo be baabo Mukama be yalagira okugabira abaana ba Isiraeri obusika mu nsi ya Kanaani.
-          
+ 1 Mukama n'agamba Musa nti 
+2 Lagira abaana ba Isiraeri obagambe nti Bwe muliyingira mu nsi ya Kanani, (eyo ye nsi eribagwira okuba obusika, ensi ya Kanani ng'ensalo zaayo bwe ziri,) 
+3 kale oluuyi lwammwe olw'obukiika obwa ddyo luliva ku ddungu Zini ne luyita ku mabbali ga Edomu, n'ensalo yammwe ey'obukiika obwa ddyo eriva ku nkomerero y'Ennyanja Ey'omunnyo ebuvanjuba: 
+4 n'ensalo yammwe erikyukira ku luuyi olw'obukiika obwa ddyo olw'ekkubo eririnnya ku Akulabbimu, n'eyita n'etuuka Ezini: n'enkomerero yaayo eriba ku luuyi olw'obukiika olwa ddyo olw'e Kadesubanea; era erifuluma okutuuka e Kazaladali, n'eyita n'etuuka e Yazimoni: 
+5 era ensalo erikyukira okuva e Yazimoni okutuuka ku mugga ogw'e Misiri, n'enkomerero yaayo eriba ku nnyanja. 
+6 N'okuba ensalo ey'ebugwanjuba, muliba n'ennyanja ennene n'ensalo yaayo: eyo y'eriba ensalo yammwe ey'ebugwanjuba. 
+7 N'eno y'eriba ensalo yammwe ey'obukiika obwa kkono: okuva ku nnyanja ennene mulyerambira olusozi Koola: 
+8 okuva ku lusozi Koola muliramba okutuuka w'oyingirira e Kamasi; n'enkomerero y'ensalo eriba ku Zedada: 
+9 era ensalo erifuluma okutuuka e Zifuloni, n'enkomerero yaayo eriba ku Kazalenaani: eyo y'eriba ensalo yammwe ey'obukiika obwa kkono. 
+10 Era muliramba ensalo yammwe ey'ebuvanjuba okuva e Kazalenaani okutuuka e Sefamu: 
+11 era ensalo eriva e Sefamu n'ekka e Libula ku luuyi olw'ebuvanjuba olw'e Yaini; era ensalo erikka, n'etuuka ku lubalama lw'ennyanja ey'e Kianeresi ebuvanjuba: 
+12 era ensalo erikka n'etuuka ku Yoludaani, n'enkomerero yaayo eriba ku Nnyanja Ey'omunnyo: eyo y'eriba ensi yammwe ng'ensalo zaayo bwe ziriba enjuyi zonna. 
+13 Musa n'alagira abaana ba Isiraeri ng'ayogera nti Eyo ye nsi gye mulisikira n'obululu, Mukama gy'alagidde okuwa ebika omwenda n'ekika eky'ekitundu: 
+14 kubanga ekika ky'abaana ba Lewubeeni ng'ennyumba za bakitaabwe bwe ziri, n'ekika ky'abaana ba Gaadi ng'ennyumba za bakitaabwe bwe ziri, baamala okuweebwa obusika bwabwe n'ekika eky'ekitundu ekya Manase baamala okubuweebwa: 
+15 ebika ebibiri n'ekika eky'ekitundu baamala okuweebwa obusika bwabwe emitala wa Yoludaani e Yeriko ebuvanjuba enjuba gy'eva. 
+16 Mukama n'agamba Musa nti 
+17 Gano ge mannya g'abasajja abalibagabira ensi okuba obusika: Eriyazaali kabona ne Yoswa mutabani wa Nuni. 
+18 Era mulitwala omukulu omu ku buli kika, okugaba ensi okuba obusika. 
+19 Era gano ge manaya g'abasajja: ku kika kya Yuda Kalebu mutabani wa Yefune. 
+20 Ne ku kika ky'abaaaa ba Simyoni Semweri mutabani wa Ammikudi. 
+21 Ku kika kya Benyamini, Eridaadi mutabani wa Kisuloni. 
+22 Ne ku kika ky'abaana ba Ddaani, omukulu omu Buki mutabani wa Yoguli. 
+23 Ku baana ba Yusufu: ku kika ky'abaana ba Manase, omukulu omu Kanieri mutabani wa Efodi; 
+24 ne ku kika ky'abaana ba Efulayimu omukulu omu Kamueri mutabani wa Sifutani. 
+25 Ne ku kika ky'abaana ba Zebbulooni, omukulu omu Erizafani mutabani wa Palunaki. 
+26 Ne ku kika ky'abaana ba Isakaali, omukulu omu Palutieri mutabani wa Azani. 
+27 Ne ku kika ky'abaana ba Aseri, omukulu omu Akikuda mutabaai wa Seromi. 
+28 Ne ku kika ky'abaana ba Nafutaali, omukulu omu Pedakeri mutabani wa Ammikudi. 
+29 Abo be baabo Mukama be yalagira okugabira abaana ba Isiraeri obusika mu nsi ya Kanaani.          
 
 

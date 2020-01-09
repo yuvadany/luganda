@@ -1,33 +1,40 @@
- 1 Awo n'ayimusa amaaso, n'alaba abagagga abaali basuula ebirabo byabwe mu ggwanika.
- 2 N'alaba nnamwandu omu omwavu ng'asuula omwo ebitundu by'eppeesa bibiri.
- 3 N'agamba nti Mazima mbagamba nti Nnamwandu ono omwavu asuddemu bingi okusinga bonna: 4 kubanga abo bonna basuddemu ku bibafikkiridde mu birabo: naye oyo mu kwetaaga kwe asuddemu byonna by'ali nabyo, bwe bulamu bwe bwonna.
- 5 Era abamu bwe baali boogera ku yeekaalu, bwe yayonjebwa n'amayinja amalungi n'ebiweebwayo, n'agamba nti 6 Bino bye mulaba, ennaku zigenda kujja, lwe watalirekebwa jjinja eriri ku jjinja wano eritalisuulibwa.
- 7 Ne bamubuuza nga bagamba nti Omuyigiriza, kale ebyo biribaawo ddi? Kabonero ki akalibaawo ebyo bwe biriba nga bigenda okubaawo? 8 N'agamba nti Mutunule muleme okukyamizibwa; kubanga bangi abalijja n'erinnya lyange, nga boogera nti Nze nzuuno; era nti Obudde bunaatera okutuuka: temubagobereranga.
- 9 Era bwe muwuliranga entalo n'ebikankano, temwekanga: kubanga ebyo kibigwanira okusooka okujja; naye enkomerero terituuka mangu ago.
- 10 N'alyoka abagamba nti Eggwanga lirirumba eggwanga, n'obwakabaka bulirumba obwakabaka; 11 walibaawo n'ebikankano ebinene, ne mu bifo ebirala enjala ne kawumpuli; walibaawo n'ebitiisa n'obubonero obunene obuva mu ggulu.
- 12 Naye ebyo byonna nga tebinnabaawo, balibassaako emikono, balibayigganya, nga babawaayo mu makuŋŋaaniro ne mu makomera nga babatwala eri bakabaka n'abaamasaza olw'erinnya lyange.
- 13 Kiriba mujulirwa gye muli.
- 14 Kale mukiteeke mu mitima gyammwe, obutasookanga kulowooza bye muliddamu: 15 kubanga nze ndibawa akamwa n'amagezi, abalabe bammwe bonna bye bataliyinza kuwakana nabyo newakubadde okubigaana.
- 16 Naye muliweebwayo abazadde bammwe, n'ab'oluganda, n'ab'ekika, n'ab'omukwano; n'abamu ku mmwe balibassa.
- 17 Nammwe mulikyayibwa bonna olw'erinnya lyange.
- 18 N'oluviiri olw'oku mitwe gyammwe terulibula n'akatono.
- 19 Mu kugumiikiriza kwammwe mulifuna obulamu bwammwe.
- 20 Naye bwe muliraba Yerusaalemi nga kyetooloddwa eggye, ne mulyoka mutegeera nti okuzikirira kwakyo kunaatera okutuuka.
- 21 Mu biro ebyo ababanga mu Buyudaaya baddukiranga ku nsozi; n'ababanga wakati mu kyo bakifulumangamu; n'ababanga mu byalo tebakiyingirangamu.
- 22 Kubanga ezo ze nnaku ez'okuwalana eggwanga, ebyawandiikibwa byonna biryoke bituukirire.
- 23 Ziribasanga abaliba n'embuto n'abayonsa mu nnaku ezo!
- kubanga waliba okulaba ennaku ennyingi ku nsi n'obusungu eri abantu abo.
- 24 Balittibwa n'obwogi bw'ekitala, balinyagibwa okutwalibwa mu mawanga gonna; ne Yerusaalemi kiririnnyirirwa ab'amawanga okutuusa ebiro by'ab'amawanga lwe birituukirira.
- 25 Era walibaawo n'obubonero ku njuba ne ku mwezi ne ku mmunyeenye; ne ku nsi amawanga galinakuwala, nga basamaalirira olw'okuwuuma kw'ennyanja n'amayengo; 26 abantu nga bazirika olw'entiisa n'olw'okutunuulira ebyo ebijja ku nsi: kubanga amaanyi ag'omu ggulu galikankanyizibwa.
- 27 Ne balyoka balaba Omwana w'omuntu ng'ajjira mu kire n'amaanyi n'ekitiibwa kinene.
- 28 Naye ebigambo ebyo bwe bitanulanga okubaawo mutunulanga waggulu, muyimusanga emitwe gyammwe: kubanga okununulibwa kwammwe kunaatera okutuuka.
- 29 N'abagamba olugero; nti Mulabe omutiini n'emiti gyonna; 30 kale bwe gitojjera, mulaba ne mutegeera mwekka, nti kaakano okukungula kuli kumpi.
- 31 Era nammwe bwe mutyo, bwe mulabanga ebyo nga bibaawo mumanyanga, nti obwakabaka bwa Katonda buli kumpi: 32 Mazima mbagamba nti Emirembe gino tegiriggwaawo n'akatono okutuusa ebyo byonna lwe biribaawo.
- 33 Eggulu n'ensi biriggwaawo; naye ebigambo byange tebiriggwaawo n'akatono.
- 34 Naye mwekuumenga emitima gyammwe gireme okuzitoowererwanga olw'obuluvu n'okutamiiranga n'okweraliikiriranga eby'obulamu buno, era olunaku luli luleme okubatuukako ng'ekyambika; 35 kubanga bwe lutyo bwe lulituuka ku bonna abali ku nsi yonna.
- 36 Naye mutunulenga mu biro byonna musabenga musobole okudduka ebyo byonna ebigenda okubaawo n'okuyimirira mu maaso g'Omwana w'omuntu.
- 37 Awo buli lunaku yayigirizanga mu yeekaalu; bwe bwazibanga n'afuluma n'asula ku lusozi oluyitibwa olwa Zeyituuni.
- 38 Abantu bonna ne bakeeranga enkya okugenda gy'ali mu yeekaalu okumuwulira.
-          
+ 1 Awo n'ayimusa amaaso, n'alaba abagagga abaali basuula ebirabo byabwe mu ggwanika. 
+2 N'alaba nnamwandu omu omwavu ng'asuula omwo ebitundu by'eppeesa bibiri. 
+3 N'agamba nti Mazima mbagamba nti Nnamwandu ono omwavu asuddemu bingi okusinga bonna: 
+4 kubanga abo bonna basuddemu ku bibafikkiridde mu birabo: naye oyo mu kwetaaga kwe asuddemu byonna by'ali nabyo, bwe bulamu bwe bwonna. 
+5 Era abamu bwe baali boogera ku yeekaalu, bwe yayonjebwa n'amayinja amalungi n'ebiweebwayo, n'agamba nti 
+6 Bino bye mulaba, ennaku zigenda kujja, lwe watalirekebwa jjinja eriri ku jjinja wano eritalisuulibwa. 
+7 Ne bamubuuza nga bagamba nti Omuyigiriza, kale ebyo biribaawo ddi? Kabonero ki akalibaawo ebyo bwe biriba nga bigenda okubaawo? 
+8 N'agamba nti Mutunule muleme okukyamizibwa; kubanga bangi abalijja n'erinnya lyange, nga boogera nti Nze nzuuno; era nti Obudde bunaatera okutuuka: temubagobereranga. 
+9 Era bwe muwuliranga entalo n'ebikankano, temwekanga: kubanga ebyo kibigwanira okusooka okujja; naye enkomerero terituuka mangu ago. 
+10 N'alyoka abagamba nti Eggwanga lirirumba eggwanga, n'obwakabaka bulirumba obwakabaka; 
+11 walibaawo n'ebikankano ebinene, ne mu bifo ebirala enjala ne kawumpuli; walibaawo n'ebitiisa n'obubonero obunene obuva mu ggulu. 
+12 Naye ebyo byonna nga tebinnabaawo, balibassaako emikono, balibayigganya, nga babawaayo mu makuŋŋaaniro ne mu makomera nga babatwala eri bakabaka n'abaamasaza olw'erinnya lyange. 
+13 Kiriba mujulirwa gye muli. 
+14 Kale mukiteeke mu mitima gyammwe, obutasookanga kulowooza bye muliddamu: 
+15 kubanga nze ndibawa akamwa n'amagezi, abalabe bammwe bonna bye bataliyinza kuwakana nabyo newakubadde okubigaana. 
+16 Naye muliweebwayo abazadde bammwe, n'ab'oluganda, n'ab'ekika, n'ab'omukwano; n'abamu ku mmwe balibassa. 
+17 Nammwe mulikyayibwa bonna olw'erinnya lyange. 
+18 N'oluviiri olw'oku mitwe gyammwe terulibula n'akatono. 
+19 Mu kugumiikiriza kwammwe mulifuna obulamu bwammwe. 
+20 Naye bwe muliraba Yerusaalemi nga kyetooloddwa eggye, ne mulyoka mutegeera nti okuzikirira kwakyo kunaatera okutuuka. 
+21 Mu biro ebyo ababanga mu Buyudaaya baddukiranga ku nsozi; n'ababanga wakati mu kyo bakifulumangamu; n'ababanga mu byalo tebakiyingirangamu. 
+22 Kubanga ezo ze nnaku ez'okuwalana eggwanga, ebyawandiikibwa byonna biryoke bituukirire. 
+23 Ziribasanga abaliba n'embuto n'abayonsa mu nnaku ezo! kubanga waliba okulaba ennaku ennyingi ku nsi n'obusungu eri abantu abo. 
+24 Balittibwa n'obwogi bw'ekitala, balinyagibwa okutwalibwa mu mawanga gonna; ne Yerusaalemi kiririnnyirirwa ab'amawanga okutuusa ebiro by'ab'amawanga lwe birituukirira. 
+25 Era walibaawo n'obubonero ku njuba ne ku mwezi ne ku mmunyeenye; ne ku nsi amawanga galinakuwala, nga basamaalirira olw'okuwuuma kw'ennyanja n'amayengo; 
+26 abantu nga bazirika olw'entiisa n'olw'okutunuulira ebyo ebijja ku nsi: kubanga amaanyi ag'omu ggulu galikankanyizibwa. 
+27 Ne balyoka balaba Omwana w'omuntu ng'ajjira mu kire n'amaanyi n'ekitiibwa kinene. 
+28 Naye ebigambo ebyo bwe bitanulanga okubaawo mutunulanga waggulu, muyimusanga emitwe gyammwe: kubanga okununulibwa kwammwe kunaatera okutuuka. 
+29 N'abagamba olugero; nti Mulabe omutiini n'emiti gyonna; 
+30 kale bwe gitojjera, mulaba ne mutegeera mwekka, nti kaakano okukungula kuli kumpi. 
+31 Era nammwe bwe mutyo, bwe mulabanga ebyo nga bibaawo mumanyanga, nti obwakabaka bwa Katonda buli kumpi: 
+32 Mazima mbagamba nti Emirembe gino tegiriggwaawo n'akatono okutuusa ebyo byonna lwe biribaawo. 
+33 Eggulu n'ensi biriggwaawo; naye ebigambo byange tebiriggwaawo n'akatono. 
+34 Naye mwekuumenga emitima gyammwe gireme okuzitoowererwanga olw'obuluvu n'okutamiiranga n'okweraliikiriranga eby'obulamu buno, era olunaku luli luleme okubatuukako ng'ekyambika; 
+35 kubanga bwe lutyo bwe lulituuka ku bonna abali ku nsi yonna. 
+36 Naye mutunulenga mu biro byonna musabenga musobole okudduka ebyo byonna ebigenda okubaawo n'okuyimirira mu maaso g'Omwana w'omuntu. 
+37 Awo buli lunaku yayigirizanga mu yeekaalu; bwe bwazibanga n'afuluma n'asula ku lusozi oluyitibwa olwa Zeyituuni. 
+38 Abantu bonna ne bakeeranga enkya okugenda gy'ali mu yeekaalu okumuwulira.          
 
 

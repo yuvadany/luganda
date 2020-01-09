@@ -1,24 +1,28 @@
- 1 Katonda n'ayogera ebigambo bino byonna, ng'ayogera nti 2 Nze Mukama Katonda wo, eyakuggya mu nsi ey'e Misiri, mu nnyumba ey'obuddu.
- 3 Tobanga na bakatonda balala we ndi.
- 4 Teweekoleranga ekifaananyi ekyole, newakubadde ekifaananyi eky'ekintu kyonna kyonna, ekiri waggulu mu ggulu, newakubadde ekiri wansi ku ttaka, newakubadde ekiri mu mazzi agali wansi w'ettaka: 5 tobivuunamiranga ebyo, so tobiweerezanga: kubanga nze Mukama Katonda wo ndi Katonda wa buggya, abiwalana ku baana ebibi bya bajjajja baabwe okutuusa ku mirembe egy'oku bannakasatwe ne ku bannakana, egy'abantu abankyawa; 6 era addiramu abantu nga nkumi na nkumi abanjagala, abakwata amateeka gange.
- 7 Tolayiriranga bwereere erinnya lya Mukama Katonda wo: kubanga mu maaso ga Mukama omusango gulimusinga omuntu alayirira obwereere erinnya lye.
- 8 Jjukira olunaku olwa ssabbiiti, okulutukuzanga.
- 9 Ennaku omukaaga okolanga emirimu gyo gyonna: 10 naye olunaku olw'omusanvu ye ssabbiiti eri Mukama Katonda wo: olunaku olwo tolukolerangamu mirimu gyonna gyonna; so naawe wekka, newakubadde omwana wo omulenzi, newakubadde muwala wo, newakubadde omuddu wo, newakubadde omuzaana wo, newakubadde ebisolo byo, newakubadde munnaggwanga ali omumwo: 11 kubanga mu nnaku omukaaga Mukama mwe yakolera eggulu n'ensi, ennyanja, n'ebintu byonna ebirimu, n'awummulira ku lunaku olw'omusanvu: Mukama kyeyava aluwa omukisa olunaku olwa ssabbiiti, n'alutukuza.
- 12 Kitaawo ne nnyoko obassangamu ekitiibwa: ennaku zo zibe nnyingi ku nsi gy'akuwadde Mukama Katonda wo.
- 13 Tottanga.
- 14 Toyendanga.
- 15 Tobbanga.
- 16 Towaayirizanga muntu munno.
- 17 Teweegombanga ennyumba ya muntu munno, teweegombanga mukazi wa muntu munno, newakubadde omuddu we, newakubadde omuzaana we, newakubadde ente ye, newakubadde endogoyi ye, newakubadde buli kintu ekya muntu munno.
- 18 Abantu bonna ne balaba okubwatuka, n'enjota, n'eddoboozi ly'eŋŋombe, n'olusozi nga lunyooka omukka: abantu bwe baalaba ne bakankana, ne bayimirira wala.
- 19 Ne bagamba Musa nti Ggwe yogera naffe, lwe tunaawulira: naye Katonda aleme okwogera naffe, tuleme okufa.
- 20 Musa n'agamba abantu nti Temutya: kubanga Katonda azze okubakema, era entiisa ye ebeere mu maaso gammwe, muleme okwonoona.
- 21 Abantu ne bayimirira wala, Musa n'asemberera ekizikiza ekikutte Katonda gy'ali.
- 22 Mukama n'agamba Musa nti Bw'otyo bw'ogamba abaana ba Isiraeri nti Mmwe mulabye nga nnyimye mu ggulu okwogera nammwe.
- 23 Temukolanga bakatonda balala we ndi, bakatonda b'effeeza, newakubadde bakatonda b'ezzaabu, temubeekoleranga.
- 24 Ekyoto eky'ettaka onkolere, osseeko ebyo by'owaayo ebyokebwa n'ebyo by'owaayo olw'emirembe, endiga zo n'ente zo: buli wantu we njijukirizanga erinnya lyange ndijja gy'oli nange ndikuwa omukisa.
- 25 Era bw'olinkolera ekyoto eky'amayinja, tokizimbyanga mayinja agatemebwa: kubanga bw'olikiyimusaako ekyuma kyo, ng'okireetedde obugwagwa.
- 26 So tolinnyanga ku kyoto kyange ku madaala, oleme okukunamirako.
-          
+ 1 Katonda n'ayogera ebigambo bino byonna, ng'ayogera nti 
+2 Nze Mukama Katonda wo, eyakuggya mu nsi ey'e Misiri, mu nnyumba ey'obuddu. 
+3 Tobanga na bakatonda balala we ndi. 
+4 Teweekoleranga ekifaananyi ekyole, newakubadde ekifaananyi eky'ekintu kyonna kyonna, ekiri waggulu mu ggulu, newakubadde ekiri wansi ku ttaka, newakubadde ekiri mu mazzi agali wansi w'ettaka: 
+5 tobivuunamiranga ebyo, so tobiweerezanga: kubanga nze Mukama Katonda wo ndi Katonda wa buggya, abiwalana ku baana ebibi bya bajjajja baabwe okutuusa ku mirembe egy'oku bannakasatwe ne ku bannakana, egy'abantu abankyawa; 
+6 era addiramu abantu nga nkumi na nkumi abanjagala, abakwata amateeka gange. 
+7 Tolayiriranga bwereere erinnya lya Mukama Katonda wo: kubanga mu maaso ga Mukama omusango gulimusinga omuntu alayirira obwereere erinnya lye. 
+8 Jjukira olunaku olwa ssabbiiti, okulutukuzanga. 
+9 Ennaku omukaaga okolanga emirimu gyo gyonna: 
+10 naye olunaku olw'omusanvu ye ssabbiiti eri Mukama Katonda wo: olunaku olwo tolukolerangamu mirimu gyonna gyonna; so naawe wekka, newakubadde omwana wo omulenzi, newakubadde muwala wo, newakubadde omuddu wo, newakubadde omuzaana wo, newakubadde ebisolo byo, newakubadde munnaggwanga ali omumwo: 
+11 kubanga mu nnaku omukaaga Mukama mwe yakolera eggulu n'ensi, ennyanja, n'ebintu byonna ebirimu, n'awummulira ku lunaku olw'omusanvu: Mukama kyeyava aluwa omukisa olunaku olwa ssabbiiti, n'alutukuza. 
+12 Kitaawo ne nnyoko obassangamu ekitiibwa: ennaku zo zibe nnyingi ku nsi gy'akuwadde Mukama Katonda wo. 
+13 Tottanga. 
+14 Toyendanga. 
+15 Tobbanga. 
+16 Towaayirizanga muntu munno. 
+17 Teweegombanga ennyumba ya muntu munno, teweegombanga mukazi wa muntu munno, newakubadde omuddu we, newakubadde omuzaana we, newakubadde ente ye, newakubadde endogoyi ye, newakubadde buli kintu ekya muntu munno. 
+18 Abantu bonna ne balaba okubwatuka, n'enjota, n'eddoboozi ly'eŋŋombe, n'olusozi nga lunyooka omukka: abantu bwe baalaba ne bakankana, ne bayimirira wala. 
+19 Ne bagamba Musa nti Ggwe yogera naffe, lwe tunaawulira: naye Katonda aleme okwogera naffe, tuleme okufa. 
+20 Musa n'agamba abantu nti Temutya: kubanga Katonda azze okubakema, era entiisa ye ebeere mu maaso gammwe, muleme okwonoona. 
+21 Abantu ne bayimirira wala, Musa n'asemberera ekizikiza ekikutte Katonda gy'ali. 
+22 Mukama n'agamba Musa nti Bw'otyo bw'ogamba abaana ba Isiraeri nti Mmwe mulabye nga nnyimye mu ggulu okwogera nammwe. 
+23 Temukolanga bakatonda balala we ndi, bakatonda b'effeeza, newakubadde bakatonda b'ezzaabu, temubeekoleranga. 
+24 Ekyoto eky'ettaka onkolere, osseeko ebyo by'owaayo ebyokebwa n'ebyo by'owaayo olw'emirembe, endiga zo n'ente zo: buli wantu we njijukirizanga erinnya lyange ndijja gy'oli nange ndikuwa omukisa. 
+25 Era bw'olinkolera ekyoto eky'amayinja, tokizimbyanga mayinja agatemebwa: kubanga bw'olikiyimusaako ekyuma kyo, ng'okireetedde obugwagwa. 
+26 So tolinnyanga ku kyoto kyange ku madaala, oleme okukunamirako.          
 
 

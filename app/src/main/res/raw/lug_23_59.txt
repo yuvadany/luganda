@@ -1,22 +1,23 @@
- 1 Laba, omukono gwa Mukama teguyimpawadde n'okuyinza ne gutayinza kulokola; so n'okutu kwe tekumuggadde n'okuyinza ne kutayinza kuwulira: 2 naye obutali butuukirivu bwammwe bwe bwawudde mmwe ne Katonda wammwe, n'ebibi byammwe bye bimukwesezza amaaso, n’atayagala kuwulira.
- 3 Kubanga emikono gyammwe gyonoonese n'omusaayi, engalo zammwe n'obutali butuukirivu; emimwa gyammwe gyogedde eby'obulimba, olulimi lwammwe luvulungutana eby'ekyejo.
- 4 Tewali awaaba eby'ensonga so tewali awoza eby'amazima: beesiga obutaliimu ne boogera eby'obulimba; baba mbuto za bubi ne bazaala obutali butuukirivu.
- 5 Baalula amagi ag'essalambwa ne baluka engoye eza nnabbubi: alya ku magi gaabwe afa n'ekyo ekibetentebwa ne kiwamatukamu embalasaasa.
- 6 Engoye zaabwe tezirifuuka byambalo, so tebalyebikka mirimu gyabwe: emirimu gyabwe mirimu gya butali butuukirivu, n'ekikolwa eky'ekyejo kiri mu ngalo zaabwe.
- 7 Ebigere byabwe bidduka mbiro okugoberera obubi, era banguya okuyiwa omusaayi ogutaliiko musango: ebirowoozo byabwe birowoozo bya butali butuukirivu; okuzika n'okuzikirizibwa kuba mu makubo gaabwe.
- 8 Ekkubo ery'emirembe tebalimanyi; so mu magenda gaabwe temuli musango: beekubidde amakubo amakyamu; buli atambulira omwo tamanyi mirembe.
- 9 Omusango kyeguva gutubeera ewala, so n'obutuukirivu tebututuukako: tusuubira omusana, naye ne tulaba kizikiza; tusuubira okumasamasa naye ne tutambulira mu kifu.
- 10 Tuwammanta ekisenge ng'abazibe b'amaaso, weewaawo, tuwammanta ng'abo abatalina maaso twesitala mu ttuntu ng'ekiro; mu abo abalina amaanyi tuliŋŋanga abafu.
- 11 Fenna tuwuluguma ng'eddubu, ne tuwuubaala nnyo nga bukaamukuukulu: tusuubira omusango naye nga tewali; tusuubira obulokozi, naye butuli wala.
- 12 Kubanga okusobya kwaffe kweyongedde mu maaso go, n'ebibi byaffe be bajulirwa gye tuli: kubanga okusobya kwaffe kuli naffe, n’obutali butuukirivu bwaffe nabwo tubumanyi: 13 nga tusobya era nga twegaana Mukama, era nga tukyuka obutagoberera Katonda waffe, nga twogera eby'okujooga n’eby'okujeema, nga tugunja ebigambo eby'obulimba era nga tubyogera okuva mu mutima.
- 14 N'omusango gukyusibwa okudda ennyuma, n'obutuukirivu buyimirira wala: kubanga amazima gagwiridde mu luguudo, so n'obugolokofu tebuyinza kuyingira.
- 15 Weewaawo, amazima gabuze; n'oyo ava mu bubi yeefuula munyago: Mukama n'akiraba n'anyiiga obutabaawo musango.
- 16 N'alaba nga tewali muntu, ne yeewuunya obutabaawo muwolereza: omukono gwe ye kyegwava gumuleetera obulokozi; n'obutuukirivu bwe bwe bwamuwanirira.
- 17 N'ayambala obutuukirivu ng'eky'omu kifuba, n'enkuufiira ey'obulokozi ku mutwe gwe; n'ayambala engoye ez'okuwalana eggwanga okuba ebyambalo, n'ayambazibwa obunyiikivu ng'omunagiro.
- 18 Ng'ebikolwa byabwe bwe biriba, bw'atyo bw'alisasula, abamukyawa alibasasula ekiruyi, abamukyawa alibasasula empeera; alisasula ebizinga empeera.
- 19 Kale balitya erinnya lya Mukama okuva ebugwanjuba, n’ekitiibwa kye okuva ebuvanjuba: kubanga alijja ng'omugga ogukulukuta n'amaanyi, ogutwalibwa n'omukka gwa Mukama.
- 20 Era omununuzi alijja e Sayuuni n'eri abo abakyuka okuva mu kusobya mu Yakobo, bw'ayogera Mukama.
- 21 Nange eno y'endagaano yange gye ndagaana nabo, bw'ayogera Mukama: omwoyo gwange oguli ku ggwe n'ebigambo byange bye ntadde mu kamwa ko tebiivenga mu kamwa ko newakubadde mu kamwa k'ezzadde lyo newakubadde mu kamwa k'ezzadde ly'ezzadde lyo, bw'ayogera Mukama, okusooka kaakano n'emirembe n'emirembe.
-          
+ 1 Laba, omukono gwa Mukama teguyimpawadde n'okuyinza ne gutayinza kulokola; so n'okutu kwe tekumuggadde n'okuyinza ne kutayinza kuwulira: 
+2 naye obutali butuukirivu bwammwe bwe bwawudde mmwe ne Katonda wammwe, n'ebibi byammwe bye bimukwesezza amaaso, n’atayagala kuwulira. 
+3 Kubanga emikono gyammwe gyonoonese n'omusaayi, engalo zammwe n'obutali butuukirivu; emimwa gyammwe gyogedde eby'obulimba, olulimi lwammwe luvulungutana eby'ekyejo. 
+4 Tewali awaaba eby'ensonga so tewali awoza eby'amazima: beesiga obutaliimu ne boogera eby'obulimba; baba mbuto za bubi ne bazaala obutali butuukirivu. 
+5 Baalula amagi ag'essalambwa ne baluka engoye eza nnabbubi: alya ku magi gaabwe afa n'ekyo ekibetentebwa ne kiwamatukamu embalasaasa. 
+6 Engoye zaabwe tezirifuuka byambalo, so tebalyebikka mirimu gyabwe: emirimu gyabwe mirimu gya butali butuukirivu, n'ekikolwa eky'ekyejo kiri mu ngalo zaabwe. 
+7 Ebigere byabwe bidduka mbiro okugoberera obubi, era banguya okuyiwa omusaayi ogutaliiko musango: ebirowoozo byabwe birowoozo bya butali butuukirivu; okuzika n'okuzikirizibwa kuba mu makubo gaabwe. 
+8 Ekkubo ery'emirembe tebalimanyi; so mu magenda gaabwe temuli musango: beekubidde amakubo amakyamu; buli atambulira omwo tamanyi mirembe. 
+9 Omusango kyeguva gutubeera ewala, so n'obutuukirivu tebututuukako: tusuubira omusana, naye ne tulaba kizikiza; tusuubira okumasamasa naye ne tutambulira mu kifu. 
+10 Tuwammanta ekisenge ng'abazibe b'amaaso, weewaawo, tuwammanta ng'abo abatalina maaso twesitala mu ttuntu ng'ekiro; mu abo abalina amaanyi tuliŋŋanga abafu. 
+11 Fenna tuwuluguma ng'eddubu, ne tuwuubaala nnyo nga bukaamukuukulu: tusuubira omusango naye nga tewali; tusuubira obulokozi, naye butuli wala. 
+12 Kubanga okusobya kwaffe kweyongedde mu maaso go, n'ebibi byaffe be bajulirwa gye tuli: kubanga okusobya kwaffe kuli naffe, n’obutali butuukirivu bwaffe nabwo tubumanyi: 
+13 nga tusobya era nga twegaana Mukama, era nga tukyuka obutagoberera Katonda waffe, nga twogera eby'okujooga n’eby'okujeema, nga tugunja ebigambo eby'obulimba era nga tubyogera okuva mu mutima. 
+14 N'omusango gukyusibwa okudda ennyuma, n'obutuukirivu buyimirira wala: kubanga amazima gagwiridde mu luguudo, so n'obugolokofu tebuyinza kuyingira. 
+15 Weewaawo, amazima gabuze; n'oyo ava mu bubi yeefuula munyago: Mukama n'akiraba n'anyiiga obutabaawo musango. 
+16 N'alaba nga tewali muntu, ne yeewuunya obutabaawo muwolereza: omukono gwe ye kyegwava gumuleetera obulokozi; n'obutuukirivu bwe bwe bwamuwanirira. 
+17 N'ayambala obutuukirivu ng'eky'omu kifuba, n'enkuufiira ey'obulokozi ku mutwe gwe; n'ayambala engoye ez'okuwalana eggwanga okuba ebyambalo, n'ayambazibwa obunyiikivu ng'omunagiro. 
+18 Ng'ebikolwa byabwe bwe biriba, bw'atyo bw'alisasula, abamukyawa alibasasula ekiruyi, abamukyawa alibasasula empeera; alisasula ebizinga empeera. 
+19 Kale balitya erinnya lya Mukama okuva ebugwanjuba, n’ekitiibwa kye okuva ebuvanjuba: kubanga alijja ng'omugga ogukulukuta n'amaanyi, ogutwalibwa n'omukka gwa Mukama. 
+20 Era omununuzi alijja e Sayuuni n'eri abo abakyuka okuva mu kusobya mu Yakobo, bw'ayogera Mukama. 
+21 Nange eno y'endagaano yange gye ndagaana nabo, bw'ayogera Mukama: omwoyo gwange oguli ku ggwe n'ebigambo byange bye ntadde mu kamwa ko tebiivenga mu kamwa ko newakubadde mu kamwa k'ezzadde lyo newakubadde mu kamwa k'ezzadde ly'ezzadde lyo, bw'ayogera Mukama, okusooka kaakano n'emirembe n'emirembe.          
 
 

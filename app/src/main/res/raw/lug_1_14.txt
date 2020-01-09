@@ -1,21 +1,26 @@
- 1 Awo mu mirembe gya Amulaferi kabaka w'e Sinali, Aliyoki, kabaka w'e Erasali, Kedolawomeeri, kabaka w'e Eramu, n'egya Tidali, kabaka w'e Goyiyimu, 2 ne balwana ne Bbeera, kabaka w'e Sodoma, ne Bbiruusa, kabaka w'e Ggomola, Sinaabu, kabaka w'e Aduma, ne Semebeeri, kabaka w'e Zeboyiyimu, ne kabaka w'e Bera (ye Zowaali).
- 3 Abo bonna ne beegattira mu kiwonvu Sidimu (eyo ye nnyanja ey'omunnyo): 4 Ne baweerereza Kedolawomeeri emyaka kkumi n'ebiri, ne mu mwaka ogw'ekkumi n'esatu ne bajeema.
- 5 Ne mu mwaka ogw'ekkumi n'ena Kedolawomeeri n'ajja, ne bakabaka abaali awamu naye, ne bakubira Abaleefa mu Asuterosikalumayimu, n'Abazuuzi mu Kaamu, n'Abemi mu Savekiriyasayimu, 6 n'Abakooli ku lusozi lwabwe Seyiri, ne babagoba okutuusa Erupalaani ekiri okumpi n'eddungu.
- 7 Ne baddayo ne batuuka e Nuumisupaati (ye Kadesi), ne bakuba ensi yonna eya Abameleki, era n'eya Abamoli, abaatuula mu Kazazonutamali.
- 8 Ne watabaala kabaka w'e Sodoma, ne kabaka w'e Ggomola, ne kabaka w'e Aduma, ne kabaka w'e Zeboyiyimu, ne kabaka w'e Bera (ye Zowaali); ne bategeka olutalo okulwanira nabo mu kiwonvu Sidimu; 9 okulwana ne Kedolawomeeri, kabaka w'e Eramu, ne Tidali, kabaka w'e Goyiyimu, ne Amulafeeri, kabaka w'e Sinali, ne Aliyooki kabaka w'e Erasali: bakabaka abana nga balwana n'abataano.
- 10 Era ekiwonvu Sidimu kyali kijjudde obunnya obw'ebitosi; ne bakabaka w’e Sodoma ne Ggomola ne badduka, ne bagwa omwo, n'abo abaasigalawo ne baddukira ku lusozi.
- 11 Ne banyaga abintu byonna eby'omu Sodoma ne Ggomola, n'ebyokulya byabwe byonna, ne beegendera.
- 12 Ne banyaga Lutti, omwana wa muganda wa Ibulaamu, eyatuulanga mu Sodoma, n'ebintu bye, ne bagenda.
- 13 Ne wajja omu eyawonawo, n'abuulira Ibulaamu Omwebbulaniya: oyo yatuulanga awali emivule gya Mamule Omwamoli, muganda wa Esukoli, era muganda wa Aneri; nabo baali nga balagaanye ne Ibulaamu.
- 14 Ibulaamu bwe yawulira nga baanyaga muganda we, n'agenda ne basajja be abaayigirizibwa okulwana, abaazaalirwa mu nnyumba ye, ebikumi bisatu mu kkumi mu munaana, ne babagoberera okutuusa ku Ddaani.
- 15 Ne baawukanamu okubalumba ekiro, ye n'abaddu be, ne babakuba, ne babagoberera okutuusa ku Kkoba, ekiri ku mukono ogwa kkono ogw'e Ddamasiko.
- 16 N'akomyawo ebintu byonna, era n'akomyawo ne muganda we Lutti, n'ebintu bye, era n'abakazi, n'abantu.
- 17 Ne kabaka w'e Sodoma n'afuluma okumusisinkana, bwe yamala okukomawo ng'asse Kedolawomeeri ne bakabaka abaali naye, mu kiwonvu Save (kye kiwonvu kya kabaka).
- 18 Ne Merukizeddeeki kabaka w'e Ssaalemi n'aleta emmere n'omwenge: era ye yali kabona wa Katonda ali waggulu ennyo.
- 19 N'amusabira omukisa, n'ayogera nti Ibulaamu aweebwe omukisa, Katonda ali waggulu ennyo, nannyini ggulu n'ensi: 20 era Katonda ali waggulu ennyo atenderezebwe akugabidde abalabe bo mu mukono gwo.
- N'amuwa ekitundu eky'ekkumi ekya byonna.
- 21 Kabaka w'e Sodoma n'agamba Ibulaamu nti Mpa nze abantu, ebintu obyetwalire ggwe.
- 22 Ibulaamu n'agamba kabaka w'e Sodoma nti Nnyimusizza omukono gwange eri Mukama Katonda ali waggulu ennyo, nannyini ggulu n'ensi, 23 nga ndayira nti siritwala kaggwa newakubadde akakoba k'engatto newakubadde akantu konna k'olina, oleme okwogera nti Mmugaggawazizza Ibulaamu: 24 wabula ebyo abavubuka bye balidde, n'omugabo gw'abasajja abaagenda nange; Aneri, Esukoli; ne Mamule abo batwale omugabo gwabwe.
-          
+ 1 Awo mu mirembe gya Amulaferi kabaka w'e Sinali, Aliyoki, kabaka w'e Erasali, Kedolawomeeri, kabaka w'e Eramu, n'egya Tidali, kabaka w'e Goyiyimu, 
+2 ne balwana ne Bbeera, kabaka w'e Sodoma, ne Bbiruusa, kabaka w'e Ggomola, Sinaabu, kabaka w'e Aduma, ne Semebeeri, kabaka w'e Zeboyiyimu, ne kabaka w'e Bera (ye Zowaali). 
+3 Abo bonna ne beegattira mu kiwonvu Sidimu (eyo ye nnyanja ey'omunnyo): 
+4 Ne baweerereza Kedolawomeeri emyaka kkumi n'ebiri, ne mu mwaka ogw'ekkumi n'esatu ne bajeema. 
+5 Ne mu mwaka ogw'ekkumi n'ena Kedolawomeeri n'ajja, ne bakabaka abaali awamu naye, ne bakubira Abaleefa mu Asuterosikalumayimu, n'Abazuuzi mu Kaamu, n'Abemi mu Savekiriyasayimu, 
+6 n'Abakooli ku lusozi lwabwe Seyiri, ne babagoba okutuusa Erupalaani ekiri okumpi n'eddungu. 
+7 Ne baddayo ne batuuka e Nuumisupaati (ye Kadesi), ne bakuba ensi yonna eya Abameleki, era n'eya Abamoli, abaatuula mu Kazazonutamali. 
+8 Ne watabaala kabaka w'e Sodoma, ne kabaka w'e Ggomola, ne kabaka w'e Aduma, ne kabaka w'e Zeboyiyimu, ne kabaka w'e Bera (ye Zowaali); ne bategeka olutalo okulwanira nabo mu kiwonvu Sidimu; 
+9 okulwana ne Kedolawomeeri, kabaka w'e Eramu, ne Tidali, kabaka w'e Goyiyimu, ne Amulafeeri, kabaka w'e Sinali, ne Aliyooki kabaka w'e Erasali: bakabaka abana nga balwana n'abataano. 
+10 Era ekiwonvu Sidimu kyali kijjudde obunnya obw'ebitosi; ne bakabaka w’e Sodoma ne Ggomola ne badduka, ne bagwa omwo, n'abo abaasigalawo ne baddukira ku lusozi. 
+11 Ne banyaga abintu byonna eby'omu Sodoma ne Ggomola, n'ebyokulya byabwe byonna, ne beegendera. 
+12 Ne banyaga Lutti, omwana wa muganda wa Ibulaamu, eyatuulanga mu Sodoma, n'ebintu bye, ne bagenda. 
+13 Ne wajja omu eyawonawo, n'abuulira Ibulaamu Omwebbulaniya: oyo yatuulanga awali emivule gya Mamule Omwamoli, muganda wa Esukoli, era muganda wa Aneri; nabo baali nga balagaanye ne Ibulaamu. 
+14 Ibulaamu bwe yawulira nga baanyaga muganda we, n'agenda ne basajja be abaayigirizibwa okulwana, abaazaalirwa mu nnyumba ye, ebikumi bisatu mu kkumi mu munaana, ne babagoberera okutuusa ku Ddaani. 
+15 Ne baawukanamu okubalumba ekiro, ye n'abaddu be, ne babakuba, ne babagoberera okutuusa ku Kkoba, ekiri ku mukono ogwa kkono ogw'e Ddamasiko. 
+16 N'akomyawo ebintu byonna, era n'akomyawo ne muganda we Lutti, n'ebintu bye, era n'abakazi, n'abantu. 
+17 Ne kabaka w'e Sodoma n'afuluma okumusisinkana, bwe yamala okukomawo ng'asse Kedolawomeeri ne bakabaka abaali naye, mu kiwonvu Save (kye kiwonvu kya kabaka). 
+18 Ne Merukizeddeeki kabaka w'e Ssaalemi n'aleta emmere n'omwenge: era ye yali kabona wa Katonda ali waggulu ennyo. 
+19 N'amusabira omukisa, n'ayogera nti Ibulaamu aweebwe omukisa, Katonda ali waggulu ennyo, nannyini ggulu n'ensi: 
+20 era Katonda ali waggulu ennyo atenderezebwe akugabidde abalabe bo mu mukono gwo. N'amuwa ekitundu eky'ekkumi ekya byonna. 
+21 Kabaka w'e Sodoma n'agamba Ibulaamu nti Mpa nze abantu, ebintu obyetwalire ggwe. 
+22 Ibulaamu n'agamba kabaka w'e Sodoma nti Nnyimusizza omukono gwange eri Mukama Katonda ali waggulu ennyo, nannyini ggulu n'ensi, 
+23 nga ndayira nti siritwala kaggwa newakubadde akakoba k'engatto newakubadde akantu konna k'olina, oleme okwogera nti Mmugaggawazizza Ibulaamu: 
+24 wabula ebyo abavubuka bye balidde, n'omugabo gw'abasajja abaagenda nange; Aneri, Esukoli; ne Mamule abo batwale omugabo gwabwe.          
 
 

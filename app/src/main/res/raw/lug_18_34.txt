@@ -1,26 +1,39 @@
- 1 Era nate Eriku n'addamu n'ayogera nti 2 Muwulire ebigambo byange, mmwe abasajja ab'amagezi; Era mutege okutu gye ndi, mmwe abalina okutegeera.
- 3 Kubanga okutu kukema ebigambo, Ng'amatama bwe galega ku mmere.
- 4 Twerondere ekyo ekinaaba eky'ensonga: Tumanye fekka na fekka ebirungi bwe biri.
- 5 Kubanga Yobu ayogedde nti Nze ndi mutuukirivu, Era nti Katonda anziyeeko ensonga yange: 6 Newakubadde nga nnina ensonga mpitibwa mulimba; Ekiwundu kyange tekiwonyezeka, newakubadde nga ssiriiko kusobya.
- 7 Muntu ki afaanana Yobu, Anywa okunyoomebwa ng'amazzi? 8 Atambulira awamu n'abakola ebitali bya butuukirivu, Era atambulira awamu n'abasajja ababi.
- 9 Kubanga ayogedde nti Omuntu tekiriiko kye kimugasa Okusanyukira Katonda.
- 10 Kale mumpulire, mmwe abasajja abalina okutegeera: Kiddire eri awali Katonda, ye okukola obubi; N'awali Omuyinza w'ebintu byonna, ye okukola ebitali bya butuukirivu.
- 11 Kubanga alisasula omuntu omulimu gwe, Era alirabya buli muntu ng'amakubo ge bwe gali.
- 12 Weewaawo, mazima Katonda taakolenga bubi, So n'Omuyinza w'ebintu byonna taalyenga nsonga.
- 13 Ani eyamuteresa ensi okugikuuma? Oba ani eyateekateeka ebintu byonna bwe byenkana? 14 Bw'ateeka omutima gwe ku bantu, Bw'akuŋŋaanyiza gy'ali omwoyo gwe n'omukka gwe; 15 Byonna ebirina omubiri birizikiririra wamu, Abantu ne badda mu nfuufu.
- 16 Kale oba olina okutegeera, wulira kino: Wulira eddoboozi ly'ebigambo byange.
- 17 Akyawa eby'ensonga oyo alifuga? Era onoosalira oyo omutuukirivu era ow'amaanyi okumusinga? 18 Kirungi okugamba kabaka nti Ggwe oli mugwagwa? Oba abakungu nti Mmwe muli babi? 19 Okusinga ennyo si kirungi okugamba oyo atatya maaso ga balangira, So talowooza mugagga okusinga omwavu? Kubanga bonna mulimu gwa mikono gye.
- 20 Bafa mu kaseera akatono, mu ttuntu; Abantu bakankanyizibwa ne bayitawo, N'ab'amaanyi baggibwawo awatali mukono.
- 21 Kubanga amaaso ge gatunuulira amakubo ag'omuntu, Era alaba okutambula kwe kwonna.
- 22 Tewali kizikiza newakubadde ekisiikirize eky'okufa, Abakola ebitali bya butuukirivu we bayinza okwekweka.
- 23 Kubanga teyeetaaga kweyongera kulowooza omuntu, Atuuke mu maaso ga Katonda okusalirwa omusango.
- 24 Amenyamenya abasajja ab'amaanyi mu ngeri etenoonyezeka, Era assaawo abalala mu kifo kyabwe.
- 25 Kyava alabirira emirimu gyabwe; Era abavuunika kiro n'okuzikirizibwa ne bazikirizibwa.
- 26 Abakuba ng'ababi Mu maaso g'abalala aweeru; 27 Kubanga bakyama obutamugoberera, So tebayagala kussaayo mwoyo eri amakubo ge gonna: 28 N'okutuusa ne batuusa gy'ali okukaaba kw'omwavu, N'awulira okukaaba kw'abo ababonyaabonyezebwa.
- 29 Ye bw'awa okutereera, kale ani ayinza okusala omusango okusinga? Era ye bw'akweka amaaso ge, kale ani ayinza okumutunuulira? Oba nga ggwanga oba nga muntu, kyonna bwe bumu: 30 Omusajja atamanyi Katonda alemenga okufuga, Walemenga okubaawo anaateega abantu.
- 31 Kubanga waliwo eyali agambye Katonda, nti Mbonerezebbwa, sikyasobya nate: 32 Kye ssiraba kinjigirize: Oba nga nkoze obujeemu ssikyabukola nate? 33 Empeera ye eriba nga ggwe bw'oyagala n'okugaana n'ogigaana? Kubanga ggwe oba weeroboza so si nze: Kale yogera ekyo ky'omanyi.
- 34 Abantu abalina okutegeera baligamba nti Weewaawo, buli muntu ow'amagezi ampulira, anaŋŋamba nti 35 Yobu ayogera nga talina kumanya, N'ebigambo bye tebiriimu magezi, 36 Yobu singa akemeddwa okutuusa enkomerero, Kubanga ayanukula ng'abantu ababi.
- 37 Kubanga ayongera obujeemu ku kwonoona kwe, Akuba mu ngalo ze ng'ayima wakati mu ffe, Era ayongerayongera ebigambo bye okuwakanya Katonda.
-          
+ 1 Era nate Eriku n'addamu n'ayogera nti 
+2 Muwulire ebigambo byange, mmwe abasajja ab'amagezi; Era mutege okutu gye ndi, mmwe abalina okutegeera. 
+3 Kubanga okutu kukema ebigambo, Ng'amatama bwe galega ku mmere. 
+4 Twerondere ekyo ekinaaba eky'ensonga: Tumanye fekka na fekka ebirungi bwe biri. 
+5 Kubanga Yobu ayogedde nti Nze ndi mutuukirivu, Era nti Katonda anziyeeko ensonga yange: 
+6 Newakubadde nga nnina ensonga mpitibwa mulimba; Ekiwundu kyange tekiwonyezeka, newakubadde nga ssiriiko kusobya. 
+7 Muntu ki afaanana Yobu, Anywa okunyoomebwa ng'amazzi? 
+8 Atambulira awamu n'abakola ebitali bya butuukirivu, Era atambulira awamu n'abasajja ababi. 
+9 Kubanga ayogedde nti Omuntu tekiriiko kye kimugasa Okusanyukira Katonda. 
+10 Kale mumpulire, mmwe abasajja abalina okutegeera: Kiddire eri awali Katonda, ye okukola obubi; N'awali Omuyinza w'ebintu byonna, ye okukola ebitali bya butuukirivu. 
+11 Kubanga alisasula omuntu omulimu gwe, Era alirabya buli muntu ng'amakubo ge bwe gali. 
+12 Weewaawo, mazima Katonda taakolenga bubi, So n'Omuyinza w'ebintu byonna taalyenga nsonga. 
+13 Ani eyamuteresa ensi okugikuuma? Oba ani eyateekateeka ebintu byonna bwe byenkana? 
+14 Bw'ateeka omutima gwe ku bantu, Bw'akuŋŋaanyiza gy'ali omwoyo gwe n'omukka gwe; 
+15 Byonna ebirina omubiri birizikiririra wamu, Abantu ne badda mu nfuufu. 
+16 Kale oba olina okutegeera, wulira kino: Wulira eddoboozi ly'ebigambo byange. 
+17 Akyawa eby'ensonga oyo alifuga? Era onoosalira oyo omutuukirivu era ow'amaanyi okumusinga? 
+18 Kirungi okugamba kabaka nti Ggwe oli mugwagwa? Oba abakungu nti Mmwe muli babi? 
+19 Okusinga ennyo si kirungi okugamba oyo atatya maaso ga balangira, So talowooza mugagga okusinga omwavu? Kubanga bonna mulimu gwa mikono gye. 
+20 Bafa mu kaseera akatono, mu ttuntu; Abantu bakankanyizibwa ne bayitawo, N'ab'amaanyi baggibwawo awatali mukono. 
+21 Kubanga amaaso ge gatunuulira amakubo ag'omuntu, Era alaba okutambula kwe kwonna. 
+22 Tewali kizikiza newakubadde ekisiikirize eky'okufa, Abakola ebitali bya butuukirivu we bayinza okwekweka. 
+23 Kubanga teyeetaaga kweyongera kulowooza omuntu, Atuuke mu maaso ga Katonda okusalirwa omusango. 
+24 Amenyamenya abasajja ab'amaanyi mu ngeri etenoonyezeka, Era assaawo abalala mu kifo kyabwe. 
+25 Kyava alabirira emirimu gyabwe; Era abavuunika kiro n'okuzikirizibwa ne bazikirizibwa. 
+26 Abakuba ng'ababi Mu maaso g'abalala aweeru; 
+27 Kubanga bakyama obutamugoberera, So tebayagala kussaayo mwoyo eri amakubo ge gonna: 
+28 N'okutuusa ne batuusa gy'ali okukaaba kw'omwavu, N'awulira okukaaba kw'abo ababonyaabonyezebwa. 
+29 Ye bw'awa okutereera, kale ani ayinza okusala omusango okusinga? Era ye bw'akweka amaaso ge, kale ani ayinza okumutunuulira? Oba nga ggwanga oba nga muntu, kyonna bwe bumu: 
+30 Omusajja atamanyi Katonda alemenga okufuga, Walemenga okubaawo anaateega abantu. 
+31 Kubanga waliwo eyali agambye Katonda, nti Mbonerezebbwa, sikyasobya nate: 
+32 Kye ssiraba kinjigirize: Oba nga nkoze obujeemu ssikyabukola nate? 
+33 Empeera ye eriba nga ggwe bw'oyagala n'okugaana n'ogigaana? Kubanga ggwe oba weeroboza so si nze: Kale yogera ekyo ky'omanyi. 
+34 Abantu abalina okutegeera baligamba nti Weewaawo, buli muntu ow'amagezi ampulira, anaŋŋamba nti 
+35 Yobu ayogera nga talina kumanya, N'ebigambo bye tebiriimu magezi, 
+36 Yobu singa akemeddwa okutuusa enkomerero, Kubanga ayanukula ng'abantu ababi. 
+37 Kubanga ayongera obujeemu ku kwonoona kwe, Akuba mu ngalo ze ng'ayima wakati mu ffe, Era ayongerayongera ebigambo bye okuwakanya Katonda.          
 
 

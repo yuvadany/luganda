@@ -1,28 +1,36 @@
- 1 Tokwatirwanga buggya abantu ababi, So teweegombanga okuba awamu nabo: 2 Kubanga omutima gwabwe guteesa okujooga, N'emimwa gyabwe gyogera ku ttima.
- 3 Amagezi ge gazimbya ennyumba; N'okutegeera kwe kuginyweza: 4 N'okumanya kwe kujjuza ebisenge Obugagga bwonna obw'omuwendo omungi era obusanyusa.
- 5 Omuntu ow'amagezi aba wa maanyi; Weewaawo, omuntu alina okumanya ayongera obuyinza.
- 6 Kubanga olirwana olutalo lwo n'okuteesa okw'amagezi: Era mu bateesa ebigambo abangi mwe muli emirembe.
- 7 Amagezi magulumivu nnyo, galema omusirusiru: Tayasama kamwa ke mu mulyango.
- 8 Agunja okukola obubi, Abantu balimuyita omuntu ow'ettima.
- 9 Okulowooza kw'omusirusiru kwonoona: Era omunyoomi wa muzizo eri abantu.
- 10 Bw'ozirika ku lunaku olw'okulabirako obuyinike, Amaanyi go nga matono.
- 11 Obawonyanga abo abatwalibwa okuttibwa, N'abo abagenda okuttibwa obalekanga.
- 12 Bw'onooyogeranga nti Laba, tetwamanya kino: Oyo apima emitima takirowooza? N'oyo akuuma emmeeme yo takimaayi? Era talisasula buli muntu ng'omulimu gwe bwe guli? 13 Mwana wange, olyanga omubisi gw'enjuki, kubanga mulungi; N'ebisenge byazo ebiwoomera amatama go.
- 14 Onoomanyanga ng'amagezi gawoomera bwe gatyo emmeeme yo: Oba ng'ogalabye, awo walibaawo empeera, N'essuubi lyo teririmalibwawo.
- 15 Toteegera ku nnyumba ya mutuukirivu, ggwe omuntu omubi; Tonyaga kifo ky'awummuliramu: 16 Kubanga omuntu omutuukirivu agwa emirundi musanvu n'ayimuka nate: Naye ababi obuyinike bubasuula.
- 17 Tosanyukanga omulabe wo bw'agwanga, So n'omutima gwo gulemenga okusanyuka bw'ameggebwanga: 18 Mukama alemenga okukiraba ne kimunyiiza, N'akyusa obusungu bwe okumuvaako.
- 19 Teweeraliikiriranga olw'abo abakola obubi; So tokwatirwanga buggya ababi: 20 Kubanga tewaliba mpeera eri omuntu omubi; Ettabaaza ey'ababi erizikizibwa.
- 21 Mwana wange, otyanga Mukama ne kabaka: So teweetabulanga n'abo abaagala okujjululajjulula.
- 22 Kubanga obuyinike bwabwe buliyimuka nga tebamanyiridde; Era ani amanyi okuzikirira kwabwe bombi? 23 Era na bino bigambo bya bagezigezi.
- Okusosola mu bantu bw'osala emisango si kirungi.
- 24 Agamba omubi nti Ggwe mutuukirivu; Abantu banaamukolimiranga, amawanga ganaamutamwanga: 25 Naye abo abamunenya be baliba n'essaayu, N'omukisa omulungi gulibatuukako.
- 26 Addamu eby'ensonga Anywegera emimwa.
- 27 Teekateekanga omulimu gwo ebweru, Ogwetegekerenga mu nnimiro; Oluvannyuma n'olyoka ozimba ennyumba yo.
- 28 Tolumirizanga munno awatali asonga: So tolimbanga na mimwa gyo.
- 29 Toyogeranga nti Ndimukola nga ye bw'ankoze nze; Ndisasula omusajja oyo ng'omulimu gwe bwe gubadde.
- 30 Nayita ku nnimiro ey'omugayaavu, N'olusuku olw'emizabbibu lw'oyo atalina kutegeera; 31 Kale, laba, amaggwa nga galubunye lwonna, Omwennyango nga gubisse ku lwo kungulu, N'olukomera lwalwo olw'amayinja nga lusuuliddwa.
- 32 Awo ne ntunula ne ndowooza nnyo: Nalaba ne mpeebwa okuyigirizibwa.
- 33 Wakyaliwo okwebaka kutono, okubongoota kutono, Okufunya engalo okwebaka kutono: 34 Bwe kityo obwavu bwo bulituuka ng'omunyazi; N'okwetaaga kwo ng'omusajja akutte ebyokulwanyisa.
-          
+ 1 Tokwatirwanga buggya abantu ababi, So teweegombanga okuba awamu nabo: 
+2 Kubanga omutima gwabwe guteesa okujooga, N'emimwa gyabwe gyogera ku ttima. 
+3 Amagezi ge gazimbya ennyumba; N'okutegeera kwe kuginyweza: 
+4 N'okumanya kwe kujjuza ebisenge Obugagga bwonna obw'omuwendo omungi era obusanyusa. 
+5 Omuntu ow'amagezi aba wa maanyi; Weewaawo, omuntu alina okumanya ayongera obuyinza. 
+6 Kubanga olirwana olutalo lwo n'okuteesa okw'amagezi: Era mu bateesa ebigambo abangi mwe muli emirembe. 
+7 Amagezi magulumivu nnyo, galema omusirusiru: Tayasama kamwa ke mu mulyango. 
+8 Agunja okukola obubi, Abantu balimuyita omuntu ow'ettima. 
+9 Okulowooza kw'omusirusiru kwonoona: Era omunyoomi wa muzizo eri abantu. 
+10 Bw'ozirika ku lunaku olw'okulabirako obuyinike, Amaanyi go nga matono. 
+11 Obawonyanga abo abatwalibwa okuttibwa, N'abo abagenda okuttibwa obalekanga. 
+12 Bw'onooyogeranga nti Laba, tetwamanya kino: Oyo apima emitima takirowooza? N'oyo akuuma emmeeme yo takimaayi? Era talisasula buli muntu ng'omulimu gwe bwe guli? 
+13 Mwana wange, olyanga omubisi gw'enjuki, kubanga mulungi; N'ebisenge byazo ebiwoomera amatama go. 
+14 Onoomanyanga ng'amagezi gawoomera bwe gatyo emmeeme yo: Oba ng'ogalabye, awo walibaawo empeera, N'essuubi lyo teririmalibwawo. 
+15 Toteegera ku nnyumba ya mutuukirivu, ggwe omuntu omubi; Tonyaga kifo ky'awummuliramu: 
+16 Kubanga omuntu omutuukirivu agwa emirundi musanvu n'ayimuka nate: Naye ababi obuyinike bubasuula. 
+17 Tosanyukanga omulabe wo bw'agwanga, So n'omutima gwo gulemenga okusanyuka bw'ameggebwanga: 
+18 Mukama alemenga okukiraba ne kimunyiiza, N'akyusa obusungu bwe okumuvaako. 
+19 Teweeraliikiriranga olw'abo abakola obubi; So tokwatirwanga buggya ababi: 
+20 Kubanga tewaliba mpeera eri omuntu omubi; Ettabaaza ey'ababi erizikizibwa. 
+21 Mwana wange, otyanga Mukama ne kabaka: So teweetabulanga n'abo abaagala okujjululajjulula. 
+22 Kubanga obuyinike bwabwe buliyimuka nga tebamanyiridde; Era ani amanyi okuzikirira kwabwe bombi? 
+23 Era na bino bigambo bya bagezigezi. Okusosola mu bantu bw'osala emisango si kirungi. 
+24 Agamba omubi nti Ggwe mutuukirivu; Abantu banaamukolimiranga, amawanga ganaamutamwanga: 
+25 Naye abo abamunenya be baliba n'essaayu, N'omukisa omulungi gulibatuukako. 
+26 Addamu eby'ensonga Anywegera emimwa. 
+27 Teekateekanga omulimu gwo ebweru, Ogwetegekerenga mu nnimiro; Oluvannyuma n'olyoka ozimba ennyumba yo. 
+28 Tolumirizanga munno awatali asonga: So tolimbanga na mimwa gyo. 
+29 Toyogeranga nti Ndimukola nga ye bw'ankoze nze; Ndisasula omusajja oyo ng'omulimu gwe bwe gubadde. 
+30 Nayita ku nnimiro ey'omugayaavu, N'olusuku olw'emizabbibu lw'oyo atalina kutegeera; 
+31 Kale, laba, amaggwa nga galubunye lwonna, Omwennyango nga gubisse ku lwo kungulu, N'olukomera lwalwo olw'amayinja nga lusuuliddwa. 
+32 Awo ne ntunula ne ndowooza nnyo: Nalaba ne mpeebwa okuyigirizibwa. 
+33 Wakyaliwo okwebaka kutono, okubongoota kutono, Okufunya engalo okwebaka kutono: 
+34 Bwe kityo obwavu bwo bulituuka ng'omunyazi; N'okwetaaga kwo ng'omusajja akutte ebyokulwanyisa.          
 
 

@@ -1,27 +1,30 @@
- 1 Wakana, ai Mukama, n'abo abawakana nange: Lwana n'abo abalwana nange.
- 2 Kwata engabo n'akagabo, Oyimirire okunnyamba.
- 3 Era sowola n'effumu, ozibire ekkubo abo abanjigganya: Ogambe emmeeme yange nti Nze bulokozi bwo.
- 4 Bakwatibwe ensonyi baswazibwe abanjigganya emmeeme yange: Bazzibwe ennyuma beeraliikirizibwe abateesa okunkola obubi.
- 5 Babeere ng'ebisusunku ebitwalibwa n'empewo, Era malayika wa Mukama ng'abagoba.
- 6 Ekkubo lyabwe libeere ekizikiza n'obuseerezi.
- Era malayika wa Mukama ng'abayigganya.
- 7 Kubanga awatali nsonga bankisizza mu bunnya ekyambika kyabwe, Awatali nsonga basimidde emmeeme yange.
- 8 Okuzikirira kumujjeko nga talaba; N'ekyambika kye kye yakisa kimukwate ye yennyini: Akigwemu n'okuzikirira: 9 N'emmeeme yange erisanyukira Mukama: Erijaguliza obulokozi bwe.
- 10 Amagumba gange gonna galyogera nti Mukama, ani afaanana nga ggwe, Awonya omwavu eri oyo amusinga amaanyi, Awonya omwavu n'omunafu eri oyo amunyaga? 11 Abajulirwa abatali batuukirivu bagolokose; Bambuuza ebigambo bye ssimanyi.
- 12 Bansasula obubi ku lw'obulungi, Okweraliikiriza emmeeme yange.
- 13 Naye nze, bwe baalwala, nayambala bibukutu: Ne nteganya emmeeme yange n'okusiiba; N'okusaba kwange ne kudda mu kifuba kyange.
- 14 Ne mba nga bwe nnaakubadde, singa yali mukwano gwange oba muganda wange: Ne nkutama ne nnakuwala ng'afiiriddwa nnyina: 15 Naye bwe nnawenyera nze, ne basanyuka, ne bakuŋŋaana: Abagwagwa ne bankuŋŋaanirako, ne ssimanya; Ne banjuza, ne batalekaayo: 16 Ng'abo abatatya Katonda abaduula mu mbaga, Bwe baaluma obujigi bwe batyo, nga bansunguwalira.
- 17 Mukama, olituusa wa okutunula obutunuzi? Wonya emmeeme yange mu kuzikiriza kwabwe, Kaganzi kange mu mpologoma.
- 18 Ndikwebaliza mu kibiina ekinene: Ndikutenderereza mu bantu abangi.
- 19 Abo abalabe bange baleme okunsanyukirako n'obulimba: Era abankyawa awatali nsonga baleme okutemya ekikowe.
- 20 Kubanga teboogera mirembe: Naye bateesa ebigambo eby'obulimba ku abo abatereera mu nsi.
- 21 Era banjasaamiririra ddala akamwa kaabwe; Ne boogera nti Ggwe, ggwe, eriiso lyaffe lyakiraba.
- 22 Ggwe wakiraba, si Mukama; tosirika: Ai Mukama, tombeera wala.
- 23 Golokoka, ozuukuke okunsalira omusango, Era olw'ensonga yange, Katonda wange era Mukama wange.
- 24 Onsalire omusango, ai Mukama Katonda wange, ng'obutuukirivu bwo bwe buli; So tobaganya kunsanyukirako; 25 Baleme okwogera mu mutima gwabwe nti Bw'otyo bwe twagala bwe tutyo: Baleme okwogera nti Tumumize bugobo.
- 26 Bakwatibwe ensonyi baswazibwe bonna abasanyukira nze okulaba akabi: Bambale ensonyi n'okunyoomebwa abanneegulumirizaako.
- 27 Boogerere waggulu olw'essanyu, bajaguze, abayamba ensonga yange ey'obutuukirivu: Era boogerenga bulijjo eri Mukama agulumizibwe, Asanyukira omukisa ogw'omuddu we.
- 28 N'olulimi lwange lunaayogeranga ku butuukirivu bwo, Ne ku ttendo lyo obudde okuziba.
-          
+ 1 Wakana, ai Mukama, n'abo abawakana nange: Lwana n'abo abalwana nange. 
+2 Kwata engabo n'akagabo, Oyimirire okunnyamba. 
+3 Era sowola n'effumu, ozibire ekkubo abo abanjigganya: Ogambe emmeeme yange nti Nze bulokozi bwo. 
+4 Bakwatibwe ensonyi baswazibwe abanjigganya emmeeme yange: Bazzibwe ennyuma beeraliikirizibwe abateesa okunkola obubi. 
+5 Babeere ng'ebisusunku ebitwalibwa n'empewo, Era malayika wa Mukama ng'abagoba. 
+6 Ekkubo lyabwe libeere ekizikiza n'obuseerezi. Era malayika wa Mukama ng'abayigganya. 
+7 Kubanga awatali nsonga bankisizza mu bunnya ekyambika kyabwe, Awatali nsonga basimidde emmeeme yange. 
+8 Okuzikirira kumujjeko nga talaba; N'ekyambika kye kye yakisa kimukwate ye yennyini: Akigwemu n'okuzikirira: 
+9 N'emmeeme yange erisanyukira Mukama: Erijaguliza obulokozi bwe. 
+10 Amagumba gange gonna galyogera nti Mukama, ani afaanana nga ggwe, Awonya omwavu eri oyo amusinga amaanyi, Awonya omwavu n'omunafu eri oyo amunyaga? 
+11 Abajulirwa abatali batuukirivu bagolokose; Bambuuza ebigambo bye ssimanyi. 
+12 Bansasula obubi ku lw'obulungi, Okweraliikiriza emmeeme yange. 
+13 Naye nze, bwe baalwala, nayambala bibukutu: Ne nteganya emmeeme yange n'okusiiba; N'okusaba kwange ne kudda mu kifuba kyange. 
+14 Ne mba nga bwe nnaakubadde, singa yali mukwano gwange oba muganda wange: Ne nkutama ne nnakuwala ng'afiiriddwa nnyina: 
+15 Naye bwe nnawenyera nze, ne basanyuka, ne bakuŋŋaana: Abagwagwa ne bankuŋŋaanirako, ne ssimanya; Ne banjuza, ne batalekaayo: 
+16 Ng'abo abatatya Katonda abaduula mu mbaga, Bwe baaluma obujigi bwe batyo, nga bansunguwalira. 
+17 Mukama, olituusa wa okutunula obutunuzi? Wonya emmeeme yange mu kuzikiriza kwabwe, Kaganzi kange mu mpologoma. 
+18 Ndikwebaliza mu kibiina ekinene: Ndikutenderereza mu bantu abangi. 
+19 Abo abalabe bange baleme okunsanyukirako n'obulimba: Era abankyawa awatali nsonga baleme okutemya ekikowe. 
+20 Kubanga teboogera mirembe: Naye bateesa ebigambo eby'obulimba ku abo abatereera mu nsi. 
+21 Era banjasaamiririra ddala akamwa kaabwe; Ne boogera nti Ggwe, ggwe, eriiso lyaffe lyakiraba. 
+22 Ggwe wakiraba, si Mukama; tosirika: Ai Mukama, tombeera wala. 
+23 Golokoka, ozuukuke okunsalira omusango, Era olw'ensonga yange, Katonda wange era Mukama wange. 
+24 Onsalire omusango, ai Mukama Katonda wange, ng'obutuukirivu bwo bwe buli; So tobaganya kunsanyukirako; 
+25 Baleme okwogera mu mutima gwabwe nti Bw'otyo bwe twagala bwe tutyo: Baleme okwogera nti Tumumize bugobo. 
+26 Bakwatibwe ensonyi baswazibwe bonna abasanyukira nze okulaba akabi: Bambale ensonyi n'okunyoomebwa abanneegulumirizaako. 
+27 Boogerere waggulu olw'essanyu, bajaguze, abayamba ensonga yange ey'obutuukirivu: Era boogerenga bulijjo eri Mukama agulumizibwe, Asanyukira omukisa ogw'omuddu we. 
+28 N'olulimi lwange lunaayogeranga ku butuukirivu bwo, Ne ku ttendo lyo obudde okuziba.          
 
 

@@ -1,7 +1,26 @@
- 1 Bano be bakabaka ab'ensi abaana ba Isiraeri be baakuba, ne balya ensi yaabwe emitala wa Yoludaani ku luuyi olw'ebuvanjuba, okuva ku kiwonvu ekya Alunoni okutuuka ku lusozi Kerumooni; ne Alaba yonna ku luuyi olw'ebuvanjuba.
- 2 Sikoni kabaka w'Abamoli, eyabeera mu Kesuboni, era eyafuga okuva ku Aloweri, ekiri ku mabbali g'ekiwonvu ekya Alunoni, n'ekibuga ekiri wakati mu kiwonvu, n'ekitundu kya Gireyaadi, okutuuka ku mugga Yabboki, ye nsalo ey'abaana ba Amoni 3 ne Alaba okutuuka ku nnyanja Kinnerosi, ku luuyi olw'ebuvanjuba, ne ku nnyanja ya Alaba, ye nnyanja ey'omunnyo, ku luuyi olw'ebuvanjuba, mu kkubo ery'e Besuyesimosi; ne ku luuyi olw'obukiika obwa ddyo, wansi wa Pisuga: 4 n'ensalo ya Ogi kabaka w'e Basani, ow'omu Balefa abaasigalawo, eyabeera mu Asutaloosi ne mu Ederei, 5 era eyafugira ku lusozi Kerumooni, ne mu Saleka, ne mu Basani yonna, okutuuka ku nsalo ey'Abagesuli n'Abamaakasi, n'ekitundu kya Gireyaadi; ensalo ya Sikoni kabaka w'e Kesuboni.
- 6 Musa omuweereza wa Mukama n'abaana ba Isiraeri baabakuba; ne Musa omuweereza wa Mukama n'agiwa okugirya eri Abalewubeeni, n'Abagaasi, n'ekitundu eky'ekika kya Manase.
- 7 Era ne bano be bakabaka ab'ensi Yoswa n'abaana ba Isiraeri be baakuba emitala wa Yoludaani ku luuyi olw'ebugwanjuba okuva ku Baalugadi mu kiwonvu kya Lebanooni okutuuka ku lusozi Kalaki, olulinnya e Seyiri; Yoswa n'agiwa ebika bya Isiraeri okugirya nga bwe baayawulibwa; 8 mu nsi ey'ensozi, ne mu nsi ey'ensenyi, ne mu Alaba, ne ku nsozi awakkirwa, ne mu ddungu, ne mu nsi ey'obukiika obwa ddyo; Omukiiti, Omwamoli, n'Omukanani, Omuperizi, Omukiivi; n'Omuyebusi; 9 kabaka w'e Yeriko, omu; kabaka w’e Ayi, ekiriraanye Beseri, omu; 10 kabaka w’e Yerusaalemi, omu; kabaka w’e Kebbulooni, omu; 11 kabaka w'e Yalamusi, omu; kabaka w'e Lakisi, omu; 12 kabaka w'e Eguloni, omu; kabaka w'e Gezeri, omu; 13 kabaka w'e Debiri, omu; kabaka w'e Gederi, omu; 14 kabaka w'e Kaluma, omu; kabaka w'e Yaladi, omu; 15 kabaka w'e Libuna, omu; kabaka w'e Adulamu, omu; 16 kabaka w'e Makkeda, omu; kabaka w'e Beseri, omu; 17 kabaka w'e Tappua, omu; kabaka w'e Keferi; omu; 18 kabaka w'e Afeki, omu; kabaka w'e Lasaloni; omu; 19 kabaka w'e Madoni, omu; kabaka w'e Kazoli; omu; 20 kabaka w'e Simulonimeroni, omu; kabaka w'e Akusafu, omu; 21 kabaka w'e Taanaki, omu; kabaka w'e Megiddo, omu; 22 kabaka w'e Kedesi, omu; kabaka w'e Yokuneamu ku Kalumeeri, omu; 23 kabaka w'e Doli ku lusozi Doli, omu; kabaka w'e Goyiyimu mu Girugaali, omu; 24 kabaka w'e Tiruza, omu; bakabaka bonna amakumi asatu mu omu.
-          
+ 1 Bano be bakabaka ab'ensi abaana ba Isiraeri be baakuba, ne balya ensi yaabwe emitala wa Yoludaani ku luuyi olw'ebuvanjuba, okuva ku kiwonvu ekya Alunoni okutuuka ku lusozi Kerumooni; ne Alaba yonna ku luuyi olw'ebuvanjuba. 
+2 Sikoni kabaka w'Abamoli, eyabeera mu Kesuboni, era eyafuga okuva ku Aloweri, ekiri ku mabbali g'ekiwonvu ekya Alunoni, n'ekibuga ekiri wakati mu kiwonvu, n'ekitundu kya Gireyaadi, okutuuka ku mugga Yabboki, ye nsalo ey'abaana ba Amoni 
+3 ne Alaba okutuuka ku nnyanja Kinnerosi, ku luuyi olw'ebuvanjuba, ne ku nnyanja ya Alaba, ye nnyanja ey'omunnyo, ku luuyi olw'ebuvanjuba, mu kkubo ery'e Besuyesimosi; ne ku luuyi olw'obukiika obwa ddyo, wansi wa Pisuga: 
+4 n'ensalo ya Ogi kabaka w'e Basani, ow'omu Balefa abaasigalawo, eyabeera mu Asutaloosi ne mu Ederei, 
+5 era eyafugira ku lusozi Kerumooni, ne mu Saleka, ne mu Basani yonna, okutuuka ku nsalo ey'Abagesuli n'Abamaakasi, n'ekitundu kya Gireyaadi; ensalo ya Sikoni kabaka w'e Kesuboni. 
+6 Musa omuweereza wa Mukama n'abaana ba Isiraeri baabakuba; ne Musa omuweereza wa Mukama n'agiwa okugirya eri Abalewubeeni, n'Abagaasi, n'ekitundu eky'ekika kya Manase. 
+7 Era ne bano be bakabaka ab'ensi Yoswa n'abaana ba Isiraeri be baakuba emitala wa Yoludaani ku luuyi olw'ebugwanjuba okuva ku Baalugadi mu kiwonvu kya Lebanooni okutuuka ku lusozi Kalaki, olulinnya e Seyiri; Yoswa n'agiwa ebika bya Isiraeri okugirya nga bwe baayawulibwa; 
+8 mu nsi ey'ensozi, ne mu nsi ey'ensenyi, ne mu Alaba, ne ku nsozi awakkirwa, ne mu ddungu, ne mu nsi ey'obukiika obwa ddyo; Omukiiti, Omwamoli, n'Omukanani, Omuperizi, Omukiivi; n'Omuyebusi; 
+9 kabaka w'e Yeriko, omu; kabaka w’e Ayi, ekiriraanye Beseri, omu; 
+10 kabaka w’e Yerusaalemi, omu; kabaka w’e Kebbulooni, omu; 
+11 kabaka w'e Yalamusi, omu; kabaka w'e Lakisi, omu; 
+12 kabaka w'e Eguloni, omu; kabaka w'e Gezeri, omu; 
+13 kabaka w'e Debiri, omu; kabaka w'e Gederi, omu; 
+14 kabaka w'e Kaluma, omu; kabaka w'e Yaladi, omu; 
+15 kabaka w'e Libuna, omu; kabaka w'e Adulamu, omu; 
+16 kabaka w'e Makkeda, omu; kabaka w'e Beseri, omu; 
+17 kabaka w'e Tappua, omu; kabaka w'e Keferi; omu; 
+18 kabaka w'e Afeki, omu; kabaka w'e Lasaloni; omu; 
+19 kabaka w'e Madoni, omu; kabaka w'e Kazoli; omu; 
+20 kabaka w'e Simulonimeroni, omu; kabaka w'e Akusafu, omu; 
+21 kabaka w'e Taanaki, omu; kabaka w'e Megiddo, omu; 
+22 kabaka w'e Kedesi, omu; kabaka w'e Yokuneamu ku Kalumeeri, omu; 
+23 kabaka w'e Doli ku lusozi Doli, omu; kabaka w'e Goyiyimu mu Girugaali, omu; 
+24 kabaka w'e Tiruza, omu; bakabaka bonna amakumi asatu mu omu.          
 
 

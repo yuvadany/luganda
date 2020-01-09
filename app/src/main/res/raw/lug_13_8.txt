@@ -1,23 +1,42 @@
-1 Ne Benyamini n'azaala Bera omubereberye we, Asuberi ow'okubiri, ne Akala ow'okusatu; 2 Noka ow'okuna, ne Lafa ow'okutaano.
- 3 Ne Bera yalina batabani be, Addali, ne Gera, ne Abikudi; 4 ne Abisuwa, ne Naamani, ne Akowa; 5 ne Gera, ne Sefufani, ne Kulamu 6 Era bano be batabani ba Ekudi: gino gye mitwe gy'ennyumba za bajjajjaabwe ez'abo abaali mu Geba, ne babatwala e Manakasi nga basibe: 7 ne Naamani ne Akiya ne Gera n'abatwala nga basibe; n'azaala Uzza ne Akikudi.
- 8 Sakalayimu n'azaala abaana mu nnimiro ya Mowaabu bwe yamala okubasindika; Kusimu ne Baala be baali bakazi be.
- 9 N'azaala mu Kodesi mukazi we Yobabu, ne Zibiya, ne Mesa, ne Malukamu; 10 ne Yewuzi, ne Sakiya, ne Miruma.
- Abo be baali batabani be, emitwe gy'ennyumba za bajjajjaabwe.
- 11 N'azaala mu Kusimu Abitubu ne Erupaali.
- 12 Ne batabani ba Erupaali; Eberi ne Misamu ne Semedi, eyazimba Ono ne Loodi, wamu n'ebibuga byako: 13 ne Beriya ne Sema, emitwe gy'ennyumba za bajjajjaabwe ez'abo abaabeeranga e Ayalooni, abaagoba abo abaali e Gaasi; 14 ne Akiyo, Sasaki, ne Yeremosi; 15 ne Zebadiya, ne Aladi, ne Ederi; 16 ne Mikayiri, ne Isupa, ne Yoka, batabani ba Beriya; 17 ne Zebadiya, ne Mesullamu, ne Kizuki, ne Keberi; 18 ne Isumerayi, ne Izuliya, ne Yobabu, batabani ba Erupaali; 19 ne Yakimu, ne Zikuli, ne Zabudi; 20 ne Eryenayi, ne Ziresayi, ne Eryeri; 21 ne Adaaya, ne Beraya, ne Simulasi, batabani ba Simeeyi; 22 ne Isupani, ne Eberi, ne Eryeri; 23 ne Abudoni, ne Zikuli, ne Kanani; 24 ne Kananiya, ne Eramu, ne Anusosiya; 25 ne Ifudeya, ne Penueri, batabani ba Sasaki; 26 ne Samuserayi, ne Sekaliya, ne Asaliya; 27 ne Yaalesiya, ne Eriya, ne Zikuli, batabani ba Yerokamu.
- 28 Abo be baali emitwe gy'ennyumba za bajjajjaabwe!
- okubuna emirembe gyabwe, abasajja abakulu: abo baabeeranga mu Yerusaalemi.
- 29 Era kitaawe wa Gibyoni n'abeeranga mu Gibyoni, Yeyeri, mukazi we erinnya lye Maaka: 30 ne mutabani we omubereberye Abudoni, ne Zuuli, ne Kiisi, ne Baali, ne Nadabu; 31 ne Gedoli, ne Akiyo, ne Zekeeri.
- 32 Mikuloosi n'azaala Simeeya.
- Era nabo baabeeranga ne baganda baabwe e Yerusaalemi, okwolekera baganda baabwe.
- 33 Neeri n'azaala Kiisi; Kiisi n'azaala Sawulo; Sawulo n'azaala Yonasaani, ne Malukisuwa, ne Abinadabu, ne Esubaali.
- 34 Era Meribubaali ye yali mutabani wa Yonasaani; Meribubaali n'azaala Mikka.
- 35 Ne batabani ba Mikka; Pisoni, ne Mereki, ne Taleya, ne Akazi.
- 36 Akazi n'azaala Yekoyaada; Yekoyaada n'azaala Alemesi, ne Azumavesi, ne Zimuli; Zimuli n'azaala Moza: 37 ne Moza n'azaala Bineya; Lafa ye yali mutabani we, Ereyasa mutabani we, Azeri mutabani we: 38 Azeri n'azaala batabani be mukaaga, amannya gaabwe gaagano; Azulikamu, Bokeru, ne Isimaeri, ne Seyaliya, ne Obadiya, ne Kanani.
- Abo bonna baali batabani ba Azeri.
- 39 Ne batabani ba Eseki muganda we; Ulamu omubereberye we, Yewusi ow'okubiri, ne Erifereti ow'okusatu.
- 40 Ne batabani ba Ulamu ne baba basajja ab'amaanyi abazira, abalasi, era baalina batabani baabwe bangi, n'abazzukulu, kikumi mu ataano.
- Abo bonna baali ku batabani ba Benyamini.
-          
+1 Ne Benyamini n'azaala Bera omubereberye we, Asuberi ow'okubiri, ne Akala ow'okusatu; 
+2 Noka ow'okuna, ne Lafa ow'okutaano. 
+3 Ne Bera yalina batabani be, Addali, ne Gera, ne Abikudi; 
+4 ne Abisuwa, ne Naamani, ne Akowa; 
+5 ne Gera, ne Sefufani, ne Kulamu 
+6 Era bano be batabani ba Ekudi: gino gye mitwe gy'ennyumba za bajjajjaabwe ez'abo abaali mu Geba, ne babatwala e Manakasi nga basibe: 
+7 ne Naamani ne Akiya ne Gera n'abatwala nga basibe; n'azaala Uzza ne Akikudi. 
+8 Sakalayimu n'azaala abaana mu nnimiro ya Mowaabu bwe yamala okubasindika; Kusimu ne Baala be baali bakazi be. 
+9 N'azaala mu Kodesi mukazi we Yobabu, ne Zibiya, ne Mesa, ne Malukamu; 
+10 ne Yewuzi, ne Sakiya, ne Miruma. Abo be baali batabani be, emitwe gy'ennyumba za bajjajjaabwe. 
+11 N'azaala mu Kusimu Abitubu ne Erupaali. 
+12 Ne batabani ba Erupaali; Eberi ne Misamu ne Semedi, eyazimba Ono ne Loodi, wamu n'ebibuga byako: 
+13 ne Beriya ne Sema, emitwe gy'ennyumba za bajjajjaabwe ez'abo abaabeeranga e Ayalooni, abaagoba abo abaali e Gaasi; 
+14 ne Akiyo, Sasaki, ne Yeremosi; 
+15 ne Zebadiya, ne Aladi, ne Ederi; 
+16 ne Mikayiri, ne Isupa, ne Yoka, batabani ba Beriya; 
+17 ne Zebadiya, ne Mesullamu, ne Kizuki, ne Keberi; 
+18 ne Isumerayi, ne Izuliya, ne Yobabu, batabani ba Erupaali; 
+19 ne Yakimu, ne Zikuli, ne Zabudi; 
+20 ne Eryenayi, ne Ziresayi, ne Eryeri; 
+21 ne Adaaya, ne Beraya, ne Simulasi, batabani ba Simeeyi; 
+22 ne Isupani, ne Eberi, ne Eryeri; 
+23 ne Abudoni, ne Zikuli, ne Kanani; 
+24 ne Kananiya, ne Eramu, ne Anusosiya; 
+25 ne Ifudeya, ne Penueri, batabani ba Sasaki; 
+26 ne Samuserayi, ne Sekaliya, ne Asaliya; 
+27 ne Yaalesiya, ne Eriya, ne Zikuli, batabani ba Yerokamu. 
+28 Abo be baali emitwe gy'ennyumba za bajjajjaabwe! okubuna emirembe gyabwe, abasajja abakulu: abo baabeeranga mu Yerusaalemi. 
+29 Era kitaawe wa Gibyoni n'abeeranga mu Gibyoni, Yeyeri, mukazi we erinnya lye Maaka: 
+30 ne mutabani we omubereberye Abudoni, ne Zuuli, ne Kiisi, ne Baali, ne Nadabu; 
+31 ne Gedoli, ne Akiyo, ne Zekeeri. 
+32 Mikuloosi n'azaala Simeeya. Era nabo baabeeranga ne baganda baabwe e Yerusaalemi, okwolekera baganda baabwe. 
+33 Neeri n'azaala Kiisi; Kiisi n'azaala Sawulo; Sawulo n'azaala Yonasaani, ne Malukisuwa, ne Abinadabu, ne Esubaali. 
+34 Era Meribubaali ye yali mutabani wa Yonasaani; Meribubaali n'azaala Mikka. 
+35 Ne batabani ba Mikka; Pisoni, ne Mereki, ne Taleya, ne Akazi. 
+36 Akazi n'azaala Yekoyaada; Yekoyaada n'azaala Alemesi, ne Azumavesi, ne Zimuli; Zimuli n'azaala Moza: 
+37 ne Moza n'azaala Bineya; Lafa ye yali mutabani we, Ereyasa mutabani we, Azeri mutabani we: 
+38 Azeri n'azaala batabani be mukaaga, amannya gaabwe gaagano; Azulikamu, Bokeru, ne Isimaeri, ne Seyaliya, ne Obadiya, ne Kanani. Abo bonna baali batabani ba Azeri. 
+39 Ne batabani ba Eseki muganda we; Ulamu omubereberye we, Yewusi ow'okubiri, ne Erifereti ow'okusatu. 
+40 Ne batabani ba Ulamu ne baba basajja ab'amaanyi abazira, abalasi, era baalina batabani baabwe bangi, n'abazzukulu, kikumi mu ataano. Abo bonna baali ku batabani ba Benyamini.          
 
 

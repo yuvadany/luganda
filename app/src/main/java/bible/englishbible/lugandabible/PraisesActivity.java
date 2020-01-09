@@ -22,7 +22,7 @@ public class PraisesActivity extends AppCompatActivity implements AdapterView.On
     ScrollView scroll;
     Spinner praises_spinner;
     String ta_verse;
-    DBHelper dbhelper = new DBHelper(this);
+    DBHelperNoBookmark dbhelper = new DBHelperNoBookmark(this);
     TextView praises_text;
     String sp1;
     private AdView mAdView;

@@ -1,11 +1,33 @@
- 1 Era nate Dawudi n'abaami b’eggye ne baawulira okuweereza okwo abamu ku batabani ba Asafu n'aba Kemani n'aba Yedusuni, ab'okulagula n'ennanga, n'entongooli, n'ebitaasa: n'omuwendo gwabo abaakola omulimu ng'okuweereza kwabwe bwe kwali gwali bwe guti: 2 ku batabani ba Asafu; Zakkuli ne Yusufu ne Nesaniya ne Asalera, batabani ba Asafu; wansi w'omukono gwa Asafu eyalagulanga ng'ekiragiro kya kabaka bwe kyali.
- 3 Ku Yedusuni: batabani ba Yedusuni; Gedaliya ne Zeri ne Yesaya ne Kasabiya ne Mattisiya, mukaaga; wansi w'emikono gya kitaabwe Yedusuni nga balina ennanga, abaalagulanga nga beebaza era nga batendereza Mukama.
- 4 Ku Kemani; batabani ba Kemani; Bukkiya, Mattaniya, Wuziyeeri, Sebuweri, ne Yerimoosi, Kananiya, Kanani, Eriyaasa, Giddaluti, ne Lomamutyezeri, Yosubekasa, Mallosi, Kosiri, Makaziyoosi: 5 abo bonna baali batabani ba Kemani omulabi wa kabaka mu bigambo bya Katonda, okuyimusanga ejjembe.
- Katonda n'awa Kemani abaana ab'obulenzi kkumi na bana n'ab'obuwala basatu.
- 6 Abo bonna baabanga wansi w'emikono gya kitaabwe okuyimbiranga mu nnyumba ya Mukama, n'ebitaasa, n'entongooli, n'ennanga, olw'okuweerezanga okw'omu nnyumba ya Katonda; Asafu, Yedusuni, ne Kemani nga bali wansi w'ekiragiro kya kabaka.
- 7 N'omuwendo gwabo wamu ne baganda baabwe abaayigirizibwa akuyimbira Mukama, bonna abalina amagezi, gwali ebikumi bibiri mu kinaana mu munaana.
- 8 Ne bakubira ebyo bye baateresebwa obululu bonna okwenkana, abato era n'abakulu, omuyigiriza era n'omuyigirizwa.
- 9 Awo akalulu ak'olubereberye ne kamugwako Yusufu olwa Asafu: ak'okubiri Gedaliya; ye ne baganda be ne batabani be baali kkumi na babiri: 10 ak'okusatu Zakkuli, batabani be ne baganda be, kkumi na babiri: 11 ak'okuna Izuli, batabani be ne baganda be, kkumi na babiri: 12 ak'okutaano Nesaniya, batabani be ne baganda be, kkumi na babiri: 13 ak'omukaaga Bukkiya, batabani be ne baganda be, kkumi na babiri: 14 ak'omusanvu Yesalera, batabani be ne baganda be, kkumi na babiri: 15 ak'omunaana Yesaya, batabani be ne baganda be, kkumi na babiri: 16 ak'omwenda Mattaniya, batabani be ne baganda be, kkumi na babiri: 17 ak'ekkumi Simeeyi, batabani be ne baganda be, kkumi na babiri: 18 ak'ekkumi n'akamu Azaleeri, batabani be ne baganda be kkumi na babiri: 19 ak'ekkumi n'obubiri Kasabiya, batabani be ne baganda be, kkumi na babiri: 20 ak'ekkumi n'obusatu, Subayeri, batabani be ne baganda be, kkumi na babiri : 21 ak'ekkumi n'obuna Mattisiya, batabani be ne baganda be, kkumi na babiri: 22 ak'ekkumi n'obutaano Yeremoosi, batabani be be baganda be, kkumi na babiri: 23 ak'ekkumi n'omukaaga Kananiya, batabani be ne baganda be, kkumi na babiri: 24 ak'ekkumi n'omusanvu Yosubekasa, batabani be ne baganda be, kkumi na babiri: 25 ak'ekkumi n'omunaana Kanani, batabani be ne baganda be kkumi na babiri: 26 ak'ekkumi n'omwenda Mallosi, batabani be ne baganda be, kkumi na babiri: 27 ak'amakumi abiri Eriyaasa, batabani be ne baganda be, kkumi na babiri: 28 ak'abiri mu kamu Kosiri, batabani be ne baganda be, kkumi na babiri: 29 ak'abiri mu bubiri Giddaluti, batabani be ne baganda be, kkumi na babiri: 30 ak'abiri mu busatu Makaziyoosi, batabani be ne baganda be, kkumi na babiri: 31 ak'abiri mu buna Lomamutyezeri, batabani be ne baganda be, kkumi na babiri.
-          
+ 1 Era nate Dawudi n'abaami b’eggye ne baawulira okuweereza okwo abamu ku batabani ba Asafu n'aba Kemani n'aba Yedusuni, ab'okulagula n'ennanga, n'entongooli, n'ebitaasa: n'omuwendo gwabo abaakola omulimu ng'okuweereza kwabwe bwe kwali gwali bwe guti: 
+2 ku batabani ba Asafu; Zakkuli ne Yusufu ne Nesaniya ne Asalera, batabani ba Asafu; wansi w'omukono gwa Asafu eyalagulanga ng'ekiragiro kya kabaka bwe kyali. 
+3 Ku Yedusuni: batabani ba Yedusuni; Gedaliya ne Zeri ne Yesaya ne Kasabiya ne Mattisiya, mukaaga; wansi w'emikono gya kitaabwe Yedusuni nga balina ennanga, abaalagulanga nga beebaza era nga batendereza Mukama. 
+4 Ku Kemani; batabani ba Kemani; Bukkiya, Mattaniya, Wuziyeeri, Sebuweri, ne Yerimoosi, Kananiya, Kanani, Eriyaasa, Giddaluti, ne Lomamutyezeri, Yosubekasa, Mallosi, Kosiri, Makaziyoosi: 
+5 abo bonna baali batabani ba Kemani omulabi wa kabaka mu bigambo bya Katonda, okuyimusanga ejjembe. Katonda n'awa Kemani abaana ab'obulenzi kkumi na bana n'ab'obuwala basatu. 
+6 Abo bonna baabanga wansi w'emikono gya kitaabwe okuyimbiranga mu nnyumba ya Mukama, n'ebitaasa, n'entongooli, n'ennanga, olw'okuweerezanga okw'omu nnyumba ya Katonda; Asafu, Yedusuni, ne Kemani nga bali wansi w'ekiragiro kya kabaka. 
+7 N'omuwendo gwabo wamu ne baganda baabwe abaayigirizibwa akuyimbira Mukama, bonna abalina amagezi, gwali ebikumi bibiri mu kinaana mu munaana. 
+8 Ne bakubira ebyo bye baateresebwa obululu bonna okwenkana, abato era n'abakulu, omuyigiriza era n'omuyigirizwa. 
+9 Awo akalulu ak'olubereberye ne kamugwako Yusufu olwa Asafu: ak'okubiri Gedaliya; ye ne baganda be ne batabani be baali kkumi na babiri: 
+10 ak'okusatu Zakkuli, batabani be ne baganda be, kkumi na babiri: 
+11 ak'okuna Izuli, batabani be ne baganda be, kkumi na babiri: 
+12 ak'okutaano Nesaniya, batabani be ne baganda be, kkumi na babiri: 
+13 ak'omukaaga Bukkiya, batabani be ne baganda be, kkumi na babiri: 
+14 ak'omusanvu Yesalera, batabani be ne baganda be, kkumi na babiri: 
+15 ak'omunaana Yesaya, batabani be ne baganda be, kkumi na babiri: 
+16 ak'omwenda Mattaniya, batabani be ne baganda be, kkumi na babiri: 
+17 ak'ekkumi Simeeyi, batabani be ne baganda be, kkumi na babiri: 
+18 ak'ekkumi n'akamu Azaleeri, batabani be ne baganda be kkumi na babiri: 
+19 ak'ekkumi n'obubiri Kasabiya, batabani be ne baganda be, kkumi na babiri: 
+20 ak'ekkumi n'obusatu, Subayeri, batabani be ne baganda be, kkumi na babiri : 
+21 ak'ekkumi n'obuna Mattisiya, batabani be ne baganda be, kkumi na babiri: 
+22 ak'ekkumi n'obutaano Yeremoosi, batabani be be baganda be, kkumi na babiri: 
+23 ak'ekkumi n'omukaaga Kananiya, batabani be ne baganda be, kkumi na babiri: 
+24 ak'ekkumi n'omusanvu Yosubekasa, batabani be ne baganda be, kkumi na babiri: 
+25 ak'ekkumi n'omunaana Kanani, batabani be ne baganda be kkumi na babiri: 
+26 ak'ekkumi n'omwenda Mallosi, batabani be ne baganda be, kkumi na babiri: 
+27 ak'amakumi abiri Eriyaasa, batabani be ne baganda be, kkumi na babiri: 
+28 ak'abiri mu kamu Kosiri, batabani be ne baganda be, kkumi na babiri: 
+29 ak'abiri mu bubiri Giddaluti, batabani be ne baganda be, kkumi na babiri: 
+30 ak'abiri mu busatu Makaziyoosi, batabani be ne baganda be, kkumi na babiri: 
+31 ak'abiri mu buna Lomamutyezeri, batabani be ne baganda be, kkumi na babiri.          
 
 

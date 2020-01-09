@@ -1,23 +1,25 @@
- 1 Buli myaka omusanvu bwe giggwangako, onoosumululanga.
- 2 Era eno ye ngeri y'okusumulula okwo: buli abanja anaasumululanga ekyo kye yawola muliraanwa we; takibanjanga muliraanwa we era muganda we; kubanga okusumulula kwa Mukama nga kulangiddwa.
- 3 Munnaggwanga oyinza okukimubanja: naye ekintu kyonna ku bibyo ekiri ne muganda wo omukono gwo gunaakisumululanga.
- 4 Naye tewaabenga baavu gy'oli, (kubanga Mukama taalemenga kukuwa mukisa mu nsi Mukama Katonda wo gy'akuwa okuba obusika okugirya;) 5 kyokka bw'onoonyiikiranga okuwulira eddoboozi lya Mukama Katonda wo, okukwatanga okukolanga ekiragiro kino kyonna kye nkulagira leero.
- 6 Kubanga Mukama Katonda wo anaakuwanga omukisa, nga bwe yakusuubiza: era onoowolanga amawanga mangi, naye teweewolenga; era onoofuganga amawanga mangi, naye tebaakufugenga ggwe.
- 7 Bwe wanaabanga gy'oli omwavu, omu ku baganda bo, munda w'oluggi lwonna ku nzigi zo mu nsi Mukama Katonda wo gy'akuwa, tokakanyazanga mutima gwo, so tofunyanga ngalo zo eri muganda wo omwavu: 8 naye tolemanga kwanjuluza ngalo zo gy'ali, so tolemanga kumuwola ebinaamumalanga olw'okwetaaga kwe mu ekyo ky'abuliddwa.
- 9 Weekuumenga waleme okubaawo mu mutima gwo ekirowoozo ekikodo, ng'oyogera nti Omwaka ogw'omusanvu, omwaka ogusumululirwamu, gunaatera okutuuka; eriiso lyo ne liba bbi eri muganda wo omwavu, n'otomuwa kintu; n'akoowoola Mukama ng'akuwawaabira, ne kiba kibi gy'oli.
- 10 Tolemanga kumuwa, so n'omutima gwo tegunakuwalanga bw'omuwa: kubanga olw'ekigambo ekyo Mukama Katonda wo kyanaavanga akuwa omukisa mu mulimu gwo gwonna ne mu byonna by'onossangako omukono gwo.
- 11 Kubanga abaavu tebaliggwaawo mu nsi ennaku zonna: kyenva nkulagira nga njogera nti Tolemanga kwanjuluza ngalo zo eri muganda wo, eri ababo abeetaaga, era eri abaavu bo, mu nsi yo.
- 12 Bwe bakuguzanga muganda wo, omusajja Omwebbulaniya oba mukazi Omwebbulaniya, n'amala emyaka mukaaga ng'akuweereza; mu mwaka ogw'omusanvu n'olyoka omuteeranga ddala okukuvaako.
- 13 Era bw'onoomuteeranga ddala okukuvaako, tomutanga nga talina kintu: 14 onoomulabiranga ebingi ku mbuzi zo ne ku gguuliro lyo ne ku ssogolero lyo: nga Mukama Katonda wo bwe yakuwa omukisa, bw'onoomuwanga bw'otyo.
- 15 Era onojjukiranga nga wali muddu mu nsi y'e Misiri, Mukama Katonda wo n'akununula: kyenva nkulagira ekigambo ekyo leero.
- 16 Awo olunaatuukanga bw'anaakugambanga nti Sijja kufuluma kukuleka; kubanga akwagala ggwe n'ab'omu nnyumba yo, kubanga alaba ebirungi ewuwo; 17 n'olyoka oddiranga olukato, n'oluyisa mu kutu kwe n'okwasa n'oluggi, naye anaabeeranga muddu wo ennaku zonna.
- Era n'omuzaana wo bw'onoomukolanga bw'otyo.
- 18 Tolowoozanga nga kizibu bw'onoomuteeranga ddala okukuvaako; kubanga yakuweerereza emyaka mukaaga okusinga emirundi ebiri oyo aweerereza empeera: era Mukama Katonda wo anaakuwanga omukisa mu byonna by'okola.
- 19 Ebibereberye byonna ebisajja ente zo n'embuzi zo bye zinaazaalanga onootukuzanga eri Mukama Katonda wo: tokozanga mulimu gwonna kibereberye kya nte yo, so tosalanga byoya bya kibereberye kya mbuzi zo.
- 20 Onookiriiranga mu maaso ga Mukama Katonda wo buli mwaka mu kifo Mukama ky'alyeroboza, ggwe n'ab'omu nnyumba yo.
- 21 Era bwe kinaabangako obulema bwonna, bwe kinaawenyeranga oba bwe kinaabanga ekizibe ky'amaaso, obulema bwonna bwonna obutali bulungi; tokiwangayo eri Mukama Katonda wo.
- 22 Onookiriiranga munda w'enzigi zo: abatali balongoofu n'abalongoofu banaakiryanga okwenkanankana, ng'empeewo era ng'enjaza.
- 23 Kyokka tolyanga musaayi gwakyo; onoogufukanga ku ttaka ng'amazzi.
-          
+ 1 Buli myaka omusanvu bwe giggwangako, onoosumululanga. 
+2 Era eno ye ngeri y'okusumulula okwo: buli abanja anaasumululanga ekyo kye yawola muliraanwa we; takibanjanga muliraanwa we era muganda we; kubanga okusumulula kwa Mukama nga kulangiddwa. 
+3 Munnaggwanga oyinza okukimubanja: naye ekintu kyonna ku bibyo ekiri ne muganda wo omukono gwo gunaakisumululanga. 
+4 Naye tewaabenga baavu gy'oli, (kubanga Mukama taalemenga kukuwa mukisa mu nsi Mukama Katonda wo gy'akuwa okuba obusika okugirya;) 
+5 kyokka bw'onoonyiikiranga okuwulira eddoboozi lya Mukama Katonda wo, okukwatanga okukolanga ekiragiro kino kyonna kye nkulagira leero. 
+6 Kubanga Mukama Katonda wo anaakuwanga omukisa, nga bwe yakusuubiza: era onoowolanga amawanga mangi, naye teweewolenga; era onoofuganga amawanga mangi, naye tebaakufugenga ggwe. 
+7 Bwe wanaabanga gy'oli omwavu, omu ku baganda bo, munda w'oluggi lwonna ku nzigi zo mu nsi Mukama Katonda wo gy'akuwa, tokakanyazanga mutima gwo, so tofunyanga ngalo zo eri muganda wo omwavu: 
+8 naye tolemanga kwanjuluza ngalo zo gy'ali, so tolemanga kumuwola ebinaamumalanga olw'okwetaaga kwe mu ekyo ky'abuliddwa. 
+9 Weekuumenga waleme okubaawo mu mutima gwo ekirowoozo ekikodo, ng'oyogera nti Omwaka ogw'omusanvu, omwaka ogusumululirwamu, gunaatera okutuuka; eriiso lyo ne liba bbi eri muganda wo omwavu, n'otomuwa kintu; n'akoowoola Mukama ng'akuwawaabira, ne kiba kibi gy'oli. 
+10 Tolemanga kumuwa, so n'omutima gwo tegunakuwalanga bw'omuwa: kubanga olw'ekigambo ekyo Mukama Katonda wo kyanaavanga akuwa omukisa mu mulimu gwo gwonna ne mu byonna by'onossangako omukono gwo. 
+11 Kubanga abaavu tebaliggwaawo mu nsi ennaku zonna: kyenva nkulagira nga njogera nti Tolemanga kwanjuluza ngalo zo eri muganda wo, eri ababo abeetaaga, era eri abaavu bo, mu nsi yo. 
+12 Bwe bakuguzanga muganda wo, omusajja Omwebbulaniya oba mukazi Omwebbulaniya, n'amala emyaka mukaaga ng'akuweereza; mu mwaka ogw'omusanvu n'olyoka omuteeranga ddala okukuvaako. 
+13 Era bw'onoomuteeranga ddala okukuvaako, tomutanga nga talina kintu: 
+14 onoomulabiranga ebingi ku mbuzi zo ne ku gguuliro lyo ne ku ssogolero lyo: nga Mukama Katonda wo bwe yakuwa omukisa, bw'onoomuwanga bw'otyo. 
+15 Era onojjukiranga nga wali muddu mu nsi y'e Misiri, Mukama Katonda wo n'akununula: kyenva nkulagira ekigambo ekyo leero. 
+16 Awo olunaatuukanga bw'anaakugambanga nti Sijja kufuluma kukuleka; kubanga akwagala ggwe n'ab'omu nnyumba yo, kubanga alaba ebirungi ewuwo; 
+17 n'olyoka oddiranga olukato, n'oluyisa mu kutu kwe n'okwasa n'oluggi, naye anaabeeranga muddu wo ennaku zonna. Era n'omuzaana wo bw'onoomukolanga bw'otyo. 
+18 Tolowoozanga nga kizibu bw'onoomuteeranga ddala okukuvaako; kubanga yakuweerereza emyaka mukaaga okusinga emirundi ebiri oyo aweerereza empeera: era Mukama Katonda wo anaakuwanga omukisa mu byonna by'okola. 
+19 Ebibereberye byonna ebisajja ente zo n'embuzi zo bye zinaazaalanga onootukuzanga eri Mukama Katonda wo: tokozanga mulimu gwonna kibereberye kya nte yo, so tosalanga byoya bya kibereberye kya mbuzi zo. 
+20 Onookiriiranga mu maaso ga Mukama Katonda wo buli mwaka mu kifo Mukama ky'alyeroboza, ggwe n'ab'omu nnyumba yo. 
+21 Era bwe kinaabangako obulema bwonna, bwe kinaawenyeranga oba bwe kinaabanga ekizibe ky'amaaso, obulema bwonna bwonna obutali bulungi; tokiwangayo eri Mukama Katonda wo. 
+22 Onookiriiranga munda w'enzigi zo: abatali balongoofu n'abalongoofu banaakiryanga okwenkanankana, ng'empeewo era ng'enjaza. 
+23 Kyokka tolyanga musaayi gwakyo; onoogufukanga ku ttaka ng'amazzi.          
 
 

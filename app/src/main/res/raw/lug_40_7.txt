@@ -1,22 +1,31 @@
-1 Temusalanga musango, muleme okusalirwa.
- 2 Kubanga omusango gwe musala gulibasalirwa nammwe: era ekigera kye mugereramu, ekyo kye muligererwa nammwe.
- 3 Ekikutunuuliza ki akantu akali ku liiso lya muganda wo, naye notofaayo ku njaliiro eri ku liiso lyo ggwe? 4 Oba olimugamba otya muganda wo nti Leka nkuggyeko akantu akali ku liiso lyo; naye laba, enjaliiro ekyali ku liiso lyo ggwe? 5 Munnanfuusi ggwe, sooka oggyeko enjaliiro ku liiso lyo ggwe; olyoke olabe bulungi okuggyako akantu ku liiso lya muganda wo.
- 6 Temuwanga mbwa ekintu ekitukuvu, so temusuulanga luulu zammwe mu maaso ga mbizzi, zireme okuzirinnyirira n'ebigere byazo, ne zikyuka okubaluma.
- 7 Musabe, muliweebwa; munoonye, muliraba; mweyanjule, muliggulirwawo: 8 kubanga buli muntu asaba aweebwa; anoonya alaba; eyeeyanjula aliggulirwawo.
- 9 Oba muntu ki mu mmwe, omwana we bw'alimusaba emmere, alimuwa ejjinja; 10 oba bw'alisaba ekyennyanja, alimuwa omusota? 11 Kale mmwe, ababi, nga bwe mumanyi okuwa abaana bammwe ebintu ebirungi, Kitammwe ali mu ggulu talisinga nnyo okubawa ebirungi abamusaba? 12 Kale byonna bye mwagala abantu okubakolanga mmwe, nammwe mubakolenga bo bwe mutyo: kubanga ekyo ge mateeka ne bannabbi.
- 13 Muyingire mu mulyango omufunda: kubanga omulyango mugazi, n'ekkubo eridda mu kuzikirira ddene, n'abo abayitamu bangi.
- 14 Kubanga omulyango mufunda n'ekkubo eridda mu bulamu lya kanyigo, n'abo abaliraba batono.
- 15 Mwekuume bannabbi ab'obulimba, abajjira mu byambalo by'endiga gye muli, naye munda gy'emisege egisikula.
- 16 Mulibategeerera ku bibala byabwe.
- Abantu banoga batya ezabbibu ku busaana, oba ettiini ku mwennyango? 17 Bwe kityo buli muti omulungi gubala ebibala birungi; naye omuti omubi gubala ebibala bibi.
- 18 Omuti omulungi teguyinza kubala bibala bibi, so n'omuti omubi teguyinza kubala bibala birungi.
- 19 Buli muti ogutabala kibala kirungi bagutema bagusuula mu muliro.
- 20 Kale mulibategeerera ku bibala byabwe.
- 21 Buli muntu aŋŋamba nti Mukama wange, Mukama wange, si ye aliyingira mu bwakabaka obw'omu ggulu, wabula akola Kitange ali mu ggulu by'ayagala.
- 22 Bangi abaliŋŋmba ku lunaku luli nti Mukama waffe, Mukama waffe, tetwalagulanga mu linnya lyo, tetwagobanga dayimooni mu linnya lyo, tetwakolanga bya magero bingi mu linnya lyo? 23 Ne ndyoka mbaatulira nti Sibamanyangako mmwe: muve we ndi mwenna abakola eby'obujeemu.
- 24 Buli muntu awulira ebigambo byange ebyo, n'amala abikola, kyaliva afaananyizibwa n'omusajja ow'amagezi eyazimba enju ye ku lwazi: 25 enkuba n'etonnya, mukoka n'akulukuta, kibuyaga n'akunta; ne bikuba enju eyo; so n'etegwa; kubanga yazimbibwa ku lwazi.
- 26 Na buli muntu awulira ebigambo byange ebyo n'atabikola, alifaananyizibwa n'omusajja atalina magezi, eyazimba enju ye ku musenyu: 27 enkuba n'etonnya; mukoka n'akulukuta, kibuyaga n'akunta; ne bikuba enju eyo; n'egwa: n'okugwa kwayo kwali kunene.
- 28 Awo olwatuuka Yesu bwe yamala ebigambo ebyo, ebibiina ne byewuunya okuyigiriza kwe: 29 kubanga yabayigiriza nga nannyini buyinza, so si ng'abawandiisi baabwe.
-          
+1 Temusalanga musango, muleme okusalirwa. 
+2 Kubanga omusango gwe musala gulibasalirwa nammwe: era ekigera kye mugereramu, ekyo kye muligererwa nammwe. 
+3 Ekikutunuuliza ki akantu akali ku liiso lya muganda wo, naye notofaayo ku njaliiro eri ku liiso lyo ggwe? 
+4 Oba olimugamba otya muganda wo nti Leka nkuggyeko akantu akali ku liiso lyo; naye laba, enjaliiro ekyali ku liiso lyo ggwe? 
+5 Munnanfuusi ggwe, sooka oggyeko enjaliiro ku liiso lyo ggwe; olyoke olabe bulungi okuggyako akantu ku liiso lya muganda wo. 
+6 Temuwanga mbwa ekintu ekitukuvu, so temusuulanga luulu zammwe mu maaso ga mbizzi, zireme okuzirinnyirira n'ebigere byazo, ne zikyuka okubaluma. 
+7 Musabe, muliweebwa; munoonye, muliraba; mweyanjule, muliggulirwawo: 
+8 kubanga buli muntu asaba aweebwa; anoonya alaba; eyeeyanjula aliggulirwawo. 
+9 Oba muntu ki mu mmwe, omwana we bw'alimusaba emmere, alimuwa ejjinja; 
+10 oba bw'alisaba ekyennyanja, alimuwa omusota? 
+11 Kale mmwe, ababi, nga bwe mumanyi okuwa abaana bammwe ebintu ebirungi, Kitammwe ali mu ggulu talisinga nnyo okubawa ebirungi abamusaba? 
+12 Kale byonna bye mwagala abantu okubakolanga mmwe, nammwe mubakolenga bo bwe mutyo: kubanga ekyo ge mateeka ne bannabbi. 
+13 Muyingire mu mulyango omufunda: kubanga omulyango mugazi, n'ekkubo eridda mu kuzikirira ddene, n'abo abayitamu bangi. 
+14 Kubanga omulyango mufunda n'ekkubo eridda mu bulamu lya kanyigo, n'abo abaliraba batono. 
+15 Mwekuume bannabbi ab'obulimba, abajjira mu byambalo by'endiga gye muli, naye munda gy'emisege egisikula. 
+16 Mulibategeerera ku bibala byabwe. Abantu banoga batya ezabbibu ku busaana, oba ettiini ku mwennyango? 
+17 Bwe kityo buli muti omulungi gubala ebibala birungi; naye omuti omubi gubala ebibala bibi. 
+18 Omuti omulungi teguyinza kubala bibala bibi, so n'omuti omubi teguyinza kubala bibala birungi. 
+19 Buli muti ogutabala kibala kirungi bagutema bagusuula mu muliro. 
+20 Kale mulibategeerera ku bibala byabwe. 
+21 Buli muntu aŋŋamba nti Mukama wange, Mukama wange, si ye aliyingira mu bwakabaka obw'omu ggulu, wabula akola Kitange ali mu ggulu by'ayagala. 
+22 Bangi abaliŋŋmba ku lunaku luli nti Mukama waffe, Mukama waffe, tetwalagulanga mu linnya lyo, tetwagobanga dayimooni mu linnya lyo, tetwakolanga bya magero bingi mu linnya lyo? 
+23 Ne ndyoka mbaatulira nti Sibamanyangako mmwe: muve we ndi mwenna abakola eby'obujeemu. 
+24 Buli muntu awulira ebigambo byange ebyo, n'amala abikola, kyaliva afaananyizibwa n'omusajja ow'amagezi eyazimba enju ye ku lwazi: 
+25 enkuba n'etonnya, mukoka n'akulukuta, kibuyaga n'akunta; ne bikuba enju eyo; so n'etegwa; kubanga yazimbibwa ku lwazi. 
+26 Na buli muntu awulira ebigambo byange ebyo n'atabikola, alifaananyizibwa n'omusajja atalina magezi, eyazimba enju ye ku musenyu: 
+27 enkuba n'etonnya; mukoka n'akulukuta, kibuyaga n'akunta; ne bikuba enju eyo; n'egwa: n'okugwa kwayo kwali kunene. 
+28 Awo olwatuuka Yesu bwe yamala ebigambo ebyo, ebibiina ne byewuunya okuyigiriza kwe: 
+29 kubanga yabayigiriza nga nannyini buyinza, so si ng'abawandiisi baabwe.          
 
 

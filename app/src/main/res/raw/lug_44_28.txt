@@ -1,26 +1,33 @@
- 1 Bwe twamala okulokoka ne tulyoka tutegeera ng'ekizinga kiyitibwa Merita.
- 2 Bannaggwanga ne batukola obulungi obutali bwa bulijjo: kubanga baakuma omuliro, ne batusembeza fenna olw'enkuba eyatonnya n'olw'empewo.
- 3 Naye Pawulo bwe yakuŋŋaanya omuganda gw'obuku, n'agussa mu muliro, embalasaasa n'evaamu olw'ebbugumu n'emwerippa ku mukono.
- 4 Bannaggwanga bwe baalaba ekyekulula nga kireebeetera ku mukono, ne bagamba bokka na bokka nti Mazima omuntu ono mussi; newakubadde ng'alokose mu nnyanja, omusango tegumuganya kubeera mulamu.
- 5 Naye n'akunkumulira mu muliro ekyekulula n'atabaako kabi.
- 6 Naye bali ne balowooza nti anaazimba oba anaasinduka, okugwa eri nga mufu: naye bwe baalwawo ennyo nga bamutunuulira ne batalaba kibi ky'abaddeko, ne bakyuka ne bagamba nti katonda.
- 7 Waaliwo kumpi n'ekifo ekyo ensuku z'omuntu omukulu w'ekizinga, erinnya ne Pubuliyo: oyo n'atusembeza n'atujjanjabira n'ekisa ennaku ssatu.
- 8 Awo kitaawe wa Pubuliyo yali agalamidde, ng'alwadde omusujja n'ekiddukano ky'omusaayi: Pawulo n'ayingira mw'ali, n'asaba n'amussaako emikono n'amuwonya.
- 9 Ekyo bwe kyakolebwa, abalala nabo abaali ku kizinga abaalina endwadde ne bajja ne bawonyezebwa: 10 era abo ne batuwa ekitiibwa kinene; bwe twali tuvaayo ne baleeta ku lyato ebintu bye twetaaga.
- 11 Emyezi esatu bwe gyayitawo, ne tuviirayo mu kyombo eky'e Alegezanderiya, ekyali ku kizinga mu biro eby'omuyaga, akabonero kaakyo Ab'oluganda abalongo.
- 12 Ne tugoba mu Sulakusa ne tumalayo ennaku ssatu: 13 ne tuvaayo ne twetooloola ne tutuuka e Regio: bwe waayitawo olunaku lumu, empewo ez'omuggundu ne zikunta, ku lunaku olw'okubiri ne tutuuka e Putiyooli; 14 gye twasanga ab'oluganda ne batuyita okumala wamu nabo ennaku musanvu: awo bwe tutyo ne tutuuka e Ruumi 15 Ab'oluganda bwe baawulira ebigambo byaffe ne bavaayo okutusisinkana mu Katale ka Apiyo ne mu Bisulo Ebisatu: Pawulo bwe yabalabako ne yeebaza Katonda n'aguma omwoyo.
- 16 Bwe twayingira mu Ruumi, Pawulo n'alagirwa okubeera yekka wamu ne sserikale eyali amukuuma.
- 17 Awo bwe waayitawo ennaku ssatu, n'ayita abakulu b'Abayudaaya: bwe baamala okukuŋŋaana n'abagamba nti Nze, abasajja ab'oluganda, newakubadde nga saakola kibi ku bantu newakubadde ku mpisa za bajjajjaffe, naye nnasibibwa ne mpeebwayo mu mikono gy'Abaruumi mu Yerusaalemi: 18 abo bwe baamala okunkemereza ne baagala okunsumulula, kubanga tewaali nsonga gye ndi ya kunzisa.
- 19 Naye Abayudaaya bwe baagaana, ne mpalirizibwa okujulira Kayisaali, si ng'alina ekigambo okuloopa eggwanga lyaffe.
- 20 Kale olw'ensonga eyo mbayise okundaba n'okwogera nange: kubanga olw'essuubi lya Isiraeri nsibiddwa n'olujegere luno.
- 21 Bo ne bamugamba nti Ffe so tetuweebwanga bbaluwa za bigambo byo okuva mu Buyudaaya, so tewali ku b'oluganda eyali azze n'atubuulira oba n'ayogera ekigambo ekibi ku ggwe.
- 22 Naye twagala okuwulira okuva gy'oli by'olowooza: kubanga ebigambo by'enzikiriza eno, tumanyi nti kiwerebwa wonna wonna.
- 23 Ne bamulaga olunaku ne bajja bangi gy'ali mu kisulo; n'abannyonnyola ng'ategeeza obwakabaka bwa Katonda, era ng'abakkirizisa ebigambo bya Yesu mu mateeka ga Musa ne mu bya bannabbi okusooka enkya okutuusa akawungeezi.
- 24 Abamu ne bakkiriza bye yayogera, abamu ne batakkiriza.
- 25 Bwe bataatabagana bokka na bokka, ne bagenda, Pawulo bwe yamala okwogera ekigambo kimu, nti Omwoyo Omutukuvu yagamba bulungi bajjajjammwe mu nnabbi Isaaya 26 ng'agamba nti Genda eri abantu bano, oyogere nti Okuwulira muliwulira, ne mutategeera; Okulaba muliraba, ne muteetegeereza: 27 Kubanga omutima gw'abantu bano gusavuwadde, N'amatu gaabwe bawulira bubi, N'amaaso gaabwe bagazibye; Baleme okulaba n'amaaso, N'okuwulira n'amatu, N'okutegeera n'omutima gwabwe, N'okukyuka, Nze okubawonya.
- 28 Kale mutegeere nti obulokozi bwa Katonda buno buweerezebbwa ab'amawanga : nabo balibuwulira.
- 29 Bwe yayogera ebigambo ebyo, Abayudaaya ne bagenda nga bawakana nnyo bokka na bokka.
- 30 N'amalayo emyaka ebiri miramba ewuwe yekka mu nju gye yapangisa, n'asembezanga bonna abajjanga gy'ali, 31 ng'abuuliranga obwakabaka bwa Katonda, era ng'ayigirizanga n'obugumu bwonna ebigambo bya Mukama Yesu Kristo, n'ataziyizibwanga.
-          
+ 1 Bwe twamala okulokoka ne tulyoka tutegeera ng'ekizinga kiyitibwa Merita. 
+2 Bannaggwanga ne batukola obulungi obutali bwa bulijjo: kubanga baakuma omuliro, ne batusembeza fenna olw'enkuba eyatonnya n'olw'empewo. 
+3 Naye Pawulo bwe yakuŋŋaanya omuganda gw'obuku, n'agussa mu muliro, embalasaasa n'evaamu olw'ebbugumu n'emwerippa ku mukono. 
+4 Bannaggwanga bwe baalaba ekyekulula nga kireebeetera ku mukono, ne bagamba bokka na bokka nti Mazima omuntu ono mussi; newakubadde ng'alokose mu nnyanja, omusango tegumuganya kubeera mulamu. 
+5 Naye n'akunkumulira mu muliro ekyekulula n'atabaako kabi. 
+6 Naye bali ne balowooza nti anaazimba oba anaasinduka, okugwa eri nga mufu: naye bwe baalwawo ennyo nga bamutunuulira ne batalaba kibi ky'abaddeko, ne bakyuka ne bagamba nti katonda. 
+7 Waaliwo kumpi n'ekifo ekyo ensuku z'omuntu omukulu w'ekizinga, erinnya ne Pubuliyo: oyo n'atusembeza n'atujjanjabira n'ekisa ennaku ssatu. 
+8 Awo kitaawe wa Pubuliyo yali agalamidde, ng'alwadde omusujja n'ekiddukano ky'omusaayi: Pawulo n'ayingira mw'ali, n'asaba n'amussaako emikono n'amuwonya. 
+9 Ekyo bwe kyakolebwa, abalala nabo abaali ku kizinga abaalina endwadde ne bajja ne bawonyezebwa: 
+10 era abo ne batuwa ekitiibwa kinene; bwe twali tuvaayo ne baleeta ku lyato ebintu bye twetaaga. 
+11 Emyezi esatu bwe gyayitawo, ne tuviirayo mu kyombo eky'e Alegezanderiya, ekyali ku kizinga mu biro eby'omuyaga, akabonero kaakyo Ab'oluganda abalongo. 
+12 Ne tugoba mu Sulakusa ne tumalayo ennaku ssatu: 
+13 ne tuvaayo ne twetooloola ne tutuuka e Regio: bwe waayitawo olunaku lumu, empewo ez'omuggundu ne zikunta, ku lunaku olw'okubiri ne tutuuka e Putiyooli; 
+14 gye twasanga ab'oluganda ne batuyita okumala wamu nabo ennaku musanvu: awo bwe tutyo ne tutuuka e Ruumi 
+15 Ab'oluganda bwe baawulira ebigambo byaffe ne bavaayo okutusisinkana mu Katale ka Apiyo ne mu Bisulo Ebisatu: Pawulo bwe yabalabako ne yeebaza Katonda n'aguma omwoyo. 
+16 Bwe twayingira mu Ruumi, Pawulo n'alagirwa okubeera yekka wamu ne sserikale eyali amukuuma. 
+17 Awo bwe waayitawo ennaku ssatu, n'ayita abakulu b'Abayudaaya: bwe baamala okukuŋŋaana n'abagamba nti Nze, abasajja ab'oluganda, newakubadde nga saakola kibi ku bantu newakubadde ku mpisa za bajjajjaffe, naye nnasibibwa ne mpeebwayo mu mikono gy'Abaruumi mu Yerusaalemi: 
+18 abo bwe baamala okunkemereza ne baagala okunsumulula, kubanga tewaali nsonga gye ndi ya kunzisa. 
+19 Naye Abayudaaya bwe baagaana, ne mpalirizibwa okujulira Kayisaali, si ng'alina ekigambo okuloopa eggwanga lyaffe. 
+20 Kale olw'ensonga eyo mbayise okundaba n'okwogera nange: kubanga olw'essuubi lya Isiraeri nsibiddwa n'olujegere luno. 
+21 Bo ne bamugamba nti Ffe so tetuweebwanga bbaluwa za bigambo byo okuva mu Buyudaaya, so tewali ku b'oluganda eyali azze n'atubuulira oba n'ayogera ekigambo ekibi ku ggwe. 
+22 Naye twagala okuwulira okuva gy'oli by'olowooza: kubanga ebigambo by'enzikiriza eno, tumanyi nti kiwerebwa wonna wonna. 
+23 Ne bamulaga olunaku ne bajja bangi gy'ali mu kisulo; n'abannyonnyola ng'ategeeza obwakabaka bwa Katonda, era ng'abakkirizisa ebigambo bya Yesu mu mateeka ga Musa ne mu bya bannabbi okusooka enkya okutuusa akawungeezi. 
+24 Abamu ne bakkiriza bye yayogera, abamu ne batakkiriza. 
+25 Bwe bataatabagana bokka na bokka, ne bagenda, Pawulo bwe yamala okwogera ekigambo kimu, nti Omwoyo Omutukuvu yagamba bulungi bajjajjammwe mu nnabbi Isaaya 
+26 ng'agamba nti Genda eri abantu bano, oyogere nti Okuwulira muliwulira, ne mutategeera; Okulaba muliraba, ne muteetegeereza: 
+27 Kubanga omutima gw'abantu bano gusavuwadde, N'amatu gaabwe bawulira bubi, N'amaaso gaabwe bagazibye; Baleme okulaba n'amaaso, N'okuwulira n'amatu, N'okutegeera n'omutima gwabwe, N'okukyuka, Nze okubawonya. 
+28 Kale mutegeere nti obulokozi bwa Katonda buno buweerezebbwa ab'amawanga : nabo balibuwulira. 
+29 Bwe yayogera ebigambo ebyo, Abayudaaya ne bagenda nga bawakana nnyo bokka na bokka. 
+30 N'amalayo emyaka ebiri miramba ewuwe yekka mu nju gye yapangisa, n'asembezanga bonna abajjanga gy'ali, 
+31 ng'abuuliranga obwakabaka bwa Katonda, era ng'ayigirizanga n'obugumu bwonna ebigambo bya Mukama Yesu Kristo, n'ataziyizibwanga.          
 
 

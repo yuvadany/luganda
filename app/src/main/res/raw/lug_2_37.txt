@@ -1,26 +1,31 @@
- 1 Bezaaleeri n'akola essanduuko ey'omuti gwa sita: obuwanvu bwayo bwali emikono ebiri n'ekitundu, n'obugazi bwayo omukono gumu n'ekitundu, n'obugulumivu bwayo omukono gumu n'ekitundu: 2 n'agibikkako zaabu ennungi munda ne kungulu, n'agikolera engule eya zaabu okwetooloola.
- 3 N'agifumbira empeta nnya eza zaabu, mu magulu gaayo ana; empeta bbiri ku lubiriizi lwayo olumu, n'empeta bbiri ku lubiriizi lwayo olw'okubiri.
- 4 N'akola emisituliro egy'omuti gwa sita, n'agibikkako zaabu.
- 5 N'ayingiza emisituliro mu mpeta ku mbiriizi ez'essanduuko, okusitula essanduuko.
- 6 N'akola entebe ey'okusaasira eya zaabu ennungi: obuwanvu bwayo emikono ebiri n'ekitundu, n'obugazi bwayo omukono gumu n'ekitundu.
- 7 N'akola bakerubi babiri aba zaabu; yabakola n'eyaweesebwa, ku nsonda bbiri ez'entebe ey'okusaasira; 8 kerubi omu ku nsonda eyo, ne kerubi omu ku nsonda eyo: yakola bakerubi mu kitundu eky'entebe ey'okusaasira ku nsonda zaayo ebbiri.
- 9 Ne bakerubi baagolola ebiwaawaatiro byabwe waggulu, nga bayanjaaza ku ntebe ey'okusaasira ebiwaawaatiro byabwe, nga balabagana amaaso gaabwe; amaaso ga bakerubi baatunuulira entebe ey'okusaasira.
- 10 N'akola emmeeza ey'omuti gwa sita: obuwanvu bwayo emikono ebiri, n'obugazi bwayo omukono gumu, n'obugulumivu bwayo omukono gumu n'ekitundu: 11 n'agibikkako zaabu ennungi, n'agikolako engule eya zaabu okwetooloola.
- 12 N'agikolako olukugiro olw'oluta okwetooloola, n'alukolera olukugiro lwayo engule eya zaabu okwetooloola.
- 13 N'agifumbira empeta nnya eza zaabu, n'ateeka empeta ku nsonda ennya eziri ku magulu gaayo ana.
- 14 Kumpi n'olukugiro we zaali empeta, ebifo eby'emisituliro gisitulenga emmeeza.
- 15 N'akola emisituliro egy'omuti gwa sita, n'agibikkako zaabu, okusitulanga emmeeza.
- 16 N'akola ebintu ebyabeeranga ku mmeeza, essowaani zaayo, n'ebijiiko byayo, n'ebibya byayo, n'ensuwa zaayo, okufuka nabyo, ne zaabu ennungi.
- 17 N'akola ekikondo ekya zaabu ennungi: yakola ekikondo n'eyaweesebwa, entobo yaakyo, n'omukonda gwakyo; ebikompe byakyo, n'emitwe gyakyo, n'ebimuli byakyo byali bya zaabu emu nakyo: 18 era amatabi mukaaga gaava ku mbiriizi zaakyo; amatabi asatu ag'ekikondo gaava ku lubiriizi lwakyo olumu, n'amatabi asatu eg'ekikondo gaava ku lubiriizi lwakyo olw'okubiri: 19 ebikompe bisatu ebifaanana ng'ebimuli bya kaluwa mu ttabi limu, omutwe n'ekimuli; n'ebikompe bisatu ebifaanana ng'ebimuli bya kaluwa mu ttabi ery'okubiri, omutwe n'ekimuli: bwe kityo mu matabi mukaaga agaava ku kikondo.
- 20 Ne mu kikondo mwalimu ebikompe bina ebifaanana ng'ebimuli bya kaluwa, emitwe gyabyo n'ebimuli byabyo: 21 n'omutwe gwali wansi w'amatabi abiri aga zaabu emu nagwo, n'omutwe wansi w'amatabi abiri aga zaabu emu nagwo, n'omutwe wansi w'amatabi abiri aga zaabu emu nagwo, mu matabi omukaaga agaakivaako.
- 22 Emitwe gyabyo n'amatabi gaabyo byali bya zaabu emu nakyo: kyonna kyali mulimu muweese ogumu ogwa zaabu ennungi.
- 23 N'akola eby'ettabaaza byakyo, omusanvu, ne makansi waakyo, n'essowaani zaakyo ez'ebisiriiza, ne zaabu ennungi.
- 24 Yakikola ne ttalanta eya zaabu ennungi, n'ebintu byakyo byonna.
- 25 N'akola ekyoto eky'okwoterezangako obubaane eky'omuti gwa sita : obuwanvu bwakyo bwali mukono, n'obugazi bwakyo mukono, okwenkanankana enjuyi zonna; n'obugulumivu bwakyo bwali emikono ebiri; amayembe gaakyo gaali ga muti gumu nakyo.
- 26 N'akibikkako zaabu ennungi, waggulu waakyo, n'enjuyi zaakyo okwetooloola, n'amayembe gaakyo: n'akikolako engule eya zaabu okwetooloola.
- 27 N'akikolako empeta bbiri eza zaabu wansi w'engule yaakyo, mu mbiriizi zaakyo zombi, ku njuyi zaakyo zombi, okuba ebifo eby'emisituliro okukisitulirangako.
- 28 N'akola emisituliro n'omuti gwa sita, n'agibikkako zaabu.
- 29 N'akola amafuta amatukuvu ag'okufukangako, n'obubaane obulongoofu obw'ebyakaloosa ebiwoomerevu, ng'amagezi ag'omukozi w'omugavu bwe gali.
-          
+ 1 Bezaaleeri n'akola essanduuko ey'omuti gwa sita: obuwanvu bwayo bwali emikono ebiri n'ekitundu, n'obugazi bwayo omukono gumu n'ekitundu, n'obugulumivu bwayo omukono gumu n'ekitundu: 
+2 n'agibikkako zaabu ennungi munda ne kungulu, n'agikolera engule eya zaabu okwetooloola. 
+3 N'agifumbira empeta nnya eza zaabu, mu magulu gaayo ana; empeta bbiri ku lubiriizi lwayo olumu, n'empeta bbiri ku lubiriizi lwayo olw'okubiri. 
+4 N'akola emisituliro egy'omuti gwa sita, n'agibikkako zaabu. 
+5 N'ayingiza emisituliro mu mpeta ku mbiriizi ez'essanduuko, okusitula essanduuko. 
+6 N'akola entebe ey'okusaasira eya zaabu ennungi: obuwanvu bwayo emikono ebiri n'ekitundu, n'obugazi bwayo omukono gumu n'ekitundu. 
+7 N'akola bakerubi babiri aba zaabu; yabakola n'eyaweesebwa, ku nsonda bbiri ez'entebe ey'okusaasira; 
+8 kerubi omu ku nsonda eyo, ne kerubi omu ku nsonda eyo: yakola bakerubi mu kitundu eky'entebe ey'okusaasira ku nsonda zaayo ebbiri. 
+9 Ne bakerubi baagolola ebiwaawaatiro byabwe waggulu, nga bayanjaaza ku ntebe ey'okusaasira ebiwaawaatiro byabwe, nga balabagana amaaso gaabwe; amaaso ga bakerubi baatunuulira entebe ey'okusaasira. 
+10 N'akola emmeeza ey'omuti gwa sita: obuwanvu bwayo emikono ebiri, n'obugazi bwayo omukono gumu, n'obugulumivu bwayo omukono gumu n'ekitundu: 
+11 n'agibikkako zaabu ennungi, n'agikolako engule eya zaabu okwetooloola. 
+12 N'agikolako olukugiro olw'oluta okwetooloola, n'alukolera olukugiro lwayo engule eya zaabu okwetooloola. 
+13 N'agifumbira empeta nnya eza zaabu, n'ateeka empeta ku nsonda ennya eziri ku magulu gaayo ana. 
+14 Kumpi n'olukugiro we zaali empeta, ebifo eby'emisituliro gisitulenga emmeeza. 
+15 N'akola emisituliro egy'omuti gwa sita, n'agibikkako zaabu, okusitulanga emmeeza. 
+16 N'akola ebintu ebyabeeranga ku mmeeza, essowaani zaayo, n'ebijiiko byayo, n'ebibya byayo, n'ensuwa zaayo, okufuka nabyo, ne zaabu ennungi. 
+17 N'akola ekikondo ekya zaabu ennungi: yakola ekikondo n'eyaweesebwa, entobo yaakyo, n'omukonda gwakyo; ebikompe byakyo, n'emitwe gyakyo, n'ebimuli byakyo byali bya zaabu emu nakyo: 
+18 era amatabi mukaaga gaava ku mbiriizi zaakyo; amatabi asatu ag'ekikondo gaava ku lubiriizi lwakyo olumu, n'amatabi asatu eg'ekikondo gaava ku lubiriizi lwakyo olw'okubiri: 
+19 ebikompe bisatu ebifaanana ng'ebimuli bya kaluwa mu ttabi limu, omutwe n'ekimuli; n'ebikompe bisatu ebifaanana ng'ebimuli bya kaluwa mu ttabi ery'okubiri, omutwe n'ekimuli: bwe kityo mu matabi mukaaga agaava ku kikondo. 
+20 Ne mu kikondo mwalimu ebikompe bina ebifaanana ng'ebimuli bya kaluwa, emitwe gyabyo n'ebimuli byabyo: 
+21 n'omutwe gwali wansi w'amatabi abiri aga zaabu emu nagwo, n'omutwe wansi w'amatabi abiri aga zaabu emu nagwo, n'omutwe wansi w'amatabi abiri aga zaabu emu nagwo, mu matabi omukaaga agaakivaako. 
+22 Emitwe gyabyo n'amatabi gaabyo byali bya zaabu emu nakyo: kyonna kyali mulimu muweese ogumu ogwa zaabu ennungi. 
+23 N'akola eby'ettabaaza byakyo, omusanvu, ne makansi waakyo, n'essowaani zaakyo ez'ebisiriiza, ne zaabu ennungi. 
+24 Yakikola ne ttalanta eya zaabu ennungi, n'ebintu byakyo byonna. 
+25 N'akola ekyoto eky'okwoterezangako obubaane eky'omuti gwa sita : obuwanvu bwakyo bwali mukono, n'obugazi bwakyo mukono, okwenkanankana enjuyi zonna; n'obugulumivu bwakyo bwali emikono ebiri; amayembe gaakyo gaali ga muti gumu nakyo. 
+26 N'akibikkako zaabu ennungi, waggulu waakyo, n'enjuyi zaakyo okwetooloola, n'amayembe gaakyo: n'akikolako engule eya zaabu okwetooloola. 
+27 N'akikolako empeta bbiri eza zaabu wansi w'engule yaakyo, mu mbiriizi zaakyo zombi, ku njuyi zaakyo zombi, okuba ebifo eby'emisituliro okukisitulirangako. 
+28 N'akola emisituliro n'omuti gwa sita, n'agibikkako zaabu. 
+29 N'akola amafuta amatukuvu ag'okufukangako, n'obubaane obulongoofu obw'ebyakaloosa ebiwoomerevu, ng'amagezi ag'omukozi w'omugavu bwe gali.          
 
 

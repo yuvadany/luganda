@@ -1,38 +1,45 @@
- 1 Mumwebaze Mukama; kubanga mulungi: Kubanga okusaasira kwe kubeerera emirembe gyonna.
- 2 Abanunule ba Mukama boogera bwe batyo, Be yanunula mu mukono gw'omulabe; 3 N'abakuŋŋaanya mu nsi nnyingi, Mu buvanjuba ne mu bugwanjuba, Mu bukiika obwa kkono ne mu bwa ddyo: 4 Baakyamira mu ddungu mu kkubo omutali bantu; Ne batalaba kibuga kya kutuulamu.
- 5 Baalumibwa enjala n'ennyonta, Emmeeme yaabwe n'ezirika mu bo.
- 6 Ne balyoka bakaabira Mukama mu nnaku zaabwe, N'abawonya mu kweraliikira kwabwe.
- 7 Era n'abaluŋŋamiza mu kkubo eggolokofu, Batuuke mu kibuga eky'okutuulamu.
- 8 Kale singa abantu batendereza Mukama olw'obulungi bwe, N'olw'eby'amagero bye eri abaana b'abantu!
- 9 Kubanga akkusa emmeeme eyeegomba, N'emmeeme erumwa ennyonta agijjuza ebirungi.
- 10 Abo abaatuula mu kizikiza ne mu kisiikirize eky'okufa, Nga basibibwa n’ennaku n'ekyuma; 11 Kubanga baajeemera ebigambo bya Katonda, Ne banyooma okuteesa kw'oyo ali waggulu ennyo: 12 Kyeyava azitoya omutima gwabwe n'okutegana; Ne bagwa, so nga tewali anaabayamba.
- 13 Ne balyoka bakaabira Mukama mu nnaku zaabwe, N'abalokola mu kweraliikirira kwabwe.
- 14 N'abaggya mu kizikiza n'ekisiikirize eky'okufa, N'amenyaamenya enjegere zaabwe.
- 15 Kale singa abantu batendereza Mukama olw'obulungi bwe, N'olw'eby'amagero bye eri abaana b'abantu.
- 16 Kubanga yamenya enzigi ez'ebikomo, N'atemera ddala ebisiba eby'ebyuma: 17 Abasirusiru olw'okwonoona kwabwe, N'olw'obutali butuukirivu bwabwe, babonyaabonyezebwa.
- 18 Emmeeme yaabwe etamwa emmere yonna yonna; Ne basemberera emiryango egy'okufa.
- 19 Ne balyoka bakaabira Mukama mu nnaku zaabwe, N'abalokola mu kweraliikirira kwabwe.
- 20 Atuma ekigambo kye, n’abawonya, N'abaggya mu kuzikirira kwabwe.
- 21 Kale singa abantu batendereza Mukama olw'obulungi bwe, N'olw'eby'amagero bye eri abaana b'abantu!
- 22 Era bawengayo ssaddaaka ez'okwebaza, Era batenderenga ebikolwa bye n'okuyimba.
- 23 Abaserengetera ku nnyanja mu maato, Abakola emirimu awali amazzi amangi; 24 Abo balaba ebikolwa bya Mukama, N'eby'amagero bye mu buziba.
- 25 Kubanga alagira, n'akunsa omuyaga, Oguyimusa amayengo gaagwo.
- 26 Balinnya mu ggulu, ne bakka nate mu ddubi: Emmeeme yaabwe esaanuuka olw'ennaku.
- 27 Beesunda eruuyi n'eruuyi, era batagatta ng'omutamiivu, N'amagezi gonna nga gababuze.
- 28 Ne balyoka bakaabira Mukama mu nnaku zaabwe, N'abaggya mu kweraliikirira kwabwe.
- 29 Alaaza omuyaga, Amayengo gaagwo ne gateeka.
- 30 Ne balyoka basanyuka kubanga bawummula; N'alyoka abaleeta mu mwalo gwe baagala okutuukamu.
- 31 Kale singa abantu batendereza Mukama olw'obulungi bwe, N'olw'eby'amagero bye eri abaana b'abantu 32 Era bamugulumizenga mu kkuŋŋaaniro ery'abantu, Era bamutenderezenga awali ekituuti eky'abakadde.
- 33 Afuula emigga eddungu, N'enzizi azifuula ettaka ekkalu; 34 Ensi ebala agifuula olukoola olw'omunnyo, Olw'obubi bwabo abatuula omwo.
- 35 Eddungu alifuula ekidiba eky'amazzi, N'ensi enkalu ensulo ez'amazzi.
- 36 Omwo mw'atuuza abalumwa enjala, Balongoosenga ekibuga eky'okutuulamu; 37 Era basigenga ennimiro, basimbenga emizabbibu, Beefunirenga ebibala eby'ekyengera.
- 38 Era n'abawa omukisa, n'okweyongera ne beeyongeranga nnyo; N'ataganya nte zaabwe okukendeera.
- 39 Nate, ne baweebuuka ne bajeezebwa Olw'okujoogebwa, n'okweraliikirira, n'okunakuwala.
- 40 Anyoomesa nnyo abalangira, Era abakyamiza mu nsiko omutali kkubo.
- 41 Era naye agulumiza omwavu okuva mu nnaku.
- N'amukolera ebika ng'ekisibo.
- 42 Abatuukirivu balibiraba, balisanyuka; N'obutali butuukirivu bwonna buliziba akamwa kaabwo.
- 43 Buli alina amagezi anaalowoozanga ebyo, Era banaafumiitirizanga okusaasira kwa Mukama.
-          
+ 1 Mumwebaze Mukama; kubanga mulungi: Kubanga okusaasira kwe kubeerera emirembe gyonna. 
+2 Abanunule ba Mukama boogera bwe batyo, Be yanunula mu mukono gw'omulabe; 
+3 N'abakuŋŋaanya mu nsi nnyingi, Mu buvanjuba ne mu bugwanjuba, Mu bukiika obwa kkono ne mu bwa ddyo: 
+4 Baakyamira mu ddungu mu kkubo omutali bantu; Ne batalaba kibuga kya kutuulamu. 
+5 Baalumibwa enjala n'ennyonta, Emmeeme yaabwe n'ezirika mu bo. 
+6 Ne balyoka bakaabira Mukama mu nnaku zaabwe, N'abawonya mu kweraliikira kwabwe. 
+7 Era n'abaluŋŋamiza mu kkubo eggolokofu, Batuuke mu kibuga eky'okutuulamu. 
+8 Kale singa abantu batendereza Mukama olw'obulungi bwe, N'olw'eby'amagero bye eri abaana b'abantu! 
+9 Kubanga akkusa emmeeme eyeegomba, N'emmeeme erumwa ennyonta agijjuza ebirungi. 
+10 Abo abaatuula mu kizikiza ne mu kisiikirize eky'okufa, Nga basibibwa n’ennaku n'ekyuma; 
+11 Kubanga baajeemera ebigambo bya Katonda, Ne banyooma okuteesa kw'oyo ali waggulu ennyo: 
+12 Kyeyava azitoya omutima gwabwe n'okutegana; Ne bagwa, so nga tewali anaabayamba. 
+13 Ne balyoka bakaabira Mukama mu nnaku zaabwe, N'abalokola mu kweraliikirira kwabwe. 
+14 N'abaggya mu kizikiza n'ekisiikirize eky'okufa, N'amenyaamenya enjegere zaabwe. 
+15 Kale singa abantu batendereza Mukama olw'obulungi bwe, N'olw'eby'amagero bye eri abaana b'abantu. 
+16 Kubanga yamenya enzigi ez'ebikomo, N'atemera ddala ebisiba eby'ebyuma: 
+17 Abasirusiru olw'okwonoona kwabwe, N'olw'obutali butuukirivu bwabwe, babonyaabonyezebwa. 
+18 Emmeeme yaabwe etamwa emmere yonna yonna; Ne basemberera emiryango egy'okufa. 
+19 Ne balyoka bakaabira Mukama mu nnaku zaabwe, N'abalokola mu kweraliikirira kwabwe. 
+20 Atuma ekigambo kye, n’abawonya, N'abaggya mu kuzikirira kwabwe. 
+21 Kale singa abantu batendereza Mukama olw'obulungi bwe, N'olw'eby'amagero bye eri abaana b'abantu! 
+22 Era bawengayo ssaddaaka ez'okwebaza, Era batenderenga ebikolwa bye n'okuyimba. 
+23 Abaserengetera ku nnyanja mu maato, Abakola emirimu awali amazzi amangi; 
+24 Abo balaba ebikolwa bya Mukama, N'eby'amagero bye mu buziba. 
+25 Kubanga alagira, n'akunsa omuyaga, Oguyimusa amayengo gaagwo. 
+26 Balinnya mu ggulu, ne bakka nate mu ddubi: Emmeeme yaabwe esaanuuka olw'ennaku. 
+27 Beesunda eruuyi n'eruuyi, era batagatta ng'omutamiivu, N'amagezi gonna nga gababuze. 
+28 Ne balyoka bakaabira Mukama mu nnaku zaabwe, N'abaggya mu kweraliikirira kwabwe. 
+29 Alaaza omuyaga, Amayengo gaagwo ne gateeka. 
+30 Ne balyoka basanyuka kubanga bawummula; N'alyoka abaleeta mu mwalo gwe baagala okutuukamu. 
+31 Kale singa abantu batendereza Mukama olw'obulungi bwe, N'olw'eby'amagero bye eri abaana b'abantu 
+32 Era bamugulumizenga mu kkuŋŋaaniro ery'abantu, Era bamutenderezenga awali ekituuti eky'abakadde. 
+33 Afuula emigga eddungu, N'enzizi azifuula ettaka ekkalu; 
+34 Ensi ebala agifuula olukoola olw'omunnyo, Olw'obubi bwabo abatuula omwo. 
+35 Eddungu alifuula ekidiba eky'amazzi, N'ensi enkalu ensulo ez'amazzi. 
+36 Omwo mw'atuuza abalumwa enjala, Balongoosenga ekibuga eky'okutuulamu; 
+37 Era basigenga ennimiro, basimbenga emizabbibu, Beefunirenga ebibala eby'ekyengera. 
+38 Era n'abawa omukisa, n'okweyongera ne beeyongeranga nnyo; N'ataganya nte zaabwe okukendeera. 
+39 Nate, ne baweebuuka ne bajeezebwa Olw'okujoogebwa, n'okweraliikirira, n'okunakuwala. 
+40 Anyoomesa nnyo abalangira, Era abakyamiza mu nsiko omutali kkubo. 
+41 Era naye agulumiza omwavu okuva mu nnaku. N'amukolera ebika ng'ekisibo. 
+42 Abatuukirivu balibiraba, balisanyuka; N'obutali butuukirivu bwonna buliziba akamwa kaabwo. 
+43 Buli alina amagezi anaalowoozanga ebyo, Era banaafumiitirizanga okusaasira kwa Mukama.          
 
 

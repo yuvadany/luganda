@@ -1,35 +1,28 @@
- 1 Awo Musa n'abakadde ba Isiraeri, ne balagira abantu, nga boogera nti Mwekuumenga ekiragiro kyonna kye mbalagira leero.
- 2 Kale olulituuka ku lunaku olwo lwe mulisomoka Yoludaani okuyingira mu nsi Mukama Katonda wo gy'akuwa, olyesimbira amayinja amanene, n'ogasiigako ennoni: 3 era oliwandiika ku go ebigambo byonna eby'amateeka gano, bw'olimala okusomoka; olyoke oyingire mu nsi Mukama Katonda wo gy'akuwa, ensi ekulukuta amata n'omubisi gw'enjuki, nga Mukama, Katonda wa bajjajja bo, bwe yakusuubiza.
- 4 Awo olulituuka bwe muliba nga musomose Yoludaani; ne mulyoka musimba amayinja gano, ge mbalagira leero, ku lusozi Ebali, n'ogasiigako ennoni.
- 5 Era olizimbira eyo ekyoto kya Mukama Katonda wo, ekyoto eky'amayinja: togayimusangako kintu kya kyuma.
- 6 Ekyoto kya Mukama Katonda wo onookizimbyanga amayinja agatali mateme: era okwo kw'onooweeranga ebiweebwayo ebyokebwa eri Mukama Katonda wo: 7 era onoosalanga ebiweebwayo olw'emirembe, n'oliiranga eyo; era onoosanyukiranga mu maaso ga Mukama Katonda wo.
- 8 Era oliwandiikira ddala bulungi ku mayinja ago ebigambo byonna eby'amateeka gano.
- 9 Awo Musa ne bakabona Abaleevi ne bagamba Isiraeri yenna nti Musirike, muwulire, ggwe Isiraeri; leero ofuuse eggwanga lya Mukama Katonda wo.
- 10 Kyonoovanga ogondera eddoboozi lya Mukama Katonda wo, n'okolanga ebiragiro bye n'amateeka ge, bye nkulagira leero.
- 11 Awo Musa n'akuutiira abantu ku lunaku olwo, ng'ayogera nti 12 Bano be baliyimirira ku lusozi Gerizimu okusabira abantu omukisa nga mumaze okusomoka Yoludaani; Simyoni, ne Leevi, ne Yuda, ne Isakaali, ne Yusufu, ne Benyamini: 13 era bano be baliyimirira ku lusozi Ebali olw'okukolima; Lewubeetu; Gaadi, ne Aseri, ne Zebbulooni; Ddaani, ne Nafutaali.
- 14 Kale Abaleevi baliddamu ne bagamba abasajja bonna aba Isiraeri n'eddoboozi ddene nti 15 Akolimirwe omuntu akola ekifaananyi ekyole oba ekifumbe, eky'omuzizo eri Mukama; omulimu gw'engalo z'omukozi, n'akisimba mu kyama.
- Abantu bonna ne baddamu ne bagamba nti Amiina.
- 16 Akolimirwe oyo anyooma kitaawe oba nnyina.
- Abantu bonna ne bagamba nti Amiina.
- 17 Akolimirwe oyo ajjulula ensalo ya muliraanwa we.
- Abantu bonna ne bagamba nti Amiina.
- 18 Akolimirwe oyo akyamya omuzibe w'amaaso okuva mu kkubo.
- Abantu bonna ne bagamba nti Amiina.
- 19 Akolimirwe oyo akyamya ensonga eya munnaggwanga n'atalina kitaawe ne nnamwandu.
- Abantu bonna ne bagamba nti Amiina.
- 20 Akolimirwe oyo asula ne mukazi wa kitaawe; kubanga abikkudde olukugiro lwa kitaawe.
- Abantu bonna ne bagamba nti Amiina: 21 Akolimirwe oya asula n'ensolo yonna yonna.
- Abantu bonna ne bagamba nti Amiina.
- 22 Akolimirwe oyo asula ne mwannyina, muwala wa kitaawe oba muwala wa nnyina.
- Abantu bonna ne bagamba nti Amiina.
- 23 Akolimirwe oyo asula ne mukoddomi we.
- Abantu bonna ne bagamba nti Amiina.
- 24 Akolimirwe oyo akuba muliraanwa we mu kyama.
- Abantu bonna ne bagamba nti Amiina.
- 25 Akolimirwe oyo alya empeera olw'okuttisa omuntu ataliiko musango.
- Abantu bonna ne bagamba nti Amiina.
- 26 Akolimirwe oyo atanyweza bigambo by’amateeka gano okubikolanga.
- Abantu bonna ne bagamba nti Amiina.
-          
+ 1 Awo Musa n'abakadde ba Isiraeri, ne balagira abantu, nga boogera nti Mwekuumenga ekiragiro kyonna kye mbalagira leero. 
+2 Kale olulituuka ku lunaku olwo lwe mulisomoka Yoludaani okuyingira mu nsi Mukama Katonda wo gy'akuwa, olyesimbira amayinja amanene, n'ogasiigako ennoni: 
+3 era oliwandiika ku go ebigambo byonna eby'amateeka gano, bw'olimala okusomoka; olyoke oyingire mu nsi Mukama Katonda wo gy'akuwa, ensi ekulukuta amata n'omubisi gw'enjuki, nga Mukama, Katonda wa bajjajja bo, bwe yakusuubiza. 
+4 Awo olulituuka bwe muliba nga musomose Yoludaani; ne mulyoka musimba amayinja gano, ge mbalagira leero, ku lusozi Ebali, n'ogasiigako ennoni. 
+5 Era olizimbira eyo ekyoto kya Mukama Katonda wo, ekyoto eky'amayinja: togayimusangako kintu kya kyuma. 
+6 Ekyoto kya Mukama Katonda wo onookizimbyanga amayinja agatali mateme: era okwo kw'onooweeranga ebiweebwayo ebyokebwa eri Mukama Katonda wo: 
+7 era onoosalanga ebiweebwayo olw'emirembe, n'oliiranga eyo; era onoosanyukiranga mu maaso ga Mukama Katonda wo. 
+8 Era oliwandiikira ddala bulungi ku mayinja ago ebigambo byonna eby'amateeka gano. 
+9 Awo Musa ne bakabona Abaleevi ne bagamba Isiraeri yenna nti Musirike, muwulire, ggwe Isiraeri; leero ofuuse eggwanga lya Mukama Katonda wo. 
+10 Kyonoovanga ogondera eddoboozi lya Mukama Katonda wo, n'okolanga ebiragiro bye n'amateeka ge, bye nkulagira leero. 
+11 Awo Musa n'akuutiira abantu ku lunaku olwo, ng'ayogera nti 
+12 Bano be baliyimirira ku lusozi Gerizimu okusabira abantu omukisa nga mumaze okusomoka Yoludaani; Simyoni, ne Leevi, ne Yuda, ne Isakaali, ne Yusufu, ne Benyamini: 
+13 era bano be baliyimirira ku lusozi Ebali olw'okukolima; Lewubeetu; Gaadi, ne Aseri, ne Zebbulooni; Ddaani, ne Nafutaali. 
+14 Kale Abaleevi baliddamu ne bagamba abasajja bonna aba Isiraeri n'eddoboozi ddene nti 
+15 Akolimirwe omuntu akola ekifaananyi ekyole oba ekifumbe, eky'omuzizo eri Mukama; omulimu gw'engalo z'omukozi, n'akisimba mu kyama. Abantu bonna ne baddamu ne bagamba nti Amiina. 
+16 Akolimirwe oyo anyooma kitaawe oba nnyina. Abantu bonna ne bagamba nti Amiina. 
+17 Akolimirwe oyo ajjulula ensalo ya muliraanwa we. Abantu bonna ne bagamba nti Amiina. 
+18 Akolimirwe oyo akyamya omuzibe w'amaaso okuva mu kkubo. Abantu bonna ne bagamba nti Amiina. 
+19 Akolimirwe oyo akyamya ensonga eya munnaggwanga n'atalina kitaawe ne nnamwandu. Abantu bonna ne bagamba nti Amiina. 
+20 Akolimirwe oyo asula ne mukazi wa kitaawe; kubanga abikkudde olukugiro lwa kitaawe. Abantu bonna ne bagamba nti Amiina: 
+21 Akolimirwe oya asula n'ensolo yonna yonna. Abantu bonna ne bagamba nti Amiina. 
+22 Akolimirwe oyo asula ne mwannyina, muwala wa kitaawe oba muwala wa nnyina. Abantu bonna ne bagamba nti Amiina. 
+23 Akolimirwe oyo asula ne mukoddomi we. Abantu bonna ne bagamba nti Amiina. 
+24 Akolimirwe oyo akuba muliraanwa we mu kyama. Abantu bonna ne bagamba nti Amiina. 
+25 Akolimirwe oyo alya empeera olw'okuttisa omuntu ataliiko musango. Abantu bonna ne bagamba nti Amiina. 
+26 Akolimirwe oyo atanyweza bigambo by’amateeka gano okubikolanga. Abantu bonna ne bagamba nti Amiina.          
 
 

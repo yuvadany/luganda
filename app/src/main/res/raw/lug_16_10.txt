@@ -1,11 +1,41 @@
- 1 Era abo abassaako akabonero be bano, Nekkemiya Tirusaasa, mutabani wa Kakaliya, ne Zeddekiya; 2 Seraya, ne Azaliya ne Yeremiya; 3 ne Pasukuli ne Amaliya ne Malukiya; 4 ne Kattusi ne Sebaniya ne Malluki; 5 ne Kalimu ne Meremoosi ne Obadiya; 6 ne Danyeri ne Ginnesoni ne Baluki; 7 ne Messulamu ne Abiya ne Miyamini; 8 ne Maaziya ne Birugayi ne Semaaya: abo be baali bakabona.
- 9 N'Abaleevi amannya gaabwe, Yesuwa mutabani wa Azaniya ne Binnuyi ow'oku baana ba Kenadadi ne Kadumyeri; 10 ne baganda baabwe, Sebaniya ne Kodiya ne Kerita ne Peraya ne Kanani; 11 ne Mikka ne Lekobu ne Kasabiya;, 12 ne Zakkuli ne Serebiya ne Sebaniya; 13 ne Kodiya ne Baani ne Beninu.
- 14 Abakulu b'abantu: Palosi ne Pakasumowaabu ne Eramu ne Zattu ne Baani; 15 ne Bunni ne Azugaadi ne Babayi; 16 ne Adoniya ne Biguvayi ne Adini; 17 ne Atera ne Keezeekiya ne Azzuli; 18 ne Kodiya ne Kasumu ne Bezayi; 19 ne Kalifu ne Anasosi ne Nobayi; 20 ne Magupiyasi ne Mesullamu ne Keziri; 21 ne Mesezaberi ne Zadoki ne Yadduwa; 22 ne Peratiya ne Kanani ne Anaya; 23 ne Koseya ne Kananiya ne Kassubu; 24 ne Kallokesi ne Piruka ne Sobeki; 25 ne Lekumu ne Kasabuna ne Maaseya; 26 ne Akiya ne Kanani ne Anani; 27 ne Malluki ne Kallimu ne Baana.
- 28 N'abantu abalala bonna, bakabona n'Abaleevi n'abaggazi n'abayimbi n'Abanesinimu n'abo bonna abeeyawula mu mawanga ag'omu nsi eri amateeka ga Katonda, bakazi baabwe, batabani baabwe, ne bawala baabwe, buli muntu eyalina okumanya n'okutegeera; 29 ne beegatta ne baganda baabwe, abakungu baabwe, ne beegwanyiza ekikolimo n'ekirayiro okutambuliranga mu mateeka ga Katonda agaaweerwa mu Musa omuddu wa Katonda, n'okukwatanga n'okukolanga ebiragiro byonna ebya Mukama, Mukama waffe, n'emisango gye n'amateeka ge; 30 era tulemenga okuwa bawala baffe amawanga ag'omu nsi, newakubadde okutwaliranga batabani baffe bawala baabwe; 31 era amawanga ag'omu nsi bwe banaaleetanga ebintu oba ebyokulya byonna okutundira ku lunaku olwa ssabbiiti, obutagulaaniranga nabo ku ssabbiiti newakubadde ku lunaku olutukuvu: era nga tunaalekanga omwaka ogw'omusanvu, n'okubanjanga ebbanja lyonna.
- 32 Era ne tweteekerawo amateeka okwesaliranga buli mwaka ekitundu eky'okusatu ekya sekeri olw'okuweerezanga okw'omu nnyumba ya Katonda waffe; 33 olw'emigaati egy'okulaga n'olw'ekiweebwayo eky'obutta ekitaggwaawo n'olw'ekiweebwayo ekyokebwa ekitaggwaawo, eby'oku ssabbiiti n'eby'oku myezi egyakaboneka, n'olw'embaga egyateekebwawo, n'olw'ebintu ebitukuvu n'olw'ebiweebwayo olw'ekibi okutangirira Isiraeri, n'olw'emirimu gyonna egy'omu nnyumba ya Katonda waffe.
- 34 Ne tukuba obululu, bakabona n'Abaleevi n'abantu, olw'ekiweebwayo eky'enku, okuzireetanga mu nnyumba ya Katonda waffe ng'ennyumba za bakitaffe bwe zaali mu biseera ebyalagirwa buli mwaka, okwokeranga ku kyoto kya Mukama Katonda waffe nga bwe kyawandiikibwa mu mateeka: 35 n'okuleetanga ebibala ebibereberye eby'ettaka lyaffe, n'ebibereberye eby'ebibala byonna eby'oku miti egy'engeri zonna buli mwaka mu nnyumba ya Mukama: 36 era n'ababereberye ku batabani baffe ne ku bisibo byaffe nga bwe kyawandiikibwa mu mateeka, n'ebibereberye ku nte zaffe ne ku ndiga zaffe okuleetanga mu nnyumba ya Katonda waffe eri bakabona abaaweererezanga mu nnyumba ya Katonda waffe: 37 era nga tunaaleetanga ebibereberye eby'omugoyo gwaffe n'ebiweebwayo byaffe ebisitulibwa, n'ebibala eby'oku miti egy'engeri zonna, omwenge n'amafuta, eri bakabona mu bisenge eby'omu nnyumba ya Katonda waffe; n'ebitundu eby'ekkumi eby'ettaka lyaffe eri Abaleevi; kubanga abo, Abaleevi, be baaweebwa ebitundu eby'ekkumi mu bibuga byonna gye tulimira.
- 38 Era kabona mutabani wa Alooni anaabanga wamu n'Abaleevi, Abaleevi bwe banaaweebwanga ebitundu eby'ekkumi: era Abaleevi banaaleetanga ekitundu eky'ekkumi eky'oku bitundu eby'ekkumi mu nnyumba ya Katonda waffe, mu bisenge mu nnyumba ey'okuterekamu eby'obugagga.
- 39 Kubanga abaana ba Isiraeri n'abaana ba Leevi banaaleetanga ekiweebwayo ekisitulibwa eky'eŋŋaano n'eky'omwenge n'eky'amafuta mu bisenge omuli ebintu eby'omu kifo ekitukuvu, ne bakabona abaweereza n'abaggazi n'abayimbi: so tetuulekenga nnyumba ya Katonda waffe.
-          
+ 1 Era abo abassaako akabonero be bano, Nekkemiya Tirusaasa, mutabani wa Kakaliya, ne Zeddekiya; 
+2 Seraya, ne Azaliya ne Yeremiya; 
+3 ne Pasukuli ne Amaliya ne Malukiya; 
+4 ne Kattusi ne Sebaniya ne Malluki; 
+5 ne Kalimu ne Meremoosi ne Obadiya; 
+6 ne Danyeri ne Ginnesoni ne Baluki; 
+7 ne Messulamu ne Abiya ne Miyamini; 
+8 ne Maaziya ne Birugayi ne Semaaya: abo be baali bakabona. 
+9 N'Abaleevi amannya gaabwe, Yesuwa mutabani wa Azaniya ne Binnuyi ow'oku baana ba Kenadadi ne Kadumyeri; 
+10 ne baganda baabwe, Sebaniya ne Kodiya ne Kerita ne Peraya ne Kanani; 
+11 ne Mikka ne Lekobu ne Kasabiya;, 
+12 ne Zakkuli ne Serebiya ne Sebaniya; 
+13 ne Kodiya ne Baani ne Beninu. 
+14 Abakulu b'abantu: Palosi ne Pakasumowaabu ne Eramu ne Zattu ne Baani; 
+15 ne Bunni ne Azugaadi ne Babayi; 
+16 ne Adoniya ne Biguvayi ne Adini; 
+17 ne Atera ne Keezeekiya ne Azzuli; 
+18 ne Kodiya ne Kasumu ne Bezayi; 
+19 ne Kalifu ne Anasosi ne Nobayi; 
+20 ne Magupiyasi ne Mesullamu ne Keziri; 
+21 ne Mesezaberi ne Zadoki ne Yadduwa; 
+22 ne Peratiya ne Kanani ne Anaya; 
+23 ne Koseya ne Kananiya ne Kassubu; 
+24 ne Kallokesi ne Piruka ne Sobeki; 
+25 ne Lekumu ne Kasabuna ne Maaseya; 
+26 ne Akiya ne Kanani ne Anani; 
+27 ne Malluki ne Kallimu ne Baana. 
+28 N'abantu abalala bonna, bakabona n'Abaleevi n'abaggazi n'abayimbi n'Abanesinimu n'abo bonna abeeyawula mu mawanga ag'omu nsi eri amateeka ga Katonda, bakazi baabwe, batabani baabwe, ne bawala baabwe, buli muntu eyalina okumanya n'okutegeera; 
+29 ne beegatta ne baganda baabwe, abakungu baabwe, ne beegwanyiza ekikolimo n'ekirayiro okutambuliranga mu mateeka ga Katonda agaaweerwa mu Musa omuddu wa Katonda, n'okukwatanga n'okukolanga ebiragiro byonna ebya Mukama, Mukama waffe, n'emisango gye n'amateeka ge; 
+30 era tulemenga okuwa bawala baffe amawanga ag'omu nsi, newakubadde okutwaliranga batabani baffe bawala baabwe; 
+31 era amawanga ag'omu nsi bwe banaaleetanga ebintu oba ebyokulya byonna okutundira ku lunaku olwa ssabbiiti, obutagulaaniranga nabo ku ssabbiiti newakubadde ku lunaku olutukuvu: era nga tunaalekanga omwaka ogw'omusanvu, n'okubanjanga ebbanja lyonna. 
+32 Era ne tweteekerawo amateeka okwesaliranga buli mwaka ekitundu eky'okusatu ekya sekeri olw'okuweerezanga okw'omu nnyumba ya Katonda waffe; 
+33 olw'emigaati egy'okulaga n'olw'ekiweebwayo eky'obutta ekitaggwaawo n'olw'ekiweebwayo ekyokebwa ekitaggwaawo, eby'oku ssabbiiti n'eby'oku myezi egyakaboneka, n'olw'embaga egyateekebwawo, n'olw'ebintu ebitukuvu n'olw'ebiweebwayo olw'ekibi okutangirira Isiraeri, n'olw'emirimu gyonna egy'omu nnyumba ya Katonda waffe. 
+34 Ne tukuba obululu, bakabona n'Abaleevi n'abantu, olw'ekiweebwayo eky'enku, okuzireetanga mu nnyumba ya Katonda waffe ng'ennyumba za bakitaffe bwe zaali mu biseera ebyalagirwa buli mwaka, okwokeranga ku kyoto kya Mukama Katonda waffe nga bwe kyawandiikibwa mu mateeka: 
+35 n'okuleetanga ebibala ebibereberye eby'ettaka lyaffe, n'ebibereberye eby'ebibala byonna eby'oku miti egy'engeri zonna buli mwaka mu nnyumba ya Mukama: 
+36 era n'ababereberye ku batabani baffe ne ku bisibo byaffe nga bwe kyawandiikibwa mu mateeka, n'ebibereberye ku nte zaffe ne ku ndiga zaffe okuleetanga mu nnyumba ya Katonda waffe eri bakabona abaaweererezanga mu nnyumba ya Katonda waffe: 
+37 era nga tunaaleetanga ebibereberye eby'omugoyo gwaffe n'ebiweebwayo byaffe ebisitulibwa, n'ebibala eby'oku miti egy'engeri zonna, omwenge n'amafuta, eri bakabona mu bisenge eby'omu nnyumba ya Katonda waffe; n'ebitundu eby'ekkumi eby'ettaka lyaffe eri Abaleevi; kubanga abo, Abaleevi, be baaweebwa ebitundu eby'ekkumi mu bibuga byonna gye tulimira. 
+38 Era kabona mutabani wa Alooni anaabanga wamu n'Abaleevi, Abaleevi bwe banaaweebwanga ebitundu eby'ekkumi: era Abaleevi banaaleetanga ekitundu eky'ekkumi eky'oku bitundu eby'ekkumi mu nnyumba ya Katonda waffe, mu bisenge mu nnyumba ey'okuterekamu eby'obugagga. 
+39 Kubanga abaana ba Isiraeri n'abaana ba Leevi banaaleetanga ekiweebwayo ekisitulibwa eky'eŋŋaano n'eky'omwenge n'eky'amafuta mu bisenge omuli ebintu eby'omu kifo ekitukuvu, ne bakabona abaweereza n'abaggazi n'abayimbi: so tetuulekenga nnyumba ya Katonda waffe.          
 
 

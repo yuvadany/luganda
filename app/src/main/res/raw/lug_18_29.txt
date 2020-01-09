@@ -1,16 +1,27 @@
- 1 1 Awo Yobu n'aleeta nate olugero lwe n'ayogera nti 2 Singa mbadde nga bwe nnali mu myezi egyayita, Nga bwe nnali mu nnaku Katonda ze yandabirirangamu; 3 Ettabaaza ye lwe yayakiranga omutwe gwange, N'omusana gwe gwe gwantambuzanga okuyita mu kizikiza; 4 Nga bwe nnali ennaku zange nga zengedde, Ekyama kya Katonda bwe kyabanga ku weema yange; 5 Omuyinza w'ebintu byonna bwe yali ng'akyali nange, N'abaana bange nga bakyanneetoolodde; 6 Ebigere byange bwe byanaazibwanga n'omuzigo, N'olwazi bwe lwanfuukira emigga egy'amafuta!
- 7 Bwe nnafulumanga ne ŋŋenda eri omulyango mu kibuga, Bwe nnategekanga entebe yange mu luguudo, 8 Abalenzi bandabanga ne beekweka, Abakadde ne bayimukanga ne bayimirira; 9 Abakungu ne balekanga okwogera, Ne bateeka omukono gwabwe kamwa kaabwe; 10 Eddoboozi ery'abakulu ne lisirika, Olulimi lwabwe ne lwegatta n'ekibuno ky'akamwa kaabwe.
- 11 Kubanga okutu bwe kwampuliranga ne kulyoka kunneebaza; Era eriiso bwe lyandabanga ne liba mujulirwa wange: 12 Kubanga nawonyanga omwavu eyakaaba, Era n'atalina kitaawe eyabulwa ow'okumuyamba.
- 13 Omukisa gwanjijira oyo gwe yansabira eyali ayagala okuzikirira: Ne nnyimbisa olw'essanyu omutima gwa nnamwandu.
- 14 Nayambala obutuukirivu ne bumbikkako: Obutalya nsonga bwange ne buba ng'omunagiro n'engule.
- 15 Nabanga amaaso eri omuzibe, Era nabanga ebigere eri awenyera.
- 16 Nabanga kitaabwe abeetaaga: Era nakeberanga ensonga y'oyo gwe ssaamanya.
- 17 Era namenyanga atali mutuukirivu oluba, Ne nsika omuyiggo ne nguggya mu mannyo ge, 18 Kale ne njogera nti Ndifiira mu kisu kyange, Era naayongeranga ennaku zange ng'omusenyu: 19 Emmizi gyange giranze eri amazzi, N'omusulo gubeera ku ttabi lyange ne gukeesa obudde: 20 Ekitiibwa kyange kiggya gye ndi, N'omutego gwange guzzibbwa buggya mu mukono gwange.
- 21 Nze abantu bampulirizanga ne balinda, Ne basirikira okuteesa kwange.
- 22 Nga ndeese ebigambo bo ne batayogera nate; Okwogera kwange ne kubagwako.
- 23 Era bannindirira nga bwe balindirira enkuba; Era bayasama nnyo akamwa kaabwe ng'abayasamira enkuba eya ttoggo.
- 24 Bwe nnabasekeranga ne batakkiriza; N'omusana gw'amaaso gange tebaagusuula.
- 25 Neerobozanga ekkubo lyabwe ne ntuula ng'omukulu, Ne mbeera nga kabaka mu ggye, Ng'omuntu akubagiza abakungubaga.
-          
+ 1 1 Awo Yobu n'aleeta nate olugero lwe n'ayogera nti 
+2 Singa mbadde nga bwe nnali mu myezi egyayita, Nga bwe nnali mu nnaku Katonda ze yandabirirangamu; 
+3 Ettabaaza ye lwe yayakiranga omutwe gwange, N'omusana gwe gwe gwantambuzanga okuyita mu kizikiza; 
+4 Nga bwe nnali ennaku zange nga zengedde, Ekyama kya Katonda bwe kyabanga ku weema yange; 
+5 Omuyinza w'ebintu byonna bwe yali ng'akyali nange, N'abaana bange nga bakyanneetoolodde; 
+6 Ebigere byange bwe byanaazibwanga n'omuzigo, N'olwazi bwe lwanfuukira emigga egy'amafuta! 
+7 Bwe nnafulumanga ne ŋŋenda eri omulyango mu kibuga, Bwe nnategekanga entebe yange mu luguudo, 
+8 Abalenzi bandabanga ne beekweka, Abakadde ne bayimukanga ne bayimirira; 
+9 Abakungu ne balekanga okwogera, Ne bateeka omukono gwabwe kamwa kaabwe; 
+10 Eddoboozi ery'abakulu ne lisirika, Olulimi lwabwe ne lwegatta n'ekibuno ky'akamwa kaabwe. 
+11 Kubanga okutu bwe kwampuliranga ne kulyoka kunneebaza; Era eriiso bwe lyandabanga ne liba mujulirwa wange: 
+12 Kubanga nawonyanga omwavu eyakaaba, Era n'atalina kitaawe eyabulwa ow'okumuyamba. 
+13 Omukisa gwanjijira oyo gwe yansabira eyali ayagala okuzikirira: Ne nnyimbisa olw'essanyu omutima gwa nnamwandu. 
+14 Nayambala obutuukirivu ne bumbikkako: Obutalya nsonga bwange ne buba ng'omunagiro n'engule. 
+15 Nabanga amaaso eri omuzibe, Era nabanga ebigere eri awenyera. 
+16 Nabanga kitaabwe abeetaaga: Era nakeberanga ensonga y'oyo gwe ssaamanya. 
+17 Era namenyanga atali mutuukirivu oluba, Ne nsika omuyiggo ne nguggya mu mannyo ge, 
+18 Kale ne njogera nti Ndifiira mu kisu kyange, Era naayongeranga ennaku zange ng'omusenyu: 
+19 Emmizi gyange giranze eri amazzi, N'omusulo gubeera ku ttabi lyange ne gukeesa obudde: 
+20 Ekitiibwa kyange kiggya gye ndi, N'omutego gwange guzzibbwa buggya mu mukono gwange. 
+21 Nze abantu bampulirizanga ne balinda, Ne basirikira okuteesa kwange. 
+22 Nga ndeese ebigambo bo ne batayogera nate; Okwogera kwange ne kubagwako. 
+23 Era bannindirira nga bwe balindirira enkuba; Era bayasama nnyo akamwa kaabwe ng'abayasamira enkuba eya ttoggo. 
+24 Bwe nnabasekeranga ne batakkiriza; N'omusana gw'amaaso gange tebaagusuula. 
+25 Neerobozanga ekkubo lyabwe ne ntuula ng'omukulu, Ne mbeera nga kabaka mu ggye, Ng'omuntu akubagiza abakungubaga.          
 
 

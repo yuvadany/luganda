@@ -94,6 +94,7 @@ public class MainActivity extends AppCompatActivity
     TextView todayverse;
     String verseToday;
     DBHelper dbhelper = new DBHelper(this);
+    DBHelperNoBookmark dbhelperNobookmark = new DBHelperNoBookmark(this);
     String searchResult = "test";
     String verseSelected = "Amen";
     String verse_selected = "Amen";
@@ -818,7 +819,7 @@ public class MainActivity extends AppCompatActivity
                 Calendar cal = Calendar.getInstance();
                 int doy = cal.get(Calendar.DAY_OF_YEAR);
                 //this.dbhelper.openDataBase();
-                verseDate = dbhelper.getVerse(doy);
+                verseDate = dbhelperNobookmark.getVerse(doy);
                 Toast.makeText(MainActivity.this, verseDate.get(0), Toast.LENGTH_LONG).show();
             } catch (Exception e) {
             }

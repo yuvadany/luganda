@@ -1,21 +1,22 @@
- 1 Laba, kabaka alifuga n'obutuukirivu, n'abakulu balifuga n'omusango.
- 2 Era omuntu aliba ng'ekifo eky'okwekwekamu eri empewo, n'ekiddukiro eri kibuyaga; ng'emigga gy'amazzi mu kifo ekikalu, ng'ekisiikirize ky'olwazi olunene mu nsi ekooyesa.
- 3 N'amaaso g'abo abalaba tegalibaako kifu, n'amatu g'abo abawulira galiwuliriza.
- 4 N'omutima gw'oyo eyeeyinula gulitegeera okumanya, n'olulimi lw'abanaanaagize lulyeteekateeka okwogera obulungi.
- 5 Omugwagwa nga tebakyamuyita mugabi, so n'omukodo nga tebamuyita wa kisa.
- 6 Kubanga omugwagwa alyogera eby'obugwagwa, n'omutima gwe gulikola ebitali bya butuukirivu, okukola eby'okuvuma Katonda, n'okwogera ebikyamu ku Mukama, okulumya enjala obulamu bw'omuyala, n'okumalawo ow'ennyonta kye yandinywedde.
- 7 Era n'ebintu eby'omukodo bibi: asala enkwe embi okuzikiriza omuwombeefu n'ebigambo eby'obulimba atalina kintu ne bw'ayogera eby'ensonga.
- 8 Naye omugabi alowooza bya kugaba; era mu by'okugaba mw'alinywerera.
- 9 Mugolokoke, mmwe abakazi abalangajja, muwulire eddoboozi lyange; mmwe abawala abataliiko kye mulowooza, mutegere amatu ebigambo byange.
- 10 Mulinakuwalira ennaku ezirisussa omwaka, mmwe abakazi abataliiko kye mulowooza: kubanga ebikungulwa eby'emizabbibu birifa, okukungula tekulituuka.
- 11 Mukankane, mmwe abakazi abalangajja; munakuwale, mmwe abataliiko kye mulowooza: mwambule mubeere bwereere, mwesibe ebibukutu mu biwato byammwe.
- 12 Balikuba mu kifuba olw'ennimiro ez'okusanyuka, olw'omuzabbibu omugimu.
- 13 Ku nsi y'abantu bange kulimera amaggwa ne katazamiti; weewaawo, ku nnyumba zonna ez'essanyu mu kibuga eky'essanyu: 14 kubanga olubiri lulirekebwawo; ekibuga eky'abantu abangi kiriba kifulukwa; olusozi n'ekigo ekirengererwako biriba mpuku ennaku zonna, ssanyu lya ntulege, ddundiro lya magana; 15 okutuusa omwoyo lwe gulitufukibwako okuva waggulu, eddungu ne lifuuka ennimiro eŋŋimu, ennimiro eŋŋimu ne bagiyita kibira.
- 16 Kale omusango gulituula mu ddungu, n'obutuukirivu bulibeera mu nnimiro eŋŋimu.
- 17 N'omulimu gw'obutuukirivu guliba mirembe; era obutuukirivu bulireeta okutereera n'okwesiganga ennaku zonna.
- 18 N'abantu bange balituula mu kifo eky'emirembe ne mu nnyumba ez'enkalakkalira, ne mu biwummulo ebitereevu.
- 19 Naye omuzira gulitonnya, ekibira bwe kirigwa; n'ekibuga kirisuulirwa ddala wansi.
- 20 Mulina omukisa mmwe abasiga ku mabbali g'amazzi gonna, abasindika ebigere by'ente n'endogoyi.
-          
+ 1 Laba, kabaka alifuga n'obutuukirivu, n'abakulu balifuga n'omusango. 
+2 Era omuntu aliba ng'ekifo eky'okwekwekamu eri empewo, n'ekiddukiro eri kibuyaga; ng'emigga gy'amazzi mu kifo ekikalu, ng'ekisiikirize ky'olwazi olunene mu nsi ekooyesa. 
+3 N'amaaso g'abo abalaba tegalibaako kifu, n'amatu g'abo abawulira galiwuliriza. 
+4 N'omutima gw'oyo eyeeyinula gulitegeera okumanya, n'olulimi lw'abanaanaagize lulyeteekateeka okwogera obulungi. 
+5 Omugwagwa nga tebakyamuyita mugabi, so n'omukodo nga tebamuyita wa kisa. 
+6 Kubanga omugwagwa alyogera eby'obugwagwa, n'omutima gwe gulikola ebitali bya butuukirivu, okukola eby'okuvuma Katonda, n'okwogera ebikyamu ku Mukama, okulumya enjala obulamu bw'omuyala, n'okumalawo ow'ennyonta kye yandinywedde. 
+7 Era n'ebintu eby'omukodo bibi: asala enkwe embi okuzikiriza omuwombeefu n'ebigambo eby'obulimba atalina kintu ne bw'ayogera eby'ensonga. 
+8 Naye omugabi alowooza bya kugaba; era mu by'okugaba mw'alinywerera. 
+9 Mugolokoke, mmwe abakazi abalangajja, muwulire eddoboozi lyange; mmwe abawala abataliiko kye mulowooza, mutegere amatu ebigambo byange. 
+10 Mulinakuwalira ennaku ezirisussa omwaka, mmwe abakazi abataliiko kye mulowooza: kubanga ebikungulwa eby'emizabbibu birifa, okukungula tekulituuka. 
+11 Mukankane, mmwe abakazi abalangajja; munakuwale, mmwe abataliiko kye mulowooza: mwambule mubeere bwereere, mwesibe ebibukutu mu biwato byammwe. 
+12 Balikuba mu kifuba olw'ennimiro ez'okusanyuka, olw'omuzabbibu omugimu. 
+13 Ku nsi y'abantu bange kulimera amaggwa ne katazamiti; weewaawo, ku nnyumba zonna ez'essanyu mu kibuga eky'essanyu: 
+14 kubanga olubiri lulirekebwawo; ekibuga eky'abantu abangi kiriba kifulukwa; olusozi n'ekigo ekirengererwako biriba mpuku ennaku zonna, ssanyu lya ntulege, ddundiro lya magana; 
+15 okutuusa omwoyo lwe gulitufukibwako okuva waggulu, eddungu ne lifuuka ennimiro eŋŋimu, ennimiro eŋŋimu ne bagiyita kibira. 
+16 Kale omusango gulituula mu ddungu, n'obutuukirivu bulibeera mu nnimiro eŋŋimu. 
+17 N'omulimu gw'obutuukirivu guliba mirembe; era obutuukirivu bulireeta okutereera n'okwesiganga ennaku zonna. 
+18 N'abantu bange balituula mu kifo eky'emirembe ne mu nnyumba ez'enkalakkalira, ne mu biwummulo ebitereevu. 
+19 Naye omuzira gulitonnya, ekibira bwe kirigwa; n'ekibuga kirisuulirwa ddala wansi. 
+20 Mulina omukisa mmwe abasiga ku mabbali g'amazzi gonna, abasindika ebigere by'ente n'endogoyi.          
 
 

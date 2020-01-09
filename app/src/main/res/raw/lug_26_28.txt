@@ -1,19 +1,28 @@
- 1 Ekigambo kya Mukama ne kinjiiira nate nga kyogera nti 2 Omwana w'omuntu, gamba omulangira w’e Ttuulo nti Bw'ati bw'ayogera Mukama Katonda nti Kubanga omutima gwo gugulumizibbwa n'oyogera nti Nze katonda, ntudde ku ntebe ya Katonda wakati mu nnyanja: era naye oli muntu buntu so si Katonda, newakubadde nga wasimba omutima gwo ng'omutima gwa Katonda: 3 laba, olina amagezi okusinga Danyeri; tewali kyama kye bayinza okukukweka: 4 weefunira obugagga olw'amagezi go n'okutegeera kwo, n'ofuna ezaabu ne ffeeza mu by'obugagga byo: 5 oyongedde obugagga bwo olw'amagezi go amangi n'olw'okusuubula kwo, n'omutima gwo gugulumizibwa olw'obugagga bwo: 6 Mukama Katonda kyava ayogera bw'ati nti Kubanga osimbye omutima gwo ng'omutima gwa Katonda; 7 laba, kyendiva nkuleetako bannaggwanga, ab'entiisa ab'omu mawanga: kale balisowola ebitala byabwe okulwanyisa obulungi obw'amagezi go, era balyonoona okumasamasa kwo.
- 8 Balikussa mu bunnya; era olifa ng'abo bwe bafa abattirwa mu mutima gw'ennyanja.
- 9 Olyeyongera nate okugambira mu maaso g'oyo akutta nti Nze Katonda? naye oli muntu buntu so si Katonda mu mukono gw'oyo akufumita.
- 10 Olifa ng'abo bwe bafa abatali bakomole n'omukono gwa bannaggwanga: kubanga nze nkyogedde, bw'ayogera Mukama Katonda.
- 11 Era nate ekigambo kya Mukama ne kinjijira nga kyogera nti 12 Omwana w'omuntu, tanula okukungubagira kabaka w'e Ttuulo omugambe nti Bw'ati bw'ayogera Mukama Katonda nti Ossa akabonero ku muwendo, ng'ojjudde amagezi, ng'otuukiridde obulungi.
- 13 Wali mu Adeni olusuku lwa Katonda; buli jjinja ery'omuwendo omungi lyabanga lya kukubikkako, sadio, topazi, ne alimasi, berulo, sokamu, ne yasepi, safiro, ejjinja erya nnawandagala, ne kabunkulo, ne zaabu: emirimu egy'ebitaasa byo n'egy'endere zo gyali mu ggwe; gyategekebwa ku lunaku kwe watonderwa.
- 14 Wali kerubi eyafukibwako amafuta abikkako: era nze nakusimba n'okubeera n'obeera ku lusozi lwa Katonda olutukuvu; watambula eruuyi n'eruuyi wakati mu mayinja ag'omuliro.
- 15 Wali ng'otuukiridde mu makubo go okuva ku lunaku kwe watonderwa okutuusa obutali butuukirivu lwe bwalabika mu ggwe.
- 16 Baakujuzza wakati ekyejo olw'olufulube olw'okusuubula kwo, n'oyonoona: kyenvudde nkusuula nga nkuggya ku lusozi lwa Katonda nga nkulanga obwonoonefu; era nkuzikirizza, ai kerubi abikkako, okuva wakati mu mayinja ag'omuliro.
- 17 Omutima gwo gwagulumizibwa olw'obulungi bwo, wakyamya amagezi go olw'okumasamasa kwo: nkusudde wansi, nkutadde mu maaso ga bakabaka, bakutunuulire.
- 18 Wayonoona ebifo byo ebitukuvu olw'olufulube olw'obutali butuukirivu bwo mu kusuubula kwo okutali kwa mazima; kyenvudde nziya omuliro wakati mu ggwe, gukwokezza, era nkufudde evvu ku ttaka mu maaso g'abo bonna abakutunuulira.
- 19 Abo bonna abakumanyi mu mawanga balikwewuunya: ofuuse entiisa so toobengawo nate ennaku zonna.
- 20 Awo ekigambo kya Mukama ne kinjijira nga kyogera nti 21 Omwana w'omuntu, simba amaaso go okwolekera Sidoni kiragule, 22 oyogere nti Bw'ati bw'ayogera Mukama Katonda nti Laba, nze ndi mulabe wo, ai Sidoni; era ndigulumizibwa wakati mu ggwe: kale balimanya nga nze Mukama, bwe ndimala okutuukiririza mu kyo emisango, ne ntukuzibwa mu kyo 23 Kubanga ndiweereza mu kyo kawumpuli n'omusaayi mu nguudo zaakyo; n'abaliko ebiwundu baligwa wakati mu kyo, ekitala nga kikirumba enjuyi zonna; kale balimanya nga nze Mukama.
- 24 Kale tewalibaawo nate omweramannyo ogufumita eri ennyumba ya Isiraeri newakubadde eriggwa erinakuwaza ku abo bonna ababeetoolodde, abaabagiriranga ekyejo; kale balimanya nga nze Mukama Katonda.
- 25 Bw'ati bw'ayogera Mukama Katonda nti Bwe ndiba nga mmaze okukuŋŋaanya ennyumba ya Isiraeri okubaggya mu mawanga, mwe baasaasaanyizibwa, ne ntukuzibwa mu bo mu maaso g'amawanga, kale balituula mu nsi yaabwe gye nnawa omuddu wange Yakobo.
- 26 Era balituula omwo mirembe; weewaawo, balizimba ennyumba ne basimba ensuku ez'emizabbibu, ne batuula mirembe nga tebaliiko kye batya; bwe ndiba nga mmaze okutuukiriza emisango ku abo bonna abaabagirira ekyejo ababeetoolodde; kale balimanya nga nze Mukama Katonda waabwe.
-          
+ 1 Ekigambo kya Mukama ne kinjiiira nate nga kyogera nti 
+2 Omwana w'omuntu, gamba omulangira w’e Ttuulo nti Bw'ati bw'ayogera Mukama Katonda nti Kubanga omutima gwo gugulumizibbwa n'oyogera nti Nze katonda, ntudde ku ntebe ya Katonda wakati mu nnyanja: era naye oli muntu buntu so si Katonda, newakubadde nga wasimba omutima gwo ng'omutima gwa Katonda: 
+3 laba, olina amagezi okusinga Danyeri; tewali kyama kye bayinza okukukweka: 
+4 weefunira obugagga olw'amagezi go n'okutegeera kwo, n'ofuna ezaabu ne ffeeza mu by'obugagga byo: 
+5 oyongedde obugagga bwo olw'amagezi go amangi n'olw'okusuubula kwo, n'omutima gwo gugulumizibwa olw'obugagga bwo: 
+6 Mukama Katonda kyava ayogera bw'ati nti Kubanga osimbye omutima gwo ng'omutima gwa Katonda; 
+7 laba, kyendiva nkuleetako bannaggwanga, ab'entiisa ab'omu mawanga: kale balisowola ebitala byabwe okulwanyisa obulungi obw'amagezi go, era balyonoona okumasamasa kwo. 
+8 Balikussa mu bunnya; era olifa ng'abo bwe bafa abattirwa mu mutima gw'ennyanja. 
+9 Olyeyongera nate okugambira mu maaso g'oyo akutta nti Nze Katonda? naye oli muntu buntu so si Katonda mu mukono gw'oyo akufumita. 
+10 Olifa ng'abo bwe bafa abatali bakomole n'omukono gwa bannaggwanga: kubanga nze nkyogedde, bw'ayogera Mukama Katonda. 
+11 Era nate ekigambo kya Mukama ne kinjijira nga kyogera nti 
+12 Omwana w'omuntu, tanula okukungubagira kabaka w'e Ttuulo omugambe nti Bw'ati bw'ayogera Mukama Katonda nti Ossa akabonero ku muwendo, ng'ojjudde amagezi, ng'otuukiridde obulungi. 
+13 Wali mu Adeni olusuku lwa Katonda; buli jjinja ery'omuwendo omungi lyabanga lya kukubikkako, sadio, topazi, ne alimasi, berulo, sokamu, ne yasepi, safiro, ejjinja erya nnawandagala, ne kabunkulo, ne zaabu: emirimu egy'ebitaasa byo n'egy'endere zo gyali mu ggwe; gyategekebwa ku lunaku kwe watonderwa. 
+14 Wali kerubi eyafukibwako amafuta abikkako: era nze nakusimba n'okubeera n'obeera ku lusozi lwa Katonda olutukuvu; watambula eruuyi n'eruuyi wakati mu mayinja ag'omuliro. 
+15 Wali ng'otuukiridde mu makubo go okuva ku lunaku kwe watonderwa okutuusa obutali butuukirivu lwe bwalabika mu ggwe. 
+16 Baakujuzza wakati ekyejo olw'olufulube olw'okusuubula kwo, n'oyonoona: kyenvudde nkusuula nga nkuggya ku lusozi lwa Katonda nga nkulanga obwonoonefu; era nkuzikirizza, ai kerubi abikkako, okuva wakati mu mayinja ag'omuliro. 
+17 Omutima gwo gwagulumizibwa olw'obulungi bwo, wakyamya amagezi go olw'okumasamasa kwo: nkusudde wansi, nkutadde mu maaso ga bakabaka, bakutunuulire. 
+18 Wayonoona ebifo byo ebitukuvu olw'olufulube olw'obutali butuukirivu bwo mu kusuubula kwo okutali kwa mazima; kyenvudde nziya omuliro wakati mu ggwe, gukwokezza, era nkufudde evvu ku ttaka mu maaso g'abo bonna abakutunuulira. 
+19 Abo bonna abakumanyi mu mawanga balikwewuunya: ofuuse entiisa so toobengawo nate ennaku zonna. 
+20 Awo ekigambo kya Mukama ne kinjijira nga kyogera nti 
+21 Omwana w'omuntu, simba amaaso go okwolekera Sidoni kiragule, 
+22 oyogere nti Bw'ati bw'ayogera Mukama Katonda nti Laba, nze ndi mulabe wo, ai Sidoni; era ndigulumizibwa wakati mu ggwe: kale balimanya nga nze Mukama, bwe ndimala okutuukiririza mu kyo emisango, ne ntukuzibwa mu kyo 
+23 Kubanga ndiweereza mu kyo kawumpuli n'omusaayi mu nguudo zaakyo; n'abaliko ebiwundu baligwa wakati mu kyo, ekitala nga kikirumba enjuyi zonna; kale balimanya nga nze Mukama. 
+24 Kale tewalibaawo nate omweramannyo ogufumita eri ennyumba ya Isiraeri newakubadde eriggwa erinakuwaza ku abo bonna ababeetoolodde, abaabagiriranga ekyejo; kale balimanya nga nze Mukama Katonda. 
+25 Bw'ati bw'ayogera Mukama Katonda nti Bwe ndiba nga mmaze okukuŋŋaanya ennyumba ya Isiraeri okubaggya mu mawanga, mwe baasaasaanyizibwa, ne ntukuzibwa mu bo mu maaso g'amawanga, kale balituula mu nsi yaabwe gye nnawa omuddu wange Yakobo. 
+26 Era balituula omwo mirembe; weewaawo, balizimba ennyumba ne basimba ensuku ez'emizabbibu, ne batuula mirembe nga tebaliiko kye batya; bwe ndiba nga mmaze okutuukiriza emisango ku abo bonna abaabagirira ekyejo ababeetoolodde; kale balimanya nga nze Mukama Katonda waabwe.          
 
 

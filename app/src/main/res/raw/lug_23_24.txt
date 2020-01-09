@@ -1,28 +1,25 @@
- 1 Laba, Mukama ensi agimalamu byonna, era agizisa, era agivuunika, era asaasaanyiza ddala abagituulamu.
- 2 Era olulituuka ng'abantu bwe baliba, bw'atyo kabona bw'aliba; ng'omuddu bw'aliba, bw'atyo mukama we bw'aliba; ng'omuzaana bw'aliba, bw'atyo mugole we bw'aliba; ng'omuguzi bw'aliba, bw'atyo omutunzi bw'aliba; ng'awola bw'aliba, bw'atyo eyeewola bw'aliba; ng'aweebwa amagoba bw'aliba, bw'atyo amuwa amagoba bw'aliba.
- 3 Ensi erimalirwamu ddala byonna, era erinyagirwa ddala; kubanga Mukama ayogedde ekigambo ekyo.
- 4 Ensi ewuubaala era esaanuuka, ettaka liggwaamu amaanyi era lisaanuuka, abantu abagulumivu ab'ensi baggwaamu amaanyi.
- 5 Era ensi esiigiddwako empitambi wansi w'abagituulamu; kubanga basobezza amateeka, ne bawaanyisa ekiragiro, ne bamenya endagaano eteriggwaawo.
- 6 Ekikolimo kyekyava kirya ensi, n'abo abagituulamu balabise nga gubasinze: abatuula mu nsi kyebava bookebwa, abantu ne basigala batono.
- 7 Omwenge omusu guwuubaala, omuzabbibu guyongobera, bonna abalina emitima egisanyuka bassa ebikkowe.
- 8 Ekinyumu eky'ebitaasa kikoma, oluyoogaano lw'abo abasanyuka luggwaawo, essanyu ery'ennanga likoma.
- 9 Tebalinywa mwenge nga bayimba; ekitamiiza kirikaayirira abo abakinywa.
- 10 Ekibuga eky'okwetabula kimenyesemenyese: buli nnyumba eggaddwawo, omuntu yenna aleme okuyingiramu.
- 11 Waliwo okukaaba mu nguudo olw'omwenge; essanyu lyonna lizikizibwa, ekinyumu eky'ensi kigenze.
- 12 Mu kibuga musigadde okuzika, ne wankaaki akubiddwa n'okuzikirira.
- 13 Kubanga bwe kiti bwe kiribeera wakati mu nsi mu mawanga, nga bwe bakuba omuzeyituuni, nga bwe balonda ezabbibu okunoga nga kuwedde.
- 14 Bano baliyimusa eddoboozi lyabwe, balyogerera waggulu, olw'obukulu bwa Mukama baleekaana nga bayima ku nnyanja.
- 15 Kale mugulumize Mukama ebuvanjuba, erinnya lya Mukama, Katonda wa Isiraeri, mu bizinga eby'omu nnyanja.
- 16 Tuwulidde ennyimba nga ziva ku nkomerero y'ensi, ekitiibwa eri abatuukirivu.
- Naye ne njogera nti Nkoozimba, nkoozimba, zinsanze!
- abalyazaamaanyi balyazaamaanyizza; weewaawo, abalyazaamaanyi balyazaamaanyizza nnyo.
- 17 Entiisa n'obunnya n'omutego biri ku ggwe, ggwe atuula mu nsi.
- 18 Awo olulituuka oyo adduka eddoboozi ery'entiisa aligwa mu bunnya; n'oyo alinnya okuva mu bunnya wakati omutego gulimukwata: kubanga ebituli ebya waggulu bigguddwawo, n'emisingi gy'ensi ginyeenya.
- 19 Ensi emenyekedde ddala, ensi esaanuukidde ddala, ensi ejjulukuse nnyo.
- 20 Ensi eritagatta ng'omutamiivu, era eriyuuguumizibwa ng'ensiisira; n'okusobya kwayo kuligizitoowerera, era erigwa n'etegolokoka nate.
- 21 Awo olulituuka ku lunaku luli Mukama alibonereza eggye ery'abagulumivu waggulu, ne bakabaka ab'ensi ku nsi.
- 22 Era balikuŋŋaanyizibwa wamu ng'abasibe bwe bakuŋŋaanyizibwa mu bunnya, era balisibirwa mu kkomera, era ennaku nnyingi aga ziyiseewo balijjirwa.
- 23 Kale omwezi gulikwatibwa ensonyi, n'enjuba eriswala; kubanga Mukama ow'eggye alifugira ku lusozi Sayuuni ne mu Yerusaalemi, ne mu maaso g'abakadde be n'ekitiibwa.
-          
+ 1 Laba, Mukama ensi agimalamu byonna, era agizisa, era agivuunika, era asaasaanyiza ddala abagituulamu. 
+2 Era olulituuka ng'abantu bwe baliba, bw'atyo kabona bw'aliba; ng'omuddu bw'aliba, bw'atyo mukama we bw'aliba; ng'omuzaana bw'aliba, bw'atyo mugole we bw'aliba; ng'omuguzi bw'aliba, bw'atyo omutunzi bw'aliba; ng'awola bw'aliba, bw'atyo eyeewola bw'aliba; ng'aweebwa amagoba bw'aliba, bw'atyo amuwa amagoba bw'aliba. 
+3 Ensi erimalirwamu ddala byonna, era erinyagirwa ddala; kubanga Mukama ayogedde ekigambo ekyo. 
+4 Ensi ewuubaala era esaanuuka, ettaka liggwaamu amaanyi era lisaanuuka, abantu abagulumivu ab'ensi baggwaamu amaanyi. 
+5 Era ensi esiigiddwako empitambi wansi w'abagituulamu; kubanga basobezza amateeka, ne bawaanyisa ekiragiro, ne bamenya endagaano eteriggwaawo. 
+6 Ekikolimo kyekyava kirya ensi, n'abo abagituulamu balabise nga gubasinze: abatuula mu nsi kyebava bookebwa, abantu ne basigala batono. 
+7 Omwenge omusu guwuubaala, omuzabbibu guyongobera, bonna abalina emitima egisanyuka bassa ebikkowe. 
+8 Ekinyumu eky'ebitaasa kikoma, oluyoogaano lw'abo abasanyuka luggwaawo, essanyu ery'ennanga likoma. 
+9 Tebalinywa mwenge nga bayimba; ekitamiiza kirikaayirira abo abakinywa. 
+10 Ekibuga eky'okwetabula kimenyesemenyese: buli nnyumba eggaddwawo, omuntu yenna aleme okuyingiramu. 
+11 Waliwo okukaaba mu nguudo olw'omwenge; essanyu lyonna lizikizibwa, ekinyumu eky'ensi kigenze. 
+12 Mu kibuga musigadde okuzika, ne wankaaki akubiddwa n'okuzikirira. 
+13 Kubanga bwe kiti bwe kiribeera wakati mu nsi mu mawanga, nga bwe bakuba omuzeyituuni, nga bwe balonda ezabbibu okunoga nga kuwedde. 
+14 Bano baliyimusa eddoboozi lyabwe, balyogerera waggulu, olw'obukulu bwa Mukama baleekaana nga bayima ku nnyanja. 
+15 Kale mugulumize Mukama ebuvanjuba, erinnya lya Mukama, Katonda wa Isiraeri, mu bizinga eby'omu nnyanja. 
+16 Tuwulidde ennyimba nga ziva ku nkomerero y'ensi, ekitiibwa eri abatuukirivu. Naye ne njogera nti Nkoozimba, nkoozimba, zinsanze! abalyazaamaanyi balyazaamaanyizza; weewaawo, abalyazaamaanyi balyazaamaanyizza nnyo. 
+17 Entiisa n'obunnya n'omutego biri ku ggwe, ggwe atuula mu nsi. 
+18 Awo olulituuka oyo adduka eddoboozi ery'entiisa aligwa mu bunnya; n'oyo alinnya okuva mu bunnya wakati omutego gulimukwata: kubanga ebituli ebya waggulu bigguddwawo, n'emisingi gy'ensi ginyeenya. 
+19 Ensi emenyekedde ddala, ensi esaanuukidde ddala, ensi ejjulukuse nnyo. 
+20 Ensi eritagatta ng'omutamiivu, era eriyuuguumizibwa ng'ensiisira; n'okusobya kwayo kuligizitoowerera, era erigwa n'etegolokoka nate. 
+21 Awo olulituuka ku lunaku luli Mukama alibonereza eggye ery'abagulumivu waggulu, ne bakabaka ab'ensi ku nsi. 
+22 Era balikuŋŋaanyizibwa wamu ng'abasibe bwe bakuŋŋaanyizibwa mu bunnya, era balisibirwa mu kkomera, era ennaku nnyingi aga ziyiseewo balijjirwa. 
+23 Kale omwezi gulikwatibwa ensonyi, n'enjuba eriswala; kubanga Mukama ow'eggye alifugira ku lusozi Sayuuni ne mu Yerusaalemi, ne mu maaso g'abakadde be n'ekitiibwa.          
 
 

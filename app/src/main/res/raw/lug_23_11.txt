@@ -1,17 +1,18 @@
- 1 Era mu kikolo kya Yese muliva ensibuka, n'ettabi eririva mu mmizi gye liribala ebibala: 2 n'omwoyo gwa Mukama gulibeera ku ye, omwoyo ogw'amagezi n'okutegeera, omwoyo ogw'okuteesa n'amaanyi, omwoyo ogw'okumanya n'okutya Mukama; 3 n'okutya Mukama kw'alisanyukira: so taasalenga misango ng'okulaba kw'amaaso ge bwe kunaabanga, so taanenyenga ng'okuwulira kw'amatu ge bwe kunaabanga: 4 naye anaasaliranga omwavu emisango gya nsonga, era anaanenyanga n'obutuukirivu olw'abawombeefu abali ku nsi: era alikuba ensi n'omuggo ogw'omu kamwa ke, era alitta omubi n'omukka ogw'omu mimwa gye.
- 5 N'obutuukirivu buliba lukoba lwa mu kiwato kye, n'obwesigwa buliba lukoba lwa mu mugongo gwe.
- 6 N'omusege gunaasulanga wamu n'omwana gw'endiga, n'engo eneegalamiranga wamu n'omwana gw'embuzi; n'ennyana n'omwana gw'empologoma n'ekya ssava wamu; n'omwana omuto alizikulembera.
- 7 N'ente n'eddubu ziririira wamu; abaana baazo baligalamira wamu: n'empologoma erirya omuddo ng'ente.
- 8 N'omwana ayonka alizannyira ku kinnya eky'enswera, n'omwana eyaakava ku mabeere aliteeka omukoao gwe ku mpampagama y'essalambwa.
- 9 Tebaliruma newakubadde okuzikiriza ku lusozi lwange olutukuvu lwonna: kubanga ensi erijjula okumanya Mukama, ng'amazzi bwe gasaanikira ennyanja.
- 10 Awo olulituuka ku lunaku luli ekikolo kya Yese, ekiyimirira okuba ebendera ey'amawanga, eri oyo amawanga gye banaanoonya; n'ekifo kye eky'okuwummuliramu kiriba kitiibwa.
- 11 Awo olulituuka ku lunaku luli Mukama alissaawo nate omukono gwe omulundi ogw'okubiri okukomyawo abalifikkawo ku bantu be abalisigalawo, okubaggya mu Bwasuli ne mu Misiri ne mu Pasuloosi ne mu Kuusi ne mu Eramu ne mu Sinali ne mu Kamasi ne mu bizinga eby'omu nnyanja.
- 12 Era aliwanikira amawanga ebendera, era alikuŋŋaanya abaagobebwa mu Isiraeri, n'aleeta wamu abaasaasaanyizibwa ku Yuda okubaggya mu nsonda ennya ez'ensi.
- 13 Era obuggya bwa Efulayimu buliggwaawo, n'abo abateganya Yuda balizikirizibwa.
- Efulayimu talikwatirwa Yuda buggya, ne Yuda taliteganya Efulayimu.
- 14 Era balibuuka ne bagwa ku kibegabega ky'Omufirisuuti ebugwanjuba; balyetaba okunyaga abaana b'ebuvanjuba: baligolola omukono gwabwe ku Edomu ne Mowaabu; n'abaana ba Amoni balibagondera.
- 15 Era Mukama alizikiririza ddala olulimi lw'ennyanja ey'e Misiri; era alikunkumulira omukono gwe ku Mugga n'empewo ye ekaza, n'agukuba n'agufuula emigga musanvu, n'asomosa abantu nga tebatobye bigere.
- 16 Era waliba oluguudo eri abo abalifikkawo ku bantu be, abalisigalawo, okuva mu Bwasuli; nga bwe lwaliwo eri Isiraeri ku lunaku lwe yalinnyirako okuva mu nsi y'e Misiri.
-          
+ 1 Era mu kikolo kya Yese muliva ensibuka, n'ettabi eririva mu mmizi gye liribala ebibala: 
+2 n'omwoyo gwa Mukama gulibeera ku ye, omwoyo ogw'amagezi n'okutegeera, omwoyo ogw'okuteesa n'amaanyi, omwoyo ogw'okumanya n'okutya Mukama; 
+3 n'okutya Mukama kw'alisanyukira: so taasalenga misango ng'okulaba kw'amaaso ge bwe kunaabanga, so taanenyenga ng'okuwulira kw'amatu ge bwe kunaabanga: 
+4 naye anaasaliranga omwavu emisango gya nsonga, era anaanenyanga n'obutuukirivu olw'abawombeefu abali ku nsi: era alikuba ensi n'omuggo ogw'omu kamwa ke, era alitta omubi n'omukka ogw'omu mimwa gye. 
+5 N'obutuukirivu buliba lukoba lwa mu kiwato kye, n'obwesigwa buliba lukoba lwa mu mugongo gwe. 
+6 N'omusege gunaasulanga wamu n'omwana gw'endiga, n'engo eneegalamiranga wamu n'omwana gw'embuzi; n'ennyana n'omwana gw'empologoma n'ekya ssava wamu; n'omwana omuto alizikulembera. 
+7 N'ente n'eddubu ziririira wamu; abaana baazo baligalamira wamu: n'empologoma erirya omuddo ng'ente. 
+8 N'omwana ayonka alizannyira ku kinnya eky'enswera, n'omwana eyaakava ku mabeere aliteeka omukoao gwe ku mpampagama y'essalambwa. 
+9 Tebaliruma newakubadde okuzikiriza ku lusozi lwange olutukuvu lwonna: kubanga ensi erijjula okumanya Mukama, ng'amazzi bwe gasaanikira ennyanja. 
+10 Awo olulituuka ku lunaku luli ekikolo kya Yese, ekiyimirira okuba ebendera ey'amawanga, eri oyo amawanga gye banaanoonya; n'ekifo kye eky'okuwummuliramu kiriba kitiibwa. 
+11 Awo olulituuka ku lunaku luli Mukama alissaawo nate omukono gwe omulundi ogw'okubiri okukomyawo abalifikkawo ku bantu be abalisigalawo, okubaggya mu Bwasuli ne mu Misiri ne mu Pasuloosi ne mu Kuusi ne mu Eramu ne mu Sinali ne mu Kamasi ne mu bizinga eby'omu nnyanja. 
+12 Era aliwanikira amawanga ebendera, era alikuŋŋaanya abaagobebwa mu Isiraeri, n'aleeta wamu abaasaasaanyizibwa ku Yuda okubaggya mu nsonda ennya ez'ensi. 
+13 Era obuggya bwa Efulayimu buliggwaawo, n'abo abateganya Yuda balizikirizibwa. Efulayimu talikwatirwa Yuda buggya, ne Yuda taliteganya Efulayimu. 
+14 Era balibuuka ne bagwa ku kibegabega ky'Omufirisuuti ebugwanjuba; balyetaba okunyaga abaana b'ebuvanjuba: baligolola omukono gwabwe ku Edomu ne Mowaabu; n'abaana ba Amoni balibagondera. 
+15 Era Mukama alizikiririza ddala olulimi lw'ennyanja ey'e Misiri; era alikunkumulira omukono gwe ku Mugga n'empewo ye ekaza, n'agukuba n'agufuula emigga musanvu, n'asomosa abantu nga tebatobye bigere. 
+16 Era waliba oluguudo eri abo abalifikkawo ku bantu be, abalisigalawo, okuva mu Bwasuli; nga bwe lwaliwo eri Isiraeri ku lunaku lwe yalinnyirako okuva mu nsi y'e Misiri.          
 
 

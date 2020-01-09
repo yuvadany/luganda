@@ -1,22 +1,24 @@
-1 Era yakola n'ekyoto eky'ekikomo, obuwanvu bwakyo emikono amakumi abiri, n'obugazi bwakyo emikono amakumi abiri, n'obugulumivu bwakyo emikono kkumi.
- 2 Era n'akola n'ennyanja ensaanuuse ey'emikono kkumi okuva ku mugo okutuuka ku mugo, nneekulungirivu n'obugulumivu bwali emikono etaano; n'omugwa ogw'emikono amakumi asatu ne gugyetooloola.
- 3 Era wansi waayo waaliwo ekifaananyi ky'ente, ekigyetooloolera emikono kkumi, nga kigyetooloola ennyanja enjuyi zonna.
- Ente zaali embu bbiri, ezaasaanuusibwa yo bwe yasaanuusibwa.
- 4 Yatuula ku nte kkumi na bbiri, essatu nga zitunuulira obukiika obwa kkono, n'essatu nga zitunuulira ebugwanjuba, n'essatu nga zitunuulira obukiika obwa ddyo, n'essatu nga zitunuulira ebuvanjuba: n'ennyanja ng'eteekeddwa ku zo waggulu, amatako gaazo zonna nga gali munda.
- 5 N'obugazi bwayo luta; n'omugo gwayo gwakolebwa ng'omugo gw'ekibya, ng'ekimuli ky'amalanga: ensuwa enkumi ssatu ezaayingiramu ne zigyamu.
- 6 Era n'akola eby'okwolezaamu kkumi, n'ateeka ebitaano ku mukono ogwa ddyo, n'ebitaano ku gwa kkono, okubyolezangamu; ebintu eby'ekiweebwayo ekyokebwa baabyolezanga omwo, naye ennyanja yali ya bakabona okunaabirangamu.
- 7 N'akola ebikondo kkumi bya zaabu ng'ekiragiro kyabyo bwe kyali; n'abiteeka mu yeekaalu, ku mukono ogwa ddyo bitaano, ne ku gwa kkono bitaano.
- 8 Era n'akola n'emmeeza kkumi, n'aziteeka mu yeekaalu, ku luuyi olwa ddyo ttaano, ne ku lwa kkono ttaano.
- N'akola ebibya kikumi bya zaabu.
- 9 Era nate n'akola oluggya lwa bakabona, n'oluggya olunene, n'enzigi z'oluggya, enzigi zaazo n'azibikkako ebikomo.
- 10 N'ateeka ennyanja ku luuyi lw'ennyumba olwa ddyo ebuvanjuba, okutunuulira obukiika obwa ddyo.
- 11 Kulamu n'akola entamu n'ebisena n'ebibya.
- Awo Kulamu n'amala okukola omulimu gwe yakolera kabaka Sulemaani mu nnyumba ya Katonda: 12 empagi zombi n'embuto, n'emitwe gyombi egyali ku ntikko z'empagi; n'ebitimba byombi eby'okubikka ku bikompe byombi eby'emitwe egyali ku ntikko z'empagi; 13 n'amakomamawanga ebikumi bina ag'oku bitimba byombi; embu bbiri ez'amakomamawanga za ku buli kitimba, okubikka ku bikompe byombi eby'emitwe egyali ku mpagi.
- 14 Era n'akola n'entebe, n'ebyolezebwamu n'abikola ku ntebe: 15 ennyanja emu n'ente kkumi na bbiri wansi waayo.
- 16 Era n'entamu n'ebisena n'amakato agakwasa ennyama n'ebintu byonna ebyako Kulamu kitaawe n'abikolera kabaka Sulemaani olw'ennyumba ya Mukama, bya bikomo bizigule.
- 17 Mu lusenyi lwa Yoludaani kabaka gye yabisaanuusiza, awali ettaka ery'ebbumba wakati wa Sukkosi ne Zereda.
- 18 Bw'atyo Sulemaani bwe yakola ebintu byonna bingi nnyo nnyini: kubanga ebikomo obuzito bwabyo tebwategeerekeka.
- 19 Sulemaani n'akola ebintu byonna ebyali mu nnyumba ya Katonda, era n'ekyoto ekya zaabu, n'emmeeza okwabanga emigaati egy'okulaga; 20 n'ebikondo n'ettabaaza zaabyo, zaakirenga mu maaso g'awayimibwa okwogera ng'ekiragiro bwe kyali, bya zaabu nnungi nnongoofu; 21 n'ebimuli ne ttabaaza ne makaasi, bya zaabu, zaabu ntuukirivu; 22 n'ebisalako ebisiriiza n'ebibya n'ebijiiko n'emmumbiro, bya zaabu nnongoofu: n'omulyango gw'ennyumba, enzigi zaayo ez'omunda ez'omu kifo ekitukuvu ennyo n'enzigi z'ennyumba, ye yeekaalu, zaali za zaabu.
-          
+1 Era yakola n'ekyoto eky'ekikomo, obuwanvu bwakyo emikono amakumi abiri, n'obugazi bwakyo emikono amakumi abiri, n'obugulumivu bwakyo emikono kkumi. 
+2 Era n'akola n'ennyanja ensaanuuse ey'emikono kkumi okuva ku mugo okutuuka ku mugo, nneekulungirivu n'obugulumivu bwali emikono etaano; n'omugwa ogw'emikono amakumi asatu ne gugyetooloola. 
+3 Era wansi waayo waaliwo ekifaananyi ky'ente, ekigyetooloolera emikono kkumi, nga kigyetooloola ennyanja enjuyi zonna. Ente zaali embu bbiri, ezaasaanuusibwa yo bwe yasaanuusibwa. 
+4 Yatuula ku nte kkumi na bbiri, essatu nga zitunuulira obukiika obwa kkono, n'essatu nga zitunuulira ebugwanjuba, n'essatu nga zitunuulira obukiika obwa ddyo, n'essatu nga zitunuulira ebuvanjuba: n'ennyanja ng'eteekeddwa ku zo waggulu, amatako gaazo zonna nga gali munda. 
+5 N'obugazi bwayo luta; n'omugo gwayo gwakolebwa ng'omugo gw'ekibya, ng'ekimuli ky'amalanga: ensuwa enkumi ssatu ezaayingiramu ne zigyamu. 
+6 Era n'akola eby'okwolezaamu kkumi, n'ateeka ebitaano ku mukono ogwa ddyo, n'ebitaano ku gwa kkono, okubyolezangamu; ebintu eby'ekiweebwayo ekyokebwa baabyolezanga omwo, naye ennyanja yali ya bakabona okunaabirangamu. 
+7 N'akola ebikondo kkumi bya zaabu ng'ekiragiro kyabyo bwe kyali; n'abiteeka mu yeekaalu, ku mukono ogwa ddyo bitaano, ne ku gwa kkono bitaano. 
+8 Era n'akola n'emmeeza kkumi, n'aziteeka mu yeekaalu, ku luuyi olwa ddyo ttaano, ne ku lwa kkono ttaano. N'akola ebibya kikumi bya zaabu. 
+9 Era nate n'akola oluggya lwa bakabona, n'oluggya olunene, n'enzigi z'oluggya, enzigi zaazo n'azibikkako ebikomo. 
+10 N'ateeka ennyanja ku luuyi lw'ennyumba olwa ddyo ebuvanjuba, okutunuulira obukiika obwa ddyo. 
+11 Kulamu n'akola entamu n'ebisena n'ebibya. Awo Kulamu n'amala okukola omulimu gwe yakolera kabaka Sulemaani mu nnyumba ya Katonda: 
+12 empagi zombi n'embuto, n'emitwe gyombi egyali ku ntikko z'empagi; n'ebitimba byombi eby'okubikka ku bikompe byombi eby'emitwe egyali ku ntikko z'empagi; 
+13 n'amakomamawanga ebikumi bina ag'oku bitimba byombi; embu bbiri ez'amakomamawanga za ku buli kitimba, okubikka ku bikompe byombi eby'emitwe egyali ku mpagi. 
+14 Era n'akola n'entebe, n'ebyolezebwamu n'abikola ku ntebe: 
+15 ennyanja emu n'ente kkumi na bbiri wansi waayo. 
+16 Era n'entamu n'ebisena n'amakato agakwasa ennyama n'ebintu byonna ebyako Kulamu kitaawe n'abikolera kabaka Sulemaani olw'ennyumba ya Mukama, bya bikomo bizigule. 
+17 Mu lusenyi lwa Yoludaani kabaka gye yabisaanuusiza, awali ettaka ery'ebbumba wakati wa Sukkosi ne Zereda. 
+18 Bw'atyo Sulemaani bwe yakola ebintu byonna bingi nnyo nnyini: kubanga ebikomo obuzito bwabyo tebwategeerekeka. 
+19 Sulemaani n'akola ebintu byonna ebyali mu nnyumba ya Katonda, era n'ekyoto ekya zaabu, n'emmeeza okwabanga emigaati egy'okulaga; 
+20 n'ebikondo n'ettabaaza zaabyo, zaakirenga mu maaso g'awayimibwa okwogera ng'ekiragiro bwe kyali, bya zaabu nnungi nnongoofu; 
+21 n'ebimuli ne ttabaaza ne makaasi, bya zaabu, zaabu ntuukirivu; 
+22 n'ebisalako ebisiriiza n'ebibya n'ebijiiko n'emmumbiro, bya zaabu nnongoofu: n'omulyango gw'ennyumba, enzigi zaayo ez'omunda ez'omu kifo ekitukuvu ennyo n'enzigi z'ennyumba, ye yeekaalu, zaali za zaabu.          
 
 

@@ -1,15 +1,24 @@
-1 Buli kintu kiriko entuuko yaakyo, na buli kigambo ekiri wansi w'eggulu kiriko ekiseera kyakyo: 2 ekiseera eky'okuzaalirwamu, n'ekiseera eky'okufiiramu; ekiseera eky'okusimbiramu, n'ekiseera eky'okusimbuliramu ekyo ekyasimbibwa; 3 ekiseera eky'okuttiramu, n'ekiseera eky'okuwonyezaamu; ekiseera eky'okwabizaamu, n'ekiseera eky'okuzimbiramu; 4 ekiseera eky'okukaabiramu amaziga, n'ekiseera eky'okusekeramu; ekiseera eky'okuwuubaaliramu, n'ekiseera eky'okuziniramu; 5 ekiseera eky'okusuuliramu amayinja, n'ekiseera eky'okukugnaanyizaamu amayinja; ekiseera eky'okugwiramu mu kifuba, n'ekiseera eky'obutagwiramu mu kifuba; 6 ekiseera eky'okunoonyezaamu, n'ekiseera eky'okubulirwamu; ekiseera eky'okukuumiramu, n'ekiseera eky'okusuuliramu; 7 ekiseera eky'okuyulizaamu, n'eluseera eky'okutungiramu; ekiseera eky'okusirikiramu, n'ekiseera eky'okwogereramu; 8 ekiseera eky'okwagaliramu, n'ekiseera eky'okukyayiramu; ekiseera eky'okulwaniramu, n'ekiseera eky'okutabaganiramu.
- 9 Magoba ki gaafuna oyo akola emirimu mu ekyo mw'ateganira? 10 Nalaba okutegana Katonda kwe yawa abaana b'abantu okubateganya.
- 11 Yafuula buli kintu okuba ekirungi mu kiseera kyakyo: era yateeka ensi mu mutima gwabwe, naye agiteekamu bw'atyo omuntu n'okuyinza n'atayinza kukebera mulimu Katonda gwe yakola okuva ku lubereberye okutuuka ku nkomerero.
- 12 Mmanyi nga tewali kintu kibagasa okusinga okusanyuka n'okukola obulungi ennaku zonna nga bakyali balamu.
- 13 Era buli muntu okulyanga n'okunywanga n'okusanyukiranga ebirungi mu kutegana kwe kwonna, kye kirabo kya Katonda.
- 14 Mmanyi nga buli Katonda ky'akola kinaabanga kya lubeerera; tewali kintu kiyinzika okukyongerwako, newakubadde okukisalibwako: era Katonda kyeyava akikola abantu balyoke batye mu maaso ge.
- 15 Ekiriwo kyamala dda okubaawo; n'ekyo ekigenda okubaawo kyabaawo dda; era Katonda anoonya nate ekyo ekyayitawo.
- 16 Era nate nalaba wansi w'enjuba mu kifo eky'okusaliramu emisango ng'obubi bwali eyo; ne mu kifo eky'obutuukirivu ng'obubi bwali omwo.
- 17 Ne njogera mu mutima gwange nti Katonda ye alisala emisango gy'omutuukirivu n'omubi: kubanga eyo eriyo ekiseera eky'ekigambo kyonna n'omulimu gwonna.
- 18 Ne njogera mu mutima gwange nti Kiba bwe kityo olw'abaana b'abantu Katonda alyoke abakeme, balabe nga bo bennyini bali ng'ensolo obusolo.
- 19 Kubanga ekyo ekituuka ku baana b'abantu kye kituuka ku nsolo; ekigambo kimu kibatuukako; ng'eyo bw'efa, n'oyo bw'afa bw'atyo; weewaawo, bonna balina omukka gumu; so abantu tebaliiko bwe basinga nsolo: kubanga byonna butaliimu.
- 20 Bonna bagenda mu kifo kimu; bonna baava mu nfuufu, era bonna badda mu nfuufu nate.
- 21 Ani amanyi omwoyo gw'abantu oba nga gulinnya mu ggulu, n'omwoyo gw'ensolo oba gukka wansi mu ttaka? 22 Kyennava ndaba nga tewali kintu kisinga kino obulungi, omuntu okusanyukiranga emirimu gye; kubanga ogwo gwe mugabo gwe: kubanga ani alimukomyawo okulaba ebinaabangawo oluvannyuma lwe?          
+1 Buli kintu kiriko entuuko yaakyo, na buli kigambo ekiri wansi w'eggulu kiriko ekiseera kyakyo: 
+2 ekiseera eky'okuzaalirwamu, n'ekiseera eky'okufiiramu; ekiseera eky'okusimbiramu, n'ekiseera eky'okusimbuliramu ekyo ekyasimbibwa; 
+3 ekiseera eky'okuttiramu, n'ekiseera eky'okuwonyezaamu; ekiseera eky'okwabizaamu, n'ekiseera eky'okuzimbiramu; 
+4 ekiseera eky'okukaabiramu amaziga, n'ekiseera eky'okusekeramu; ekiseera eky'okuwuubaaliramu, n'ekiseera eky'okuziniramu; 
+5 ekiseera eky'okusuuliramu amayinja, n'ekiseera eky'okukugnaanyizaamu amayinja; ekiseera eky'okugwiramu mu kifuba, n'ekiseera eky'obutagwiramu mu kifuba; 
+6 ekiseera eky'okunoonyezaamu, n'ekiseera eky'okubulirwamu; ekiseera eky'okukuumiramu, n'ekiseera eky'okusuuliramu; 
+7 ekiseera eky'okuyulizaamu, n'eluseera eky'okutungiramu; ekiseera eky'okusirikiramu, n'ekiseera eky'okwogereramu; 
+8 ekiseera eky'okwagaliramu, n'ekiseera eky'okukyayiramu; ekiseera eky'okulwaniramu, n'ekiseera eky'okutabaganiramu. 
+9 Magoba ki gaafuna oyo akola emirimu mu ekyo mw'ateganira? 
+10 Nalaba okutegana Katonda kwe yawa abaana b'abantu okubateganya. 
+11 Yafuula buli kintu okuba ekirungi mu kiseera kyakyo: era yateeka ensi mu mutima gwabwe, naye agiteekamu bw'atyo omuntu n'okuyinza n'atayinza kukebera mulimu Katonda gwe yakola okuva ku lubereberye okutuuka ku nkomerero. 
+12 Mmanyi nga tewali kintu kibagasa okusinga okusanyuka n'okukola obulungi ennaku zonna nga bakyali balamu. 
+13 Era buli muntu okulyanga n'okunywanga n'okusanyukiranga ebirungi mu kutegana kwe kwonna, kye kirabo kya Katonda. 
+14 Mmanyi nga buli Katonda ky'akola kinaabanga kya lubeerera; tewali kintu kiyinzika okukyongerwako, newakubadde okukisalibwako: era Katonda kyeyava akikola abantu balyoke batye mu maaso ge. 
+15 Ekiriwo kyamala dda okubaawo; n'ekyo ekigenda okubaawo kyabaawo dda; era Katonda anoonya nate ekyo ekyayitawo. 
+16 Era nate nalaba wansi w'enjuba mu kifo eky'okusaliramu emisango ng'obubi bwali eyo; ne mu kifo eky'obutuukirivu ng'obubi bwali omwo. 
+17 Ne njogera mu mutima gwange nti Katonda ye alisala emisango gy'omutuukirivu n'omubi: kubanga eyo eriyo ekiseera eky'ekigambo kyonna n'omulimu gwonna. 
+18 Ne njogera mu mutima gwange nti Kiba bwe kityo olw'abaana b'abantu Katonda alyoke abakeme, balabe nga bo bennyini bali ng'ensolo obusolo. 
+19 Kubanga ekyo ekituuka ku baana b'abantu kye kituuka ku nsolo; ekigambo kimu kibatuukako; ng'eyo bw'efa, n'oyo bw'afa bw'atyo; weewaawo, bonna balina omukka gumu; so abantu tebaliiko bwe basinga nsolo: kubanga byonna butaliimu. 
+20 Bonna bagenda mu kifo kimu; bonna baava mu nfuufu, era bonna badda mu nfuufu nate. 
+21 Ani amanyi omwoyo gw'abantu oba nga gulinnya mu ggulu, n'omwoyo gw'ensolo oba gukka wansi mu ttaka? 
+22 Kyennava ndaba nga tewali kintu kisinga kino obulungi, omuntu okusanyukiranga emirimu gye; kubanga ogwo gwe mugabo gwe: kubanga ani alimukomyawo okulaba ebinaabangawo oluvannyuma lwe?          
 
 

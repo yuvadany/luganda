@@ -1,24 +1,23 @@
- 1 Awo Akabu n'abuulira Yezeberi byonna Eriya bye yakola era bwe yatta bannabbi bonna n'ekitala.
- 2 Awo Yezeberi n'atumira Eriya omubaka ng'ayogera nti Bakatonda bankole bwe batyo n'okukirawo, bwe sirifuula obulamu bwo okuba ng'obulamu bw'omu ku bo enkya bwe buliba nga kampegaano.
- 3 Awo bwe yalaba ekyo n'agolokoka n'agenda olw'obulamu bwe, n'ajja e Beeruseba ekya Yuda, n'alekayo omuddu we.
- 4 Naye ye yennyini n'atambula olugendo olw'olunaku lumu mu ddungu, n'ajja n'atuula wansi w'omwoloola: ne yeesabira okufa; n'ayogera nti Kinaamala; kaakano, ai Mukama, nziyaako obulamu bwange; kubanga sisinga bajjajjange obulungi.
- 5 N'agalamira ne yeebaka wansi w'omwoloola; kale, laba malayika n'amukomako, n'amugamba nti Golokoka olye.
- 6 N'atunula, kale, laba, omugaati nga guli awali omutwe gwe ogwokeddwa ku manda n'akasumbi ak'amazzi.
- N'alya n'anywa n'agalamira nate.
- 7 Malayika wa Mukama n'ajja nate omulundi ogw'okubiri n'amukomako n'ayogera nti Golokoka olye; kubanga olugendo lukuyinze obunene.
- 8 N'agolokoka n'alya n'anywa, n'atambula mu maanyi ag'emmere eyo ennaku amakumi ana emisana n'ekiro n'atuuka e Kolebu olusozi lwa Katonda.
- 9 N'atuukayo n'ayingira mu mpuku, n'asula omwo; kale, laba, ekigambo kya Mukama ne kimujjira, n'amugamba nti Okola ki wano, Eriya? 10 N'ayogera nti Nkwatiddwa obuggya bungi ku lwa Mukama Katonda ow'eggye; kubanga abaana ba Isiraeri balese endagaano yo, basudde ebyoto byo, era basse bannabbi bo n'ekitala: nange, nze nzekka, nze nsigaddewo; n'obulamu bwange babunoonya okubuggyawo.
- 11 N'ayogera nti Fuluma oyimirire ku lusozi mu maaso ga Mukama.
- Kale, laba, Mukama n'ayitawo, embuyaga nnyingi ez'amaanyi ne zimenya ensozi ne zaasa enjazi mu maaso ga Mukama; naye Mukama nga tali mu mbuyaga: awo oluvannyuma lw'embuyaga kikankano kya nsi; naye Mukama nga tali mu kikankano ky'ensi: 12 awo oluvannyuma lw'ekikankano muliro; naye Mukama nga tali mu muliro: awo oluvannyuma lw'omuliro ddoboozi ttono lya ggonjebwa.
- 13 Awo olwatuuka Eriya bwe yaliwulira, ne yeebikka amaaso ge mu munagiro, n'afuluma n'ayimirira mu mulyango gw'empuku.
- Kale, laba, ne wamujjira eddoboozi, ne lyogera nti Okola ki wano, Eriya? 14 N'ayogera nti Nkwatiddwa obuggya bungi ku lwa Mukama Katonda ow'eggye; kubanga abaana ba Isiraeri balese endagaano yo; basudde ebyoto byo, era basse bannabbi bo n'ekitala; nange, nze nzekka, nze nsigaddewo; n'obulamu bwange babunoonya okubuggyawo.
- 15 Awo Mukama n'amugamba nti Genda oddeyo mu kkubo lyo eri eddungu ery'e Ddamasiko: kale bw'olituuka ofukanga amafuta ku Kazayeeri okuba kabaka w'e Busuuli: 16 ne Yeeku mutabani wa Nimusi omufukangako amafuta okuba kabaka wa Isiraeri: ne Erisa mutabani wa Safati ow'e Aberumekola omufukangako amafuta okuba nnabbi mu kifo kyo.
- 17 Awo olulituuka oyo anaawonanga ekitala kya Kazayeeri Yeeku anamuttanga: n'oyo anaawonanga ekitala kya Yeeku Erisa anaamuttanga.
- 18 Era naye ndyesigaliza akasanvu mu Isiraeri amaviivi gonna agatafukaamiriranga Baali na buli kamwa akatamunywegeranga.
- 19 Awo n'avaayo n'asanga Erisa mutabani wa Safati eyali ng'alima ng'alina mu maaso ge emigogo gy'ente kkumi n'ebiri, ye ng'alina ogw'ekkumi n'ebiri: awo Eriya n'asomoka okugenda gy'ali n'amusuulako omunagiro gwe.
- 20 Awo n'aleka ente, n'adduka mbiro okugoberera Eriya, n'ayogera nti Nkwegayiridde, ka mmale okunywegera kitange ne mmange, ndyoke nkugoberere.
- N'amugamba nti Ddayo; kubanga nkukoze ki? 21 N'addayo n'atamugoberera n'addira omugogo gw'ente n'azitta, n'afumba ennyama yaazo n'ebintu eby'ente, n'agabira abantu ne balya.
- Awo n'agolokoka n'agoberera Eriya n'amuweereza.
-          
+ 1 Awo Akabu n'abuulira Yezeberi byonna Eriya bye yakola era bwe yatta bannabbi bonna n'ekitala. 
+2 Awo Yezeberi n'atumira Eriya omubaka ng'ayogera nti Bakatonda bankole bwe batyo n'okukirawo, bwe sirifuula obulamu bwo okuba ng'obulamu bw'omu ku bo enkya bwe buliba nga kampegaano. 
+3 Awo bwe yalaba ekyo n'agolokoka n'agenda olw'obulamu bwe, n'ajja e Beeruseba ekya Yuda, n'alekayo omuddu we. 
+4 Naye ye yennyini n'atambula olugendo olw'olunaku lumu mu ddungu, n'ajja n'atuula wansi w'omwoloola: ne yeesabira okufa; n'ayogera nti Kinaamala; kaakano, ai Mukama, nziyaako obulamu bwange; kubanga sisinga bajjajjange obulungi. 
+5 N'agalamira ne yeebaka wansi w'omwoloola; kale, laba malayika n'amukomako, n'amugamba nti Golokoka olye. 
+6 N'atunula, kale, laba, omugaati nga guli awali omutwe gwe ogwokeddwa ku manda n'akasumbi ak'amazzi. N'alya n'anywa n'agalamira nate. 
+7 Malayika wa Mukama n'ajja nate omulundi ogw'okubiri n'amukomako n'ayogera nti Golokoka olye; kubanga olugendo lukuyinze obunene. 
+8 N'agolokoka n'alya n'anywa, n'atambula mu maanyi ag'emmere eyo ennaku amakumi ana emisana n'ekiro n'atuuka e Kolebu olusozi lwa Katonda. 
+9 N'atuukayo n'ayingira mu mpuku, n'asula omwo; kale, laba, ekigambo kya Mukama ne kimujjira, n'amugamba nti Okola ki wano, Eriya? 
+10 N'ayogera nti Nkwatiddwa obuggya bungi ku lwa Mukama Katonda ow'eggye; kubanga abaana ba Isiraeri balese endagaano yo, basudde ebyoto byo, era basse bannabbi bo n'ekitala: nange, nze nzekka, nze nsigaddewo; n'obulamu bwange babunoonya okubuggyawo. 
+11 N'ayogera nti Fuluma oyimirire ku lusozi mu maaso ga Mukama. Kale, laba, Mukama n'ayitawo, embuyaga nnyingi ez'amaanyi ne zimenya ensozi ne zaasa enjazi mu maaso ga Mukama; naye Mukama nga tali mu mbuyaga: awo oluvannyuma lw'embuyaga kikankano kya nsi; naye Mukama nga tali mu kikankano ky'ensi: 
+12 awo oluvannyuma lw'ekikankano muliro; naye Mukama nga tali mu muliro: awo oluvannyuma lw'omuliro ddoboozi ttono lya ggonjebwa. 
+13 Awo olwatuuka Eriya bwe yaliwulira, ne yeebikka amaaso ge mu munagiro, n'afuluma n'ayimirira mu mulyango gw'empuku. Kale, laba, ne wamujjira eddoboozi, ne lyogera nti Okola ki wano, Eriya? 
+14 N'ayogera nti Nkwatiddwa obuggya bungi ku lwa Mukama Katonda ow'eggye; kubanga abaana ba Isiraeri balese endagaano yo; basudde ebyoto byo, era basse bannabbi bo n'ekitala; nange, nze nzekka, nze nsigaddewo; n'obulamu bwange babunoonya okubuggyawo. 
+15 Awo Mukama n'amugamba nti Genda oddeyo mu kkubo lyo eri eddungu ery'e Ddamasiko: kale bw'olituuka ofukanga amafuta ku Kazayeeri okuba kabaka w'e Busuuli: 
+16 ne Yeeku mutabani wa Nimusi omufukangako amafuta okuba kabaka wa Isiraeri: ne Erisa mutabani wa Safati ow'e Aberumekola omufukangako amafuta okuba nnabbi mu kifo kyo. 
+17 Awo olulituuka oyo anaawonanga ekitala kya Kazayeeri Yeeku anamuttanga: n'oyo anaawonanga ekitala kya Yeeku Erisa anaamuttanga. 
+18 Era naye ndyesigaliza akasanvu mu Isiraeri amaviivi gonna agatafukaamiriranga Baali na buli kamwa akatamunywegeranga. 
+19 Awo n'avaayo n'asanga Erisa mutabani wa Safati eyali ng'alima ng'alina mu maaso ge emigogo gy'ente kkumi n'ebiri, ye ng'alina ogw'ekkumi n'ebiri: awo Eriya n'asomoka okugenda gy'ali n'amusuulako omunagiro gwe. 
+20 Awo n'aleka ente, n'adduka mbiro okugoberera Eriya, n'ayogera nti Nkwegayiridde, ka mmale okunywegera kitange ne mmange, ndyoke nkugoberere. N'amugamba nti Ddayo; kubanga nkukoze ki? 
+21 N'addayo n'atamugoberera n'addira omugogo gw'ente n'azitta, n'afumba ennyama yaazo n'ebintu eby'ente, n'agabira abantu ne balya. Awo n'agolokoka n'agoberera Eriya n'amuweereza.          
 
 

@@ -1,31 +1,34 @@
- 1 Yakobo ne yeegendera, ne bamalayika ba Katonda ne bamusisinkana.
- 2 Yakobo bwe yabalaba n'ayogera nti Lino lye ggye lya Katonda: n'atuuma ekifo ekyo erinnya lyakyo Makanayimu.
- 3 Yakobo n'atuma ababaka okumukulembera eri Esawu muganda we mu nsi ya Seyiri, ye nnimiro ya Edomu.
- 4 N'abalagira ng'ayogera nti Bwe muti bwe muligamba mukama wange Esawu; nti Bw'ati bw'ayogera omuddu wo Yakobo nti Natuulanga ne Labbaani, ne mbeerayo okutuusa kaakano: 5 era nnina ente n'endogoyi, n'ebisibo, n'abaddu n'abazaana: era ntumye okubuulira mukama wange, ndabe ekisa mu maaso go.
- 6 Ababaka ne bakomawo eri Yakobo nga boogera nti Twatuuka eri muganda wo Esawu, era ajja okukusisinkana, n'abasajja bina wamu naye.
- 7 Yakobo n'alyoka atya nnyo ne yeeraliikirira: n'ayawulamu abantu abaali naye, n'ebisibo, n'ente, n'eŋŋamira, okuba ebibiina bibiri; 8 n'ayogera nti Esawu bw'anaatuukira ku kibiina ekimu n'akikuba, ekibiina ekinaasigalawo kinaawona.
- 9 Yakobo n'ayogera nti Ai Katonda wa jjajja wange Ibulayimu, era Katonda wa kitange Isaaka, ai Mukama, eyaŋŋamba nti Ddayo mu nsi y'ewammwe era eri baganda bo, nange naakukolanga bulungi: 10 sisaanira (newakubadde) akatono mu kusaasira kwonna, n'amazima gonna, bye wagiriranga omuddu wo; kubanga nawunguka Yoludaani guno nga nnina muggo gwokka; ne kaakano nfuuse ebibiina bibiri.
- 11 Nkwegayirira, mponya mu mukono gwa muganda wange, mu mukono gwa Esawu: kubanga mmutya, aleme okujja okunzita, ne bannyaabwe n'abaana baabwe.
- 12 Naawe wayogera nti Siiremenga kukukola bulungi, era naafuulanga ezzadde lyo ng'omusenyu ogw'oku nnyanja, ogutabalika olw'obungi.
- 13 N'asula awo ekiro ekyo: n'atoola ku ebyo bye yali nabyo okuba ekirabo kya Esawu muganda we; 14 embuzi enkazi bibiri n'ennume abiri; endiga enkazi bibiri n'ennume abiri; 15 eŋŋamira eziramulwa asatu n'abaana baazo; ente enkazi ana n'eza seddume kkumi, endogoyi enkazi abiri n'abaana baazo kkumi.
- 16 N'abiwa mu mukono gw'abbadu be, buli kisibo kyokka; n'agamba abaddu be nti Munkulembere musomoke, musseewo ebbanga wakati w'ekisibo n'ekisibo.
- 17 N'alagira eyakulembera ng'ayogera nti Esawu muganda wange bw'anaakusisinkana, n'akubuuza nti Oli w'ani? era ogenda wa? n'ebyo ebiri mu maaso go by'ani? 18 n'olyoka ogamba nti Bya muddu wo Yakobo; kye kirabo ekiweerezebbwa mukama wange Esawu; era, laba, naye ali nnyuma waffe.
- 19 Era n'alagira n'ow'okubiri n'ow'okusatu ne bonna abaagoba ebisibo, ng'ayogera nti Bwe muti bwe munaagamba Esawu, bwe munaamulaba.
- 20 Era munaayogera nti Era, laba, omuddu wo Yakobo ali nnyuma waffe: Kubanga yayogera nti Naamuwooyawooya n'ekirabo ekinankulembera ne ndyoka mmulaba amaaso ge; mpozzi anannyaniriza.
- 21 Awo ekirabo ne kimukulembera ne kisomoka: naye ye yennyini n'asula ekiro ekyo wamu n'ekibiina.
- 22 N'agolokoka ekiro ekyo, n’addira bakazi be bombi, n'abazaana be bombi, n'abaana be ekkumi n'omu, n'asomokera mu musomoko gw'e Yaboki.
- 23 N'abatwala, n'abasomosa omugga, n'asomosa byonna bye yalina.
- 24 Yakobo n'asigalayo yekka; omusajja n'ameggana naye okutuusa emmambya bwe yasala.
- 25 Era bwe yalaba nga tajja kumumegga, n'akoma ku mbalakaso ye; embalakaso ya Yakobo ne yeereega, ng'ameggana naye.
- 26 N'ayogera nti Nta, kubanga emmambya esala.
- N'ayogera nti Sijja kukuta, wabula ng'ompadde omukisa.
- 27 N'amugamba nti Erinnya lyo ggwe ani? N'ayogera nti Yakobo.
- 28 N'ayogera nti Erinnya lyo terikyayitibwanga Yakobo, wabula Isiraeri: kubanga owakanye ne Katonda era n’abantu, era osinze.
- 29 Yakobo n'amubuuza n'ayogera nti Nkwegayiridde, mbuulira erinnya lyo.
- N'ayogera nti Kiki ekikumbuuzisa erinnya lyange? N'amuweera eyo omukisa.
- 30 Yakobo n'atuuma ekifo erinnya lyakyo Penieri: kubanga ndabagaaye ne Katonda mu maaso, n'obulamu bwange buwonye.
- 31 Enjuba n'evaayo n'emwakako ng'awunguka Penueri, n'awenyera olw'ekisambi kye.
- 32 Abaana ba Isiraeri kyebava balema okulya ekinywa ky'ekisambi ekiri ku mbalakaso, okutuusa leero: kubanga yakoma ku mbalakaso ya Yakobo mu kinywa ky'ekisambi.
-          
+ 1 Yakobo ne yeegendera, ne bamalayika ba Katonda ne bamusisinkana. 
+2 Yakobo bwe yabalaba n'ayogera nti Lino lye ggye lya Katonda: n'atuuma ekifo ekyo erinnya lyakyo Makanayimu. 
+3 Yakobo n'atuma ababaka okumukulembera eri Esawu muganda we mu nsi ya Seyiri, ye nnimiro ya Edomu. 
+4 N'abalagira ng'ayogera nti Bwe muti bwe muligamba mukama wange Esawu; nti Bw'ati bw'ayogera omuddu wo Yakobo nti Natuulanga ne Labbaani, ne mbeerayo okutuusa kaakano: 
+5 era nnina ente n'endogoyi, n'ebisibo, n'abaddu n'abazaana: era ntumye okubuulira mukama wange, ndabe ekisa mu maaso go. 
+6 Ababaka ne bakomawo eri Yakobo nga boogera nti Twatuuka eri muganda wo Esawu, era ajja okukusisinkana, n'abasajja bina wamu naye. 
+7 Yakobo n'alyoka atya nnyo ne yeeraliikirira: n'ayawulamu abantu abaali naye, n'ebisibo, n'ente, n'eŋŋamira, okuba ebibiina bibiri; 
+8 n'ayogera nti Esawu bw'anaatuukira ku kibiina ekimu n'akikuba, ekibiina ekinaasigalawo kinaawona. 
+9 Yakobo n'ayogera nti Ai Katonda wa jjajja wange Ibulayimu, era Katonda wa kitange Isaaka, ai Mukama, eyaŋŋamba nti Ddayo mu nsi y'ewammwe era eri baganda bo, nange naakukolanga bulungi: 
+10 sisaanira (newakubadde) akatono mu kusaasira kwonna, n'amazima gonna, bye wagiriranga omuddu wo; kubanga nawunguka Yoludaani guno nga nnina muggo gwokka; ne kaakano nfuuse ebibiina bibiri. 
+11 Nkwegayirira, mponya mu mukono gwa muganda wange, mu mukono gwa Esawu: kubanga mmutya, aleme okujja okunzita, ne bannyaabwe n'abaana baabwe. 
+12 Naawe wayogera nti Siiremenga kukukola bulungi, era naafuulanga ezzadde lyo ng'omusenyu ogw'oku nnyanja, ogutabalika olw'obungi. 
+13 N'asula awo ekiro ekyo: n'atoola ku ebyo bye yali nabyo okuba ekirabo kya Esawu muganda we; 
+14 embuzi enkazi bibiri n'ennume abiri; endiga enkazi bibiri n'ennume abiri; 
+15 eŋŋamira eziramulwa asatu n'abaana baazo; ente enkazi ana n'eza seddume kkumi, endogoyi enkazi abiri n'abaana baazo kkumi. 
+16 N'abiwa mu mukono gw'abbadu be, buli kisibo kyokka; n'agamba abaddu be nti Munkulembere musomoke, musseewo ebbanga wakati w'ekisibo n'ekisibo. 
+17 N'alagira eyakulembera ng'ayogera nti Esawu muganda wange bw'anaakusisinkana, n'akubuuza nti Oli w'ani? era ogenda wa? n'ebyo ebiri mu maaso go by'ani? 
+18 n'olyoka ogamba nti Bya muddu wo Yakobo; kye kirabo ekiweerezebbwa mukama wange Esawu; era, laba, naye ali nnyuma waffe. 
+19 Era n'alagira n'ow'okubiri n'ow'okusatu ne bonna abaagoba ebisibo, ng'ayogera nti Bwe muti bwe munaagamba Esawu, bwe munaamulaba. 
+20 Era munaayogera nti Era, laba, omuddu wo Yakobo ali nnyuma waffe: Kubanga yayogera nti Naamuwooyawooya n'ekirabo ekinankulembera ne ndyoka mmulaba amaaso ge; mpozzi anannyaniriza. 
+21 Awo ekirabo ne kimukulembera ne kisomoka: naye ye yennyini n'asula ekiro ekyo wamu n'ekibiina. 
+22 N'agolokoka ekiro ekyo, n’addira bakazi be bombi, n'abazaana be bombi, n'abaana be ekkumi n'omu, n'asomokera mu musomoko gw'e Yaboki. 
+23 N'abatwala, n'abasomosa omugga, n'asomosa byonna bye yalina. 
+24 Yakobo n'asigalayo yekka; omusajja n'ameggana naye okutuusa emmambya bwe yasala. 
+25 Era bwe yalaba nga tajja kumumegga, n'akoma ku mbalakaso ye; embalakaso ya Yakobo ne yeereega, ng'ameggana naye. 
+26 N'ayogera nti Nta, kubanga emmambya esala. N'ayogera nti Sijja kukuta, wabula ng'ompadde omukisa. 
+27 N'amugamba nti Erinnya lyo ggwe ani? N'ayogera nti Yakobo. 
+28 N'ayogera nti Erinnya lyo terikyayitibwanga Yakobo, wabula Isiraeri: kubanga owakanye ne Katonda era n’abantu, era osinze. 
+29 Yakobo n'amubuuza n'ayogera nti Nkwegayiridde, mbuulira erinnya lyo. N'ayogera nti Kiki ekikumbuuzisa erinnya lyange? N'amuweera eyo omukisa. 
+30 Yakobo n'atuuma ekifo erinnya lyakyo Penieri: kubanga ndabagaaye ne Katonda mu maaso, n'obulamu bwange buwonye. 
+31 Enjuba n'evaayo n'emwakako ng'awunguka Penueri, n'awenyera olw'ekisambi kye. 
+32 Abaana ba Isiraeri kyebava balema okulya ekinywa ky'ekisambi ekiri ku mbalakaso, okutuusa leero: kubanga yakoma ku mbalakaso ya Yakobo mu kinywa ky'ekisambi.          
 
 

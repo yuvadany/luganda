@@ -1,15 +1,26 @@
-1 Awo eggwanga lyonna bwe lyamala okuyitira ddala mu Yoludaani, Mukama n'agamba Yoswa, ng'ayogera nti 2 Mwerondere abasajja kkumi na babiri mu bantu, mu buli kika omu, 3 era mubalagire, nga mwogera nti Mulonde wano wakati mu Yoludaani, mu kifo ebigere bya bakabona mwe byanyweredde, amayinja kkumi n'abiri, mugasomose, mugasse mu kisulo, kye munaasulamu ekiro kino.
- 4 Awo Yoswa n’ayita abasajja kkumi na babiri, be yateekateeka mu baana ba Isiraeri, mu buli kika omu.
- 5 Yoswa n'abagamba nti Mukulembere essanduuko ya Mukama Katonda wammwe wakati mu Yoludaani, musitule buli muntu mu mmwe ejjinja ku kibegabega kye, ng'omuwendo ogw'ebika eby'abaana ba Isiraeri bwe guli: 6 ako kabe akabonero mu mmwe, abaana bammwe bwe banaabuuzanga mu biro ebigenda okujja, nga boogera nti Amayinja gano amakulu gaago ki? 7 mulyoke mubagambe nti Kubanga amazzi ga Yoludaani gaggwaawo mu maaso g'essanduuko ey'endagaano ya Mukama; bwe yayita mu Yoludaani, amazzi ne gaggwaawo: era amayinja gano galibeera ekijjuukizo eri abaana ba Isiraeri emirembe egitaggwaawo.
- 8 Abaana ba Isiraeri ne bakola nga Yoswa bw'abalagidde, ne balonda amayinja kkumi n'abiri wakati mu Yoludaani, nga Mukama bwe yagamba Yoswa, ng'omuwendo ogw'ebika eby'abaana ba Isiraeri bwe guli; ne bagasomosa ne bagatuusa mu kifo mwe baasula, ne bagassaawo.
- 9 Yoswa n'asimba amayinja kkumi n'abiri wakati mu Yoludaani, mu kifo ebigere bya bakabona abaasitula essanduuko ey'endagaano mwe byayimirira: era weegali ne kaakano.
- 10 Kubanga bakabona abaasitula essanduuko baayimirira wakati mu Yoludaani, ne kituukirira buli kigambo Mukama kye yalagira Yoswa okubuulira abantu, nga byonna bwe byali Musa bye yalagira Yoswa: abantu ne banguwa ne bayita.
- 11 Awo, abantu bonna bwe baamala okuyita, essanduuko ya Mukama n'eryoka eyita, ne bakabona mu maaso g'abantu.
- 12 N'abaana ba Lewubeeni; n'abaana ba Gaadi, n'ekitundu eky'ekika kya Manase, ne bakulembera abaana ba Isiraeri ne bayita nga balina ekyokulwanyisa, nga Musa bwe yabagamba: 13 abantu ng'obukumi buna abeeteeseteese okulwana ne bayita mu maaso ga Mukama eri olutalo, mu lusenyi olw'e Yeriko: 14 Ku lunaku olwo Mukama n'akuza Yoswa mu maaso ga Baisiraeri bonna: ne bamutya, nga bwe baatyanga Musa; ennaku zonna ez'obulamu bwe.
- 15 Mukama n'agamba Yoswa ng'ayogera nti 16 Lagira bakabona abasitula essanduuko ey'obujulirwa okulinnya okuva mu Yoludaani: 17 Awo Yoswa n'alagira bakabona ng'ayogera nti Mulinnye muve mu Yoludaani: 18 Awo bakabona abaasitula essanduuko ey'endagaano ya Mukama bwe baamala okulinnya okuva wakati mu Yoludaani, n'ebigere bya bakabona ne birinnyibwa ku lukalu, amazzi ga Yoludaani ne galyoka gadda mu kifo kyago, ne gayanjaala ku ttale lyagwo lyonna, ng'edda.
- 19 Abantu ne balinnya ne bava mu Yoludaani ku lunaku olw'ekkumi mu mwezi ogw'olubereberye ne basula mu Girugaali, mu nsalo ey'ebuvanjuba ey'e Yeriko.
- 20 N'amayinja gali ekkumi n'abiri ge baggya mu Yoludaani, Yoswa n'agasimba mu Girugaali.
- 21 N'agamba abaana ba Isiraeri ng'ayogera nti Abaana bammwe bwe banaabuuzanga bakitaabwe mu biro ebigenda okujja, nga boogera nti Amakulu g'amayinja gano ki? 22 ne mulyoka mutegeezanga abaana bammwe; nga mwogera nti Abaisiraeri baayita mu Yoludaani muno nga lukalu: 23 Kubanga Mukama Katonda wammwe yakaliza amazzi ga Yoludaani mu maaso gammwe, okutuuka bwe mwamala okuyita; nga Mukama Katonda wammwe bwe yakola Ennyanja Emmyufu, gye yakaliza mu maaso gaffe; okutuuka bwe twamala okuyita: 24 amawanga gonna ag'ensi galyoke gamanye omukono gwa Mukama nga gwa maanyi; batyenga Mukama Katonda wammwe emirembe egitaggwaawo.
-          
+1 Awo eggwanga lyonna bwe lyamala okuyitira ddala mu Yoludaani, Mukama n'agamba Yoswa, ng'ayogera nti 
+2 Mwerondere abasajja kkumi na babiri mu bantu, mu buli kika omu, 
+3 era mubalagire, nga mwogera nti Mulonde wano wakati mu Yoludaani, mu kifo ebigere bya bakabona mwe byanyweredde, amayinja kkumi n'abiri, mugasomose, mugasse mu kisulo, kye munaasulamu ekiro kino. 
+4 Awo Yoswa n’ayita abasajja kkumi na babiri, be yateekateeka mu baana ba Isiraeri, mu buli kika omu. 
+5 Yoswa n'abagamba nti Mukulembere essanduuko ya Mukama Katonda wammwe wakati mu Yoludaani, musitule buli muntu mu mmwe ejjinja ku kibegabega kye, ng'omuwendo ogw'ebika eby'abaana ba Isiraeri bwe guli: 
+6 ako kabe akabonero mu mmwe, abaana bammwe bwe banaabuuzanga mu biro ebigenda okujja, nga boogera nti Amayinja gano amakulu gaago ki? 
+7 mulyoke mubagambe nti Kubanga amazzi ga Yoludaani gaggwaawo mu maaso g'essanduuko ey'endagaano ya Mukama; bwe yayita mu Yoludaani, amazzi ne gaggwaawo: era amayinja gano galibeera ekijjuukizo eri abaana ba Isiraeri emirembe egitaggwaawo. 
+8 Abaana ba Isiraeri ne bakola nga Yoswa bw'abalagidde, ne balonda amayinja kkumi n'abiri wakati mu Yoludaani, nga Mukama bwe yagamba Yoswa, ng'omuwendo ogw'ebika eby'abaana ba Isiraeri bwe guli; ne bagasomosa ne bagatuusa mu kifo mwe baasula, ne bagassaawo. 
+9 Yoswa n'asimba amayinja kkumi n'abiri wakati mu Yoludaani, mu kifo ebigere bya bakabona abaasitula essanduuko ey'endagaano mwe byayimirira: era weegali ne kaakano. 
+10 Kubanga bakabona abaasitula essanduuko baayimirira wakati mu Yoludaani, ne kituukirira buli kigambo Mukama kye yalagira Yoswa okubuulira abantu, nga byonna bwe byali Musa bye yalagira Yoswa: abantu ne banguwa ne bayita. 
+11 Awo, abantu bonna bwe baamala okuyita, essanduuko ya Mukama n'eryoka eyita, ne bakabona mu maaso g'abantu. 
+12 N'abaana ba Lewubeeni; n'abaana ba Gaadi, n'ekitundu eky'ekika kya Manase, ne bakulembera abaana ba Isiraeri ne bayita nga balina ekyokulwanyisa, nga Musa bwe yabagamba: 
+13 abantu ng'obukumi buna abeeteeseteese okulwana ne bayita mu maaso ga Mukama eri olutalo, mu lusenyi olw'e Yeriko: 
+14 Ku lunaku olwo Mukama n'akuza Yoswa mu maaso ga Baisiraeri bonna: ne bamutya, nga bwe baatyanga Musa; ennaku zonna ez'obulamu bwe. 
+15 Mukama n'agamba Yoswa ng'ayogera nti 
+16 Lagira bakabona abasitula essanduuko ey'obujulirwa okulinnya okuva mu Yoludaani: 
+17 Awo Yoswa n'alagira bakabona ng'ayogera nti Mulinnye muve mu Yoludaani: 
+18 Awo bakabona abaasitula essanduuko ey'endagaano ya Mukama bwe baamala okulinnya okuva wakati mu Yoludaani, n'ebigere bya bakabona ne birinnyibwa ku lukalu, amazzi ga Yoludaani ne galyoka gadda mu kifo kyago, ne gayanjaala ku ttale lyagwo lyonna, ng'edda. 
+19 Abantu ne balinnya ne bava mu Yoludaani ku lunaku olw'ekkumi mu mwezi ogw'olubereberye ne basula mu Girugaali, mu nsalo ey'ebuvanjuba ey'e Yeriko. 
+20 N'amayinja gali ekkumi n'abiri ge baggya mu Yoludaani, Yoswa n'agasimba mu Girugaali. 
+21 N'agamba abaana ba Isiraeri ng'ayogera nti Abaana bammwe bwe banaabuuzanga bakitaabwe mu biro ebigenda okujja, nga boogera nti Amakulu g'amayinja gano ki? 
+22 ne mulyoka mutegeezanga abaana bammwe; nga mwogera nti Abaisiraeri baayita mu Yoludaani muno nga lukalu: 
+23 Kubanga Mukama Katonda wammwe yakaliza amazzi ga Yoludaani mu maaso gammwe, okutuuka bwe mwamala okuyita; nga Mukama Katonda wammwe bwe yakola Ennyanja Emmyufu, gye yakaliza mu maaso gaffe; okutuuka bwe twamala okuyita: 
+24 amawanga gonna ag'ensi galyoke gamanye omukono gwa Mukama nga gwa maanyi; batyenga Mukama Katonda wammwe emirembe egitaggwaawo.          
 
 

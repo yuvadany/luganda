@@ -1,31 +1,33 @@
- 1 Naye kaakano be nsinga obukulu bansekerera, Bakitaabwe nabanyooma okubateeka wamu n'embwa ez'ekisibo kyange.
- 2 Weewaawo, amaanyi ag'emikono gyabwe gandingasizza ki? Abantu abaweddemu obuvubuka, 3 Bakoozimbye olw'okwetaaga n'enjala; Bameketa ettaka ekkalu mu kizikiza eky'okuzika n'okwonooneka.
- 4 Banoga enkunga awali ebisaka; N'enkolo ez'omwoloola ye mmere yaabwe.
- 5 Bagobebwa wakati mu bantu; Babalangira nga bwe balangira omubbi.
- 6 Kibagwanira okubeera mu njatika ez'omu biwonvu, Mu bunnya obw'omu ttaka n'obw'omu njazi.
- 7 Balirira mu bisaka, Wansi w'emyennyango we bakuŋŋaanira.
- 8 Baana ba basirusiru, weewaawo, baana ba basajja abatalina linnya; Baakubibwa emiggo ne bagobebwa mu nsi.
- 9 Kale kaakano nze nfuuse oluyimba lwabwe, Weewaawo, ndi kigambo kya buwemu gye bali.
- 10 Bantamwa, banneesamba, Tebaleka kumpandira malusu mu maaso.
- 11 Kubanga asumuludde omugwa gwe n'ambonyaabonya, Era basudde olukoba olugoba mu maaso gange.
- 12 Ku mukono gwange ogwa ddyo kugolokokera abalalulalu; Basindiikiriza ebigere byange, Era batuuma ku nze amakubo gaabwe ag'okuzikirira.
- 13 Boonoona ekkubo lyange, Bongera ku nnaku ze ndabye, Abantu ababulwa ow'okubayamba.
- 14 Bajja nga bayita mu kituli ekiwagule ekigazi: Wakati mu matongo bangwako.
- 15 Ebitiisa bikyuse okungwako, Bayigganya ekitiibwa kyange ng'empewo; N'omukisa gwange guweddewo ng'ekire.
- 16 Era kaakano emmeeme yange efukiddwa munda yange; Ennaku ez'okubonyaabonyezebwamu zinkutte.
- 17 Ekiro amagumba gange gafumitibwa mu nze, N'obubalagaze obunnuma tebuwummula.
- 18 Olw'amaanyi amangi ag'endwadde yange ekyambalo kyange kyonoonese: Ensibira ddala ng'ekitogi ky'ekizibawo kyange.
- 19 Ansudde mu bitosi, Era nfuuse ng'enfuufu n'evvu.
- 20 Nkukaabira so tonziramu: Nayimirira, n'ontunuulira.
- 21 Okyuse okuba omukambwe gye ndi: Olw'amaanyi ag'omukono gwo onjigganya.
- 22 Onsitulira awali empewo n'ozinneebagazaako; Era onsaanuusizza mu kibuyaga, 23 Kubanga mmanyi ng'olintuusa mu kufa, N'eri ennyumba eyateekerwawo abalamu bonna.
- 24 Mazima taagololere mukono gwe ku kifuavu ky'ebyagwa; Newakubadde nga bibeera mu kuzikirira kwe, omuntu ayinza okulira olw'ebyo.
- 25 Saamukaabira amaziga oyo eyali mu nnaku? Emmeeme yange teyanakuwalira oyo eyeetaaga? 26 Bwe nnasuubira ebirungi, ebibi ne biryoka bijja; Era bwe nnalindirira omusana, ekizikiza ne kijja.
- 27 Ebyenda byange byesera ne bitawummula: Ennaku ez'okubonyaabonyezebwamu zintuuseeko.
- 28 Ntambula nga mpuubaala awatali njuba: Nnyimirira mu kkuŋŋaaniro ne nkuba enduulu bannyambe.
- 29 Ndi muganda w'ebibe, Ne bamaaya ndi munnaabwe.
- 30 Eddiba ery'omubiri gwange liddugadde, linsasambukako, N'amagumba gange gookeddwa n'ebbugumu.
- 31 Ennanga yange kyevudde ekyuka okuwuubaala, N'omulere gwange gufuuse ddoboozi ly'abo abakaaba amaziga.
-          
+ 1 Naye kaakano be nsinga obukulu bansekerera, Bakitaabwe nabanyooma okubateeka wamu n'embwa ez'ekisibo kyange. 
+2 Weewaawo, amaanyi ag'emikono gyabwe gandingasizza ki? Abantu abaweddemu obuvubuka, 
+3 Bakoozimbye olw'okwetaaga n'enjala; Bameketa ettaka ekkalu mu kizikiza eky'okuzika n'okwonooneka. 
+4 Banoga enkunga awali ebisaka; N'enkolo ez'omwoloola ye mmere yaabwe. 
+5 Bagobebwa wakati mu bantu; Babalangira nga bwe balangira omubbi. 
+6 Kibagwanira okubeera mu njatika ez'omu biwonvu, Mu bunnya obw'omu ttaka n'obw'omu njazi. 
+7 Balirira mu bisaka, Wansi w'emyennyango we bakuŋŋaanira. 
+8 Baana ba basirusiru, weewaawo, baana ba basajja abatalina linnya; Baakubibwa emiggo ne bagobebwa mu nsi. 
+9 Kale kaakano nze nfuuse oluyimba lwabwe, Weewaawo, ndi kigambo kya buwemu gye bali. 
+10 Bantamwa, banneesamba, Tebaleka kumpandira malusu mu maaso. 
+11 Kubanga asumuludde omugwa gwe n'ambonyaabonya, Era basudde olukoba olugoba mu maaso gange. 
+12 Ku mukono gwange ogwa ddyo kugolokokera abalalulalu; Basindiikiriza ebigere byange, Era batuuma ku nze amakubo gaabwe ag'okuzikirira. 
+13 Boonoona ekkubo lyange, Bongera ku nnaku ze ndabye, Abantu ababulwa ow'okubayamba. 
+14 Bajja nga bayita mu kituli ekiwagule ekigazi: Wakati mu matongo bangwako. 
+15 Ebitiisa bikyuse okungwako, Bayigganya ekitiibwa kyange ng'empewo; N'omukisa gwange guweddewo ng'ekire. 
+16 Era kaakano emmeeme yange efukiddwa munda yange; Ennaku ez'okubonyaabonyezebwamu zinkutte. 
+17 Ekiro amagumba gange gafumitibwa mu nze, N'obubalagaze obunnuma tebuwummula. 
+18 Olw'amaanyi amangi ag'endwadde yange ekyambalo kyange kyonoonese: Ensibira ddala ng'ekitogi ky'ekizibawo kyange. 
+19 Ansudde mu bitosi, Era nfuuse ng'enfuufu n'evvu. 
+20 Nkukaabira so tonziramu: Nayimirira, n'ontunuulira. 
+21 Okyuse okuba omukambwe gye ndi: Olw'amaanyi ag'omukono gwo onjigganya. 
+22 Onsitulira awali empewo n'ozinneebagazaako; Era onsaanuusizza mu kibuyaga, 
+23 Kubanga mmanyi ng'olintuusa mu kufa, N'eri ennyumba eyateekerwawo abalamu bonna. 
+24 Mazima taagololere mukono gwe ku kifuavu ky'ebyagwa; Newakubadde nga bibeera mu kuzikirira kwe, omuntu ayinza okulira olw'ebyo. 
+25 Saamukaabira amaziga oyo eyali mu nnaku? Emmeeme yange teyanakuwalira oyo eyeetaaga? 
+26 Bwe nnasuubira ebirungi, ebibi ne biryoka bijja; Era bwe nnalindirira omusana, ekizikiza ne kijja. 
+27 Ebyenda byange byesera ne bitawummula: Ennaku ez'okubonyaabonyezebwamu zintuuseeko. 
+28 Ntambula nga mpuubaala awatali njuba: Nnyimirira mu kkuŋŋaaniro ne nkuba enduulu bannyambe. 
+29 Ndi muganda w'ebibe, Ne bamaaya ndi munnaabwe. 
+30 Eddiba ery'omubiri gwange liddugadde, linsasambukako, N'amagumba gange gookeddwa n'ebbugumu. 
+31 Ennanga yange kyevudde ekyuka okuwuubaala, N'omulere gwange gufuuse ddoboozi ly'abo abakaaba amaziga.          
 
 

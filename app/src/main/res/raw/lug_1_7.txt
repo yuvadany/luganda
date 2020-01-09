@@ -1,23 +1,26 @@
-1 Mukama n'agamba Nuuwa nti Yingira ggwe n'ennyumba yo yonna mu lyato, kubanga nkulabye ng'oli mutuukirivu mu maaso gange mu mirembe gino.
- 2 Mu buli nsolo ennongoofu twala musanvu musanvu ensajja n'enkazi yaayo; era ne mu nsolo ezitali nnongoofu bbiri, ensajja n'enkazi yaayo; 3 era ne mu bibuuka waggulu, musanvu musanvu, ekisajja n'ekikazi: ezzadde liryoke libe eddamu ku nsi yonna.
- 4 Kubanga oluvannyuma lw'ennaku omusanvu nze nditonnyesa enkuba ku nsi ennaku amakumi ana emisana n'ekiro; nange ndisangula buli kintu ekiramu kye nnakola okuva mu ttaka.
- 5 Nuuwa byonna n'abikola nga Katonda bwe yamulagira.
- 6 Naye Nuuwa yali nga yaakamala emyaka lukaaga, amataba ag'amazzi bwe gaabeera ku nsi.
- 7 Nuuwa n'ayingira n’abaana be: awamu naye mu lyato olw’amazzi g'amataba.
- 8 Mu nsolo ennongoofu, ne mu nsolo ezitali nnongoofu, ne mu bibuuka, ne mu buli ekyewalula ku nsi, 9 bibiri bibiri ne biyingira eri Nuuwa mu lyato, ekisajja n'ekikazi nga Katonda bwe yalagira Nuuwa.
- 10 Awo olwatuuka oluvannyuma lw'ennaku omusanvu ziri, amazzi ag'amataba ne gaba ku nsi.
- 11 Mu mwaka ogw'olukaaga og'wobulamu bwa Nuuwa, mu mwezi ogw'okubiri, ku lunaku olw'ekkumi n'omusanvu olw'omwezi, ku lunaku olwo ne zizibukuka ensulo zonna, ez'omu nnyanja ennene, n'ebituli eby'omu ggulu ne bigguka.
- 12 Enkuba n'etonnyera ku nsi ennaku amakumi ana emisana n'ekiro.
- 13 Ku lunaku olwo Nuuwa n'ayingira ne Seemu ne Kaamu ne Yafeesi, abaana ba Nuuwa, ne mukazi wa Nuuwa n’abakazi abasatu ab'abaana be awamu nabo, mu lyato; 14 Abo na buli nsolo mu ngeri yaayo, n'ente zonna mu ngeri yaazo, na buli ekyewalula ku nsi mu ngeri yaakyo, na buli ekibuuka mu ngeri yaakyo, buli nnyonyi eya buli kiwaawaatiro.
- 15 Ne biyingira eri Nuuwa mu lyato bibiri bibiri mu buli nnyama yonna erimu omukka ogw'obulamu.
- 16 Ebyayingira ne biyingira ekisajja n'ekikazi mu buli nnyama, nga Katonda bwe yamulagira: Mukama n'amuggalira munda.
- 17 Amataba ne gabeera ku nsi, ennaku amakumi ana; amazzi ne geeyongera ne gasitula eryato; ne liwanikibwa waggulu w’ensi.
- 18 Amazzi ne gafuga, ne geeyongera nnyo ku nsi; eryato ne liseeyeeya kungulu ku mazzi.
- 19 Amazzi ne gayinza nnyo ku nsi; ensozi zonna empanvu ne zisaanikirwa ezaali wansi w'eggulu lyonna.
- 20 Emikono kkumi n'etaano okugenda waggulu amazzi bwe gaayinza; ensozi ne zisaanikirwa.
- 21 Buli nnyama etambula ku nsi n'efa, ekibuuka, n'ente, n'ensolo na buli ekyewalula ku nsi, na buli muntu yenna: 22 byonna ebyalimu omukka ogw'omwoyo ogw'obulamu mu nnyindo zaabyo, mu byonna ebyali mu lukalu ne bifa.
- 23 N'asangula buli kintu kiramu ekyali kungulu ku ttaka, omuntu, n'ente, n'ekyewalula, n'ekibuuka waggulu; ne bisangulibwa ku nsi: Nuuwa n'asigalawo yekka, n'abo abaali awamu naye mu lyato.
- 24 Amazzi ne gayinza ku nsi ennaku kikumi mu ataano.
-          
+1 Mukama n'agamba Nuuwa nti Yingira ggwe n'ennyumba yo yonna mu lyato, kubanga nkulabye ng'oli mutuukirivu mu maaso gange mu mirembe gino. 
+2 Mu buli nsolo ennongoofu twala musanvu musanvu ensajja n'enkazi yaayo; era ne mu nsolo ezitali nnongoofu bbiri, ensajja n'enkazi yaayo; 
+3 era ne mu bibuuka waggulu, musanvu musanvu, ekisajja n'ekikazi: ezzadde liryoke libe eddamu ku nsi yonna. 
+4 Kubanga oluvannyuma lw'ennaku omusanvu nze nditonnyesa enkuba ku nsi ennaku amakumi ana emisana n'ekiro; nange ndisangula buli kintu ekiramu kye nnakola okuva mu ttaka. 
+5 Nuuwa byonna n'abikola nga Katonda bwe yamulagira. 
+6 Naye Nuuwa yali nga yaakamala emyaka lukaaga, amataba ag'amazzi bwe gaabeera ku nsi. 
+7 Nuuwa n'ayingira n’abaana be: awamu naye mu lyato olw’amazzi g'amataba. 
+8 Mu nsolo ennongoofu, ne mu nsolo ezitali nnongoofu, ne mu bibuuka, ne mu buli ekyewalula ku nsi, 
+9 bibiri bibiri ne biyingira eri Nuuwa mu lyato, ekisajja n'ekikazi nga Katonda bwe yalagira Nuuwa. 
+10 Awo olwatuuka oluvannyuma lw'ennaku omusanvu ziri, amazzi ag'amataba ne gaba ku nsi. 
+11 Mu mwaka ogw'olukaaga og'wobulamu bwa Nuuwa, mu mwezi ogw'okubiri, ku lunaku olw'ekkumi n'omusanvu olw'omwezi, ku lunaku olwo ne zizibukuka ensulo zonna, ez'omu nnyanja ennene, n'ebituli eby'omu ggulu ne bigguka. 
+12 Enkuba n'etonnyera ku nsi ennaku amakumi ana emisana n'ekiro. 
+13 Ku lunaku olwo Nuuwa n'ayingira ne Seemu ne Kaamu ne Yafeesi, abaana ba Nuuwa, ne mukazi wa Nuuwa n’abakazi abasatu ab'abaana be awamu nabo, mu lyato; 
+14 Abo na buli nsolo mu ngeri yaayo, n'ente zonna mu ngeri yaazo, na buli ekyewalula ku nsi mu ngeri yaakyo, na buli ekibuuka mu ngeri yaakyo, buli nnyonyi eya buli kiwaawaatiro. 
+15 Ne biyingira eri Nuuwa mu lyato bibiri bibiri mu buli nnyama yonna erimu omukka ogw'obulamu. 
+16 Ebyayingira ne biyingira ekisajja n'ekikazi mu buli nnyama, nga Katonda bwe yamulagira: Mukama n'amuggalira munda. 
+17 Amataba ne gabeera ku nsi, ennaku amakumi ana; amazzi ne geeyongera ne gasitula eryato; ne liwanikibwa waggulu w’ensi. 
+18 Amazzi ne gafuga, ne geeyongera nnyo ku nsi; eryato ne liseeyeeya kungulu ku mazzi. 
+19 Amazzi ne gayinza nnyo ku nsi; ensozi zonna empanvu ne zisaanikirwa ezaali wansi w'eggulu lyonna. 
+20 Emikono kkumi n'etaano okugenda waggulu amazzi bwe gaayinza; ensozi ne zisaanikirwa. 
+21 Buli nnyama etambula ku nsi n'efa, ekibuuka, n'ente, n'ensolo na buli ekyewalula ku nsi, na buli muntu yenna: 
+22 byonna ebyalimu omukka ogw'omwoyo ogw'obulamu mu nnyindo zaabyo, mu byonna ebyali mu lukalu ne bifa. 
+23 N'asangula buli kintu kiramu ekyali kungulu ku ttaka, omuntu, n'ente, n'ekyewalula, n'ekibuuka waggulu; ne bisangulibwa ku nsi: Nuuwa n'asigalawo yekka, n'abo abaali awamu naye mu lyato. 
+24 Amazzi ne gayinza ku nsi ennaku kikumi mu ataano.          
 
 
