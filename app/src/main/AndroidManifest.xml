@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="bible.englishbible.lugandabible">
+    package="bibles.englishbible.lugandabible">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -10,17 +10,17 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".NotesActivity"  android:label="All Notes"></activity>
-        <activity android:name=".NotesViewActivity"  android:label="Notes" />
-        <activity android:name=".EditNotesActivity" android:label="Update Notes" />
-        <activity android:name=".AddNotesActivity" android:label="Add Notes"/>
+        <activity android:name="bibles.englishbible.lugandabible.NotesActivity"  android:label="All Notes"></activity>
+        <activity android:name="bibles.englishbible.lugandabible.NotesViewActivity"  android:label="Notes" />
+        <activity android:name="bibles.englishbible.lugandabible.EditNotesActivity" android:label="Update Notes" />
+        <activity android:name="bibles.englishbible.lugandabible.AddNotesActivity" android:label="Add Notes"/>
         <activity
-            android:name=".AudioActivity"
+            android:name="bibles.englishbible.lugandabible.AudioActivity"
             android:label="@string/audio_activity" />
-        <activity android:name=".SettingsActivity" />
-        <activity android:name=".BookmarkActivity" />
+        <activity android:name="bibles.englishbible.lugandabible.SettingsActivity" />
+        <activity android:name="bibles.englishbible.lugandabible.BookmarkActivity" />
         <activity
-            android:name=".MainActivity"
+            android:name="bibles.englishbible.lugandabible.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -29,9 +29,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".PraisesActivity" />
-        <activity android:name=".LyricsActivity" />
-        <activity android:name=".SongsActivity" />
+        <activity android:name="bibles.englishbible.lugandabible.PraisesActivity" />
+        <activity android:name="bibles.englishbible.lugandabible.LyricsActivity" />
+        <activity android:name="bibles.englishbible.lugandabible.SongsActivity" />
     </application>
 
 </manifest>
